@@ -22693,8 +22693,8 @@
     ],
     "Dragonest Game",
     1559850880,
-    1604970135,
-    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/image-1200x1600-f8f408a17072b8677b0e204dfcc891f9.png",
+    1608413835,
+    "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/autochess_port-1200x1600-7eded2623630c34c7cd4361bc9ac7813.jpeg",
     "auto-chess/home"
   ],
   [
@@ -22798,6 +22798,22 @@
     1601584510,
     "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_Malice-1200x1600-db6cafa278554546bc38a3134858ae49.png",
     "path-of-exile/malice-pack"
+  ],
+  [
+    "7a365a8479704d9aa86e8c036237257f",
+    "d5241c76f178492ea1540fce45616757",
+    "Mystery Game",
+    [
+      "freegames/vaulted",
+      "freegames",
+      "games",
+      "applications"
+    ],
+    "Epic Dev Test Account",
+    1607977541,
+    1608147447,
+    "",
+    "[]"
   ],
   [
     "7a3852756e544dc0baf82ac1dfdbde17",
@@ -26563,14 +26579,12 @@
     "d5241c76f178492ea1540fce45616757",
     "Oddworld: New 'n' Tasty",
     [
-      "freegames/vaulted",
-      "freegames",
       "games",
       "applications"
     ],
     "Epic Dev Test Account",
     1607977337,
-    1608303800,
+    1608393604,
     "",
     "oddworld-new-n-tasty"
   ],
@@ -45266,6 +45280,22 @@
     1588120702,
     "",
     "figment/home"
+  ],
+  [
+    "f24e1ebf9a054781abc85bc82a2dcbba",
+    "58dfcd1952ee48c1a1fa31c6ace5fe3d",
+    "The Long Dark",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Hinterland Studio",
+    1589318225,
+    1608390615,
+    "https://cdn1.epicgames.com/58dfcd1952ee48c1a1fa31c6ace5fe3d/offer/EGS_TheLongDark_HinterlandStudioInc_S6-1200x1600-3debfeb01e511b9e1221f973b6bb1fe7.jpg",
+    "the-long-dark"
   ],
   [
     "f2546a46804147bfb6ab74937caf9295",
