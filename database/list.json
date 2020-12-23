@@ -10173,7 +10173,7 @@
   [
     "363691fd1d764790b7a8a1348bdb6c2f",
     "d5241c76f178492ea1540fce45616757",
-    "Mystery Game",
+    "Tropico 5",
     [
       "freegames/vaulted",
       "freegames",
@@ -10182,9 +10182,9 @@
     ],
     "Epic Dev Test Account",
     1607977955,
-    1608147466,
+    1608736194,
     "",
-    "[]"
+    "tropico-5/home"
   ],
   [
     "364197b6ea3c457c99e9105799452a1d",
@@ -29099,6 +29099,22 @@
     1589468400,
     "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg",
     "totally-reliable-delivery-service/home"
+  ],
+  [
+    "9ab78d8a6fe84c3f82b31215390f3c51",
+    "moose",
+    "Super Meat Boy Forever",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Team Meat",
+    1607629160,
+    1608699567,
+    "https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S2-1200x1600-587fb2964079e7467c7320a2de3adac8.jpg",
+    "super-meat-boy-forever"
   ],
   [
     "9ac2b841932448aeb5fc370907c8c0b3",

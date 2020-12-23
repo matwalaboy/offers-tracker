@@ -1,14 +1,14 @@
 {
   "id": "363691fd1d764790b7a8a1348bdb6c2f",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Mystery Game",
-  "description": "Mystery Game (December 23)",
+  "title": "Tropico 5",
+  "description": "Tropico 5",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "tropico-5/home",
   "urlSlug": "december23mysterygame",
   "creationDate": "2020-12-14T20:32:35.036Z",
-  "lastModifiedDate": "2020-12-16T19:37:46.704Z",
+  "lastModifiedDate": "2020-12-23T15:09:54.415Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-12-22T15:25:00.000Z",
   "developer": null,
@@ -53,15 +53,19 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Kalypso Media Group GmbH"
     },
     {
       "key": "com.epicgames.app.freegames.vault.open",
       "value": "[]"
     },
     {
+      "key": "developerName",
+      "value": "Haemimont Games"
+    },
+    {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "tropico-5/home"
     }
   ],
   "keyImages": [
@@ -71,6 +75,15 @@
       "md5": "5dcf94121324de49cd1ceb04f259f5bf",
       "size": 2426854,
       "uploadedDate": "2020-12-16T19:19:23.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_Tropico_1920x1080_Teaser-R-1920x1080-3452c00d4b7dadac3eb0d3bf37ddd9fd.jpg",
+      "md5": "3452c00d4b7dadac3eb0d3bf37ddd9fd",
+      "size": 1506034,
+      "uploadedDate": "2020-12-16T19:32:43.807Z",
       "width": 1920,
       "height": 1080
     }
