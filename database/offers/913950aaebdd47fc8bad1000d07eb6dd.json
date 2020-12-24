@@ -1,14 +1,14 @@
 {
   "id": "913950aaebdd47fc8bad1000d07eb6dd",
   "namespace": "d5241c76f178492ea1540fce45616757",
-  "title": "Mystery Game",
-  "description": "Mystery Game (December 24)",
+  "title": "Inside",
+  "description": "Inside",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "inside/home",
   "urlSlug": "december24mysterygame",
   "creationDate": "2020-12-14T20:32:49.186Z",
-  "lastModifiedDate": "2020-12-16T19:37:50.794Z",
+  "lastModifiedDate": "2020-12-24T15:13:06.063Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-12-23T15:25:00.000Z",
   "developer": null,
@@ -53,7 +53,7 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Playdead"
     },
     {
       "key": "com.epicgames.app.freegames.vault.open",
@@ -61,7 +61,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "inside/home"
     }
   ],
   "keyImages": [
@@ -71,6 +71,15 @@
       "md5": "66c90678ceea50e7dcdf2b3ae8fc1b7e",
       "size": 2381034,
       "uploadedDate": "2020-12-16T19:19:57.718Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EGS_HolidaySale2020_DoG_Inside_1920x1080_Teaser-R-1920x1080-ba1cf06bfce84349a7b3761f183a86f4.jpg",
+      "md5": "ba1cf06bfce84349a7b3761f183a86f4",
+      "size": 1019653,
+      "uploadedDate": "2020-12-16T19:40:30.381Z",
       "width": 1920,
       "height": 1080
     }
