@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-12-15T01:44:09.654Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -70,7 +81,7 @@
       "aliases": [],
       "operator": null,
       "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2020-12-17T16:00:03.195Z",
+      "updated": "2021-01-07T16:00:15.373Z",
       "status": "ACTIVE",
       "referenceCount": 584,
       "comment": ""
