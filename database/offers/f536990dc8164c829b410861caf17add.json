@@ -8,7 +8,7 @@
   "productSlug": "hitman",
   "urlSlug": "hitman-goty",
   "creationDate": "2019-07-26T15:20:44.733Z",
-  "lastModifiedDate": "2020-09-03T14:31:09.328Z",
+  "lastModifiedDate": "2021-01-08T22:37:53.268Z",
   "effectiveDate": "2020-09-03T14:58:00.000Z",
   "viewableDate": "2020-09-03T14:58:00.000Z",
   "developer": null,
@@ -50,18 +50,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2020-12-15T02:17:02.957Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
-      "comment": null
-    },
+    null,
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -98,18 +87,7 @@
       "referenceCount": 584,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1084",
       "name": "STEALTH",
@@ -206,6 +184,9 @@
     }
   ],
   "items": [
+    {
+      "id": "e698e1a4b63947b0bc9349a5ae2dc015"
+    },
     {
       "id": "81aecb49a60b47478e61e1cbd68d63c5"
     },
