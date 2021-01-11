@@ -38,33 +38,21 @@
     null,
     null,
     null,
+    null,
+    null,
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-12-15T01:43:50.926Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-12-15T01:43:02.751Z",
       "status": "ACTIVE",
-      "referenceCount": 195,
+      "referenceCount": 259,
       "comment": null
     },
-    null,
-    null,
-    null,
-    {
-      "id": "1166",
-      "name": "4X",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:41.019Z",
-      "updated": "2020-08-11T17:30:09.076Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
