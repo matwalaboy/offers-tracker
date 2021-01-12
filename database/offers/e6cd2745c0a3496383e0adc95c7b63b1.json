@@ -39,7 +39,18 @@
   ],
   "tags": [
     null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-12-15T01:43:50.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
     null,
     {
@@ -54,17 +65,16 @@
       "referenceCount": 32,
       "comment": null
     },
-    null,
     {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
+      "id": "1084",
+      "name": "STEALTH",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-12-15T01:43:59.524Z",
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-12-15T01:49:37.867Z",
       "status": "ACTIVE",
-      "referenceCount": 103,
+      "referenceCount": 9,
       "comment": null
     }
   ],
