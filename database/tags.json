@@ -234,7 +234,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:36.154Z",
-    "updated": "2020-09-07T12:44:17.473Z",
+    "updated": "2020-09-03T13:38:25.606Z",
     "status": "ACTIVE",
     "referenceCount": 2,
     "comment": null
@@ -249,18 +249,6 @@
     "updated": "2020-07-29T19:47:49.823Z",
     "status": "ACTIVE",
     "referenceCount": 2,
-    "comment": null
-  },
-  "1160": {
-    "id": "1160",
-    "name": "SKATEBOARDING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:38.103Z",
-    "updated": "2020-09-04T01:18:13.226Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1166": {
@@ -573,18 +561,6 @@
     "updated": "2020-09-09T11:26:33.532Z",
     "status": "ACTIVE",
     "referenceCount": 1,
-    "comment": null
-  },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-08-28T11:58:21.202Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1294": {
