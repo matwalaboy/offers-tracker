@@ -62,30 +62,8 @@
       "referenceCount": 584,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-12-15T01:43:02.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1341",
-      "name": "SUPERNATURAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:07.859Z",
-      "updated": "2020-09-09T23:59:30.522Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
