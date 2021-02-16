@@ -71,6 +71,18 @@
     "referenceCount": 1,
     "comment": null
   },
+  "1102": {
+    "id": "1102",
+    "name": "Programming",
+    "namespace": "epic",
+    "aliases": [],
+    "operator": null,
+    "created": "2019-06-20T11:59:09.264Z",
+    "updated": "2021-02-05T16:13:08.102Z",
+    "status": "ACTIVE",
+    "referenceCount": 3,
+    "comment": null
+  },
   "1110": {
     "id": "1110",
     "name": "Party",
@@ -133,12 +145,12 @@
   },
   "1127": {
     "id": "1127",
-    "name": "INVESTIGATION",
+    "name": "Investigation",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
     "created": "2019-06-20T11:59:21.604Z",
-    "updated": "2020-09-15T15:53:57.309Z",
+    "updated": "2021-02-05T16:14:26.407Z",
     "status": "ACTIVE",
     "referenceCount": 4,
     "comment": null
@@ -239,18 +251,6 @@
     "referenceCount": 2,
     "comment": null
   },
-  "1160": {
-    "id": "1160",
-    "name": "SKATEBOARDING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:38.103Z",
-    "updated": "2020-09-04T01:18:13.226Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1166": {
     "id": "1166",
     "name": "4X",
@@ -261,18 +261,6 @@
     "updated": "2020-08-11T17:30:09.076Z",
     "status": "ACTIVE",
     "referenceCount": 1,
-    "comment": null
-  },
-  "1171": {
-    "id": "1171",
-    "name": "HACK AND SLASH",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:43.507Z",
-    "updated": "2019-06-20T11:59:43.507Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1179": {
@@ -289,14 +277,26 @@
   },
   "1181": {
     "id": "1181",
-    "name": "CARD GAME",
+    "name": "Card Game",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
     "created": "2019-06-20T11:59:48.401Z",
-    "updated": "2020-08-27T12:00:04.032Z",
+    "updated": "2021-02-05T16:15:32.594Z",
     "status": "ACTIVE",
     "referenceCount": 5,
+    "comment": null
+  },
+  "1183": {
+    "id": "1183",
+    "name": "Local Multiplayer",
+    "namespace": "epic",
+    "aliases": [],
+    "operator": null,
+    "created": "2019-06-20T11:59:49.408Z",
+    "updated": "2021-02-05T16:09:21.196Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
     "comment": null
   },
   "1185": {
@@ -635,28 +635,16 @@
     "referenceCount": 0,
     "comment": null
   },
-  "1317": {
-    "id": "1317",
-    "name": "MMORPG",
+  "1318": {
+    "id": "1318",
+    "name": "Trivia",
     "namespace": "epic",
-    "aliases": null,
+    "aliases": [],
     "operator": null,
-    "created": "2019-06-20T12:00:56.092Z",
-    "updated": "2019-06-20T12:00:56.092Z",
+    "created": "2019-06-20T12:00:56.576Z",
+    "updated": "2021-02-05T16:17:48.213Z",
     "status": "ACTIVE",
-    "referenceCount": null,
-    "comment": null
-  },
-  "1321": {
-    "id": "1321",
-    "name": "GREAT SOUNDTRACK",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:58.050Z",
-    "updated": "2020-09-04T01:18:13.319Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
+    "referenceCount": 9,
     "comment": null
   },
   "1333": {
@@ -717,42 +705,6 @@
     "updated": "2021-02-05T16:17:17.035Z",
     "status": "ACTIVE",
     "referenceCount": 8,
-    "comment": null
-  },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
-  "1349": {
-    "id": "1349",
-    "name": "FAST-PACED",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:11.761Z",
-    "updated": "2020-09-05T13:11:46.586Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
-  "1357": {
-    "id": "1357",
-    "name": "VR ONLY",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:15.666Z",
-    "updated": "2019-06-20T12:01:15.666Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1365": {
@@ -916,6 +868,18 @@
     "status": "ACTIVE",
     "referenceCount": 19,
     "comment": null
+  },
+  "11631": {
+    "id": "11631",
+    "name": "Requires 2FA",
+    "namespace": null,
+    "aliases": [],
+    "operator": null,
+    "created": "2020-04-29T16:18:12.784Z",
+    "updated": "2021-02-05T16:14:56.655Z",
+    "status": "ACTIVE",
+    "referenceCount": 5,
+    "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
   },
   "13345": {
     "id": "13345",
