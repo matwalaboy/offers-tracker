@@ -38,19 +38,19 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "1185",
-      "name": "FPS",
-      "namespace": "epic",
-      "aliases": null,
+      "id": "14944",
+      "name": "The Showcase Sale",
+      "namespace": null,
+      "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:50.376Z",
-      "updated": "2020-09-05T13:11:46.644Z",
+      "created": "2021-02-04T17:51:00.530Z",
+      "updated": "2021-02-08T16:07:03.328Z",
       "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
+      "referenceCount": 366,
+      "comment": ""
     },
+    null,
     {
       "id": "1233",
       "name": "Base-Building",

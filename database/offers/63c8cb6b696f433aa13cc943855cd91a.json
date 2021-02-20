@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1281",
-      "name": "Space Sim",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:38.182Z",
-      "updated": "2021-02-05T16:13:43.665Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG",

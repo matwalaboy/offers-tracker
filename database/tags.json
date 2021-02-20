@@ -145,12 +145,12 @@
   },
   "1127": {
     "id": "1127",
-    "name": "Investigation",
+    "name": "INVESTIGATION",
     "namespace": "epic",
-    "aliases": [],
+    "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:21.604Z",
-    "updated": "2021-02-05T16:14:26.407Z",
+    "updated": "2020-09-15T15:53:57.309Z",
     "status": "ACTIVE",
     "referenceCount": 4,
     "comment": null
@@ -273,18 +273,6 @@
     "updated": "2020-08-11T17:30:09.076Z",
     "status": "ACTIVE",
     "referenceCount": 1,
-    "comment": null
-  },
-  "1171": {
-    "id": "1171",
-    "name": "HACK AND SLASH",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:43.507Z",
-    "updated": "2019-06-20T11:59:43.507Z",
-    "status": "ACTIVE",
-    "referenceCount": null,
     "comment": null
   },
   "1179": {
@@ -974,9 +962,9 @@
     ],
     "operator": null,
     "created": "2020-09-25T17:19:19.694Z",
-    "updated": "2021-02-16T12:13:01.235Z",
+    "updated": "2021-02-19T15:59:53.828Z",
     "status": "ACTIVE",
-    "referenceCount": 12,
+    "referenceCount": 11,
     "comment": ""
   },
   "13346": {
