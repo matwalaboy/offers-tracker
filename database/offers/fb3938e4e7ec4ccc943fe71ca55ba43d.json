@@ -1,15 +1,15 @@
 {
-  "id": "8a245db653604308aa2446d6d53a7234",
+  "id": "fb3938e4e7ec4ccc943fe71ca55ba43d",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00087",
-  "description": "DLC00087",
-  "longDescription": "DLC00087",
+  "title": "Sparrow Season Pass 3 Audience",
+  "description": "Sparrow Season Pass 3 Audience",
+  "longDescription": "Sparrow Season Pass 3 Audience",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war---",
-  "creationDate": "2021-03-01T18:37:17.640Z",
-  "lastModifiedDate": "2021-03-02T22:43:55.858Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
+  "urlSlug": "zombie-army-4-dead-war--season-pass-03",
+  "creationDate": "2021-03-03T18:58:09.727Z",
+  "lastModifiedDate": "2021-03-03T18:58:09.727Z",
+  "effectiveDate": "2099-01-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "games"
+    },
     {
       "path": "applications"
     }
@@ -88,13 +91,21 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "Vampire",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2021-02-05T16:12:54.271Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
     {
       "key": "publisherName",
       "value": "Rebellion"
@@ -104,10 +115,20 @@
       "value": "Rebellion"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z",
+      "width": 842,
+      "height": 485
+    }
+  ],
   "items": [
     {
-      "id": "ffa1b7c53b7e49c1b13051d5f0e0ddba"
+      "id": "487e4ee46f7441bd9faea37c7efba6dd"
     }
   ],
   "catalogNs": null

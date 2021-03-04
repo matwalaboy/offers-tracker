@@ -1,20 +1,20 @@
 {
-  "id": "8a245db653604308aa2446d6d53a7234",
-  "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00087",
-  "description": "DLC00087",
-  "longDescription": "DLC00087",
+  "id": "956b6d1ec4314cbb9382c3048db5638f",
+  "namespace": "b2192c4b00db40fe8848b3be6753cfd5",
+  "title": "x520 Gems",
+  "description": "x520 Gems",
+  "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "zombie-army-4-dead-war---",
-  "creationDate": "2021-03-01T18:37:17.640Z",
-  "lastModifiedDate": "2021-03-02T22:43:55.858Z",
-  "effectiveDate": "2099-01-01T16:00:00.000Z",
+  "urlSlug": "x520-gems",
+  "creationDate": "2021-03-03T20:25:06.992Z",
+  "lastModifiedDate": "2021-03-03T20:25:06.992Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
-    "name": "Rebellion"
+    "id": "o-6dbpnx2zffzp7gdzzhzur3eegekssk",
+    "name": "WIREGAMES d.o.o."
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "games"
+    },
     {
       "path": "applications"
     }
@@ -42,15 +45,27 @@
       "comment": null
     },
     {
-      "id": "1218",
-      "name": "Horror",
+      "id": "1264",
+      "name": "Co-op",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2021-02-10T17:14:06.043Z",
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2021-02-10T17:34:35.309Z",
       "status": "ACTIVE",
-      "referenceCount": 14,
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2021-02-10T17:33:03.717Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
       "comment": null
     },
     {
@@ -66,18 +81,6 @@
       "comment": null
     },
     {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2021-02-10T17:34:46.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -88,26 +91,38 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2021-02-10T17:35:11.878Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "Rebellion"
+      "value": "WIREGAMES d.o.o."
     },
     {
       "key": "developerName",
-      "value": "Rebellion"
+      "value": "GLOBAL DODO ENTERTAINMENT d.o.o."
     }
   ],
   "keyImages": [],
   "items": [
     {
-      "id": "ffa1b7c53b7e49c1b13051d5f0e0ddba"
+      "id": "aa81ae96bc404c1388cf0b208a296ccb"
     }
   ],
   "catalogNs": null
