@@ -74,18 +74,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "1318",
-      "name": "Trivia",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:56.576Z",
-      "updated": "2021-02-05T16:17:48.213Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
+    null,
     {
       "id": "1110",
       "name": "Party",
@@ -98,18 +87,7 @@
       "referenceCount": 12,
       "comment": null
     },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2021-01-07T16:00:15.373Z",
-      "status": "ACTIVE",
-      "referenceCount": 584,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -120,21 +98,6 @@
       "updated": "2021-02-05T16:07:21.852Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-09-15T18:08:53.889Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
       "comment": null
     }
   ],
