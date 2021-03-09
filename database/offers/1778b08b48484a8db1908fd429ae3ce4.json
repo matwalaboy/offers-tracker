@@ -61,5 +61,7 @@
       "id": "bc41cf152fac4a779f2c79da0aefbea2"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }

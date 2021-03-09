@@ -88,5 +88,7 @@
       "id": "aba9b1cb1ab94e449a650a9f286c56d7"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }

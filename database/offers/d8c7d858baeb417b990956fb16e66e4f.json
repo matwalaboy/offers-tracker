@@ -98,5 +98,7 @@
       "id": "a0ff81ef4daa469aa6fe9c8cff49c82c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }

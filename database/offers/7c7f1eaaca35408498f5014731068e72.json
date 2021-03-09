@@ -113,5 +113,7 @@
       "id": "f404bf660c4b4cf986cd1c05bb781bb0"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }

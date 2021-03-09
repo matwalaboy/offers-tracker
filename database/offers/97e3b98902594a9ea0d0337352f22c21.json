@@ -76,5 +76,7 @@
       "id": "fbb9067ad3ee4037ad1fbe9e6ff50988"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": null
+  }
 }
