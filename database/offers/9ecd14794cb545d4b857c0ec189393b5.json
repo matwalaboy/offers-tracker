@@ -6,11 +6,11 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "crayta",
-  "urlSlug": "pikespeakgeneralaudience",
+  "urlSlug": "crayta",
   "creationDate": "2020-09-25T19:53:46.343Z",
-  "lastModifiedDate": "2021-03-03T23:42:27.808Z",
-  "effectiveDate": "2021-03-10T15:00:00.000Z",
-  "viewableDate": "2021-03-10T15:00:00.000Z",
+  "lastModifiedDate": "2021-03-10T11:56:23.428Z",
+  "effectiveDate": "2021-03-10T12:00:00.000Z",
+  "viewableDate": "2021-03-10T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3wg8cebzdas9bt56adlsslgzr8mcue",
@@ -28,10 +28,40 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
   "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-02-10T17:36:19.203Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2021-02-10T17:35:33.537Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -43,12 +73,24 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "KR,JP"
     },
     {
       "key": "publisherName",
@@ -62,55 +104,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S3-2560x1440-4e7978b010d2eff868caad980e9000b9.jpg",
-      "md5": "4e7978b010d2eff868caad980e9000b9",
-      "size": 1002546,
-      "uploadedDate": "2021-02-04T23:48:14.377Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Wide-2560x1440-5a5af5eab33db6adbc4d3e568681af40.jpg",
+      "md5": "5a5af5eab33db6adbc4d3e568681af40",
+      "size": 876913,
+      "uploadedDate": "2021-03-06T00:02:17.758Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
-      "md5": "9d74e509e07a02ed9007ec5e5696544b",
-      "size": 817408,
-      "uploadedDate": "2021-02-04T23:48:23.026Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
+      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
+      "size": 622582,
+      "uploadedDate": "2021-03-06T00:02:24.668Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
-      "md5": "9d74e509e07a02ed9007ec5e5696544b",
-      "size": 817408,
-      "uploadedDate": "2021-02-04T23:48:34.795Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
+      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
+      "size": 622582,
+      "uploadedDate": "2021-03-06T00:02:35.469Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
-      "md5": "9d74e509e07a02ed9007ec5e5696544b",
-      "size": 817408,
-      "uploadedDate": "2021-02-04T23:49:05.226Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
+      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
+      "size": 622582,
+      "uploadedDate": "2021-03-06T00:02:46.833Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S3-2560x1440-4e7978b010d2eff868caad980e9000b9.jpg",
-      "md5": "4e7978b010d2eff868caad980e9000b9",
-      "size": 1002546,
-      "uploadedDate": "2021-02-04T23:49:14.966Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Wide-2560x1440-5a5af5eab33db6adbc4d3e568681af40.jpg",
+      "md5": "5a5af5eab33db6adbc4d3e568681af40",
+      "size": 876913,
+      "uploadedDate": "2021-03-06T00:02:59.259Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Unit2Games_S2-1200x1600-9d74e509e07a02ed9007ec5e5696544b.jpg",
-      "md5": "9d74e509e07a02ed9007ec5e5696544b",
-      "size": 817408,
-      "uploadedDate": "2021-02-04T23:49:24.461Z",
+      "url": "https://cdn1.epicgames.com/bb9f87bb3d0042258bb1c97397bc60f2/offer/EGS_CraytaStarterEdition_Tall-1200x1600-176b7887293f0cea8b1c1e6a16dc3e7e.jpg",
+      "md5": "176b7887293f0cea8b1c1e6a16dc3e7e",
+      "size": 622582,
+      "uploadedDate": "2021-03-06T00:03:08.503Z",
       "width": 1200,
       "height": 1600
     }
@@ -120,5 +162,7 @@
       "id": "a20cf79d9dcd420582d5fc96256d1610"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "bb9f87bb3d0042258bb1c97397bc60f2"
+  }
 }
