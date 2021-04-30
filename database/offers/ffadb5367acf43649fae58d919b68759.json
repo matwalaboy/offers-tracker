@@ -8,9 +8,9 @@
   "productSlug": "the-uncertain-last-quiet-day",
   "urlSlug": "polyhymniageneralaudience",
   "creationDate": "2021-01-21T17:55:42.705Z",
-  "lastModifiedDate": "2021-04-12T14:59:09.688Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2021-04-12T15:00:00.000Z",
+  "lastModifiedDate": "2021-04-29T13:53:30.675Z",
+  "effectiveDate": "2021-04-29T14:00:00.000Z",
+  "viewableDate": "2021-04-29T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-ptrc3tlq66gg7gsku56pwafjwzs23b",
@@ -109,21 +109,6 @@
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2021-02-10T17:26:31.125Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -206,6 +191,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "2295b951b8f84e86b950bfaf7cadef60"
   }
 }

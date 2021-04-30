@@ -8,9 +8,9 @@
   "productSlug": "skate-city",
   "urlSlug": "minskprepurchaseaudience",
   "creationDate": "2020-07-03T02:53:49.757Z",
-  "lastModifiedDate": "2021-04-26T17:22:59.881Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2021-02-12T15:00:00.000Z",
+  "lastModifiedDate": "2021-04-29T13:07:35.235Z",
+  "effectiveDate": "2021-04-29T13:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2021-02-10T17:36:35.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -83,6 +95,14 @@
     {
       "key": "publisherName",
       "value": "Snowman"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1620306000"
     },
     {
       "key": "developerName",
@@ -155,6 +175,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "9eea232af06e4e60bb90f9bc5c2a4638"
   }
 }

@@ -8,7 +8,7 @@
   "productSlug": "the-fabled-woods",
   "urlSlug": "zincgeneralaudience",
   "creationDate": "2020-12-10T14:46:59.977Z",
-  "lastModifiedDate": "2021-03-25T15:29:24.033Z",
+  "lastModifiedDate": "2021-04-29T15:32:56.502Z",
   "effectiveDate": "2021-03-25T16:00:00.000Z",
   "viewableDate": "2021-03-25T16:00:00.000Z",
   "developer": null,
@@ -102,7 +102,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -179,6 +179,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "1b4d97cb697f4ac09ff053738f7716e4"
   }
 }

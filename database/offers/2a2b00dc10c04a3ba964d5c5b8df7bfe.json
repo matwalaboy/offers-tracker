@@ -8,7 +8,7 @@
   "productSlug": "scavengers",
   "urlSlug": "jackfruitgeneralaudience",
   "creationDate": "2020-12-03T20:52:19.503Z",
-  "lastModifiedDate": "2021-04-28T19:18:41.273Z",
+  "lastModifiedDate": "2021-04-29T15:57:28.178Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-04-21T12:00:00.000Z",
   "developer": null,
@@ -155,42 +155,6 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/204ed4ec-f9cd-42a3-8a73-84192d3b2271_2560x1440-7cf56d0c2c86b5cf934c5121ee0cf8d1",
-      "md5": "7cf56d0c2c86b5cf934c5121ee0cf8d1",
-      "size": 828534,
-      "uploadedDate": "2021-04-21T15:36:26.970Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4c41b76b-e548-4be7-8046-c33e72cf1d1f_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
-      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
-      "size": 509161,
-      "uploadedDate": "2021-04-21T15:36:32.142Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4c41b76b-e548-4be7-8046-c33e72cf1d1f_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
-      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
-      "size": 509161,
-      "uploadedDate": "2021-04-21T15:36:37.741Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4c41b76b-e548-4be7-8046-c33e72cf1d1f_1200x1600-a6aa959b9f24a30b1123e5a29cfbb397",
-      "md5": "a6aa959b9f24a30b1123e5a29cfbb397",
-      "size": 509161,
-      "uploadedDate": "2021-04-21T15:36:45.172Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontTall",
       "url": "https://cdn1.epicgames.com/0ffb7cf5cff64cd0a621222a8e969c28/offer/01ca5c2c-de34-42ab-ba9f-109266ea3ffb-1200x1600-fe11818daf651473ef0eb4a68c796bf0.jpg",
       "md5": "fe11818daf651473ef0eb4a68c796bf0",
@@ -207,6 +171,42 @@
       "uploadedDate": "2021-04-21T17:57:54.858Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
+      "md5": "c144b952ddcd5aba86bc859e0920fa61",
+      "size": 536430,
+      "uploadedDate": "2021-04-29T15:56:24.198Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S1_2560x1440-6c847fbd3af12040357a2930b703ae00",
+      "md5": "6c847fbd3af12040357a2930b703ae00",
+      "size": 813182,
+      "uploadedDate": "2021-04-29T15:56:30.541Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
+      "md5": "c144b952ddcd5aba86bc859e0920fa61",
+      "size": 536430,
+      "uploadedDate": "2021-04-29T15:56:35.693Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CompeteforsurvivalacrossahostilefrozenEarth_MidwinterEntertainment_S2_1200x1600-c144b952ddcd5aba86bc859e0920fa61",
+      "md5": "c144b952ddcd5aba86bc859e0920fa61",
+      "size": 536430,
+      "uploadedDate": "2021-04-29T15:56:40.600Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
@@ -215,6 +215,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "0ffb7cf5cff64cd0a621222a8e969c28"
   }
 }
