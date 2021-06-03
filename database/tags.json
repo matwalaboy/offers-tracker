@@ -875,6 +875,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1343": {
+    "id": "1343",
+    "name": "MECHS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:08.830Z",
+    "updated": "2019-06-20T12:01:08.830Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1344": {
     "id": "1344",
     "name": "Fighting",
@@ -1391,7 +1403,7 @@
     "aliases": [],
     "operator": null,
     "created": "2021-05-11T14:09:40.433Z",
-    "updated": "2021-05-21T16:48:03.029Z",
+    "updated": "2021-06-02T12:35:42.986Z",
     "status": "ACTIVE",
     "referenceCount": 9,
     "comment": ""
