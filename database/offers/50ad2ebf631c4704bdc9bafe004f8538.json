@@ -1,0 +1,125 @@
+{
+  "id": "50ad2ebf631c4704bdc9bafe004f8538",
+  "namespace": "be9b4a568a934573b2204f3fb97f8042",
+  "title": "Luna's Fishing Garden",
+  "description": "Luna's Fishing Garden",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "lunas-fishing-garden",
+  "urlSlug": "arylideyellow-general-audience",
+  "creationDate": "2021-05-13T23:49:45.447Z",
+  "lastModifiedDate": "2021-06-16T08:44:29.844Z",
+  "effectiveDate": "2021-06-16T16:00:00.000Z",
+  "viewableDate": "2021-06-16T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-29m7zu5ccgcltuf6k3rv6tuqy56qla",
+    "name": "AbsoDev SIA"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Coldwild Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Coldwild Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lunas-fishing-garden"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S2_1200x1600-d383f363ec38e1cbe67a844a2b36c804",
+      "md5": "d383f363ec38e1cbe67a844a2b36c804",
+      "size": 585165,
+      "uploadedDate": "2021-06-15T18:26:58.255Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S2_1200x1600-d383f363ec38e1cbe67a844a2b36c804",
+      "md5": "d383f363ec38e1cbe67a844a2b36c804",
+      "size": 585165,
+      "uploadedDate": "2021-06-15T18:27:00.557Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S1_2560x1440-f1167f2681f3ed8089739a983dd92247",
+      "md5": "f1167f2681f3ed8089739a983dd92247",
+      "size": 281382,
+      "uploadedDate": "2021-06-15T18:27:04.238Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S2_1200x1600-d383f363ec38e1cbe67a844a2b36c804",
+      "md5": "d383f363ec38e1cbe67a844a2b36c804",
+      "size": 585165,
+      "uploadedDate": "2021-06-15T18:27:06.567Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S1_2560x1440-f1167f2681f3ed8089739a983dd92247",
+      "md5": "f1167f2681f3ed8089739a983dd92247",
+      "size": 281382,
+      "uploadedDate": "2021-06-15T18:27:08.839Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LunasFishingGarden_ColdwildGames_S2_1200x1600-d383f363ec38e1cbe67a844a2b36c804",
+      "md5": "d383f363ec38e1cbe67a844a2b36c804",
+      "size": 585165,
+      "uploadedDate": "2021-06-15T18:27:10.763Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "4ed820eddce7456a92363258243e9e0e"
+    }
+  ],
+  "catalogNs": {
+    "name": "be9b4a568a934573b2204f3fb97f8042"
+  }
+}
