@@ -1,20 +1,20 @@
 {
-  "id": "61eb71b91d034de6990d7260025a1e8f",
-  "namespace": "ed8a79694c054f70a6350cb2c8c45316",
-  "title": "dlc_test_iap_pack_1",
-  "description": "dlc_test_iap_pack_1",
+  "id": "ac60b45873054f6ba2db0c3fdd2d1f44",
+  "namespace": "3ee6cb949927486a847f9d81e61ff644",
+  "title": "cavatelli 5000 ToriCredits DLC",
+  "description": "cavatelli 5000 ToriCredits DLC",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "test-entry--dlc-test-iap-pack",
-  "creationDate": "2021-03-24T18:09:46.634Z",
-  "lastModifiedDate": "2021-06-25T21:01:15.977Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "urlSlug": "cavatelli-general-audience-01-01",
+  "creationDate": "2021-06-25T23:20:43.367Z",
+  "lastModifiedDate": "2021-06-25T23:20:43.367Z",
+  "effectiveDate": "2099-02-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
-    "name": "Gameloft SE"
+    "id": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+    "name": "Nicalis"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -32,24 +32,24 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Nicalis"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Nicalis"
     }
   ],
   "keyImages": [],
   "items": [
     {
-      "id": "b5d185151f7a4b5ea6545ebf875a042f"
+      "id": "1ce0bcf9bae3435cae2bd66654510f43"
     }
   ],
   "catalogNs": {
-    "name": "ed8a79694c054f70a6350cb2c8c45316"
+    "name": "3ee6cb949927486a847f9d81e61ff644"
   }
 }

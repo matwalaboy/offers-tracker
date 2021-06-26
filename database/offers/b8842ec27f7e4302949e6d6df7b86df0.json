@@ -1,20 +1,20 @@
 {
-  "id": "61eb71b91d034de6990d7260025a1e8f",
-  "namespace": "ed8a79694c054f70a6350cb2c8c45316",
-  "title": "dlc_test_iap_pack_1",
-  "description": "dlc_test_iap_pack_1",
+  "id": "b8842ec27f7e4302949e6d6df7b86df0",
+  "namespace": "0208da63c74542c99e8a0837e4e688c3",
+  "title": "ZeusGeneralAudience",
+  "description": "ZeusGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "test-entry--dlc-test-iap-pack",
-  "creationDate": "2021-03-24T18:09:46.634Z",
-  "lastModifiedDate": "2021-06-25T21:01:15.977Z",
+  "urlSlug": "zeusgeneralaudience",
+  "creationDate": "2020-10-22T20:36:57.027Z",
+  "lastModifiedDate": "2021-06-25T05:57:21.737Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
-    "name": "Gameloft SE"
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "o-wt4zxeetmq6jem7qp4pkssr46aenj5"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -24,6 +24,9 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
+    {
+      "path": "games"
+    },
     {
       "path": "applications"
     }
@@ -46,10 +49,10 @@
   "keyImages": [],
   "items": [
     {
-      "id": "b5d185151f7a4b5ea6545ebf875a042f"
+      "id": "3b640c0e389645228b957eee39a0fefd"
     }
   ],
   "catalogNs": {
-    "name": "ed8a79694c054f70a6350cb2c8c45316"
+    "name": "0208da63c74542c99e8a0837e4e688c3"
   }
 }
