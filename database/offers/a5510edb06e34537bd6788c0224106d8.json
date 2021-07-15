@@ -1,16 +1,16 @@
 {
-  "id": "91081123e5894c36b2108cabc6471078",
+  "id": "a5510edb06e34537bd6788c0224106d8",
   "namespace": "0ded1556336546bf849c9d28878ec86c",
-  "title": "Space Punks",
-  "description": "Space Punks",
+  "title": "Space Punks - Founders Splendor Pack",
+  "description": "Founders Splendor Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "space-punks",
-  "urlSlug": "jarlsberg-general-audience",
-  "creationDate": "2021-05-03T17:41:54.887Z",
-  "lastModifiedDate": "2021-07-14T11:52:18.103Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
-  "viewableDate": "2021-07-08T12:00:00.000Z",
+  "productSlug": "space-punks--founders-splendor-pack",
+  "urlSlug": "founders-splendor-pack",
+  "creationDate": "2021-06-21T16:27:49.407Z",
+  "lastModifiedDate": "2021-07-14T12:00:57.613Z",
+  "effectiveDate": "2021-07-14T12:00:00.000Z",
+  "viewableDate": "2021-07-14T12:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-pabxa6wl5qzfbkdutrz85c2mnrptrr",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     }
   ],
   "tags": [
@@ -128,72 +131,72 @@
     },
     {
       "key": "developerName",
-      "value": "Flying Wild Hog"
+      "value": "Flying Wild Hog "
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "space-punks"
+      "value": "space-punks--founders-splendor-pack"
     }
   ],
   "keyImages": [
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
-      "md5": "5bbc069923d3cd8e671f54de01451030",
-      "size": 424824,
-      "uploadedDate": "2021-07-08T04:50:49.495Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S2_1200x1600-96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "md5": "96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "size": 962253,
+      "uploadedDate": "2021-07-13T19:28:24.169Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
-      "md5": "5bbc069923d3cd8e671f54de01451030",
-      "size": 424824,
-      "uploadedDate": "2021-07-08T04:50:44.509Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S2_1200x1600-96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "md5": "96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "size": 962253,
+      "uploadedDate": "2021-07-13T19:28:26.551Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S1_2560x1440-8e1c5adb27a0063289473e1482f11665",
-      "md5": "8e1c5adb27a0063289473e1482f11665",
-      "size": 823198,
-      "uploadedDate": "2021-07-08T04:50:52.170Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S1_2560x1440-f6c3c3c9b00ce98a5a9901b76a193178",
+      "md5": "f6c3c3c9b00ce98a5a9901b76a193178",
+      "size": 998227,
+      "uploadedDate": "2021-07-13T19:28:29.017Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
-      "md5": "5bbc069923d3cd8e671f54de01451030",
-      "size": 424824,
-      "uploadedDate": "2021-07-08T04:50:55.373Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S2_1200x1600-96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "md5": "96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "size": 962253,
+      "uploadedDate": "2021-07-13T19:28:31.549Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S1_2560x1440-8e1c5adb27a0063289473e1482f11665",
-      "md5": "8e1c5adb27a0063289473e1482f11665",
-      "size": 823198,
-      "uploadedDate": "2021-07-08T04:50:58.107Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S1_2560x1440-f6c3c3c9b00ce98a5a9901b76a193178",
+      "md5": "f6c3c3c9b00ce98a5a9901b76a193178",
+      "size": 998227,
+      "uploadedDate": "2021-07-13T19:28:34.338Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SpacePunks_FlyingWildHog_S2_1200x1600-5bbc069923d3cd8e671f54de01451030",
-      "md5": "5bbc069923d3cd8e671f54de01451030",
-      "size": 424824,
-      "uploadedDate": "2021-07-08T04:51:00.611Z",
+      "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_SplendorPack_FlyingWildHog_Bundles_S2_1200x1600-96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "md5": "96cc2a4b2dd9fcc4d0f2bdef7637fa92",
+      "size": 962253,
+      "uploadedDate": "2021-07-13T19:28:36.813Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "74423413fddd476890ca1b12364f4ea1"
+      "id": "8d0e45782d9146988053bbfb1b84cd6c"
     }
   ],
   "catalogNs": {
