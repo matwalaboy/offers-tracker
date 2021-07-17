@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1080",
-      "name": "بقاء",
+      "name": "Survival",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1146",
-      "name": "بناء مدينة",
+      "name": "City Builder",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -64,7 +64,7 @@
     },
     {
       "id": "1370",
-      "name": "لاعب فردي",
+      "name": "Single Player",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1115",
-      "name": "إستراتيجية",
+      "name": "Strategy",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -100,7 +100,7 @@
     },
     {
       "id": "9549",
-      "name": "دعم وحدة التحكم",
+      "name": "Controller Support",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
