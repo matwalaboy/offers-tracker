@@ -40,7 +40,7 @@
   "tags": [
     {
       "id": "1298",
-      "name": "Puzzle",
+      "name": "Rompecabezas",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -52,7 +52,7 @@
     },
     {
       "id": "1370",
-      "name": "Single Player",
+      "name": "Para un solo jugador",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -76,7 +76,7 @@
     },
     {
       "id": "1116",
-      "name": "Comedy",
+      "name": "Comedia",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
@@ -88,7 +88,7 @@
     },
     {
       "id": "1084",
-      "name": "Stealth",
+      "name": "Sigilo",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
