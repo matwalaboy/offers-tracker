@@ -1,32 +1,29 @@
 {
-  "id": "3aeb7b1d4471494fb76b2c05bc66687d",
-  "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
-  "title": "DevStrontiumAudience",
-  "description": "DevStrontiumAudience",
+  "id": "eb621cd027f64da58a3c362becc99eb3",
+  "namespace": "a7cada234b3840b88336f028778ff162",
+  "title": "Maize DLC",
+  "description": "Maize DLC",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "devstrontiumaudience",
-  "creationDate": "2021-01-13T23:20:30.757Z",
-  "lastModifiedDate": "2021-04-29T14:24:56.042Z",
+  "urlSlug": "maizegeneralaudience-01",
+  "creationDate": "2021-07-21T18:49:32.240Z",
+  "lastModifiedDate": "2021-08-02T15:46:54.028Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
-    "name": "Kongregate"
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "games"
-    },
     {
       "path": "applications"
     }
@@ -35,7 +32,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -49,10 +46,10 @@
   "keyImages": [],
   "items": [
     {
-      "id": "becb8e66356e4032b203fee7cf7715e5"
+      "id": "8016f4d55580405c821d6697607f87b7"
     }
   ],
   "catalogNs": {
-    "name": "7e1b3a8e19c949c0bfaed0424a8c4bb5"
+    "name": "a7cada234b3840b88336f028778ff162"
   }
 }
