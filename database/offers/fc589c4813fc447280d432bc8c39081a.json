@@ -8,7 +8,7 @@
   "productSlug": "crysis-remastered",
   "urlSlug": "crysis-remastered",
   "creationDate": "2020-06-29T13:36:49.041Z",
-  "lastModifiedDate": "2021-08-09T15:45:39.705Z",
+  "lastModifiedDate": "2021-08-25T16:43:39.266Z",
   "effectiveDate": "2020-09-18T07:00:00.000Z",
   "viewableDate": "2020-09-01T14:00:00.000Z",
   "developer": null,
@@ -237,7 +237,5 @@
       "id": "0aac081edb7249d6b1d8435a6dab744c"
     }
   ],
-  "catalogNs": {
-    "name": "17a1f8585f9246808597b30780aaf4fb"
-  }
+  "catalogNs": null
 }

@@ -8,7 +8,7 @@
   "productSlug": "necromunda-hired-gun",
   "urlSlug": "necromunda-hired-gun",
   "creationDate": "2021-02-24T20:58:58.952Z",
-  "lastModifiedDate": "2021-08-09T15:45:45.521Z",
+  "lastModifiedDate": "2021-08-25T16:43:43.100Z",
   "effectiveDate": "2021-05-31T22:00:00.000Z",
   "viewableDate": "2021-05-31T22:00:00.000Z",
   "developer": null,
@@ -190,5 +190,7 @@
       "id": "ebbb49896b5c4dc994001e6b729b70d4"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "8c8bd44c4f8a4948800b27d9c1248c0c"
+  }
 }

@@ -8,7 +8,7 @@
   "productSlug": "the-end-is-nigh/home",
   "urlSlug": "staticegeneralaudience",
   "creationDate": "2019-08-24T06:23:21.054Z",
-  "lastModifiedDate": "2021-08-09T15:45:50.091Z",
+  "lastModifiedDate": "2021-08-25T16:43:46.876Z",
   "effectiveDate": "2019-09-04T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -195,5 +195,7 @@
       "id": "2a6e2d009f2a4a2683bc70b08f4dcca3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "530eeeaffca14275a451d7cff61ee6bb"
+  }
 }

@@ -8,7 +8,7 @@
   "productSlug": "kingdom-hearts-melody-of-memory",
   "urlSlug": "kingdom-hearts-melody-of-memory",
   "creationDate": "2020-10-26T14:06:43.775Z",
-  "lastModifiedDate": "2021-08-09T15:45:44.193Z",
+  "lastModifiedDate": "2021-08-25T16:43:41.811Z",
   "effectiveDate": "2021-03-30T13:00:00.000Z",
   "viewableDate": "2021-03-30T13:00:00.000Z",
   "developer": null,
@@ -210,5 +210,7 @@
       "id": "ea8bbd5c5b4e476f941eabc9fda7efc4"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "3671db367c594e2ab5020105dc52dc65"
+  }
 }

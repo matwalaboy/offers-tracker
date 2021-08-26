@@ -8,7 +8,7 @@
   "productSlug": "werewolf-the-apocalypse-earthblood/gaia-edition",
   "urlSlug": "launchdeluxeaudience",
   "creationDate": "2021-01-27T21:53:48.369Z",
-  "lastModifiedDate": "2021-08-09T15:45:51.610Z",
+  "lastModifiedDate": "2021-08-25T16:43:49.234Z",
   "effectiveDate": "2021-02-04T13:00:00.000Z",
   "viewableDate": "2021-02-04T13:00:00.000Z",
   "developer": null,
@@ -163,5 +163,7 @@
       "id": "e02c37b347464e5db087f8890e14fd2c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "9c86694776c04893bec691f13f4b60fc"
+  }
 }

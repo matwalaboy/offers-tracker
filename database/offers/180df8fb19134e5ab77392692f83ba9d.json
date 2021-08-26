@@ -8,7 +8,7 @@
   "productSlug": "through-the-darkest-of-times/home",
   "urlSlug": "calciumgeneralaudience",
   "creationDate": "2020-11-20T15:43:44.971Z",
-  "lastModifiedDate": "2021-08-09T15:45:51.592Z",
+  "lastModifiedDate": "2021-08-25T16:43:48.103Z",
   "effectiveDate": "2020-12-10T18:00:00.000Z",
   "viewableDate": "2020-12-10T18:00:00.000Z",
   "developer": null,
@@ -217,5 +217,7 @@
       "id": "f0cc74e818a142c5815d86730e6e0454"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "6e7faac262f04035aeb848e660b2d18c"
+  }
 }
