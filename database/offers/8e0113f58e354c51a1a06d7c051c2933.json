@@ -8,7 +8,7 @@
   "productSlug": "spacelines-from-the-far-out",
   "urlSlug": "spacelines-from-the-far-out",
   "creationDate": "2020-06-30T18:30:13.150Z",
-  "lastModifiedDate": "2021-08-25T16:43:45.703Z",
+  "lastModifiedDate": "2021-08-26T19:11:46.229Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2021-08-10T15:00:00.000Z",
   "developer": null,
@@ -202,7 +202,5 @@
       "id": "85666d01d53444a0bb4397b138b821d2"
     }
   ],
-  "catalogNs": {
-    "name": "dd03e221bdd24f12a95aba54cbe5d757"
-  }
+  "catalogNs": null
 }

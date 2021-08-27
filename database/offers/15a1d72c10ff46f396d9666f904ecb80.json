@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-08-24T08:02:15.096Z",
-      "updated": "2021-08-25T21:01:25.420Z",
+      "updated": "2021-08-26T15:58:47.904Z",
       "status": "ACTIVE",
-      "referenceCount": 9,
+      "referenceCount": 16,
       "comment": ""
     }
   ],
@@ -174,7 +174,5 @@
       "id": "9d915ff014a0450ba2ce722995ffe752"
     }
   ],
-  "catalogNs": {
-    "name": "b4565296c22549e4830c13bc7506642d"
-  }
+  "catalogNs": null
 }
