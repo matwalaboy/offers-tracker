@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "wrc-9--wrc-9-barcelona-sss",
   "creationDate": "2020-06-29T22:50:55.790Z",
-  "lastModifiedDate": "2021-09-01T23:29:42.624Z",
+  "lastModifiedDate": "2021-09-02T12:01:09.640Z",
   "effectiveDate": "2020-09-03T15:00:00.000Z",
   "viewableDate": "2020-09-03T15:00:00.000Z",
   "developer": null,
@@ -165,7 +165,5 @@
       "id": "a2c131430be643b597191d69c0e0f24f"
     }
   ],
-  "catalogNs": {
-    "name": "9cf250606722448887fa1447b1d9da06"
-  }
+  "catalogNs": null
 }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "wrc-9--wrc-9-audi-quattro-a21984",
   "creationDate": "2020-06-29T22:59:35.582Z",
-  "lastModifiedDate": "2021-09-01T23:28:07.513Z",
+  "lastModifiedDate": "2021-09-02T12:00:31.230Z",
   "effectiveDate": "2020-09-03T15:00:00.000Z",
   "viewableDate": "2020-09-03T15:00:00.000Z",
   "developer": null,
@@ -168,7 +168,5 @@
       "id": "8d83dc41a4334389b4423124ddecac9f"
     }
   ],
-  "catalogNs": {
-    "name": "9cf250606722448887fa1447b1d9da06"
-  }
+  "catalogNs": null
 }
