@@ -48,6 +48,18 @@
       "comment": ""
     },
     {
+      "id": "17493",
+      "name": "September Savings",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2021-09-07T08:16:09.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 700,
+      "comment": ""
+    },
+    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -121,5 +133,7 @@
       "id": "b91676d9d6024668bab089e7364867de"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "4586d456108e4a03810c5927453ce6da"
+  }
 }

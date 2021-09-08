@@ -72,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "17493",
+      "name": "September Savings",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2021-09-07T08:16:09.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 700,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -210,5 +222,7 @@
       "id": "1dea1e39a8044a69b4020845afb4bd97"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ed55aa5edc5941de92fd7f64de415793"
+  }
 }

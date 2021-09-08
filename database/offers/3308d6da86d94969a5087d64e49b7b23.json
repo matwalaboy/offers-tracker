@@ -72,6 +72,18 @@
       "comment": ""
     },
     {
+      "id": "17493",
+      "name": "September Savings",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-08-25T14:44:49.018Z",
+      "updated": "2021-09-07T08:16:09.452Z",
+      "status": "ACTIVE",
+      "referenceCount": 700,
+      "comment": ""
+    },
+    {
       "id": "1307",
       "name": "Open World",
       "namespace": "epic",
@@ -199,5 +211,7 @@
       "id": "8e50bce8811f4a43a9fd6038371271d9"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "2736ab9fec9c4a93a7a2872ed5154d4b"
+  }
 }
