@@ -165,7 +165,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2021-09-15T07:22:40.627Z",
+      "updated": "2021-09-23T15:00:01.723Z",
       "status": "ACTIVE",
       "referenceCount": 710,
       "comment": ""
@@ -290,7 +290,5 @@
       "id": "c204662afac64acd8a2117590be477da"
     }
   ],
-  "catalogNs": {
-    "name": "catnip"
-  }
+  "catalogNs": null
 }
