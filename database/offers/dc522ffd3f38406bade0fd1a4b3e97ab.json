@@ -60,6 +60,18 @@
       "comment": ""
     },
     {
+      "id": "17779",
+      "name": "Paradox Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-09-14T12:08:38.254Z",
+      "updated": "2021-09-30T15:33:13.599Z",
+      "status": "ACTIVE",
+      "referenceCount": 75,
+      "comment": ""
+    },
+    {
       "id": "14346",
       "name": "Holiday Sale 2020",
       "namespace": null,
@@ -171,7 +183,5 @@
       "id": "b515a66f37ff48a997efd0f0c4cc6de5"
     }
   ],
-  "catalogNs": {
-    "name": "6009be9994c2409099588cde6f3a5ed0"
-  }
+  "catalogNs": null
 }
