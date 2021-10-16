@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2021-10-15T15:38:12.020Z",
+      "status": "ACTIVE",
+      "referenceCount": 861,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -192,5 +204,7 @@
       "id": "91cb3a59ebb54faebb41fe732af75a4f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "95d0b9561be1464cb43bd029e94cf526"
+  }
 }

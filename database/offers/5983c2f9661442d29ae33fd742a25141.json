@@ -60,6 +60,18 @@
       "comment": null
     },
     {
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2021-10-15T15:38:12.020Z",
+      "status": "ACTIVE",
+      "referenceCount": 861,
+      "comment": ""
+    },
+    {
       "id": "17493",
       "name": "September Savings",
       "namespace": null,
@@ -183,5 +195,7 @@
       "id": "effe23dce4a64a63bd2e933c5c689df0"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "301ec0fdbcaf46b3af9322e436ac87bd"
+  }
 }

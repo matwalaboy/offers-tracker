@@ -31,7 +31,20 @@
       "path": "digitalextras/soundtrack"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2021-10-15T15:38:12.020Z",
+      "status": "ACTIVE",
+      "referenceCount": 861,
+      "comment": ""
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -107,7 +120,5 @@
       "id": "bd7555c72b66453dab62750602a800ab"
     }
   ],
-  "catalogNs": {
-    "name": "1be39e503e234386a7d4456d33b197fc"
-  }
+  "catalogNs": null
 }
