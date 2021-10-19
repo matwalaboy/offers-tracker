@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-10-15T15:38:12.020Z",
+      "updated": "2021-10-18T15:02:44.991Z",
       "status": "ACTIVE",
       "referenceCount": 861,
       "comment": ""
@@ -202,7 +202,5 @@
       "id": "ba228efcd79f4f9f814683db8326c7be"
     }
   ],
-  "catalogNs": {
-    "name": "892ec3a651c748df88dac102472a5cf9"
-  }
+  "catalogNs": null
 }

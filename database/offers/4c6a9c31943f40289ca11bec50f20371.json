@@ -54,7 +54,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-10-15T15:38:12.020Z",
+      "updated": "2021-10-18T15:02:44.991Z",
       "status": "ACTIVE",
       "referenceCount": 861,
       "comment": ""
@@ -155,7 +155,5 @@
       "id": "7d415dae44b0458982654e9204cdfd53"
     }
   ],
-  "catalogNs": {
-    "name": "argyle"
-  }
+  "catalogNs": null
 }
