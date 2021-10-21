@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-10-18T15:02:44.991Z",
+      "updated": "2021-10-20T13:18:09.944Z",
       "status": "ACTIVE",
-      "referenceCount": 861,
+      "referenceCount": 863,
       "comment": ""
     },
     {
@@ -259,5 +259,7 @@
       "id": "f0cacc038f734388a2983c7b7100f0f3"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "wren"
+  }
 }
