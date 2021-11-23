@@ -121,6 +121,18 @@
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2021-11-22T16:46:52.133Z",
+      "status": "ACTIVE",
+      "referenceCount": 1103,
+      "comment": ""
     }
   ],
   "customAttributes": [
@@ -211,7 +223,5 @@
       "id": "3b896b8190134b17b3195fc5baed2ada"
     }
   ],
-  "catalogNs": {
-    "name": "83022e1b4c304addb2aadee1db854f8d"
-  }
+  "catalogNs": null
 }
