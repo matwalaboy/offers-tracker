@@ -117,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2021-11-22T16:46:52.133Z",
+      "updated": "2021-11-23T16:00:01.139Z",
       "status": "ACTIVE",
-      "referenceCount": 1103,
+      "referenceCount": 1092,
       "comment": ""
     }
   ],
@@ -198,5 +198,7 @@
       "id": "c81ddaaf4fa74614aff3291d8d19f4ba"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "27d2f156f77b4202b9bc78e40a408b03"
+  }
 }
