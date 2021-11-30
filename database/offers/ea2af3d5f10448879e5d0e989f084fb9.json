@@ -1,20 +1,20 @@
 {
-  "id": "693b4cf990554764b6e180b02b683719",
-  "namespace": "9de5b8c358314db2ab3ed7b41d6f41a0",
-  "title": "They Always Run",
-  "description": "Become Aidan, a three-armed mutant who hunts the most dangerous bounties in the galaxy. Catch, slice, dice and destroy enemies in this exciting 2D platformer with a space-western setting.",
+  "id": "ea2af3d5f10448879e5d0e989f084fb9",
+  "namespace": "9dd57a83fbae44f5b0fee00cf941be7d",
+  "title": "LOVE 3",
+  "description": "LOVE 3 is a precision platformer where you control fiveEight, a lone survivor searching for others in a mechanical, apocalyptic world. Face challenging obstacles, discover hidden secrets, and try to find hope within the hopeless as you overcome each new danger.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "f4bd6723712d47ceb25638e7c6041274",
-  "creationDate": "2021-06-21T09:16:38.045Z",
-  "lastModifiedDate": "2021-09-21T18:54:06.809Z",
-  "effectiveDate": "2021-10-20T17:00:00.000Z",
-  "viewableDate": "2021-09-10T17:00:00.000Z",
+  "urlSlug": "9657c00e7bc744f1ad1fe2429ab7bc94",
+  "creationDate": "2021-11-09T23:28:58.609Z",
+  "lastModifiedDate": "2021-11-29T16:35:26.453Z",
+  "effectiveDate": "2021-12-07T00:00:00.000Z",
+  "viewableDate": "2021-11-11T00:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-cy5ukscnzvb2vbehcxv5rrrnky995c",
-    "name": "Alawar Entertainment, Inc"
+    "id": "o-kr5v4snx9u79jr9q5jm54gaua6az4x",
+    "name": "Screenwave Media"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -36,15 +36,15 @@
   ],
   "tags": [
     {
-      "id": "1336",
-      "name": "Action-Adventure",
+      "id": "1216",
+      "name": "Action",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2021-09-24T04:06:48.645Z",
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2021-09-24T04:05:37.686Z",
       "status": "ACTIVE",
-      "referenceCount": 6,
+      "referenceCount": 110,
       "comment": null
     },
     {
@@ -117,63 +117,47 @@
   "keyImages": [
     {
       "type": "ProductLogo",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/they-always-run-offer-logo-iznym.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 77698,
-      "uploadedDate": "2021-08-16T09:11:07.197Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/love-3-offer-logo-1lwzg.png",
+      "md5": "94bd4eee3ed75fd16c1b6094ed546668",
+      "size": 14409,
+      "uploadedDate": "2021-11-11T19:18:43.380Z",
       "width": 400,
       "height": 400
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/they-always-run-offer-1pgen.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2709813,
-      "uploadedDate": "2021-08-17T12:27:20.350Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/love-3-offer-ddaoh.jpg",
+      "md5": "14b68eeba282ab6326423c92263ca8a4",
+      "size": 174709,
+      "uploadedDate": "2021-11-12T18:11:05.161Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/download-they-always-run-offer-15ew0.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1689151,
-      "uploadedDate": "2021-08-17T12:27:21.957Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/they-always-run-offer-uw55h.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 3629009,
-      "uploadedDate": "2021-08-17T12:27:30.257Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/download-they-always-run-offer-1ygj1.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 2188050,
-      "uploadedDate": "2021-08-17T12:27:32.275Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/download-love-3-offer-1ay2p.jpg",
+      "md5": "2f115f766e11104525ca48142bed8c30",
+      "size": 108947,
+      "uploadedDate": "2021-11-12T18:11:09.556Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/a90ff071ed744b0fb97a3689d9bcac56/download-they-always-run-offer-15ew0.png",
-      "md5": "098f6bcd4621d373cade4e832627b4f6",
-      "size": 1689151,
-      "uploadedDate": "2021-08-17T12:27:21.957Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/2e92a3dc94534920bf9faf6425929be4/download-love-3-offer-1ay2p.jpg",
+      "md5": "2f115f766e11104525ca48142bed8c30",
+      "size": 108947,
+      "uploadedDate": "2021-11-12T18:11:09.556Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "c6de26e868c042b6a6d134f465f98911"
+      "id": "e037e345924d4443be6207911ab8eb07"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "9dd57a83fbae44f5b0fee00cf941be7d"
+  }
 }
