@@ -99,6 +99,18 @@
       "comment": null
     },
     {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2021-12-14T19:00:38.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 1357,
+      "comment": ""
+    },
+    {
       "id": "1117",
       "name": "Adventure",
       "namespace": "epic",
@@ -202,7 +214,5 @@
       "id": "d5a5002340f246bcbda9747b6725e2c5"
     }
   ],
-  "catalogNs": {
-    "name": "154f1c07994047baacd05f40a6672c02"
-  }
+  "catalogNs": null
 }

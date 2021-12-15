@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "darkstar-core-supporter-pack",
   "creationDate": "2021-12-08T23:06:17.362Z",
-  "lastModifiedDate": "2021-12-08T23:06:17.362Z",
-  "effectiveDate": "2021-12-14T21:00:00.000Z",
+  "lastModifiedDate": "2021-12-14T05:21:04.628Z",
+  "effectiveDate": "2099-01-01T21:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -36,5 +36,7 @@
       "id": "9e5a8e17f14b4df79796e1d82f313a48"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "7ad5508d382e46228056f1d1a0189ae2"
+  }
 }

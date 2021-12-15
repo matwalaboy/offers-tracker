@@ -99,6 +99,18 @@
       "comment": ""
     },
     {
+      "id": "18778",
+      "name": "Holiday Sale 2021",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:04:11.086Z",
+      "updated": "2021-12-14T19:00:38.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 1357,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -214,7 +226,5 @@
       "id": "4646166ab44c49b0a83e00ab59df5292"
     }
   ],
-  "catalogNs": {
-    "name": "df37f065c3f14eadbf011177396e2966"
-  }
+  "catalogNs": null
 }

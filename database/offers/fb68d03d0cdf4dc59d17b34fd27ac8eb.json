@@ -8,7 +8,7 @@
   "productSlug": "syberia-the-world-before--deluxe-edition",
   "urlSlug": "zambeziprepurchaseaudience-02",
   "creationDate": "2021-08-17T17:52:14.360Z",
-  "lastModifiedDate": "2021-12-06T17:30:43.329Z",
+  "lastModifiedDate": "2021-12-14T22:52:10.849Z",
   "effectiveDate": "2021-08-19T07:00:00.000Z",
   "viewableDate": "2021-08-19T07:00:00.000Z",
   "developer": null,
@@ -110,10 +110,6 @@
   ],
   "customAttributes": [
     {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
       "key": "publisherName",
       "value": "Microids"
     },
@@ -136,5 +132,7 @@
       "id": "a66bcd28c0ba4bf89f77f76c612af517"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ad59318740674cb3adad80949d0bcc88"
+  }
 }
