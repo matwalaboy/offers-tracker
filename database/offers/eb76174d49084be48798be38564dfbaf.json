@@ -111,6 +111,18 @@
       "comment": ""
     },
     {
+      "id": "19242",
+      "name": "Lunar New Year Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-01-13T19:24:05.305Z",
+      "updated": "2022-01-25T19:20:22.521Z",
+      "status": "ACTIVE",
+      "referenceCount": 1340,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -238,7 +250,5 @@
       "id": "64b53c27444845d2a37c16119df80fc5"
     }
   ],
-  "catalogNs": {
-    "name": "0cdc1f2bb18a4384a96ddac4c5c84886"
-  }
+  "catalogNs": null
 }

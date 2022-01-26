@@ -120,6 +120,18 @@
       "comment": ""
     },
     {
+      "id": "19242",
+      "name": "Lunar New Year Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-01-13T19:24:05.305Z",
+      "updated": "2022-01-25T19:20:22.521Z",
+      "status": "ACTIVE",
+      "referenceCount": 1340,
+      "comment": ""
+    },
+    {
       "id": "16011",
       "name": "Epic MEGA Sale",
       "namespace": null,
@@ -216,7 +228,5 @@
       "id": "508964795add4b538323d9d0157cbfab"
     }
   ],
-  "catalogNs": {
-    "name": "90c3f58497da48d789cc39bff57dc2f4"
-  }
+  "catalogNs": null
 }

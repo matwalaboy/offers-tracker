@@ -108,6 +108,18 @@
       "comment": ""
     },
     {
+      "id": "19242",
+      "name": "Lunar New Year Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-01-13T19:24:05.305Z",
+      "updated": "2022-01-25T19:20:22.521Z",
+      "status": "ACTIVE",
+      "referenceCount": 1340,
+      "comment": ""
+    },
+    {
       "id": "1115",
       "name": "Strategy",
       "namespace": "epic",
@@ -242,7 +254,5 @@
       "id": "f890f1fc83594ad4bc937ddcea8852e4"
     }
   ],
-  "catalogNs": {
-    "name": "07f4a7dd3c884e5d87e9a209716962ca"
-  }
+  "catalogNs": null
 }
