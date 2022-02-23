@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "14944",
-      "name": "The Showcase Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-02-04T17:51:00.530Z",
-      "updated": "2021-10-05T07:48:43.808Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": ""
-    },
+    null,
     {
       "id": "16979",
       "name": "Summer Sale",
@@ -57,6 +46,18 @@
       "updated": "2021-11-23T15:36:53.386Z",
       "status": "ACTIVE",
       "referenceCount": 813,
+      "comment": ""
+    },
+    {
+      "id": "19828",
+      "name": "EA February Sale 2022",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-22T15:09:25.364Z",
+      "updated": "2022-02-22T15:10:07.395Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
       "comment": ""
     },
     {

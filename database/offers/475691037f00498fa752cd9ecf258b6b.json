@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2021-09-24T04:05:37.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1218",
       "name": "Horror",
@@ -86,18 +75,7 @@
       "referenceCount": 813,
       "comment": ""
     },
-    {
-      "id": "18051",
-      "name": "Halloween Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-10-06T19:14:15.572Z",
-      "updated": "2021-11-23T15:36:50.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 846,
-      "comment": ""
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter",
@@ -134,18 +112,9 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1279",
-      "name": "Vampire",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2021-02-05T16:12:54.271Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
