@@ -8,7 +8,7 @@
   "productSlug": "hood-outlaws-and-legends",
   "urlSlug": "nyxgeneralaudience",
   "creationDate": "2020-10-22T20:30:57.790Z",
-  "lastModifiedDate": "2021-09-23T19:25:18.049Z",
+  "lastModifiedDate": "2022-04-06T13:15:45.712Z",
   "effectiveDate": "2021-05-10T15:00:00.000Z",
   "viewableDate": "2021-05-10T15:00:00.000Z",
   "developer": null,
@@ -62,18 +62,7 @@
       "referenceCount": 846,
       "comment": ""
     },
-    {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-02-10T16:08:57.226Z",
-      "status": "ACTIVE",
-      "referenceCount": 1340,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -199,14 +188,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "KR"
-    },
-    {
-      "key": "publisherName",
-      "value": "Focus Home Interactive  "
-    },
-    {
-      "key": "developerName",
-      "value": "Sumo Digital  "
     },
     {
       "key": "com.epicgames.app.productSlug",

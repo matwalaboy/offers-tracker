@@ -8,7 +8,7 @@
   "productSlug": "necromunda-hired-gun",
   "urlSlug": "necromunda-hired-gun",
   "creationDate": "2021-02-24T20:58:58.952Z",
-  "lastModifiedDate": "2021-08-25T16:43:43.100Z",
+  "lastModifiedDate": "2022-04-06T12:29:57.196Z",
   "effectiveDate": "2021-05-31T22:00:00.000Z",
   "viewableDate": "2021-05-31T22:00:00.000Z",
   "developer": null,
@@ -98,18 +98,7 @@
       "referenceCount": 1326,
       "comment": ""
     },
-    {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2022-02-10T16:08:57.226Z",
-      "status": "ACTIVE",
-      "referenceCount": 1340,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -175,14 +164,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Focus Home Interactive"
-    },
-    {
-      "key": "developerName",
-      "value": "Streum On Studio"
     },
     {
       "key": "com.epicgames.app.productSlug",
