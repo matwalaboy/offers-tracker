@@ -65,18 +65,7 @@
       "referenceCount": 373,
       "comment": ""
     },
-    {
-      "id": "1395",
-      "name": "Narration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2022-05-26T21:06:21.095Z",
-      "status": "ACTIVE",
-      "referenceCount": 216,
-      "comment": null
-    },
+    null,
     {
       "id": "16979",
       "name": "Summer Sale",
@@ -108,9 +97,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2022-05-28T08:09:38.936Z",
+      "updated": "2022-05-29T08:09:44.654Z",
       "status": "ACTIVE",
-      "referenceCount": 1160,
+      "referenceCount": 1165,
       "comment": null
     },
     {
@@ -144,9 +133,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-05-28T08:09:28.473Z",
+      "updated": "2022-05-29T08:09:33.499Z",
       "status": "ACTIVE",
-      "referenceCount": 9459,
+      "referenceCount": 9460,
       "comment": null
     },
     {
