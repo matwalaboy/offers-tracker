@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-09-12T23:51:28.080Z",
+      "updated": "2022-09-14T00:18:17.776Z",
       "status": "ACTIVE",
-      "referenceCount": 2133,
+      "referenceCount": 2137,
       "comment": null
     },
     {
@@ -62,18 +62,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-13T01:18:52.296Z",
-      "status": "ACTIVE",
-      "referenceCount": 11599,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -81,9 +70,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-09-12T23:51:28.121Z",
+      "updated": "2022-09-14T00:06:19.221Z",
       "status": "ACTIVE",
-      "referenceCount": 2507,
+      "referenceCount": 2509,
       "comment": null
     },
     {
