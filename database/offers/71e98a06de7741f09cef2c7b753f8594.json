@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2022-09-06T15:11:17.588Z",
+      "status": "ACTIVE",
+      "referenceCount": 252,
+      "comment": ""
+    },
     {
       "id": "19242",
       "name": "Lunar New Year Sale",
@@ -48,7 +59,18 @@
       "referenceCount": 1261,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-09-15T01:00:22.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 11612,
+      "comment": null
+    },
     {
       "id": "15275",
       "name": "Private Division Sale",
@@ -80,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-09-14T00:06:19.221Z",
+      "updated": "2022-09-14T23:31:49.083Z",
       "status": "ACTIVE",
-      "referenceCount": 2509,
+      "referenceCount": 2510,
       "comment": null
     },
     {
@@ -128,7 +150,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2022-09-13T13:17:27.260Z",
+      "updated": "2022-09-14T18:15:22.157Z",
       "status": "ACTIVE",
       "referenceCount": 1160,
       "comment": null
@@ -152,9 +174,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-14T00:06:19.183Z",
+      "updated": "2022-09-15T01:00:22.190Z",
       "status": "ACTIVE",
-      "referenceCount": 5065,
+      "referenceCount": 5073,
       "comment": null
     },
     {

@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "18051",
+      "name": "Halloween Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-10-06T19:14:15.572Z",
+      "updated": "2022-09-06T15:11:17.588Z",
+      "status": "ACTIVE",
+      "referenceCount": 252,
+      "comment": ""
+    },
     {
       "id": "14346",
       "name": "Holiday Sale 2020",
@@ -60,7 +71,18 @@
       "referenceCount": 1261,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2022-09-15T01:00:22.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 11612,
+      "comment": null
+    },
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -104,9 +126,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2022-09-13T20:29:05.259Z",
+      "updated": "2022-09-15T00:08:07.203Z",
       "status": "ACTIVE",
-      "referenceCount": 849,
+      "referenceCount": 851,
       "comment": null
     },
     {
@@ -116,9 +138,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-09-14T00:18:17.776Z",
+      "updated": "2022-09-14T16:04:54.263Z",
       "status": "ACTIVE",
-      "referenceCount": 2137,
+      "referenceCount": 2135,
       "comment": null
     },
     {
@@ -164,7 +186,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2022-09-13T13:17:27.260Z",
+      "updated": "2022-09-14T18:15:22.157Z",
       "status": "ACTIVE",
       "referenceCount": 1160,
       "comment": null
@@ -188,9 +210,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-14T00:06:19.183Z",
+      "updated": "2022-09-15T01:00:22.190Z",
       "status": "ACTIVE",
-      "referenceCount": 5065,
+      "referenceCount": 5073,
       "comment": null
     },
     {
@@ -212,9 +234,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-09-13T21:47:04.785Z",
+      "updated": "2022-09-15T01:00:22.201Z",
       "status": "ACTIVE",
-      "referenceCount": 1038,
+      "referenceCount": 1042,
       "comment": null
     }
   ],

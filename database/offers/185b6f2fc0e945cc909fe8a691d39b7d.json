@@ -42,23 +42,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2022-09-14T00:18:17.789Z",
+      "updated": "2022-09-14T21:29:37.709Z",
       "status": "ACTIVE",
       "referenceCount": 703,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-09-14T00:06:19.183Z",
-      "status": "ACTIVE",
-      "referenceCount": 5065,
-      "comment": null
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -66,9 +55,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2022-09-13T18:55:34.514Z",
+      "updated": "2022-09-14T23:31:49.049Z",
       "status": "ACTIVE",
-      "referenceCount": 252,
+      "referenceCount": 253,
       "comment": null
     },
     {
@@ -78,9 +67,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-09-13T21:47:04.785Z",
+      "updated": "2022-09-15T01:00:22.201Z",
       "status": "ACTIVE",
-      "referenceCount": 1038,
+      "referenceCount": 1042,
       "comment": null
     },
     {
@@ -90,9 +79,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-09-14T00:06:19.207Z",
+      "updated": "2022-09-15T01:00:22.225Z",
       "status": "ACTIVE",
-      "referenceCount": 11602,
+      "referenceCount": 11612,
       "comment": null
     },
     {
