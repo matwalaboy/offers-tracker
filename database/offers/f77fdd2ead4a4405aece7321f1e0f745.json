@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-10-21T18:51:12.316Z",
-      "status": "ACTIVE",
-      "referenceCount": 4572,
-      "comment": null
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive",
@@ -51,7 +40,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-10-21T18:29:40.783Z",
+      "updated": "2022-10-25T01:31:01.224Z",
       "status": "ACTIVE",
       "referenceCount": 4457,
       "comment": null
@@ -63,9 +52,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-10-21T18:29:40.813Z",
+      "updated": "2022-10-25T01:31:01.193Z",
       "status": "ACTIVE",
-      "referenceCount": 2198,
+      "referenceCount": 2199,
       "comment": null
     },
     {
@@ -75,7 +64,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2022-10-21T15:18:04.222Z",
+      "updated": "2022-10-25T00:21:42.842Z",
       "status": "ACTIVE",
       "referenceCount": 566,
       "comment": null
@@ -87,9 +76,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-10-21T18:51:12.353Z",
+      "updated": "2022-10-25T01:31:01.299Z",
       "status": "ACTIVE",
-      "referenceCount": 2585,
+      "referenceCount": 2584,
       "comment": null
     },
     {
@@ -99,9 +88,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-10-21T16:41:23.437Z",
+      "updated": "2022-10-25T00:17:07.521Z",
       "status": "ACTIVE",
-      "referenceCount": 1384,
+      "referenceCount": 1385,
       "comment": null
     }
   ],

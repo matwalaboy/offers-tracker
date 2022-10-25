@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-10-21T18:29:40.813Z",
+      "updated": "2022-10-25T01:31:01.193Z",
       "status": "ACTIVE",
-      "referenceCount": 2198,
+      "referenceCount": 2199,
       "comment": null
     },
     {
@@ -57,23 +57,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-10-21T18:29:40.783Z",
+      "updated": "2022-10-25T01:31:01.224Z",
       "status": "ACTIVE",
       "referenceCount": 4457,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-10-22T16:45:43.225Z",
-      "status": "ACTIVE",
-      "referenceCount": 5250,
-      "comment": null
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -81,9 +70,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-10-22T02:03:08.797Z",
+      "updated": "2022-10-24T19:06:26.116Z",
       "status": "ACTIVE",
-      "referenceCount": 1067,
+      "referenceCount": 1068,
       "comment": null
     },
     {
@@ -93,9 +82,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-22T16:45:43.249Z",
+      "updated": "2022-10-25T01:31:01.276Z",
       "status": "ACTIVE",
-      "referenceCount": 11788,
+      "referenceCount": 11792,
       "comment": null
     },
     {
@@ -108,11 +97,12 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2022-10-20T12:06:11.428Z",
+      "updated": "2022-10-24T20:39:44.150Z",
       "status": "ACTIVE",
       "referenceCount": 2258,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {

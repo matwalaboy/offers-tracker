@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-10-21T18:51:12.316Z",
-      "status": "ACTIVE",
-      "referenceCount": 4572,
-      "comment": null
-    },
+    null,
     {
       "id": "1218",
       "name": "Horror",
@@ -57,9 +46,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2022-10-21T18:51:12.323Z",
+      "updated": "2022-10-24T08:17:22.562Z",
       "status": "ACTIVE",
-      "referenceCount": 516,
+      "referenceCount": 515,
       "comment": null
     },
     {
@@ -74,18 +63,7 @@
       "referenceCount": 1526,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-10-22T16:45:43.225Z",
-      "status": "ACTIVE",
-      "referenceCount": 5250,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -93,9 +71,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-22T16:45:43.249Z",
+      "updated": "2022-10-25T01:31:01.276Z",
       "status": "ACTIVE",
-      "referenceCount": 11788,
+      "referenceCount": 11792,
       "comment": null
     },
     {

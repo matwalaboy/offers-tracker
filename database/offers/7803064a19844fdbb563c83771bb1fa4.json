@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2022-10-21T18:51:12.316Z",
-      "status": "ACTIVE",
-      "referenceCount": 4572,
-      "comment": null
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op",
@@ -54,9 +43,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2022-10-21T21:41:28.458Z",
+      "updated": "2022-10-25T00:21:42.787Z",
       "status": "ACTIVE",
-      "referenceCount": 1957,
+      "referenceCount": 1956,
       "comment": null
     },
     {
@@ -66,7 +55,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2022-10-21T18:29:40.783Z",
+      "updated": "2022-10-25T01:31:01.224Z",
       "status": "ACTIVE",
       "referenceCount": 4457,
       "comment": null
@@ -78,9 +67,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2022-10-21T18:29:40.813Z",
+      "updated": "2022-10-25T01:31:01.193Z",
       "status": "ACTIVE",
-      "referenceCount": 2198,
+      "referenceCount": 2199,
       "comment": null
     },
     {
@@ -102,9 +91,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-10-22T16:45:43.249Z",
+      "updated": "2022-10-25T01:31:01.276Z",
       "status": "ACTIVE",
-      "referenceCount": 11788,
+      "referenceCount": 11792,
       "comment": null
     },
     {
@@ -114,9 +103,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2022-10-20T20:33:02.419Z",
+      "updated": "2022-10-24T14:15:51.026Z",
       "status": "ACTIVE",
-      "referenceCount": 190,
+      "referenceCount": 191,
       "comment": null
     },
     {
@@ -126,9 +115,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-10-21T18:51:12.353Z",
+      "updated": "2022-10-25T01:31:01.299Z",
       "status": "ACTIVE",
-      "referenceCount": 2585,
+      "referenceCount": 2584,
       "comment": null
     },
     {
@@ -138,9 +127,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2022-10-21T16:41:23.437Z",
+      "updated": "2022-10-25T00:17:07.521Z",
       "status": "ACTIVE",
-      "referenceCount": 1384,
+      "referenceCount": 1385,
       "comment": null
     }
   ],
