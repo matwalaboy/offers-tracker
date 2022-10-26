@@ -58,6 +58,18 @@
       "status": "ACTIVE",
       "referenceCount": 313,
       "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-10-25T23:24:53.264Z",
+      "status": "ACTIVE",
+      "referenceCount": 5257,
+      "comment": null
     }
   ],
   "customAttributes": [

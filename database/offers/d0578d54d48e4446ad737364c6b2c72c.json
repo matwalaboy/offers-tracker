@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2022-10-26T00:27:31.613Z",
+      "status": "ACTIVE",
+      "referenceCount": 4573,
+      "comment": null
+    },
     {
       "id": "1296",
       "name": "Casual",
@@ -43,12 +54,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2022-10-24T20:39:44.131Z",
+      "updated": "2022-10-25T11:19:41.378Z",
       "status": "ACTIVE",
-      "referenceCount": 697,
+      "referenceCount": 698,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2022-10-25T23:24:53.264Z",
+      "status": "ACTIVE",
+      "referenceCount": 5257,
+      "comment": null
+    },
     {
       "id": "1117",
       "name": "Adventure",
@@ -56,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2022-10-25T00:17:07.510Z",
+      "updated": "2022-10-25T18:07:48.892Z",
       "status": "ACTIVE",
-      "referenceCount": 1947,
+      "referenceCount": 1948,
       "comment": null
     }
   ],
