@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-01T21:57:16.442Z",
-      "status": "ACTIVE",
-      "referenceCount": 3172,
-      "comment": null
-    },
+    null,
     {
       "id": "22810",
       "name": "Daedalic Entertainment Publisher Sale",
@@ -66,7 +55,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2022-12-01T16:34:00.683Z",
+      "updated": "2022-12-02T18:24:09.618Z",
       "status": "ACTIVE",
       "referenceCount": 123,
       "comment": null
@@ -78,23 +67,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2022-12-01T21:40:38.637Z",
+      "updated": "2022-12-03T00:13:42.481Z",
       "status": "ACTIVE",
-      "referenceCount": 710,
+      "referenceCount": 712,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2022-12-01T22:15:40.520Z",
-      "status": "ACTIVE",
-      "referenceCount": 7481,
-      "comment": null
-    },
+    null,
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -114,9 +92,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2022-12-01T21:57:16.479Z",
+      "updated": "2022-12-03T00:09:26.106Z",
       "status": "ACTIVE",
-      "referenceCount": 1144,
+      "referenceCount": 1158,
       "comment": null
     }
   ],

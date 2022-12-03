@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2022-12-01T19:34:47.546Z",
-      "status": "ACTIVE",
-      "referenceCount": 897,
-      "comment": null
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -54,22 +43,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2022-12-01T20:54:16.066Z",
+      "updated": "2022-12-02T12:42:34.802Z",
       "status": "ACTIVE",
-      "referenceCount": 776,
+      "referenceCount": 780,
       "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-01T21:57:16.442Z",
-      "status": "ACTIVE",
-      "referenceCount": 3172,
-      "comment": null
     }
   ],
   "customAttributes": [

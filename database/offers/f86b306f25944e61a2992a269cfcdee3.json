@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2022-12-01T11:19:48.488Z",
+      "updated": "2022-12-02T23:53:12.312Z",
       "status": "ACTIVE",
       "referenceCount": 637,
       "comment": null
@@ -54,23 +54,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2022-12-01T19:34:47.561Z",
+      "updated": "2022-12-02T19:46:03.628Z",
       "status": "ACTIVE",
       "referenceCount": 315,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2022-12-01T21:57:16.442Z",
-      "status": "ACTIVE",
-      "referenceCount": 3172,
-      "comment": null
-    },
+    null,
     {
       "id": "1307",
       "name": "Open World",
@@ -78,7 +67,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2022-11-29T14:57:54.351Z",
+      "updated": "2022-12-02T23:53:12.301Z",
       "status": "ACTIVE",
       "referenceCount": 329,
       "comment": null
