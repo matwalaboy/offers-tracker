@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-05T16:01:03.059Z",
+      "updated": "2023-01-09T20:00:27.796Z",
       "status": "ACTIVE",
-      "referenceCount": 2405,
+      "referenceCount": 2404,
       "comment": ""
     },
     {
@@ -69,18 +69,6 @@
       "updated": "2023-01-03T18:45:14.359Z",
       "status": "ACTIVE",
       "referenceCount": 335,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-08T17:02:56.771Z",
-      "status": "ACTIVE",
-      "referenceCount": 7628,
       "comment": null
     }
   ],
