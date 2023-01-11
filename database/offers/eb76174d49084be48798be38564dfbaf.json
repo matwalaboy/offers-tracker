@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-01-09T18:11:18.917Z",
+      "updated": "2023-01-10T22:36:44.496Z",
       "status": "ACTIVE",
       "referenceCount": 1605,
       "comment": null
@@ -57,12 +57,23 @@
       "aliases": [],
       "operator": null,
       "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2023-01-09T20:00:27.676Z",
+      "updated": "2023-01-10T16:32:00.518Z",
       "status": "ACTIVE",
       "referenceCount": 1222,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-01-10T22:46:14.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 7640,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "Indie",
@@ -70,14 +81,47 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-01-09T07:28:05.472Z",
+      "updated": "2023-01-10T14:02:00.571Z",
       "status": "ACTIVE",
-      "referenceCount": 751,
+      "referenceCount": 752,
       "comment": null
     },
-    null,
-    null,
-    null,
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-01-10T16:32:00.553Z",
+      "status": "ACTIVE",
+      "referenceCount": 1192,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2023-01-10T16:32:00.561Z",
+      "status": "ACTIVE",
+      "referenceCount": 1968,
+      "comment": ""
+    },
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-01-10T22:46:14.595Z",
+      "status": "ACTIVE",
+      "referenceCount": 791,
+      "comment": null
+    },
     {
       "id": "1298",
       "name": "Puzzle",
@@ -85,9 +129,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-01-04T17:54:37.546Z",
+      "updated": "2023-01-10T19:08:16.568Z",
       "status": "ACTIVE",
-      "referenceCount": 251,
+      "referenceCount": 250,
       "comment": null
     },
     {
@@ -97,7 +141,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-08-25T14:44:49.018Z",
-      "updated": "2023-01-09T20:00:27.746Z",
+      "updated": "2023-01-10T16:32:00.574Z",
       "status": "ACTIVE",
       "referenceCount": 698,
       "comment": ""
@@ -121,7 +165,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:01:42.000Z",
-      "updated": "2023-01-09T20:00:27.754Z",
+      "updated": "2023-01-10T16:32:00.580Z",
       "status": "ACTIVE",
       "referenceCount": 930,
       "comment": ""
@@ -133,7 +177,7 @@
       "aliases": [],
       "operator": null,
       "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2023-01-09T20:00:27.788Z",
+      "updated": "2023-01-10T16:32:00.587Z",
       "status": "ACTIVE",
       "referenceCount": 1247,
       "comment": ""
@@ -145,7 +189,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-09T20:00:27.796Z",
+      "updated": "2023-01-10T16:32:00.595Z",
       "status": "ACTIVE",
       "referenceCount": 2404,
       "comment": ""

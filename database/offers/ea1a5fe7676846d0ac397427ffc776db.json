@@ -39,9 +39,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-01-09T12:55:52.754Z",
+      "updated": "2023-01-10T17:58:38.959Z",
       "status": "ACTIVE",
-      "referenceCount": 565,
+      "referenceCount": 566,
       "comment": null
     },
     {
@@ -51,7 +51,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-01-09T21:25:40.428Z",
+      "updated": "2023-01-10T22:46:14.618Z",
       "status": "ACTIVE",
       "referenceCount": 142,
       "comment": null
@@ -75,7 +75,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-01-09T22:42:46.125Z",
+      "updated": "2023-01-10T17:58:38.971Z",
       "status": "ACTIVE",
       "referenceCount": 1079,
       "comment": ""
@@ -87,9 +87,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-01-09T20:00:27.669Z",
+      "updated": "2023-01-10T15:26:07.419Z",
       "status": "ACTIVE",
-      "referenceCount": 870,
+      "referenceCount": 877,
       "comment": ""
     },
     {
@@ -99,9 +99,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-01-09T22:53:22.448Z",
+      "updated": "2023-01-10T22:46:14.647Z",
       "status": "ACTIVE",
-      "referenceCount": 3284,
+      "referenceCount": 3293,
       "comment": null
     },
     {
@@ -111,12 +111,23 @@
       "aliases": [],
       "operator": null,
       "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-09T20:00:27.796Z",
+      "updated": "2023-01-10T16:32:00.595Z",
       "status": "ACTIVE",
       "referenceCount": 2404,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-01-10T22:46:14.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 7640,
+      "comment": null
+    },
     {
       "id": "18046",
       "name": "Focus Publisher Sale",
@@ -127,6 +138,18 @@
       "updated": "2022-12-08T09:53:17.763Z",
       "status": "ACTIVE",
       "referenceCount": 81,
+      "comment": ""
+    },
+    {
+      "id": "18607",
+      "name": "Black Friday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-11-17T09:59:12.617Z",
+      "updated": "2023-01-10T16:32:00.561Z",
+      "status": "ACTIVE",
+      "referenceCount": 1968,
       "comment": ""
     }
   ],
