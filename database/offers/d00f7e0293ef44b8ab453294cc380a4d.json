@@ -107,18 +107,7 @@
       "referenceCount": 1197,
       "comment": null
     },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-01-13T13:45:47.017Z",
-      "status": "ACTIVE",
-      "referenceCount": 752,
-      "comment": null
-    },
+    null,
     {
       "id": "21137",
       "name": "Unique Visuals",
@@ -138,9 +127,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-01-13T15:02:36.647Z",
+      "updated": "2023-01-15T17:47:05.592Z",
       "status": "ACTIVE",
-      "referenceCount": 317,
+      "referenceCount": 318,
       "comment": ""
     },
     {
