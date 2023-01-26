@@ -42,59 +42,15 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-01-24T22:06:17.908Z",
+      "updated": "2023-01-25T21:57:02.887Z",
       "status": "ACTIVE",
       "referenceCount": 925,
       "comment": null
     },
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-01-24T18:52:06.981Z",
-      "status": "ACTIVE",
-      "referenceCount": 650,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-01-24T22:51:02.700Z",
-      "status": "ACTIVE",
-      "referenceCount": 3331,
-      "comment": null
-    },
-    {
-      "id": "14346",
-      "name": "Holiday Sale 2020",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2020-10-21T21:58:03.125Z",
-      "updated": "2023-01-24T21:44:00.894Z",
-      "status": "ACTIVE",
-      "referenceCount": 537,
-      "comment": ""
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2023-01-24T22:51:02.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 1242,
-      "comment": ""
-    },
+    null,
+    null,
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -102,9 +58,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-24T22:51:02.622Z",
+      "updated": "2023-01-26T00:03:13.946Z",
       "status": "ACTIVE",
-      "referenceCount": 7679,
+      "referenceCount": 7695,
       "comment": null
     },
     {
@@ -114,9 +70,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-01-24T22:51:02.724Z",
+      "updated": "2023-01-25T23:01:03.679Z",
       "status": "ACTIVE",
-      "referenceCount": 1154,
+      "referenceCount": 1159,
       "comment": null
     }
   ],
