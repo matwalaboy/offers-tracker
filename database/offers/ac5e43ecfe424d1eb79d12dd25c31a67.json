@@ -36,13 +36,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-01-25T21:22:28.289Z",
+      "updated": "2023-01-26T15:18:47.976Z",
       "status": "ACTIVE",
       "referenceCount": 146,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-01-27T00:18:51.208Z",
+      "status": "ACTIVE",
+      "referenceCount": 652,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-01-27T00:18:51.232Z",
+      "status": "ACTIVE",
+      "referenceCount": 3348,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -50,9 +72,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-26T00:03:13.946Z",
+      "updated": "2023-01-27T00:18:51.252Z",
       "status": "ACTIVE",
-      "referenceCount": 7695,
+      "referenceCount": 7700,
       "comment": null
     },
     {
@@ -62,9 +84,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-01-25T23:01:03.743Z",
+      "updated": "2023-01-27T00:11:15.851Z",
       "status": "ACTIVE",
-      "referenceCount": 757,
+      "referenceCount": 763,
       "comment": null
     }
   ],
