@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-01-27T20:17:51.403Z",
+      "updated": "2023-01-28T09:20:34.408Z",
       "status": "ACTIVE",
       "referenceCount": 1631,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:06:21.330Z",
-      "updated": "2023-01-24T20:41:21.626Z",
+      "updated": "2023-01-28T23:32:14.103Z",
       "status": "ACTIVE",
       "referenceCount": 52,
       "comment": "From Ratings & Polls results."
@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-01-27T14:23:30.188Z",
+      "updated": "2023-01-28T18:55:32.895Z",
       "status": "ACTIVE",
-      "referenceCount": 228,
+      "referenceCount": 229,
       "comment": ""
     },
     {
@@ -134,18 +134,7 @@
       "referenceCount": 1519,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-01-28T00:22:48.760Z",
-      "status": "ACTIVE",
-      "referenceCount": 7704,
-      "comment": null
-    },
+    null,
     {
       "id": "22798",
       "name": "PlayStation Publisher Sale",
@@ -170,18 +159,7 @@
       "referenceCount": 1184,
       "comment": ""
     },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2023-01-27T23:16:32.496Z",
-      "status": "ACTIVE",
-      "referenceCount": 1914,
-      "comment": ""
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -194,18 +172,7 @@
       "referenceCount": 318,
       "comment": ""
     },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-01-27T22:46:55.092Z",
-      "status": "ACTIVE",
-      "referenceCount": 1430,
-      "comment": null
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive",
@@ -213,9 +180,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-01-27T14:19:51.090Z",
+      "updated": "2023-01-28T02:42:22.991Z",
       "status": "ACTIVE",
-      "referenceCount": 331,
+      "referenceCount": 332,
       "comment": null
     },
     {
@@ -237,9 +204,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-01-27T16:27:36.719Z",
+      "updated": "2023-01-28T21:56:58.756Z",
       "status": "ACTIVE",
-      "referenceCount": 291,
+      "referenceCount": 294,
       "comment": ""
     },
     {
@@ -300,30 +267,6 @@
       "updated": "2023-01-27T23:16:32.522Z",
       "status": "ACTIVE",
       "referenceCount": 1238,
-      "comment": ""
-    },
-    {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-27T23:16:32.530Z",
-      "status": "ACTIVE",
-      "referenceCount": 2337,
-      "comment": ""
-    },
-    {
-      "id": "21149",
-      "name": "Quickly Understand the Controls",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:39:57.117Z",
-      "updated": "2023-01-27T17:40:45.161Z",
-      "status": "ACTIVE",
-      "referenceCount": 298,
       "comment": ""
     }
   ],

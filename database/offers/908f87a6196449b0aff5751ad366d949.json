@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-01-28T09:20:34.408Z",
+      "status": "ACTIVE",
+      "referenceCount": 1631,
+      "comment": null
+    },
     {
       "id": "1336",
       "name": "Action-Adventure",
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:19:41.315Z",
-      "updated": "2023-01-27T22:19:06.420Z",
+      "updated": "2023-01-28T06:38:01.936Z",
       "status": "ACTIVE",
-      "referenceCount": 126,
+      "referenceCount": 125,
       "comment": ""
     },
     {
@@ -67,9 +78,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-01-28T00:22:48.739Z",
+      "updated": "2023-01-28T05:55:43.940Z",
       "status": "ACTIVE",
       "referenceCount": 3352,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-01-27T23:16:32.549Z",
+      "status": "ACTIVE",
+      "referenceCount": 1161,
       "comment": null
     }
   ],
