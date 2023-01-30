@@ -110,7 +110,18 @@
       "referenceCount": 1519,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-01-28T09:20:34.451Z",
+      "status": "ACTIVE",
+      "referenceCount": 7704,
+      "comment": null
+    },
     {
       "id": "15375",
       "name": "Spring Sale",
@@ -166,9 +177,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-01-27T14:23:30.180Z",
+      "updated": "2023-01-29T12:35:07.209Z",
       "status": "ACTIVE",
-      "referenceCount": 288,
+      "referenceCount": 289,
       "comment": ""
     },
     {
@@ -214,12 +225,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-01-27T15:25:48.245Z",
+      "updated": "2023-01-29T15:48:26.107Z",
       "status": "ACTIVE",
       "referenceCount": 928,
       "comment": null
     },
-    null,
+    {
+      "id": "18777",
+      "name": "The Game Awards Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-12-02T19:01:42.000Z",
+      "updated": "2023-01-27T23:16:32.516Z",
+      "status": "ACTIVE",
+      "referenceCount": 889,
+      "comment": ""
+    },
     {
       "id": "18778",
       "name": "Holiday Sale 2021",
@@ -251,9 +273,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-01-28T04:49:04.955Z",
+      "updated": "2023-01-29T13:20:10.780Z",
       "status": "ACTIVE",
-      "referenceCount": 100,
+      "referenceCount": 99,
       "comment": ""
     },
     {
@@ -268,7 +290,18 @@
       "referenceCount": 1161,
       "comment": null
     },
-    null,
+    {
+      "id": "21149",
+      "name": "Quickly Understand the Controls",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:39:57.117Z",
+      "updated": "2023-01-29T11:56:33.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 299,
+      "comment": ""
+    },
     {
       "id": "10719",
       "name": "Mac OS",
@@ -330,6 +363,18 @@
       "updated": "2023-01-27T23:16:32.454Z",
       "status": "ACTIVE",
       "referenceCount": 1210,
+      "comment": ""
+    },
+    {
+      "id": "24570",
+      "name": "Holiday Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-12-14T20:45:17.902Z",
+      "updated": "2023-01-27T23:16:32.530Z",
+      "status": "ACTIVE",
+      "referenceCount": 2337,
       "comment": ""
     }
   ],
