@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-02-01T23:10:06.114Z",
+      "updated": "2023-02-02T18:51:30.813Z",
       "status": "ACTIVE",
       "referenceCount": 1634,
       "comment": null
@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-02-01T10:42:28.788Z",
+      "updated": "2023-02-02T22:03:28.060Z",
       "status": "ACTIVE",
-      "referenceCount": 230,
+      "referenceCount": 231,
       "comment": ""
     },
     {
@@ -81,9 +81,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-02-01T16:46:13.737Z",
+      "updated": "2023-02-02T18:10:28.271Z",
       "status": "ACTIVE",
-      "referenceCount": 1086,
+      "referenceCount": 1087,
       "comment": ""
     },
     {
@@ -122,18 +122,7 @@
       "referenceCount": 1518,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-01T23:10:06.177Z",
-      "status": "ACTIVE",
-      "referenceCount": 7717,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -141,9 +130,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-02-01T19:47:45.036Z",
+      "updated": "2023-02-02T23:40:32.306Z",
       "status": "ACTIVE",
-      "referenceCount": 1230,
+      "referenceCount": 1232,
       "comment": null
     },
     {
@@ -177,9 +166,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-01-27T17:17:50.437Z",
+      "updated": "2023-02-02T01:54:30.487Z",
       "status": "ACTIVE",
-      "referenceCount": 318,
+      "referenceCount": 319,
       "comment": ""
     },
     {
@@ -201,23 +190,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-01-29T12:35:07.209Z",
+      "updated": "2023-02-02T14:45:22.532Z",
       "status": "ACTIVE",
-      "referenceCount": 289,
+      "referenceCount": 290,
       "comment": ""
     },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-01-28T21:56:58.756Z",
-      "status": "ACTIVE",
-      "referenceCount": 294,
-      "comment": ""
-    },
+    null,
     {
       "id": "17493",
       "name": "September Savings",
@@ -230,18 +208,7 @@
       "referenceCount": 698,
       "comment": ""
     },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-01-30T15:38:09.534Z",
-      "status": "ACTIVE",
-      "referenceCount": 307,
-      "comment": ""
-    },
+    null,
     {
       "id": "18777",
       "name": "The Game Awards Sale",
@@ -261,9 +228,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-01T21:31:03.322Z",
+      "updated": "2023-02-02T22:55:05.856Z",
       "status": "ACTIVE",
-      "referenceCount": 3356,
+      "referenceCount": 3423,
       "comment": null
     },
     {
@@ -300,9 +267,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-02-01T17:12:09.524Z",
+      "updated": "2023-02-02T22:51:57.520Z",
       "status": "ACTIVE",
-      "referenceCount": 558,
+      "referenceCount": 557,
       "comment": null
     },
     {
@@ -317,18 +284,7 @@
       "referenceCount": 368,
       "comment": ""
     },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-01-28T05:17:05.018Z",
-      "status": "ACTIVE",
-      "referenceCount": 262,
-      "comment": null
-    },
+    null,
     {
       "id": "19242",
       "name": "Lunar New Year Sale",
@@ -336,35 +292,13 @@
       "aliases": [],
       "operator": null,
       "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2023-01-31T15:32:54.566Z",
+      "updated": "2023-02-02T04:52:27.868Z",
       "status": "ACTIVE",
-      "referenceCount": 1209,
+      "referenceCount": 1208,
       "comment": ""
     },
-    {
-      "id": "25898",
-      "name": "February Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-01-19T20:08:31.658Z",
-      "updated": "2023-02-01T21:55:13.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 1730,
-      "comment": ""
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2023-01-31T15:53:46.076Z",
-      "status": "ACTIVE",
-      "referenceCount": 1908,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "21109",
       "name": "Great Boss Battles",
@@ -384,23 +318,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-01-31T23:55:56.079Z",
+      "updated": "2023-02-02T13:43:50.278Z",
       "status": "ACTIVE",
       "referenceCount": 517,
       "comment": null
     },
-    {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-31T15:53:46.003Z",
-      "status": "ACTIVE",
-      "referenceCount": 2331,
-      "comment": ""
-    },
+    null,
     {
       "id": "21119",
       "name": "Great for Beginners",

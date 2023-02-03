@@ -42,35 +42,13 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-02-01T10:42:28.788Z",
+      "updated": "2023-02-02T22:03:28.060Z",
       "status": "ACTIVE",
-      "referenceCount": 230,
+      "referenceCount": 231,
       "comment": ""
     },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-01-28T05:17:05.018Z",
-      "status": "ACTIVE",
-      "referenceCount": 262,
-      "comment": null
-    },
-    {
-      "id": "25898",
-      "name": "February Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-01-19T20:08:31.658Z",
-      "updated": "2023-02-01T21:55:13.654Z",
-      "status": "ACTIVE",
-      "referenceCount": 1730,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -83,18 +61,7 @@
       "referenceCount": 1518,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-01T23:10:06.177Z",
-      "status": "ACTIVE",
-      "referenceCount": 7717,
-      "comment": null
-    },
+    null,
     {
       "id": "15375",
       "name": "Spring Sale",
@@ -107,18 +74,7 @@
       "referenceCount": 1183,
       "comment": ""
     },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2023-01-31T15:53:46.076Z",
-      "status": "ACTIVE",
-      "referenceCount": 1908,
-      "comment": ""
-    },
+    null,
     {
       "id": "21136",
       "name": "Playful Visuals",
@@ -126,9 +82,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:27:25.710Z",
-      "updated": "2023-01-16T15:52:53.152Z",
+      "updated": "2023-02-02T22:18:05.232Z",
       "status": "ACTIVE",
-      "referenceCount": 28,
+      "referenceCount": 29,
       "comment": ""
     },
     {
@@ -138,9 +94,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-01-27T17:17:50.437Z",
+      "updated": "2023-02-02T01:54:30.487Z",
       "status": "ACTIVE",
-      "referenceCount": 318,
+      "referenceCount": 319,
       "comment": ""
     },
     {
@@ -150,23 +106,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-01-29T12:35:07.209Z",
+      "updated": "2023-02-02T14:45:22.532Z",
       "status": "ACTIVE",
-      "referenceCount": 289,
+      "referenceCount": 290,
       "comment": ""
     },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-01-28T21:56:58.756Z",
-      "status": "ACTIVE",
-      "referenceCount": 294,
-      "comment": ""
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG",
@@ -174,9 +119,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-02-01T09:58:28.091Z",
+      "updated": "2023-02-02T20:30:43.822Z",
       "status": "ACTIVE",
-      "referenceCount": 929,
+      "referenceCount": 930,
       "comment": null
     },
     {
@@ -186,23 +131,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-01T21:31:03.322Z",
+      "updated": "2023-02-02T22:55:05.856Z",
       "status": "ACTIVE",
-      "referenceCount": 3356,
+      "referenceCount": 3423,
       "comment": null
     },
-    {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-01-31T15:53:46.003Z",
-      "status": "ACTIVE",
-      "referenceCount": 2331,
-      "comment": ""
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -210,9 +144,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-02-01T17:07:38.883Z",
+      "updated": "2023-02-02T18:53:58.455Z",
       "status": "ACTIVE",
-      "referenceCount": 764,
+      "referenceCount": 766,
       "comment": null
     },
     {
@@ -227,18 +161,7 @@
       "referenceCount": 100,
       "comment": ""
     },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-02-01T22:21:29.763Z",
-      "status": "ACTIVE",
-      "referenceCount": 1165,
-      "comment": null
-    },
+    null,
     {
       "id": "21149",
       "name": "Quickly Understand the Controls",
