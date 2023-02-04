@@ -8,7 +8,7 @@
   "productSlug": "brawlhalla",
   "urlSlug": "brawlhalla",
   "creationDate": "2022-09-15T03:45:01.851Z",
-  "lastModifiedDate": "2023-02-02T22:03:28.049Z",
+  "lastModifiedDate": "2023-02-03T20:41:18.331Z",
   "effectiveDate": "2022-11-15T17:00:00.000Z",
   "viewableDate": "2022-11-15T17:00:00.000Z",
   "developer": null,
@@ -38,54 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "Casual",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-02-01T19:47:44.967Z",
-      "status": "ACTIVE",
-      "referenceCount": 200,
-      "comment": null
-    },
-    {
-      "id": "1344",
-      "name": "Fighting",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-01-31T19:29:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 104,
-      "comment": null
-    },
-    {
-      "id": "21121",
-      "name": "Great for Quick Sessions",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:06:21.330Z",
-      "updated": "2023-01-28T23:32:14.103Z",
-      "status": "ACTIVE",
-      "referenceCount": 52,
-      "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "21122",
-      "name": "Diverse Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-02-02T22:03:28.060Z",
-      "status": "ACTIVE",
-      "referenceCount": 231,
-      "comment": ""
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -93,9 +50,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-02-02T15:06:01.902Z",
+      "updated": "2023-02-03T13:50:10.342Z",
       "status": "ACTIVE",
-      "referenceCount": 1433,
+      "referenceCount": 1438,
       "comment": null
     },
     {
@@ -105,9 +62,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-02-02T20:29:15.422Z",
+      "updated": "2023-02-03T21:46:52.484Z",
       "status": "ACTIVE",
-      "referenceCount": 332,
+      "referenceCount": 292,
       "comment": null
     },
     {
@@ -141,7 +98,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-01-30T15:38:09.534Z",
+      "updated": "2023-02-03T19:25:15.228Z",
       "status": "ACTIVE",
       "referenceCount": 307,
       "comment": ""
@@ -153,9 +110,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-02T22:55:05.876Z",
+      "updated": "2023-02-03T22:30:51.119Z",
       "status": "ACTIVE",
-      "referenceCount": 7781,
+      "referenceCount": 7788,
       "comment": null
     },
     {
@@ -165,9 +122,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-02-02T20:30:43.897Z",
+      "updated": "2023-02-03T22:30:51.141Z",
       "status": "ACTIVE",
-      "referenceCount": 765,
+      "referenceCount": 767,
       "comment": null
     }
   ],
