@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-02-03T18:06:13.707Z",
-      "status": "ACTIVE",
-      "referenceCount": 650,
-      "comment": null
-    },
+    null,
     {
       "id": "1395",
       "name": "Narration",
@@ -59,18 +48,7 @@
       "referenceCount": 163,
       "comment": null
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-02-03T20:51:18.378Z",
-      "status": "ACTIVE",
-      "referenceCount": 1086,
-      "comment": ""
-    },
+    null,
     {
       "id": "1127",
       "name": "Investigation",
@@ -83,18 +61,7 @@
       "referenceCount": 62,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-03T22:30:51.097Z",
-      "status": "ACTIVE",
-      "referenceCount": 3429,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",

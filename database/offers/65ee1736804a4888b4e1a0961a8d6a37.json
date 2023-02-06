@@ -47,18 +47,7 @@
       "referenceCount": 299,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-03T22:30:51.097Z",
-      "status": "ACTIVE",
-      "referenceCount": 3429,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -102,21 +91,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-02-03T19:25:15.336Z",
+      "updated": "2023-02-05T06:34:36.761Z",
       "status": "ACTIVE",
-      "referenceCount": 1231,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-02-04T06:58:42.472Z",
-      "status": "ACTIVE",
-      "referenceCount": 768,
+      "referenceCount": 1232,
       "comment": null
     }
   ],
