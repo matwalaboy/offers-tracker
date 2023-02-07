@@ -39,13 +39,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-02-03T12:57:40.435Z",
+      "updated": "2023-02-07T00:01:56.506Z",
       "status": "ACTIVE",
-      "referenceCount": 299,
+      "referenceCount": 300,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-02-06T23:52:56.027Z",
+      "status": "ACTIVE",
+      "referenceCount": 342,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-02-07T00:17:36.388Z",
+      "status": "ACTIVE",
+      "referenceCount": 3429,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -53,9 +75,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-03T22:30:51.119Z",
+      "updated": "2023-02-07T00:17:36.396Z",
       "status": "ACTIVE",
-      "referenceCount": 7788,
+      "referenceCount": 7790,
       "comment": null
     },
     {
@@ -69,6 +91,18 @@
       "status": "ACTIVE",
       "referenceCount": 1518,
       "comment": ""
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-02-06T20:40:38.456Z",
+      "status": "ACTIVE",
+      "referenceCount": 768,
+      "comment": null
     }
   ],
   "customAttributes": [
