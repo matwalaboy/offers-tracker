@@ -8,7 +8,7 @@
   "productSlug": "a-jugglers-tale",
   "urlSlug": "a-jugglers-tale",
   "creationDate": "2020-07-03T22:20:17.290Z",
-  "lastModifiedDate": "2023-02-02T06:03:38.074Z",
+  "lastModifiedDate": "2023-02-10T08:08:37.496Z",
   "effectiveDate": "2021-09-29T16:00:00.000Z",
   "viewableDate": "2021-08-20T15:00:00.000Z",
   "developer": null,
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-02-08T23:05:38.388Z",
+      "updated": "2023-02-10T17:51:47.942Z",
       "status": "ACTIVE",
       "referenceCount": 1089,
       "comment": ""
@@ -69,34 +69,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-09T22:30:31.673Z",
+      "updated": "2023-02-10T22:37:38.445Z",
       "status": "ACTIVE",
       "referenceCount": 3452,
       "comment": null
-    },
-    {
-      "id": "18778",
-      "name": "Holiday Sale 2021",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-12-02T19:04:11.086Z",
-      "updated": "2023-02-07T09:24:46.794Z",
-      "status": "ACTIVE",
-      "referenceCount": 589,
-      "comment": ""
-    },
-    {
-      "id": "19242",
-      "name": "Lunar New Year Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-01-13T19:24:05.305Z",
-      "updated": "2023-02-07T09:24:46.790Z",
-      "status": "ACTIVE",
-      "referenceCount": 624,
-      "comment": ""
     },
     {
       "id": "25898",
@@ -117,22 +93,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-09T21:06:29.324Z",
+      "updated": "2023-02-11T00:12:34.538Z",
       "status": "ACTIVE",
-      "referenceCount": 7808,
+      "referenceCount": 7811,
       "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-02-08T22:40:08.864Z",
-      "status": "ACTIVE",
-      "referenceCount": 832,
-      "comment": ""
     },
     {
       "id": "1117",
@@ -141,9 +105,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-02-09T20:02:50.567Z",
+      "updated": "2023-02-10T21:20:49.042Z",
       "status": "ACTIVE",
-      "referenceCount": 1179,
+      "referenceCount": 1181,
       "comment": null
     },
     {
@@ -153,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-02-09T20:27:36.849Z",
+      "updated": "2023-02-10T21:51:57.852Z",
       "status": "ACTIVE",
-      "referenceCount": 1235,
+      "referenceCount": 1237,
       "comment": null
     },
     {
@@ -165,22 +129,10 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-02-09T17:41:27.236Z",
+      "updated": "2023-02-10T21:20:49.064Z",
       "status": "ACTIVE",
       "referenceCount": 267,
       "comment": null
-    },
-    {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-02-07T09:24:46.808Z",
-      "status": "ACTIVE",
-      "referenceCount": 572,
-      "comment": ""
     }
   ],
   "customAttributes": [
