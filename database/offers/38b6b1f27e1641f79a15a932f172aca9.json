@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "7ee83b29a581473baad0fafdae864532",
-  "creationDate": "2023-02-08T23:06:07.372Z",
-  "lastModifiedDate": "2023-02-08T23:06:07.372Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2023-02-02T23:07:53.380Z",
+  "lastModifiedDate": "2023-02-08T23:05:47.365Z",
+  "effectiveDate": "2023-02-17T08:00:00.000Z",
   "viewableDate": "2023-02-07T01:30:00.000Z",
   "developer": null,
   "seller": {
@@ -35,42 +35,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-15T00:46:33.832Z",
-      "status": "ACTIVE",
-      "referenceCount": 3467,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-15T00:25:28.977Z",
-      "status": "ACTIVE",
-      "referenceCount": 7819,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-02-15T00:46:33.847Z",
-      "status": "ACTIVE",
-      "referenceCount": 1190,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -78,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-02-15T00:46:33.839Z",
+      "updated": "2023-02-16T00:04:10.475Z",
       "status": "ACTIVE",
-      "referenceCount": 1244,
+      "referenceCount": 1247,
       "comment": null
     },
     {
@@ -90,9 +57,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-02-14T15:13:45.828Z",
+      "updated": "2023-02-16T00:24:17.749Z",
       "status": "ACTIVE",
-      "referenceCount": 117,
+      "referenceCount": 121,
       "comment": null
     }
   ],
