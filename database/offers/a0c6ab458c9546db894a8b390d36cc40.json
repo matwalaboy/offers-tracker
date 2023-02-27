@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-02-25T04:04:59.330Z",
-      "status": "ACTIVE",
-      "referenceCount": 1474,
-      "comment": null
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -63,23 +52,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-25T19:33:56.737Z",
+      "updated": "2023-02-26T20:04:09.912Z",
       "status": "ACTIVE",
       "referenceCount": 3515,
       "comment": null
     },
-    {
-      "id": "25898",
-      "name": "February Savings",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-01-19T20:08:31.658Z",
-      "updated": "2023-02-22T17:33:17.092Z",
-      "status": "ACTIVE",
-      "referenceCount": 1746,
-      "comment": ""
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -87,7 +65,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-02-25T12:54:53.321Z",
+      "updated": "2023-02-26T18:45:36.378Z",
       "status": "ACTIVE",
       "referenceCount": 787,
       "comment": null
