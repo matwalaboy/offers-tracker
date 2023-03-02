@@ -45,23 +45,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-02-28T17:48:48.250Z",
+      "updated": "2023-03-01T22:58:56.641Z",
       "status": "ACTIVE",
-      "referenceCount": 1475,
+      "referenceCount": 1476,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-02-28T20:41:22.958Z",
-      "status": "ACTIVE",
-      "referenceCount": 3526,
-      "comment": null
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -69,21 +58,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-02-28T17:59:40.776Z",
+      "updated": "2023-03-01T13:54:54.521Z",
       "status": "ACTIVE",
-      "referenceCount": 792,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-02-28T23:59:04.208Z",
-      "status": "ACTIVE",
-      "referenceCount": 7884,
+      "referenceCount": 793,
       "comment": null
     }
   ],
