@@ -45,12 +45,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-03-01T19:06:07.325Z",
+      "updated": "2023-03-02T22:47:37.149Z",
       "status": "ACTIVE",
-      "referenceCount": 945,
+      "referenceCount": 946,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-03T00:18:16.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 3538,
+      "comment": null
+    },
     {
       "id": "1386",
       "name": "Turn-Based",
@@ -58,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-03-01T19:06:07.351Z",
+      "updated": "2023-03-02T21:24:16.043Z",
       "status": "ACTIVE",
-      "referenceCount": 159,
+      "referenceCount": 160,
       "comment": null
     },
     {
@@ -70,10 +81,34 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-02-28T19:38:51.322Z",
+      "updated": "2023-03-02T12:12:14.964Z",
       "status": "ACTIVE",
-      "referenceCount": 99,
+      "referenceCount": 100,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-03T01:22:02.797Z",
+      "status": "ACTIVE",
+      "referenceCount": 7890,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-03-03T00:18:17.003Z",
+      "status": "ACTIVE",
+      "referenceCount": 796,
+      "comment": null
     }
   ],
   "customAttributes": [

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "087554b828c74f419d938063b2c34b81",
   "creationDate": "2022-05-06T05:52:38.568Z",
-  "lastModifiedDate": "2023-01-16T14:37:35.714Z",
+  "lastModifiedDate": "2023-03-02T15:07:22.517Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2023-01-10T14:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-03T00:18:16.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 3538,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "Strategy",
@@ -43,9 +54,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-01T13:54:54.521Z",
+      "updated": "2023-03-02T22:47:37.178Z",
       "status": "ACTIVE",
-      "referenceCount": 793,
+      "referenceCount": 795,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-03T01:22:02.797Z",
+      "status": "ACTIVE",
+      "referenceCount": 7890,
       "comment": null
     }
   ],
@@ -64,7 +87,7 @@
     },
     {
       "key": "isBlockchainUsed",
-      "value": "null"
+      "value": "false"
     }
   ],
   "keyImages": [
