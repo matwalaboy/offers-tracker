@@ -32,42 +32,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-03-01T20:05:01.215Z",
-      "status": "ACTIVE",
-      "referenceCount": 978,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-03T00:18:16.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 3538,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-02T22:47:37.178Z",
-      "status": "ACTIVE",
-      "referenceCount": 795,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -75,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-03T01:22:02.797Z",
+      "updated": "2023-03-04T00:57:29.877Z",
       "status": "ACTIVE",
-      "referenceCount": 7890,
+      "referenceCount": 7893,
       "comment": null
     },
     {
@@ -87,11 +54,13 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-03-02T19:50:36.917Z",
+      "updated": "2023-03-03T22:56:29.386Z",
       "status": "ACTIVE",
-      "referenceCount": 119,
+      "referenceCount": 118,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
