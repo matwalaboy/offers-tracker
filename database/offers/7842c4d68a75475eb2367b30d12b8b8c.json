@@ -8,7 +8,7 @@
   "productSlug": "dread-nautical/home",
   "urlSlug": "opahprepurchaseoffer",
   "creationDate": "2020-02-11T17:04:52.363Z",
-  "lastModifiedDate": "2023-03-05T05:38:33.015Z",
+  "lastModifiedDate": "2023-03-17T09:00:56.971Z",
   "effectiveDate": "2020-03-23T09:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,42 +35,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-16T23:46:38.371Z",
-      "status": "ACTIVE",
-      "referenceCount": 1701,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-17T00:03:38.907Z",
-      "status": "ACTIVE",
-      "referenceCount": 7997,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-03-16T23:49:42.298Z",
-      "status": "ACTIVE",
-      "referenceCount": 818,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

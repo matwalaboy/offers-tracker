@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-16T23:46:38.371Z",
-      "status": "ACTIVE",
-      "referenceCount": 1701,
-      "comment": null
-    },
+    null,
     {
       "id": "1393",
       "name": "Simulation",
@@ -54,23 +43,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-03-16T22:06:49.743Z",
+      "updated": "2023-03-17T21:58:34.938Z",
       "status": "ACTIVE",
-      "referenceCount": 703,
+      "referenceCount": 705,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-16T23:49:42.232Z",
-      "status": "ACTIVE",
-      "referenceCount": 3629,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -78,9 +56,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-03-16T23:49:42.285Z",
+      "updated": "2023-03-17T23:47:46.232Z",
       "status": "ACTIVE",
-      "referenceCount": 1318,
+      "referenceCount": 1325,
       "comment": null
     },
     {
@@ -90,21 +68,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:52.671Z",
-      "updated": "2023-03-16T18:40:23.941Z",
+      "updated": "2023-03-17T23:46:20.249Z",
       "status": "ACTIVE",
-      "referenceCount": 121,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-03-16T23:49:42.298Z",
-      "status": "ACTIVE",
-      "referenceCount": 818,
+      "referenceCount": 124,
       "comment": null
     }
   ],
