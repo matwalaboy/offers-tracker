@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-03-22T00:50:06.169Z",
-      "status": "ACTIVE",
-      "referenceCount": 313,
-      "comment": null
-    },
+    null,
     {
       "id": "1381",
       "name": "Exploration",
@@ -51,35 +40,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-03-21T18:47:27.177Z",
+      "updated": "2023-03-22T18:03:10.541Z",
       "status": "ACTIVE",
-      "referenceCount": 152,
+      "referenceCount": 153,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-22T00:50:06.188Z",
-      "status": "ACTIVE",
-      "referenceCount": 3688,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-22T00:50:06.209Z",
-      "status": "ACTIVE",
-      "referenceCount": 8042,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -87,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-03-21T22:56:06.091Z",
+      "updated": "2023-03-23T00:43:16.225Z",
       "status": "ACTIVE",
-      "referenceCount": 1249,
+      "referenceCount": 1253,
       "comment": null
     }
   ],

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "6007a730f49942d2a67f6aa712a5335c",
   "creationDate": "2023-03-13T00:08:37.641Z",
-  "lastModifiedDate": "2023-03-18T12:03:31.263Z",
+  "lastModifiedDate": "2023-03-21T15:39:54.120Z",
   "effectiveDate": "2023-04-14T04:00:00.000Z",
   "viewableDate": "2023-03-16T12:30:00.000Z",
   "developer": null,
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:43.018Z",
-      "updated": "2023-03-21T20:40:06.033Z",
+      "updated": "2023-03-22T15:48:42.813Z",
       "status": "ACTIVE",
-      "referenceCount": 15,
+      "referenceCount": 14,
       "comment": null
     },
     {
@@ -54,23 +54,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:41.164Z",
-      "updated": "2023-03-21T21:22:30.464Z",
+      "updated": "2023-03-22T08:01:39.069Z",
       "status": "ACTIVE",
-      "referenceCount": 47,
+      "referenceCount": 48,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-22T00:50:06.188Z",
-      "status": "ACTIVE",
-      "referenceCount": 3688,
-      "comment": null
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -78,21 +67,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-21T22:42:28.000Z",
+      "updated": "2023-03-23T00:04:32.902Z",
       "status": "ACTIVE",
-      "referenceCount": 829,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-22T00:50:06.209Z",
-      "status": "ACTIVE",
-      "referenceCount": 8042,
+      "referenceCount": 835,
       "comment": null
     }
   ],
