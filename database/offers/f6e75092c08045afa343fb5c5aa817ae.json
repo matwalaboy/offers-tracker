@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-24T00:36:07.406Z",
+      "status": "ACTIVE",
+      "referenceCount": 3736,
+      "comment": null
+    },
     {
       "id": "22810",
       "name": "Daedalic Entertainment Publisher Sale",
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-03-22T21:09:11.641Z",
+      "updated": "2023-03-23T21:52:12.437Z",
       "status": "ACTIVE",
-      "referenceCount": 148,
+      "referenceCount": 149,
       "comment": null
     },
     {
@@ -67,12 +78,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-23T00:04:32.902Z",
+      "updated": "2023-03-23T23:06:35.845Z",
       "status": "ACTIVE",
-      "referenceCount": 835,
+      "referenceCount": 838,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-24T00:36:07.425Z",
+      "status": "ACTIVE",
+      "referenceCount": 8069,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "Controller Support",
@@ -80,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-03-23T00:43:16.237Z",
+      "updated": "2023-03-23T21:52:12.449Z",
       "status": "ACTIVE",
-      "referenceCount": 1361,
+      "referenceCount": 1375,
       "comment": null
     }
   ],

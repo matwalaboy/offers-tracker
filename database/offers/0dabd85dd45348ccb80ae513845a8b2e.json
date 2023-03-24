@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-03-23T00:30:24.925Z",
+      "updated": "2023-03-23T16:12:03.888Z",
       "status": "ACTIVE",
-      "referenceCount": 220,
+      "referenceCount": 222,
       "comment": null
     },
     {
@@ -54,13 +54,35 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-03-23T00:35:14.006Z",
+      "updated": "2023-03-23T17:00:05.843Z",
       "status": "ACTIVE",
-      "referenceCount": 720,
+      "referenceCount": 726,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-03-23T22:35:35.246Z",
+      "status": "ACTIVE",
+      "referenceCount": 1546,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-24T00:36:07.406Z",
+      "status": "ACTIVE",
+      "referenceCount": 3736,
+      "comment": null
+    },
     {
       "id": "1307",
       "name": "Open World",
@@ -68,9 +90,33 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-03-22T08:12:04.190Z",
+      "updated": "2023-03-23T22:35:35.308Z",
       "status": "ACTIVE",
-      "referenceCount": 351,
+      "referenceCount": 350,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-24T00:36:07.425Z",
+      "status": "ACTIVE",
+      "referenceCount": 8069,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-03-23T23:06:35.879Z",
+      "status": "ACTIVE",
+      "referenceCount": 135,
       "comment": null
     }
   ],

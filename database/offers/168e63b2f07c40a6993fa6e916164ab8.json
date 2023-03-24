@@ -35,8 +35,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-03-23T23:06:35.816Z",
+      "status": "ACTIVE",
+      "referenceCount": 673,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-24T00:36:07.406Z",
+      "status": "ACTIVE",
+      "referenceCount": 3736,
+      "comment": null
+    },
     {
       "id": "1307",
       "name": "Open World",
@@ -44,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-03-22T08:12:04.190Z",
+      "updated": "2023-03-23T22:35:35.308Z",
       "status": "ACTIVE",
-      "referenceCount": 351,
+      "referenceCount": 350,
       "comment": null
     },
     {
@@ -56,12 +78,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-03-23T00:43:16.237Z",
+      "updated": "2023-03-23T21:52:12.449Z",
       "status": "ACTIVE",
-      "referenceCount": 1361,
+      "referenceCount": 1375,
       "comment": null
     },
-    null,
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2023-03-23T23:06:35.879Z",
+      "status": "ACTIVE",
+      "referenceCount": 135,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "Indie",
@@ -69,9 +102,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-03-23T00:43:16.260Z",
+      "updated": "2023-03-24T00:23:21.927Z",
       "status": "ACTIVE",
-      "referenceCount": 856,
+      "referenceCount": 862,
       "comment": null
     }
   ],
