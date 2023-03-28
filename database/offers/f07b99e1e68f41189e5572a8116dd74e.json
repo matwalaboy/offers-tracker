@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "hot-wheels-unleashed--corvette-stingray-convertible",
   "creationDate": "2021-06-25T22:10:56.649Z",
-  "lastModifiedDate": "2023-03-17T08:37:29.869Z",
+  "lastModifiedDate": "2023-03-27T12:06:19.703Z",
   "effectiveDate": "2022-03-24T13:00:00.000Z",
   "viewableDate": "2022-03-24T13:00:00.000Z",
   "developer": null,
@@ -35,17 +35,18 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
       "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
+      "referenceCount": 1693,
+      "comment": ""
     }
   ],
   "customAttributes": [

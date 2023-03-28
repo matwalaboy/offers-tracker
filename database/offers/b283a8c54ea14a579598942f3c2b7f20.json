@@ -8,7 +8,7 @@
   "productSlug": "worms-rumble",
   "urlSlug": "worms-rumble",
   "creationDate": "2020-02-26T15:22:11.901Z",
-  "lastModifiedDate": "2023-02-10T19:06:55.234Z",
+  "lastModifiedDate": "2023-03-27T12:07:11.030Z",
   "effectiveDate": "2021-06-23T18:00:00.000Z",
   "viewableDate": "2021-06-23T18:00:00.000Z",
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-26T22:17:42.958Z",
-      "status": "ACTIVE",
-      "referenceCount": 1733,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -57,9 +46,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-03-26T23:40:18.882Z",
+      "updated": "2023-03-27T22:43:18.619Z",
       "status": "ACTIVE",
-      "referenceCount": 1546,
+      "referenceCount": 1547,
       "comment": null
     },
     {
@@ -74,29 +63,19 @@
       "referenceCount": 24,
       "comment": null
     },
+    null,
+    null,
     {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-26T23:51:16.116Z",
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
       "status": "ACTIVE",
-      "referenceCount": 839,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
-      "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
+      "referenceCount": 1693,
+      "comment": ""
     }
   ],
   "customAttributes": [

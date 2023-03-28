@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "cc668518cf5646be97ebc79c1ef35a64",
   "creationDate": "2021-10-18T17:38:41.911Z",
-  "lastModifiedDate": "2023-03-17T09:02:17.725Z",
+  "lastModifiedDate": "2023-03-27T12:05:38.251Z",
   "effectiveDate": "2021-10-26T17:00:00.000Z",
   "viewableDate": "2021-10-21T22:00:00.000Z",
   "developer": null,
@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-03-26T23:37:36.880Z",
+      "updated": "2023-03-27T19:03:38.974Z",
       "status": "ACTIVE",
-      "referenceCount": 323,
+      "referenceCount": 324,
       "comment": null
     },
     {
@@ -54,24 +54,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-03-25T21:22:44.129Z",
+      "updated": "2023-03-27T12:44:35.589Z",
       "status": "ACTIVE",
-      "referenceCount": 554,
+      "referenceCount": 560,
       "comment": null
     },
     null,
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
-      "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person",
@@ -79,10 +68,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-03-26T23:37:36.903Z",
+      "updated": "2023-03-27T19:03:39.039Z",
       "status": "ACTIVE",
       "referenceCount": 267,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
+      "status": "ACTIVE",
+      "referenceCount": 1693,
+      "comment": ""
     }
   ],
   "customAttributes": [

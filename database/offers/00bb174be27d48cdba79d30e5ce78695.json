@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "overcooked-2--carnival-of-chaos",
   "creationDate": "2019-10-14T19:05:41.578Z",
-  "lastModifiedDate": "2021-06-17T14:28:28.792Z",
+  "lastModifiedDate": "2023-03-27T12:07:01.780Z",
   "effectiveDate": "2021-06-17T15:00:00.000Z",
   "viewableDate": "2021-06-10T15:00:00.000Z",
   "developer": null,
@@ -35,17 +35,18 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
       "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
+      "referenceCount": 1693,
+      "comment": ""
     }
   ],
   "customAttributes": [

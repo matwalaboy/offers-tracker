@@ -8,7 +8,7 @@
   "productSlug": "focus-indies-bundle",
   "urlSlug": "brunswickgreengeneralaudience",
   "creationDate": "2022-01-10T18:17:25.753Z",
-  "lastModifiedDate": "2023-03-17T08:47:31.397Z",
+  "lastModifiedDate": "2023-03-27T12:12:14.252Z",
   "effectiveDate": "2022-01-20T18:00:00.000Z",
   "viewableDate": "2022-01-20T18:00:00.000Z",
   "developer": null,
@@ -35,42 +35,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-26T22:17:42.958Z",
-      "status": "ACTIVE",
-      "referenceCount": 1733,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-27T00:18:29.522Z",
-      "status": "ACTIVE",
-      "referenceCount": 3751,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
-      "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -78,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-03-27T00:18:29.535Z",
+      "updated": "2023-03-28T00:11:55.374Z",
       "status": "ACTIVE",
-      "referenceCount": 1259,
+      "referenceCount": 1262,
       "comment": null
     },
     {
@@ -102,10 +69,22 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-03-27T00:18:29.546Z",
+      "updated": "2023-03-27T23:50:21.913Z",
       "status": "ACTIVE",
-      "referenceCount": 870,
+      "referenceCount": 873,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
+      "status": "ACTIVE",
+      "referenceCount": 1693,
+      "comment": ""
     }
   ],
   "customAttributes": [

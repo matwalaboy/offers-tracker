@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ghostrunner--metal-ox-pack",
   "creationDate": "2021-03-31T23:34:57.402Z",
-  "lastModifiedDate": "2023-03-17T09:02:48.266Z",
+  "lastModifiedDate": "2023-03-27T12:09:54.082Z",
   "effectiveDate": "2021-04-12T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -48,18 +48,7 @@
       "comment": ""
     },
     null,
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-26T23:48:26.436Z",
-      "status": "ACTIVE",
-      "referenceCount": 8079,
-      "comment": null
-    },
+    null,
     {
       "id": "1132",
       "name": "SCI-FI",
@@ -71,6 +60,18 @@
       "status": "ACTIVE",
       "referenceCount": 88,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-27T12:13:01.607Z",
+      "status": "ACTIVE",
+      "referenceCount": 1693,
+      "comment": ""
     },
     {
       "id": "22799",
