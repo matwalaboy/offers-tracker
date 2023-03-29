@@ -46,12 +46,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-03-27T17:18:24.315Z",
+      "updated": "2023-03-28T22:46:04.693Z",
       "status": "ACTIVE",
       "referenceCount": 156,
       "comment": null
     },
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-03-28T23:59:23.290Z",
+      "status": "ACTIVE",
+      "referenceCount": 845,
+      "comment": null
+    },
     {
       "id": "20475",
       "name": "Plug in Digital Publisher Sale",
@@ -72,9 +83,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-03-27T12:13:01.607Z",
+      "updated": "2023-03-28T12:35:50.369Z",
       "status": "ACTIVE",
-      "referenceCount": 1693,
+      "referenceCount": 1888,
       "comment": ""
     }
   ],

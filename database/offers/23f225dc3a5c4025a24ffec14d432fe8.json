@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-03-28T22:39:27.395Z",
+      "status": "ACTIVE",
+      "referenceCount": 1740,
+      "comment": null
+    },
     {
       "id": "23298",
       "name": "2K Gearbox Halloween Sale",
@@ -82,9 +93,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-03-27T21:20:45.413Z",
+      "updated": "2023-03-28T23:37:10.080Z",
       "status": "ACTIVE",
-      "referenceCount": 379,
+      "referenceCount": 377,
       "comment": null
     },
     null,
@@ -96,9 +107,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-03-28T00:11:55.374Z",
+      "updated": "2023-03-28T22:08:14.658Z",
       "status": "ACTIVE",
-      "referenceCount": 1262,
+      "referenceCount": 1264,
       "comment": null
     },
     {
@@ -108,9 +119,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-03-27T12:13:01.607Z",
+      "updated": "2023-03-28T12:35:50.369Z",
       "status": "ACTIVE",
-      "referenceCount": 1693,
+      "referenceCount": 1888,
       "comment": ""
     }
   ],

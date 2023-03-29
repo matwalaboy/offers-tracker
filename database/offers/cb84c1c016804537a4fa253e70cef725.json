@@ -32,7 +32,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-03-28T22:39:27.395Z",
+      "status": "ACTIVE",
+      "referenceCount": 1740,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -40,14 +51,47 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-03-27T11:52:23.373Z",
+      "updated": "2023-03-28T22:39:27.413Z",
       "status": "ACTIVE",
-      "referenceCount": 974,
+      "referenceCount": 975,
       "comment": null
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-29T00:05:04.990Z",
+      "status": "ACTIVE",
+      "referenceCount": 3786,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-03-28T23:59:23.290Z",
+      "status": "ACTIVE",
+      "referenceCount": 845,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-28T23:37:10.120Z",
+      "status": "ACTIVE",
+      "referenceCount": 8117,
+      "comment": null
+    },
     {
       "id": "15375",
       "name": "Spring Sale",
@@ -55,9 +99,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-03-27T12:13:01.607Z",
+      "updated": "2023-03-28T12:35:50.369Z",
       "status": "ACTIVE",
-      "referenceCount": 1693,
+      "referenceCount": 1888,
       "comment": ""
     }
   ],

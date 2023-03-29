@@ -8,7 +8,7 @@
   "productSlug": "a-total-war-saga-troy/amazons",
   "urlSlug": "total-war-saga-troy-amazons",
   "creationDate": "2020-07-03T15:32:59.468Z",
-  "lastModifiedDate": "2023-03-17T08:47:34.388Z",
+  "lastModifiedDate": "2023-03-28T12:34:44.615Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,23 +45,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-03-27T22:43:18.619Z",
+      "updated": "2023-03-28T19:53:11.994Z",
       "status": "ACTIVE",
-      "referenceCount": 1547,
+      "referenceCount": 1550,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-28T00:11:55.363Z",
-      "status": "ACTIVE",
-      "referenceCount": 3763,
-      "comment": null
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -69,23 +58,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-03-27T23:50:21.863Z",
+      "updated": "2023-03-28T23:59:23.290Z",
       "status": "ACTIVE",
-      "referenceCount": 840,
+      "referenceCount": 845,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-27T23:50:21.853Z",
-      "status": "ACTIVE",
-      "referenceCount": 8093,
-      "comment": null
-    },
+    null,
     {
       "id": "9548",
       "name": "OSX",
@@ -111,10 +89,22 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-03-27T23:50:21.899Z",
+      "updated": "2023-03-28T22:08:14.670Z",
       "status": "ACTIVE",
       "referenceCount": 594,
       "comment": null
+    },
+    {
+      "id": "15375",
+      "name": "Spring Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-03-10T09:37:21.403Z",
+      "updated": "2023-03-28T12:35:50.369Z",
+      "status": "ACTIVE",
+      "referenceCount": 1888,
+      "comment": ""
     }
   ],
   "customAttributes": [

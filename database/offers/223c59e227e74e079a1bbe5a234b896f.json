@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-03-26T23:48:26.400Z",
+      "updated": "2023-03-28T20:48:34.127Z",
       "status": "ACTIVE",
-      "referenceCount": 179,
+      "referenceCount": 181,
       "comment": null
     },
     {
@@ -54,13 +54,24 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-03-27T22:43:18.601Z",
+      "updated": "2023-03-28T22:39:27.422Z",
       "status": "ACTIVE",
-      "referenceCount": 1464,
+      "referenceCount": 1482,
       "comment": ""
     },
     null,
-    null,
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-03-28T23:59:23.290Z",
+      "status": "ACTIVE",
+      "referenceCount": 845,
+      "comment": null
+    },
     null,
     {
       "id": "1181",
@@ -81,9 +92,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-03-27T12:13:01.607Z",
+      "updated": "2023-03-28T12:35:50.369Z",
       "status": "ACTIVE",
-      "referenceCount": 1693,
+      "referenceCount": 1888,
       "comment": ""
     }
   ],

@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-2",
   "urlSlug": "crystalgeneralaudience",
   "creationDate": "2020-02-14T16:55:56.025Z",
-  "lastModifiedDate": "2023-02-07T09:19:38.662Z",
+  "lastModifiedDate": "2023-03-28T13:57:03.770Z",
   "effectiveDate": "2020-10-06T15:00:00.000Z",
   "viewableDate": "2020-07-28T14:59:00.000Z",
   "developer": null,
@@ -38,16 +38,17 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
+      "id": "21141",
+      "name": "Extremely Fun",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-03-27T19:53:19.280Z",
+      "created": "2022-05-17T21:31:30.352Z",
+      "updated": "2023-03-28T13:57:03.791Z",
       "status": "ACTIVE",
-      "referenceCount": 297,
+      "referenceCount": 309,
       "comment": ""
     },
     {
@@ -69,35 +70,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-03-27T21:20:45.413Z",
+      "updated": "2023-03-28T23:37:10.080Z",
       "status": "ACTIVE",
-      "referenceCount": 379,
+      "referenceCount": 377,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-03-28T00:11:55.363Z",
-      "status": "ACTIVE",
-      "referenceCount": 3763,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-03-27T23:50:21.853Z",
-      "status": "ACTIVE",
-      "referenceCount": 8093,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1084",
       "name": "Stealth",
@@ -105,9 +84,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2023-03-27T14:15:52.921Z",
+      "updated": "2023-03-28T11:52:42.293Z",
       "status": "ACTIVE",
-      "referenceCount": 129,
+      "referenceCount": 127,
       "comment": null
     }
   ],
