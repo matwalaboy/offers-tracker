@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-03-28T22:39:27.395Z",
+      "updated": "2023-03-29T22:11:45.727Z",
       "status": "ACTIVE",
-      "referenceCount": 1740,
+      "referenceCount": 1741,
       "comment": null
     },
     {
@@ -74,7 +74,18 @@
       "referenceCount": 146,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-03-30T00:25:36.023Z",
+      "status": "ACTIVE",
+      "referenceCount": 8125,
+      "comment": null
+    },
     {
       "id": "20237",
       "name": "Square Enix Sale",
@@ -99,8 +110,30 @@
       "referenceCount": 323,
       "comment": ""
     },
-    null,
-    null,
+    {
+      "id": "21139",
+      "name": "Amazing Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:04.563Z",
+      "updated": "2023-03-29T05:09:06.487Z",
+      "status": "ACTIVE",
+      "referenceCount": 296,
+      "comment": ""
+    },
+    {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-03-29T22:05:07.125Z",
+      "status": "ACTIVE",
+      "referenceCount": 298,
+      "comment": ""
+    },
     {
       "id": "21109",
       "name": "Great Boss Battles",
@@ -120,9 +153,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-03-28T13:57:03.791Z",
+      "updated": "2023-03-29T08:19:07.750Z",
       "status": "ACTIVE",
-      "referenceCount": 309,
+      "referenceCount": 310,
       "comment": ""
     },
     {
@@ -137,7 +170,18 @@
       "referenceCount": 45,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-03-30T00:25:35.981Z",
+      "status": "ACTIVE",
+      "referenceCount": 3794,
+      "comment": null
+    },
     {
       "id": "1307",
       "name": "Open World",
@@ -145,7 +189,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-03-28T17:10:25.971Z",
+      "updated": "2023-03-29T15:27:05.273Z",
       "status": "ACTIVE",
       "referenceCount": 351,
       "comment": null
@@ -169,7 +213,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-03-28T12:57:52.775Z",
+      "updated": "2023-03-29T15:41:29.641Z",
       "status": "ACTIVE",
       "referenceCount": 197,
       "comment": "From Ratings & Polls results."
