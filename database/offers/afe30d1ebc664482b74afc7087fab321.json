@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-04-05T10:40:51.037Z",
-      "status": "ACTIVE",
-      "referenceCount": 329,
-      "comment": null
-    },
+    null,
     {
       "id": "1127",
       "name": "Investigation",
@@ -60,9 +49,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-06T00:35:21.693Z",
+      "updated": "2023-04-07T00:26:49.003Z",
       "status": "ACTIVE",
-      "referenceCount": 3860,
+      "referenceCount": 3873,
       "comment": null
     },
     {
@@ -72,9 +61,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-06T00:35:21.711Z",
+      "updated": "2023-04-06T23:29:26.286Z",
       "status": "ACTIVE",
-      "referenceCount": 8193,
+      "referenceCount": 8210,
       "comment": null
     },
     {
@@ -99,9 +88,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-04-05T21:01:35.743Z",
+      "updated": "2023-04-06T15:31:52.299Z",
       "status": "ACTIVE",
-      "referenceCount": 279,
+      "referenceCount": 281,
       "comment": null
     }
   ],
