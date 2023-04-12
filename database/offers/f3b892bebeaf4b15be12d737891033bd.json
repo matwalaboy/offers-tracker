@@ -35,42 +35,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-04-11T00:07:58.472Z",
-      "status": "ACTIVE",
-      "referenceCount": 1544,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-10T22:18:55.641Z",
-      "status": "ACTIVE",
-      "referenceCount": 8224,
-      "comment": null
-    },
-    {
-      "id": "18607",
-      "name": "Black Friday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-11-17T09:59:12.617Z",
-      "updated": "2023-04-06T15:01:46.754Z",
-      "status": "ACTIVE",
-      "referenceCount": 17,
-      "comment": ""
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

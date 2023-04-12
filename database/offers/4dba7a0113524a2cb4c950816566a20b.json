@@ -32,30 +32,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-04-10T22:18:55.586Z",
-      "status": "ACTIVE",
-      "referenceCount": 1774,
-      "comment": null
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-04-11T00:07:58.472Z",
-      "status": "ACTIVE",
-      "referenceCount": 1544,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "1336",
       "name": "Action-Adventure",
@@ -63,9 +41,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-10T18:20:38.695Z",
+      "updated": "2023-04-12T00:03:59.743Z",
       "status": "ACTIVE",
-      "referenceCount": 393,
+      "referenceCount": 394,
       "comment": null
     },
     {
@@ -75,9 +53,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-10T23:21:57.835Z",
+      "updated": "2023-04-12T00:03:59.756Z",
       "status": "ACTIVE",
-      "referenceCount": 3887,
+      "referenceCount": 3895,
       "comment": null
     }
   ],

@@ -39,23 +39,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-10T23:21:57.835Z",
+      "updated": "2023-04-12T00:03:59.756Z",
       "status": "ACTIVE",
-      "referenceCount": 3887,
+      "referenceCount": 3895,
       "comment": null
     },
-    {
-      "id": "22810",
-      "name": "Daedalic Entertainment Publisher Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-16T04:35:54.840Z",
-      "updated": "2022-11-14T21:29:48.566Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": ""
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -63,7 +52,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-04-10T22:18:55.618Z",
+      "updated": "2023-04-11T18:05:55.767Z",
       "status": "ACTIVE",
       "referenceCount": 162,
       "comment": null
@@ -75,23 +64,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-04-10T23:21:57.845Z",
+      "updated": "2023-04-11T20:29:04.210Z",
       "status": "ACTIVE",
-      "referenceCount": 867,
+      "referenceCount": 870,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-10T22:18:55.641Z",
-      "status": "ACTIVE",
-      "referenceCount": 8224,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -99,9 +77,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-04-11T00:24:21.244Z",
+      "updated": "2023-04-12T00:03:59.766Z",
       "status": "ACTIVE",
-      "referenceCount": 1427,
+      "referenceCount": 1430,
       "comment": null
     }
   ],
