@@ -45,12 +45,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:18.078Z",
-      "updated": "2023-04-11T12:54:10.740Z",
+      "updated": "2023-04-12T13:53:11.926Z",
       "status": "ACTIVE",
       "referenceCount": 69,
       "comment": null
     },
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-04-12T22:51:06.245Z",
+      "status": "ACTIVE",
+      "referenceCount": 1784,
+      "comment": null
+    },
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -58,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-04-11T18:05:55.767Z",
+      "updated": "2023-04-12T18:30:59.246Z",
       "status": "ACTIVE",
       "referenceCount": 162,
       "comment": null
@@ -70,12 +81,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-04-11T20:29:04.210Z",
+      "updated": "2023-04-12T19:53:56.650Z",
       "status": "ACTIVE",
       "referenceCount": 870,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-13T00:46:22.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 8258,
+      "comment": null
+    },
     {
       "id": "22924",
       "name": "Raw Fury Publisher Sale",
@@ -95,9 +117,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-04-12T00:03:59.766Z",
+      "updated": "2023-04-12T22:51:06.293Z",
       "status": "ACTIVE",
-      "referenceCount": 1430,
+      "referenceCount": 1438,
       "comment": null
     }
   ],

@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-04-13T00:46:22.072Z",
+      "status": "ACTIVE",
+      "referenceCount": 766,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-04-11T19:43:14.429Z",
+      "updated": "2023-04-13T00:46:22.121Z",
       "status": "ACTIVE",
-      "referenceCount": 1578,
+      "referenceCount": 1591,
       "comment": null
     },
     {
@@ -55,12 +66,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-04-10T14:17:49.359Z",
+      "updated": "2023-04-12T21:21:15.126Z",
       "status": "ACTIVE",
-      "referenceCount": 680,
+      "referenceCount": 686,
       "comment": null
     },
-    null,
+    {
+      "id": "22810",
+      "name": "Daedalic Entertainment Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-16T04:35:54.840Z",
+      "updated": "2022-11-14T21:29:48.566Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": ""
+    },
     {
       "id": "1307",
       "name": "Open World",
@@ -68,9 +90,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-04-11T19:43:14.447Z",
+      "updated": "2023-04-12T21:21:15.110Z",
       "status": "ACTIVE",
-      "referenceCount": 353,
+      "referenceCount": 355,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-13T00:46:22.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 8258,
       "comment": null
     }
   ],

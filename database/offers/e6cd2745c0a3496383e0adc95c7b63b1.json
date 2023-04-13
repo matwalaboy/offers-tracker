@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-04-11T23:27:05.033Z",
+      "updated": "2023-04-12T22:51:06.245Z",
       "status": "ACTIVE",
-      "referenceCount": 1777,
+      "referenceCount": 1784,
       "comment": null
     },
     {
@@ -57,23 +57,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-04-11T18:05:55.803Z",
+      "updated": "2023-04-12T14:57:27.261Z",
       "status": "ACTIVE",
-      "referenceCount": 239,
+      "referenceCount": 240,
       "comment": ""
     },
-    {
-      "id": "1188",
-      "name": "RELAXING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-04-11T18:05:55.699Z",
-      "status": "ACTIVE",
-      "referenceCount": 284,
-      "comment": null
-    },
+    null,
     {
       "id": "19943",
       "name": "Ubisoft Publisher Sale",
@@ -93,23 +82,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:16:58.023Z",
-      "updated": "2023-04-11T18:05:55.815Z",
+      "updated": "2023-04-12T21:43:02.587Z",
       "status": "ACTIVE",
-      "referenceCount": 143,
+      "referenceCount": 144,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-12T00:05:54.341Z",
-      "status": "ACTIVE",
-      "referenceCount": 8241,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -117,9 +95,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-04-12T00:03:59.766Z",
+      "updated": "2023-04-12T22:51:06.293Z",
       "status": "ACTIVE",
-      "referenceCount": 1430,
+      "referenceCount": 1438,
       "comment": null
     },
     {
@@ -129,9 +107,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-04-11T18:05:55.821Z",
+      "updated": "2023-04-12T23:47:06.169Z",
       "status": "ACTIVE",
-      "referenceCount": 320,
+      "referenceCount": 322,
       "comment": ""
     },
     {
@@ -141,9 +119,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-04-11T18:05:55.712Z",
+      "updated": "2023-04-12T05:06:53.203Z",
       "status": "ACTIVE",
-      "referenceCount": 301,
+      "referenceCount": 300,
       "comment": ""
     },
     {
@@ -177,9 +155,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-12T00:03:59.756Z",
+      "updated": "2023-04-13T00:46:22.089Z",
       "status": "ACTIVE",
-      "referenceCount": 3895,
+      "referenceCount": 3914,
       "comment": null
     },
     {
@@ -201,9 +179,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-04-11T19:43:14.447Z",
+      "updated": "2023-04-12T21:21:15.110Z",
       "status": "ACTIVE",
-      "referenceCount": 353,
+      "referenceCount": 355,
       "comment": null
     },
     {
@@ -213,7 +191,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2023-04-11T14:14:27.547Z",
+      "updated": "2023-04-12T22:51:06.282Z",
       "status": "ACTIVE",
       "referenceCount": 129,
       "comment": null

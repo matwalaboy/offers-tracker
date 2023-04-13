@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-04-13T00:46:22.072Z",
+      "status": "ACTIVE",
+      "referenceCount": 766,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

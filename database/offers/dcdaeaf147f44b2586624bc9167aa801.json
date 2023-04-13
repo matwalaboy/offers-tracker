@@ -32,7 +32,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-04-13T00:46:22.072Z",
+      "status": "ACTIVE",
+      "referenceCount": 766,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "Survival",
@@ -40,9 +51,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-04-10T14:17:49.359Z",
+      "updated": "2023-04-12T21:21:15.126Z",
       "status": "ACTIVE",
-      "referenceCount": 680,
+      "referenceCount": 686,
       "comment": null
     },
     {
@@ -64,9 +75,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-12T00:03:59.756Z",
+      "updated": "2023-04-13T00:46:22.089Z",
       "status": "ACTIVE",
-      "referenceCount": 3895,
+      "referenceCount": 3914,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-13T00:46:22.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 8258,
       "comment": null
     }
   ],

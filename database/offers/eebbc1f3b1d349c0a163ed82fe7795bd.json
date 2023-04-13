@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-04-12T22:51:06.245Z",
+      "status": "ACTIVE",
+      "referenceCount": 1784,
+      "comment": null
+    },
     {
       "id": "1344",
       "name": "Fighting",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2023-04-11T08:24:57.556Z",
+      "updated": "2023-04-12T12:22:42.210Z",
       "status": "ACTIVE",
-      "referenceCount": 110,
+      "referenceCount": 111,
       "comment": null
     },
     {
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-04-11T13:16:02.914Z",
+      "updated": "2023-04-12T21:21:15.098Z",
       "status": "ACTIVE",
-      "referenceCount": 331,
+      "referenceCount": 335,
       "comment": null
     },
     {
@@ -67,9 +78,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-12T00:03:59.756Z",
+      "updated": "2023-04-13T00:46:22.089Z",
       "status": "ACTIVE",
-      "referenceCount": 3895,
+      "referenceCount": 3914,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-13T00:46:22.109Z",
+      "status": "ACTIVE",
+      "referenceCount": 8258,
       "comment": null
     }
   ],
