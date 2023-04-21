@@ -8,7 +8,7 @@
   "productSlug": "ghost-recon-future-soldier/home",
   "urlSlug": "burmillageneralaudience",
   "creationDate": "2020-04-02T22:01:39.510Z",
-  "lastModifiedDate": "2023-04-19T01:05:05.983Z",
+  "lastModifiedDate": "2023-04-20T15:00:52.560Z",
   "effectiveDate": "2020-08-25T15:00:00.000Z",
   "viewableDate": "2020-07-28T14:59:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-04-20T22:05:13.383Z",
+      "status": "ACTIVE",
+      "referenceCount": 1799,
+      "comment": null
+    },
     {
       "id": "1187",
       "name": "THIRD-PERSON SHOOTER",
@@ -63,19 +74,29 @@
       "referenceCount": 43,
       "comment": ""
     },
-    null,
-    null,
     {
-      "id": "15375",
-      "name": "Spring Sale",
+      "id": "19943",
+      "name": "Ubisoft Publisher Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-04-13T19:49:13.961Z",
+      "created": "2022-03-01T15:17:13.040Z",
+      "updated": "2023-03-02T21:54:47.994Z",
       "status": "ACTIVE",
-      "referenceCount": 2091,
+      "referenceCount": 193,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-21T00:17:00.613Z",
+      "status": "ACTIVE",
+      "referenceCount": 8351,
+      "comment": null
     }
   ],
   "customAttributes": [

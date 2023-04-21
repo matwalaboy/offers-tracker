@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1381",
-      "name": "Exploration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-04-19T23:01:40.950Z",
-      "status": "ACTIVE",
-      "referenceCount": 162,
-      "comment": null
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG",
@@ -57,35 +46,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-04-19T22:15:28.713Z",
+      "updated": "2023-04-20T16:00:28.070Z",
       "status": "ACTIVE",
-      "referenceCount": 1001,
+      "referenceCount": 1007,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-20T00:23:41.399Z",
-      "status": "ACTIVE",
-      "referenceCount": 3976,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-20T00:23:41.431Z",
-      "status": "ACTIVE",
-      "referenceCount": 8335,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "europa-universalis-iv--art-of-war-ep",
   "creationDate": "2020-12-10T00:21:19.662Z",
-  "lastModifiedDate": "2023-04-04T08:33:24.435Z",
+  "lastModifiedDate": "2023-04-20T15:06:55.411Z",
   "effectiveDate": "2021-09-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -47,18 +47,17 @@
       "referenceCount": 74,
       "comment": ""
     },
-    null,
     {
-      "id": "15375",
-      "name": "Spring Sale",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-04-13T19:49:13.961Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-21T00:17:00.613Z",
       "status": "ACTIVE",
-      "referenceCount": 2091,
-      "comment": ""
+      "referenceCount": 8351,
+      "comment": null
     }
   ],
   "customAttributes": [

@@ -8,7 +8,7 @@
   "productSlug": "trials-rising/expansion-pass",
   "urlSlug": "trials-rising--expansion-pass",
   "creationDate": "2019-09-03T22:05:36.505Z",
-  "lastModifiedDate": "2023-03-31T13:54:55.137Z",
+  "lastModifiedDate": "2023-04-20T15:09:36.329Z",
   "effectiveDate": "2019-09-06T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,19 +35,29 @@
     }
   ],
   "tags": [
-    null,
-    null,
     {
-      "id": "15375",
-      "name": "Spring Sale",
+      "id": "19943",
+      "name": "Ubisoft Publisher Sale",
       "namespace": null,
       "aliases": [],
       "operator": null,
-      "created": "2021-03-10T09:37:21.403Z",
-      "updated": "2023-04-13T19:49:13.961Z",
+      "created": "2022-03-01T15:17:13.040Z",
+      "updated": "2023-03-02T21:54:47.994Z",
       "status": "ACTIVE",
-      "referenceCount": 2091,
+      "referenceCount": 193,
       "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-21T00:17:00.613Z",
+      "status": "ACTIVE",
+      "referenceCount": 8351,
+      "comment": null
     }
   ],
   "customAttributes": [
