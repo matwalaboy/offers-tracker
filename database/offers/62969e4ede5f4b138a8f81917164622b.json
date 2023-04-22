@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-04-20T17:06:08.340Z",
+      "updated": "2023-04-21T20:53:08.716Z",
       "status": "ACTIVE",
       "referenceCount": 702,
       "comment": null
@@ -59,7 +59,18 @@
       "referenceCount": 151,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-04-22T00:53:56.260Z",
+      "status": "ACTIVE",
+      "referenceCount": 3995,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "Strategy",
@@ -67,9 +78,33 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-04-20T14:59:44.627Z",
+      "updated": "2023-04-21T16:11:28.843Z",
       "status": "ACTIVE",
       "referenceCount": 880,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-22T00:53:56.279Z",
+      "status": "ACTIVE",
+      "referenceCount": 8361,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-04-21T20:56:33.492Z",
+      "status": "ACTIVE",
+      "referenceCount": 1471,
       "comment": null
     }
   ],

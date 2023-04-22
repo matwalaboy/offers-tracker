@@ -42,9 +42,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-20T22:42:29.207Z",
+      "updated": "2023-04-21T15:23:53.864Z",
       "status": "ACTIVE",
       "referenceCount": 410,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-04-22T00:53:56.260Z",
+      "status": "ACTIVE",
+      "referenceCount": 3995,
       "comment": null
     }
   ],
