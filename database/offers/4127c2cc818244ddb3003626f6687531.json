@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-04-22T22:39:06.536Z",
-      "status": "ACTIVE",
-      "referenceCount": 1807,
-      "comment": null
-    },
+    null,
     {
       "id": "17779",
       "name": "Paradox Publisher Sale",
@@ -69,7 +58,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-04-21T16:11:28.801Z",
+      "updated": "2023-04-24T00:01:36.236Z",
       "status": "ACTIVE",
       "referenceCount": 1007,
       "comment": null
@@ -93,7 +82,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-21T15:23:53.864Z",
+      "updated": "2023-04-23T22:30:32.047Z",
       "status": "ACTIVE",
       "referenceCount": 410,
       "comment": null
@@ -122,18 +111,7 @@
       "referenceCount": 8,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-22T22:39:06.552Z",
-      "status": "ACTIVE",
-      "referenceCount": 8370,
-      "comment": null
-    },
+    null,
     {
       "id": "15375",
       "name": "Spring Sale",
