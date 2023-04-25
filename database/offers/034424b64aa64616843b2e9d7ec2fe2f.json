@@ -7,10 +7,10 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "1c871d830a5848a385b93ea0c5194eb7",
-  "creationDate": "2023-04-12T10:53:04.326Z",
-  "lastModifiedDate": "2023-04-20T07:36:39.433Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2023-03-09T18:30:00.000Z",
+  "creationDate": "2023-03-09T17:45:24.316Z",
+  "lastModifiedDate": "2023-04-23T19:40:59.996Z",
+  "effectiveDate": "2023-04-26T17:00:00.000Z",
+  "viewableDate": "2023-04-11T21:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-vss4f2pllp8n9mlcv67d2qjle72425",
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-04-24T21:46:22.737Z",
+      "status": "ACTIVE",
+      "referenceCount": 1811,
+      "comment": null
+    },
     {
       "id": "1218",
       "name": "Horror",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-04-23T20:35:47.623Z",
+      "updated": "2023-04-24T16:00:40.054Z",
       "status": "ACTIVE",
-      "referenceCount": 344,
+      "referenceCount": 345,
       "comment": null
     },
     {
@@ -55,15 +66,47 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-04-23T20:35:47.632Z",
+      "updated": "2023-04-24T15:11:46.557Z",
       "status": "ACTIVE",
-      "referenceCount": 1659,
+      "referenceCount": 1669,
       "comment": ""
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-04-24T23:47:24.808Z",
+      "status": "ACTIVE",
+      "referenceCount": 704,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-04-24T22:48:59.368Z",
+      "status": "ACTIVE",
+      "referenceCount": 4017,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-04-24T23:40:44.982Z",
+      "status": "ACTIVE",
+      "referenceCount": 8447,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -72,7 +115,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "false"
+      "value": "true"
     },
     {
       "key": "isManuallySetPCReleaseDate",
