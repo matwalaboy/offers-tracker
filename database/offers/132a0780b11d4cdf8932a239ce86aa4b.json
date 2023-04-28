@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-04-26T23:26:19.392Z",
-      "status": "ACTIVE",
-      "referenceCount": 1010,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-27T00:44:16.865Z",
-      "status": "ACTIVE",
-      "referenceCount": 4044,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1386",
       "name": "Turn-Based",
@@ -69,7 +47,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-04-26T10:02:05.060Z",
+      "updated": "2023-04-27T04:20:56.970Z",
       "status": "ACTIVE",
       "referenceCount": 176,
       "comment": null
@@ -81,34 +59,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-04-23T06:32:53.246Z",
+      "updated": "2023-04-27T16:58:11.181Z",
       "status": "ACTIVE",
-      "referenceCount": 98,
+      "referenceCount": 95,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-27T00:44:16.885Z",
-      "status": "ACTIVE",
-      "referenceCount": 8498,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-04-27T00:44:16.907Z",
-      "status": "ACTIVE",
-      "referenceCount": 951,
-      "comment": null
     }
   ],
   "customAttributes": [

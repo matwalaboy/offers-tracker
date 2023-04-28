@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-04-26T23:26:19.392Z",
-      "status": "ACTIVE",
-      "referenceCount": 1010,
-      "comment": null
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -54,9 +43,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-04-27T00:44:16.852Z",
+      "updated": "2023-04-27T22:00:35.391Z",
       "status": "ACTIVE",
-      "referenceCount": 1678,
+      "referenceCount": 1687,
       "comment": ""
     },
     {
@@ -66,23 +55,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-04-26T23:26:19.417Z",
+      "updated": "2023-04-27T22:07:47.083Z",
       "status": "ACTIVE",
-      "referenceCount": 417,
+      "referenceCount": 420,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-27T00:44:16.865Z",
-      "status": "ACTIVE",
-      "referenceCount": 4044,
-      "comment": null
-    },
+    null,
     {
       "id": "1307",
       "name": "Open World",
@@ -90,21 +68,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-04-26T19:01:31.495Z",
+      "updated": "2023-04-27T19:33:30.332Z",
       "status": "ACTIVE",
-      "referenceCount": 361,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-27T00:44:16.885Z",
-      "status": "ACTIVE",
-      "referenceCount": 8498,
+      "referenceCount": 362,
       "comment": null
     }
   ],

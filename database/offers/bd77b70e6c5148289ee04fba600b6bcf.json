@@ -38,42 +38,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-04-27T00:44:16.865Z",
-      "status": "ACTIVE",
-      "referenceCount": 4044,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-27T00:44:16.885Z",
-      "status": "ACTIVE",
-      "referenceCount": 8498,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-04-26T20:12:53.805Z",
-      "status": "ACTIVE",
-      "referenceCount": 1319,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "1151",
       "name": "Platformer",
@@ -81,21 +48,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2023-04-26T20:53:29.911Z",
+      "updated": "2023-04-27T14:24:08.683Z",
       "status": "ACTIVE",
-      "referenceCount": 320,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-04-27T00:44:16.907Z",
-      "status": "ACTIVE",
-      "referenceCount": 951,
+      "referenceCount": 323,
       "comment": null
     }
   ],
