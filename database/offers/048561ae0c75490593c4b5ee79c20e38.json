@@ -45,12 +45,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-04-29T15:25:33.676Z",
+      "updated": "2023-04-30T20:55:11.796Z",
       "status": "ACTIVE",
-      "referenceCount": 915,
+      "referenceCount": 916,
       "comment": null
     },
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-04-30T20:55:11.808Z",
+      "status": "ACTIVE",
+      "referenceCount": 1627,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "Survival",
@@ -58,12 +69,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-04-29T20:21:52.695Z",
+      "updated": "2023-04-30T20:55:11.827Z",
       "status": "ACTIVE",
-      "referenceCount": 691,
+      "referenceCount": 695,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-04-30T23:38:04.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 4070,
+      "comment": null
+    },
     {
       "id": "1307",
       "name": "Open World",
@@ -71,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-04-29T18:00:37.504Z",
+      "updated": "2023-04-30T20:55:11.856Z",
       "status": "ACTIVE",
       "referenceCount": 362,
       "comment": null
@@ -83,13 +105,11 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-04-29T23:13:29.603Z",
+      "updated": "2023-05-01T00:27:04.773Z",
       "status": "ACTIVE",
-      "referenceCount": 8520,
+      "referenceCount": 8527,
       "comment": null
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
