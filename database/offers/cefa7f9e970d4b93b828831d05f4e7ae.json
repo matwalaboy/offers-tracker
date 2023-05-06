@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-04T22:50:16.806Z",
-      "status": "ACTIVE",
-      "referenceCount": 8578,
-      "comment": null
-    },
+    null,
     {
       "id": "10719",
       "name": "Mac OS",
@@ -51,9 +40,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-05-04T22:22:42.256Z",
+      "updated": "2023-05-05T21:11:32.501Z",
       "status": "ACTIVE",
-      "referenceCount": 628,
+      "referenceCount": 626,
       "comment": null
     }
   ],
