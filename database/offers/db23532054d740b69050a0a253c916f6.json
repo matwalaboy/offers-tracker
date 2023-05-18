@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "Co-op",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2023-05-17T19:14:51.132Z",
+      "status": "ACTIVE",
+      "referenceCount": 938,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-05-17T00:55:05.201Z",
+      "updated": "2023-05-17T20:23:18.795Z",
       "status": "ACTIVE",
-      "referenceCount": 1648,
+      "referenceCount": 1655,
       "comment": null
     },
     {
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-05-16T16:35:14.960Z",
+      "updated": "2023-05-17T19:24:42.785Z",
       "status": "ACTIVE",
-      "referenceCount": 1029,
+      "referenceCount": 1033,
       "comment": null
     },
     {
@@ -67,9 +78,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-05-16T20:43:18.607Z",
+      "updated": "2023-05-17T20:07:44.072Z",
       "status": "ACTIVE",
-      "referenceCount": 439,
+      "referenceCount": 445,
       "comment": null
     },
     {
@@ -79,9 +90,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-17T00:42:11.289Z",
+      "updated": "2023-05-18T00:46:54.555Z",
       "status": "ACTIVE",
-      "referenceCount": 4211,
+      "referenceCount": 4220,
       "comment": null
     },
     {
@@ -91,9 +102,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-05-16T22:59:42.003Z",
+      "updated": "2023-05-17T22:03:37.106Z",
       "status": "ACTIVE",
-      "referenceCount": 1557,
+      "referenceCount": 1561,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-05-18T00:28:27.649Z",
+      "status": "ACTIVE",
+      "referenceCount": 997,
       "comment": null
     }
   ],
