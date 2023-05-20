@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-05-19T22:16:14.111Z",
+      "status": "ACTIVE",
+      "referenceCount": 1660,
+      "comment": null
+    },
     {
       "id": "1299",
       "name": "Competitive",
@@ -43,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-05-19T00:38:32.245Z",
+      "updated": "2023-05-19T18:06:08.163Z",
       "status": "ACTIVE",
-      "referenceCount": 378,
+      "referenceCount": 379,
       "comment": null
     },
     {
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-05-19T00:42:09.289Z",
+      "updated": "2023-05-19T14:06:08.365Z",
       "status": "ACTIVE",
-      "referenceCount": 70,
+      "referenceCount": 71,
       "comment": ""
     },
     {
@@ -67,7 +78,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2023-05-18T12:49:40.893Z",
+      "updated": "2023-05-19T14:06:08.373Z",
       "status": "ACTIVE",
       "referenceCount": 157,
       "comment": null
@@ -79,9 +90,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-05-18T20:58:12.702Z",
+      "updated": "2023-05-19T19:38:58.434Z",
       "status": "ACTIVE",
-      "referenceCount": 936,
+      "referenceCount": 937,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-05-19T22:54:48.212Z",
+      "status": "ACTIVE",
+      "referenceCount": 8729,
       "comment": null
     }
   ],

@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-05-18T23:54:45.936Z",
+      "updated": "2023-05-19T21:48:42.299Z",
       "status": "ACTIVE",
       "referenceCount": 360,
       "comment": null
@@ -57,30 +57,6 @@
       "updated": "2023-05-18T21:15:02.648Z",
       "status": "ACTIVE",
       "referenceCount": 174,
-      "comment": null
-    },
-    {
-      "id": "1336",
-      "name": "Action-Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-05-18T21:21:33.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 448,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-19T00:38:32.262Z",
-      "status": "ACTIVE",
-      "referenceCount": 4232,
       "comment": null
     }
   ],
