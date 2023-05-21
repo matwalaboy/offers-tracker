@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-05-19T22:54:48.224Z",
-      "status": "ACTIVE",
-      "referenceCount": 1863,
-      "comment": null
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op",
@@ -59,18 +48,7 @@
       "referenceCount": 944,
       "comment": null
     },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-05-19T21:58:59.029Z",
-      "status": "ACTIVE",
-      "referenceCount": 1835,
-      "comment": ""
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter",
@@ -90,35 +68,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-19T22:54:48.159Z",
+      "updated": "2023-05-20T23:00:38.387Z",
       "status": "ACTIVE",
-      "referenceCount": 4238,
+      "referenceCount": 4241,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-19T22:54:48.212Z",
-      "status": "ACTIVE",
-      "referenceCount": 8729,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-05-19T21:59:33.292Z",
-      "status": "ACTIVE",
-      "referenceCount": 1570,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "10719",
       "name": "Mac OS",
@@ -129,21 +85,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-05-19T19:38:58.467Z",
+      "updated": "2023-05-20T16:41:51.089Z",
       "status": "ACTIVE",
-      "referenceCount": 642,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-05-19T22:54:48.186Z",
-      "status": "ACTIVE",
-      "referenceCount": 999,
+      "referenceCount": 643,
       "comment": null
     }
   ],

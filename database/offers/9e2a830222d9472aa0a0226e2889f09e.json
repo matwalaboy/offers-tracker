@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-05-19T19:38:58.397Z",
-      "status": "ACTIVE",
-      "referenceCount": 1239,
-      "comment": ""
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG",
@@ -57,9 +46,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-05-19T21:03:37.564Z",
+      "updated": "2023-05-20T10:00:34.240Z",
       "status": "ACTIVE",
-      "referenceCount": 1039,
+      "referenceCount": 1040,
       "comment": null
     },
     {
@@ -69,9 +58,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-19T22:54:48.159Z",
+      "updated": "2023-05-20T23:00:38.387Z",
       "status": "ACTIVE",
-      "referenceCount": 4238,
+      "referenceCount": 4241,
       "comment": null
     },
     {
@@ -81,35 +70,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-05-19T18:21:08.147Z",
+      "updated": "2023-05-20T15:45:43.736Z",
       "status": "ACTIVE",
-      "referenceCount": 186,
+      "referenceCount": 183,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-19T22:54:48.212Z",
-      "status": "ACTIVE",
-      "referenceCount": 8729,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-05-19T21:59:33.292Z",
-      "status": "ACTIVE",
-      "referenceCount": 1570,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "10719",
       "name": "Mac OS",
@@ -120,9 +87,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-05-19T19:38:58.467Z",
+      "updated": "2023-05-20T16:41:51.089Z",
       "status": "ACTIVE",
-      "referenceCount": 642,
+      "referenceCount": 643,
       "comment": null
     }
   ],

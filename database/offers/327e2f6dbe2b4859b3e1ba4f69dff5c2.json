@@ -45,9 +45,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-05-19T22:16:14.111Z",
+      "updated": "2023-05-20T13:13:17.107Z",
       "status": "ACTIVE",
-      "referenceCount": 1660,
+      "referenceCount": 1663,
       "comment": null
     },
     {
@@ -57,23 +57,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-05-19T18:06:08.163Z",
+      "updated": "2023-05-20T14:03:03.021Z",
       "status": "ACTIVE",
-      "referenceCount": 379,
+      "referenceCount": 377,
       "comment": null
     },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-05-19T21:58:59.029Z",
-      "status": "ACTIVE",
-      "referenceCount": 1835,
-      "comment": ""
-    },
+    null,
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -96,42 +85,6 @@
       "updated": "2023-05-19T21:03:37.574Z",
       "status": "ACTIVE",
       "referenceCount": 609,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-05-19T19:38:58.434Z",
-      "status": "ACTIVE",
-      "referenceCount": 937,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-19T22:54:48.212Z",
-      "status": "ACTIVE",
-      "referenceCount": 8729,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-05-19T21:59:33.292Z",
-      "status": "ACTIVE",
-      "referenceCount": 1570,
       "comment": null
     }
   ],
