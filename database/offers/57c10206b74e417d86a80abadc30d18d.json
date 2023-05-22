@@ -32,7 +32,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-05-22T00:05:43.395Z",
+      "status": "ACTIVE",
+      "referenceCount": 1841,
+      "comment": ""
+    },
     {
       "id": "1386",
       "name": "Turn-Based",
@@ -45,7 +56,30 @@
       "referenceCount": 178,
       "comment": null
     },
-    null
+    {
+      "id": "1115",
+      "name": "Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2023-05-21T22:16:33.153Z",
+      "status": "ACTIVE",
+      "referenceCount": 938,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-05-21T23:37:14.078Z",
+      "status": "ACTIVE",
+      "referenceCount": 1574,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
