@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-05-23T22:44:09.595Z",
+      "updated": "2023-05-25T00:48:44.629Z",
       "status": "ACTIVE",
-      "referenceCount": 1870,
+      "referenceCount": 1873,
       "comment": ""
     },
     {
@@ -54,9 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-05-23T08:24:33.970Z",
+      "updated": "2023-05-24T22:37:18.384Z",
       "status": "ACTIVE",
-      "referenceCount": 717,
+      "referenceCount": 720,
       "comment": null
     },
     {
@@ -66,62 +66,15 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2023-05-23T22:55:37.398Z",
+      "updated": "2023-05-25T00:00:02.104Z",
       "status": "ACTIVE",
-      "referenceCount": 447,
+      "referenceCount": 449,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-24T00:54:26.270Z",
-      "status": "ACTIVE",
-      "referenceCount": 4270,
-      "comment": null
-    },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-05-23T22:44:09.641Z",
-      "status": "ACTIVE",
-      "referenceCount": 2578,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-24T00:54:26.297Z",
-      "status": "ACTIVE",
-      "referenceCount": 8765,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-05-23T21:40:12.515Z",
-      "status": "ACTIVE",
-      "referenceCount": 644,
-      "comment": null
-    },
+    null,
+    null,
+    null,
+    null,
     {
       "id": "1263",
       "name": "Indie",
@@ -129,9 +82,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-05-24T00:54:26.326Z",
+      "updated": "2023-05-24T20:51:17.893Z",
       "status": "ACTIVE",
-      "referenceCount": 1007,
+      "referenceCount": 1008,
       "comment": null
     }
   ],

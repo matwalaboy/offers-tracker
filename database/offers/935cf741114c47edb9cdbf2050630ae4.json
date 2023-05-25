@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-05-23T22:44:09.651Z",
-      "status": "ACTIVE",
-      "referenceCount": 1875,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -57,9 +46,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-05-23T22:58:40.310Z",
+      "updated": "2023-05-24T23:07:20.829Z",
       "status": "ACTIVE",
-      "referenceCount": 1678,
+      "referenceCount": 1684,
       "comment": null
     },
     {
@@ -69,23 +58,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-05-23T22:44:09.602Z",
+      "updated": "2023-05-24T23:07:20.875Z",
       "status": "ACTIVE",
-      "referenceCount": 949,
+      "referenceCount": 954,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-24T00:54:26.297Z",
-      "status": "ACTIVE",
-      "referenceCount": 8765,
-      "comment": null
-    },
+    null,
     {
       "id": "1279",
       "name": "Vampire",

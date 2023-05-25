@@ -57,9 +57,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-05-23T22:58:40.310Z",
+      "updated": "2023-05-24T23:07:20.829Z",
       "status": "ACTIVE",
-      "referenceCount": 1678,
+      "referenceCount": 1684,
       "comment": null
     },
     {
@@ -86,18 +86,7 @@
       "referenceCount": 41,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-24T00:54:26.270Z",
-      "status": "ACTIVE",
-      "referenceCount": 4270,
-      "comment": null
-    },
+    null,
     {
       "id": "1386",
       "name": "Turn-Based",
@@ -105,9 +94,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-05-24T00:50:21.335Z",
+      "updated": "2023-05-24T11:16:46.502Z",
       "status": "ACTIVE",
-      "referenceCount": 178,
+      "referenceCount": 179,
       "comment": null
     },
     {
@@ -117,35 +106,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-05-23T22:44:09.602Z",
+      "updated": "2023-05-24T23:07:20.875Z",
       "status": "ACTIVE",
-      "referenceCount": 949,
+      "referenceCount": 954,
       "comment": null
     },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-05-23T22:44:09.641Z",
-      "status": "ACTIVE",
-      "referenceCount": 2578,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-24T00:54:26.297Z",
-      "status": "ACTIVE",
-      "referenceCount": 8765,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1166",
       "name": "4X",

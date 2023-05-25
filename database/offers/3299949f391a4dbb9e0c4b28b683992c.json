@@ -45,23 +45,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-05-23T22:44:09.682Z",
+      "updated": "2023-05-24T22:11:54.427Z",
       "status": "ACTIVE",
-      "referenceCount": 1246,
+      "referenceCount": 1252,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-05-24T00:54:26.270Z",
-      "status": "ACTIVE",
-      "referenceCount": 4270,
-      "comment": null
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -69,35 +58,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-05-24T00:50:21.363Z",
+      "updated": "2023-05-24T11:16:46.528Z",
       "status": "ACTIVE",
       "referenceCount": 183,
       "comment": null
     },
-    {
-      "id": "16011",
-      "name": "Epic MEGA Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-04-27T08:10:34.554Z",
-      "updated": "2023-05-23T22:44:09.641Z",
-      "status": "ACTIVE",
-      "referenceCount": 2578,
-      "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-24T00:54:26.297Z",
-      "status": "ACTIVE",
-      "referenceCount": 8765,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1181",
       "name": "Card Game",
@@ -105,7 +72,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-05-23T19:15:46.898Z",
+      "updated": "2023-05-24T13:34:59.776Z",
       "status": "ACTIVE",
       "referenceCount": 74,
       "comment": null
@@ -117,24 +84,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-05-24T00:54:26.317Z",
+      "updated": "2023-05-25T00:48:44.691Z",
       "status": "ACTIVE",
-      "referenceCount": 1578,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-05-23T21:40:12.515Z",
-      "status": "ACTIVE",
-      "referenceCount": 644,
+      "referenceCount": 1583,
       "comment": null
     }
   ],
