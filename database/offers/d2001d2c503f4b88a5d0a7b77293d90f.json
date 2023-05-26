@@ -32,8 +32,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "16011",
+      "name": "Epic MEGA Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-04-27T08:10:34.554Z",
+      "updated": "2023-05-25T16:30:31.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 2574,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-05-26T00:48:13.599Z",
+      "status": "ACTIVE",
+      "referenceCount": 8840,
+      "comment": null
+    },
     {
       "id": "18046",
       "name": "Focus Publisher Sale",
@@ -41,9 +63,9 @@
       "aliases": [],
       "operator": null,
       "created": "2021-10-06T13:50:13.086Z",
-      "updated": "2022-12-08T09:53:17.763Z",
+      "updated": "2023-05-25T16:28:54.919Z",
       "status": "ACTIVE",
-      "referenceCount": 81,
+      "referenceCount": 79,
       "comment": ""
     }
   ],
