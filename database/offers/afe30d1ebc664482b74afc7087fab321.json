@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2023-05-31T23:00:58.280Z",
+      "status": "ACTIVE",
+      "referenceCount": 370,
+      "comment": null
+    },
     {
       "id": "1127",
       "name": "Investigation",
@@ -42,7 +53,18 @@
       "referenceCount": 69,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-06-01T01:03:43.132Z",
+      "status": "ACTIVE",
+      "referenceCount": 4346,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -50,9 +72,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-05-31T00:33:43.251Z",
+      "updated": "2023-06-01T01:03:43.154Z",
       "status": "ACTIVE",
-      "referenceCount": 8874,
+      "referenceCount": 8884,
       "comment": null
     },
     {
@@ -77,9 +99,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-05-30T17:17:49.353Z",
+      "updated": "2023-05-31T13:35:45.917Z",
       "status": "ACTIVE",
-      "referenceCount": 323,
+      "referenceCount": 324,
       "comment": null
     }
   ],
