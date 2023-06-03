@@ -32,30 +32,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "Puzzle",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-06-01T16:43:14.904Z",
-      "status": "ACTIVE",
-      "referenceCount": 366,
-      "comment": null
-    },
-    {
-      "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-06-01T22:12:03.783Z",
-      "status": "ACTIVE",
-      "referenceCount": 369,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -63,9 +41,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-01T22:12:03.801Z",
+      "updated": "2023-06-03T00:12:01.518Z",
       "status": "ACTIVE",
-      "referenceCount": 4357,
+      "referenceCount": 4373,
       "comment": null
     },
     {
@@ -75,23 +53,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-01T23:01:55.065Z",
+      "updated": "2023-06-03T00:12:01.539Z",
       "status": "ACTIVE",
-      "referenceCount": 8903,
+      "referenceCount": 8920,
       "comment": null
     },
-    {
-      "id": "1117",
-      "name": "Adventure",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-06-01T23:01:55.075Z",
-      "status": "ACTIVE",
-      "referenceCount": 1383,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -99,11 +66,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-06-01T23:01:55.087Z",
+      "updated": "2023-06-03T00:12:01.552Z",
       "status": "ACTIVE",
-      "referenceCount": 1612,
+      "referenceCount": 1618,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {

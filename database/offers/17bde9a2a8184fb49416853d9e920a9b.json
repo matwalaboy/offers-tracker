@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1218",
-      "name": "Horror",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2023-06-01T22:12:03.783Z",
-      "status": "ACTIVE",
-      "referenceCount": 369,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -54,9 +43,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-06-01T21:33:39.870Z",
+      "updated": "2023-06-02T23:41:25.853Z",
       "status": "ACTIVE",
-      "referenceCount": 1708,
+      "referenceCount": 1713,
       "comment": null
     },
     {
@@ -66,11 +55,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-01T23:01:55.065Z",
+      "updated": "2023-06-03T00:12:01.539Z",
       "status": "ACTIVE",
-      "referenceCount": 8903,
+      "referenceCount": 8920,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
