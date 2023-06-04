@@ -35,30 +35,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-06-02T20:27:09.335Z",
-      "status": "ACTIVE",
-      "referenceCount": 1270,
-      "comment": ""
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-06-02T20:23:28.725Z",
-      "status": "ACTIVE",
-      "referenceCount": 1060,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -71,18 +49,7 @@
       "referenceCount": 186,
       "comment": null
     },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-06-02T21:25:25.616Z",
-      "status": "ACTIVE",
-      "referenceCount": 969,
-      "comment": null
-    },
+    null,
     {
       "id": "16011",
       "name": "Epic MEGA Sale",
@@ -102,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-03T00:12:01.539Z",
+      "updated": "2023-06-04T00:59:16.490Z",
       "status": "ACTIVE",
       "referenceCount": 8920,
       "comment": null
@@ -114,11 +81,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-06-03T00:12:01.570Z",
+      "updated": "2023-06-03T22:17:58.191Z",
       "status": "ACTIVE",
       "referenceCount": 1026,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {

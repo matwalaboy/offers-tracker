@@ -47,30 +47,8 @@
       "referenceCount": 7,
       "comment": ""
     },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-06-02T20:23:28.725Z",
-      "status": "ACTIVE",
-      "referenceCount": 1060,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-03T00:12:01.518Z",
-      "status": "ACTIVE",
-      "referenceCount": 4373,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "15275",
       "name": "Private Division Sale",
@@ -102,23 +80,14 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-03T00:12:01.539Z",
+      "updated": "2023-06-04T00:59:16.490Z",
       "status": "ACTIVE",
       "referenceCount": 8920,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-06-03T00:12:01.552Z",
-      "status": "ACTIVE",
-      "referenceCount": 1618,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
