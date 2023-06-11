@@ -38,31 +38,20 @@
     }
   ],
   "tags": [
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-06-10T18:31:10.278Z",
+      "status": "ACTIVE",
+      "referenceCount": 2040,
+      "comment": null
+    },
     null,
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-09T23:39:43.063Z",
-      "status": "ACTIVE",
-      "referenceCount": 4522,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-09T23:39:43.092Z",
-      "status": "ACTIVE",
-      "referenceCount": 8993,
-      "comment": null
-    },
+    null,
     {
       "id": "1179",
       "name": "VR",
@@ -82,9 +71,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-06-09T22:49:33.245Z",
+      "updated": "2023-06-10T21:28:10.635Z",
       "status": "ACTIVE",
-      "referenceCount": 1395,
+      "referenceCount": 1397,
       "comment": null
     },
     {
@@ -94,9 +83,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-06-09T18:33:12.261Z",
+      "updated": "2023-06-10T14:44:11.537Z",
       "status": "ACTIVE",
-      "referenceCount": 432,
+      "referenceCount": 433,
       "comment": null
     }
   ],
