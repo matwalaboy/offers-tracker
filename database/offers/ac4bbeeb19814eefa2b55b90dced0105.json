@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-06-20T00:42:07.542Z",
-      "status": "ACTIVE",
-      "referenceCount": 2007,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -54,9 +43,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-19T23:45:05.609Z",
+      "updated": "2023-06-21T00:11:22.732Z",
       "status": "ACTIVE",
-      "referenceCount": 9127,
+      "referenceCount": 9141,
       "comment": null
     }
   ],
