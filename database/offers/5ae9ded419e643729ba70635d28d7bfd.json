@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-06-21T23:44:35.736Z",
+      "status": "ACTIVE",
+      "referenceCount": 484,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -43,7 +54,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-06-20T23:54:48.529Z",
+      "updated": "2023-06-21T23:44:35.745Z",
       "status": "ACTIVE",
       "referenceCount": 748,
       "comment": null
@@ -55,12 +66,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-21T00:11:22.702Z",
+      "updated": "2023-06-22T00:51:32.471Z",
       "status": "ACTIVE",
-      "referenceCount": 4618,
+      "referenceCount": 4633,
       "comment": null
     },
-    null,
+    {
+      "id": "9549",
+      "name": "Controller Support",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2023-06-22T00:10:58.556Z",
+      "status": "ACTIVE",
+      "referenceCount": 1683,
+      "comment": null
+    },
     {
       "id": "1294",
       "name": "First Person",
@@ -68,7 +90,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2023-06-20T22:20:44.659Z",
+      "updated": "2023-06-21T23:44:35.792Z",
       "status": "ACTIVE",
       "referenceCount": 443,
       "comment": null
