@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:02.267Z",
-      "updated": "2023-06-26T07:42:25.574Z",
+      "updated": "2023-06-30T09:30:20.467Z",
       "status": "ACTIVE",
-      "referenceCount": 77,
+      "referenceCount": 78,
       "comment": null
     },
     {
@@ -57,30 +57,6 @@
       "updated": "2023-06-29T10:32:39.104Z",
       "status": "ACTIVE",
       "referenceCount": 183,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-30T00:53:45.905Z",
-      "status": "ACTIVE",
-      "referenceCount": 4686,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-06-30T00:53:45.916Z",
-      "status": "ACTIVE",
-      "referenceCount": 1018,
       "comment": null
     }
   ],

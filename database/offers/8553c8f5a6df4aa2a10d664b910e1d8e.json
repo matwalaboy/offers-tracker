@@ -39,7 +39,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-06-29T15:01:21.123Z",
+      "updated": "2023-07-01T00:13:49.761Z",
       "status": "ACTIVE",
       "referenceCount": 1098,
       "comment": null
@@ -51,23 +51,12 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-06-29T21:15:06.784Z",
+      "updated": "2023-07-01T00:13:49.772Z",
       "status": "ACTIVE",
-      "referenceCount": 2050,
+      "referenceCount": 2057,
       "comment": ""
     },
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-06-27T19:40:07.623Z",
-      "status": "ACTIVE",
-      "referenceCount": 733,
-      "comment": null
-    },
+    null,
     {
       "id": "1386",
       "name": "Turn-Based",
@@ -80,30 +69,8 @@
       "referenceCount": 183,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-06-30T00:53:45.905Z",
-      "status": "ACTIVE",
-      "referenceCount": 4686,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-30T00:53:45.940Z",
-      "status": "ACTIVE",
-      "referenceCount": 9245,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "10719",
       "name": "Mac OS",
@@ -114,9 +81,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-06-30T00:53:45.953Z",
+      "updated": "2023-07-01T00:13:49.847Z",
       "status": "ACTIVE",
-      "referenceCount": 676,
+      "referenceCount": 677,
       "comment": null
     }
   ],

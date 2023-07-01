@@ -45,23 +45,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-06-29T19:36:52.607Z",
+      "updated": "2023-06-30T19:24:42.206Z",
       "status": "ACTIVE",
-      "referenceCount": 1879,
+      "referenceCount": 1890,
       "comment": null
     },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-06-29T19:36:52.595Z",
-      "status": "ACTIVE",
-      "referenceCount": 415,
-      "comment": null
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -69,9 +58,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-06-29T21:15:06.784Z",
+      "updated": "2023-07-01T00:13:49.772Z",
       "status": "ACTIVE",
-      "referenceCount": 2050,
+      "referenceCount": 2057,
       "comment": ""
     },
     {
@@ -81,47 +70,14 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-06-29T16:56:28.347Z",
+      "updated": "2023-06-30T19:24:42.227Z",
       "status": "ACTIVE",
       "referenceCount": 215,
       "comment": ""
     },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-06-29T23:06:47.574Z",
-      "status": "ACTIVE",
-      "referenceCount": 755,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-06-30T00:53:45.916Z",
-      "status": "ACTIVE",
-      "referenceCount": 1018,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-06-30T00:53:45.940Z",
-      "status": "ACTIVE",
-      "referenceCount": 9245,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -129,9 +85,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-06-29T23:41:53.871Z",
+      "updated": "2023-06-30T20:12:18.276Z",
       "status": "ACTIVE",
-      "referenceCount": 1702,
+      "referenceCount": 1703,
       "comment": null
     }
   ],
