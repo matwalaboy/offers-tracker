@@ -62,18 +62,7 @@
       "referenceCount": 152,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-04T00:23:51.964Z",
-      "status": "ACTIVE",
-      "referenceCount": 9270,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -81,9 +70,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-03T22:51:17.908Z",
+      "updated": "2023-07-04T18:33:37.550Z",
       "status": "ACTIVE",
-      "referenceCount": 1707,
+      "referenceCount": 1709,
       "comment": null
     },
     {
@@ -141,23 +130,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-07-03T18:49:28.782Z",
+      "updated": "2023-07-04T21:17:42.255Z",
       "status": "ACTIVE",
       "referenceCount": 734,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-03T22:51:17.850Z",
-      "status": "ACTIVE",
-      "referenceCount": 4710,
-      "comment": null
-    },
+    null,
     {
       "id": "21146",
       "name": "Educational",
@@ -189,7 +167,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-07-03T19:38:12.916Z",
+      "updated": "2023-07-04T15:19:12.887Z",
       "status": "ACTIVE",
       "referenceCount": 1431,
       "comment": null
@@ -216,9 +194,9 @@
       ],
       "operator": null,
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-07-03T22:51:17.930Z",
+      "updated": "2023-07-04T19:58:11.971Z",
       "status": "ACTIVE",
-      "referenceCount": 677,
+      "referenceCount": 678,
       "comment": null
     },
     {

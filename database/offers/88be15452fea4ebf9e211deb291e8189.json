@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-07-03T20:28:21.977Z",
+      "updated": "2023-07-04T16:05:57.708Z",
       "status": "ACTIVE",
       "referenceCount": 2094,
       "comment": null
@@ -110,18 +110,7 @@
       "referenceCount": 193,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-04T00:23:51.964Z",
-      "status": "ACTIVE",
-      "referenceCount": 9270,
-      "comment": null
-    },
+    null,
     {
       "id": "1264",
       "name": "Co-op",
@@ -129,7 +118,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-07-03T20:28:21.991Z",
+      "updated": "2023-07-04T16:05:57.722Z",
       "status": "ACTIVE",
       "referenceCount": 1103,
       "comment": null
@@ -182,18 +171,7 @@
       "referenceCount": 329,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-03T22:51:17.850Z",
-      "status": "ACTIVE",
-      "referenceCount": 4710,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -201,7 +179,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-07-03T19:38:12.916Z",
+      "updated": "2023-07-04T15:19:12.887Z",
       "status": "ACTIVE",
       "referenceCount": 1431,
       "comment": null

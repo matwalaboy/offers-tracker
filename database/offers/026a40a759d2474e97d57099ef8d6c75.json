@@ -50,18 +50,7 @@
       "referenceCount": 749,
       "comment": null
     },
-    {
-      "id": "1381",
-      "name": "Exploration",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-07-03T19:38:12.893Z",
-      "status": "ACTIVE",
-      "referenceCount": 186,
-      "comment": null
-    },
+    null,
     {
       "id": "21894",
       "name": "Cloud Saves",
@@ -69,7 +58,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-03T22:51:17.828Z",
+      "updated": "2023-07-04T15:19:12.832Z",
       "status": "ACTIVE",
       "referenceCount": 1324,
       "comment": ""
@@ -81,23 +70,12 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-03T12:59:03.917Z",
+      "updated": "2023-07-04T06:54:15.266Z",
       "status": "ACTIVE",
-      "referenceCount": 1098,
+      "referenceCount": 1099,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-03T22:51:17.850Z",
-      "status": "ACTIVE",
-      "referenceCount": 4710,
-      "comment": null
-    },
+    null,
     {
       "id": "1179",
       "name": "VR",
@@ -110,18 +88,7 @@
       "referenceCount": 39,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-04T00:23:51.964Z",
-      "status": "ACTIVE",
-      "referenceCount": 9270,
-      "comment": null
-    },
+    null,
     {
       "id": "1357",
       "name": "VR ONLY",
@@ -141,9 +108,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-03T22:51:17.908Z",
+      "updated": "2023-07-04T18:33:37.550Z",
       "status": "ACTIVE",
-      "referenceCount": 1707,
+      "referenceCount": 1709,
       "comment": null
     }
   ],

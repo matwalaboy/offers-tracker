@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-07-03T22:51:17.798Z",
+      "updated": "2023-07-04T13:34:50.989Z",
       "status": "ACTIVE",
       "referenceCount": 1892,
       "comment": null
@@ -54,34 +54,10 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-07-03T14:24:25.028Z",
+      "updated": "2023-07-04T16:07:30.280Z",
       "status": "ACTIVE",
-      "referenceCount": 2060,
+      "referenceCount": 2065,
       "comment": ""
-    },
-    {
-      "id": "1210",
-      "name": "Shooter",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2023-07-03T20:28:22.015Z",
-      "status": "ACTIVE",
-      "referenceCount": 756,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-04T00:23:51.964Z",
-      "status": "ACTIVE",
-      "referenceCount": 9270,
-      "comment": null
     }
   ],
   "customAttributes": [
