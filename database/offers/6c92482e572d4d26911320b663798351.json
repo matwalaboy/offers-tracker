@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-07-08T14:06:18.535Z",
-      "status": "ACTIVE",
-      "referenceCount": 1894,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-08T19:15:19.868Z",
-      "status": "ACTIVE",
-      "referenceCount": 1101,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -69,9 +47,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-07-08T10:21:12.699Z",
+      "updated": "2023-07-10T19:56:00.819Z",
       "status": "ACTIVE",
-      "referenceCount": 218,
+      "referenceCount": 223,
       "comment": ""
     },
     {
@@ -81,7 +59,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-07-08T10:21:12.705Z",
+      "updated": "2023-07-10T03:00:25.587Z",
       "status": "ACTIVE",
       "referenceCount": 392,
       "comment": null
@@ -93,9 +71,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:36:07.333Z",
-      "updated": "2023-07-09T04:54:47.637Z",
+      "updated": "2023-07-10T21:00:26.561Z",
       "status": "ACTIVE",
-      "referenceCount": 109,
+      "referenceCount": 105,
       "comment": ""
     },
     {
@@ -105,9 +83,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-09T23:34:18.556Z",
+      "updated": "2023-07-11T00:37:20.732Z",
       "status": "ACTIVE",
-      "referenceCount": 9286,
+      "referenceCount": 9289,
       "comment": null
     },
     {
@@ -117,9 +95,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-09T23:34:18.569Z",
+      "updated": "2023-07-11T00:37:20.745Z",
       "status": "ACTIVE",
-      "referenceCount": 1713,
+      "referenceCount": 1719,
       "comment": null
     }
   ],
