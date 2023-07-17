@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-07-15T14:49:01.195Z",
-      "status": "ACTIVE",
-      "referenceCount": 894,
-      "comment": null
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -54,7 +43,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-07-15T15:56:04.427Z",
+      "updated": "2023-07-16T17:30:20.873Z",
       "status": "ACTIVE",
       "referenceCount": 2080,
       "comment": ""
@@ -71,30 +60,8 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "21865",
-      "name": "Nacon Connect Event",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-05T15:21:06.943Z",
-      "updated": "2023-06-20T13:28:30.987Z",
-      "status": "ACTIVE",
-      "referenceCount": 97,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-15T22:57:35.569Z",
-      "status": "ACTIVE",
-      "referenceCount": 4746,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -102,9 +69,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-15T22:57:35.592Z",
+      "updated": "2023-07-17T01:08:36.506Z",
       "status": "ACTIVE",
-      "referenceCount": 9313,
+      "referenceCount": 9319,
       "comment": null
     },
     {
@@ -114,11 +81,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-15T21:29:22.724Z",
+      "updated": "2023-07-16T18:33:07.224Z",
       "status": "ACTIVE",
       "referenceCount": 1730,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [],
   "keyImages": [

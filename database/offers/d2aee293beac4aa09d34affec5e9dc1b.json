@@ -42,18 +42,7 @@
       "referenceCount": 194,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-15T22:57:35.592Z",
-      "status": "ACTIVE",
-      "referenceCount": 9313,
-      "comment": null
-    },
+    null,
     {
       "id": "1181",
       "name": "Card Game",
@@ -61,7 +50,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-07-12T13:08:10.715Z",
+      "updated": "2023-07-17T00:57:53.614Z",
       "status": "ACTIVE",
       "referenceCount": 83,
       "comment": null

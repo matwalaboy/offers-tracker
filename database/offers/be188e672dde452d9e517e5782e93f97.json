@@ -36,7 +36,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:30.259Z",
-      "updated": "2023-07-13T07:13:53.247Z",
+      "updated": "2023-07-16T23:24:45.114Z",
       "status": "ACTIVE",
       "referenceCount": 757,
       "comment": null
@@ -48,7 +48,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2023-07-15T15:56:04.411Z",
+      "updated": "2023-07-16T13:27:43.733Z",
       "status": "ACTIVE",
       "referenceCount": 188,
       "comment": null
@@ -60,34 +60,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-07-15T14:05:39.378Z",
+      "updated": "2023-07-16T22:55:48.624Z",
       "status": "ACTIVE",
       "referenceCount": 1107,
-      "comment": null
-    },
-    null,
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-15T22:57:35.592Z",
-      "status": "ACTIVE",
-      "referenceCount": 9313,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-15T21:29:22.724Z",
-      "status": "ACTIVE",
-      "referenceCount": 1730,
       "comment": null
     }
   ],

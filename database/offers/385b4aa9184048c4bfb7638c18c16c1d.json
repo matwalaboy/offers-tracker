@@ -36,7 +36,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-07-15T19:50:59.986Z",
+      "updated": "2023-07-16T18:33:07.163Z",
       "status": "ACTIVE",
       "referenceCount": 2098,
       "comment": null
@@ -53,19 +53,7 @@
       "referenceCount": 205,
       "comment": null
     },
-    null,
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-15T22:57:35.592Z",
-      "status": "ACTIVE",
-      "referenceCount": 9313,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
