@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "rims-racing--nolan-x-lite-helmets",
   "creationDate": "2021-08-18T03:58:40.691Z",
-  "lastModifiedDate": "2023-06-20T12:55:27.299Z",
+  "lastModifiedDate": "2023-07-17T20:27:16.930Z",
   "effectiveDate": "2021-11-04T15:00:00.000Z",
   "viewableDate": "2021-11-04T15:00:00.000Z",
   "developer": null,
@@ -33,6 +33,18 @@
   ],
   "tags": [
     {
+      "id": "16979",
+      "name": "Summer Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2021-07-14T15:58:17.560Z",
+      "updated": "2023-07-17T20:58:05.755Z",
+      "status": "ACTIVE",
+      "referenceCount": 2116,
+      "comment": ""
+    },
+    {
       "id": "19764",
       "name": "Nacon Publisher Sale",
       "namespace": null,
@@ -44,7 +56,18 @@
       "referenceCount": 49,
       "comment": ""
     },
-    null,
+    {
+      "id": "21865",
+      "name": "Nacon Connect Event",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-07-05T15:21:06.943Z",
+      "updated": "2023-06-20T13:28:30.987Z",
+      "status": "ACTIVE",
+      "referenceCount": 97,
+      "comment": ""
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -52,12 +75,11 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-17T01:08:36.506Z",
+      "updated": "2023-07-17T23:29:23.112Z",
       "status": "ACTIVE",
-      "referenceCount": 9319,
+      "referenceCount": 9326,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
