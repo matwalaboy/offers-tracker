@@ -42,9 +42,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2023-07-23T09:38:48.795Z",
+      "updated": "2023-07-24T21:18:34.079Z",
       "status": "ACTIVE",
-      "referenceCount": 402,
+      "referenceCount": 403,
       "comment": null
     },
     {
@@ -54,21 +54,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2023-07-23T09:38:48.805Z",
+      "updated": "2023-07-24T21:00:51.406Z",
       "status": "ACTIVE",
-      "referenceCount": 398,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-23T19:45:55.410Z",
-      "status": "ACTIVE",
-      "referenceCount": 4792,
+      "referenceCount": 400,
       "comment": null
     }
   ],

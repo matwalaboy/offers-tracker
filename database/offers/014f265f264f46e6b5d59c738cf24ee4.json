@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-07-22T00:26:38.932Z",
+      "updated": "2023-07-24T15:20:17.782Z",
       "status": "ACTIVE",
       "referenceCount": 338,
       "comment": null
@@ -86,30 +86,8 @@
       "referenceCount": 21,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-23T19:45:55.431Z",
-      "status": "ACTIVE",
-      "referenceCount": 9454,
-      "comment": null
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-07-23T19:45:55.394Z",
-      "status": "ACTIVE",
-      "referenceCount": 899,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -141,9 +119,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-07-22T11:37:17.603Z",
+      "updated": "2023-07-24T22:40:28.690Z",
       "status": "ACTIVE",
-      "referenceCount": 321,
+      "referenceCount": 320,
       "comment": ""
     },
     {
@@ -158,18 +136,7 @@
       "referenceCount": 332,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-23T19:45:55.410Z",
-      "status": "ACTIVE",
-      "referenceCount": 4792,
-      "comment": null
-    },
+    null,
     {
       "id": "21146",
       "name": "Educational",

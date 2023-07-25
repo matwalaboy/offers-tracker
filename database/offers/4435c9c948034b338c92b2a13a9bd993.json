@@ -57,23 +57,12 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-07-22T00:26:38.932Z",
+      "updated": "2023-07-24T15:20:17.782Z",
       "status": "ACTIVE",
       "referenceCount": 338,
       "comment": null
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-07-23T22:57:15.213Z",
-      "status": "ACTIVE",
-      "referenceCount": 1347,
-      "comment": ""
-    },
+    null,
     {
       "id": "19847",
       "name": "Achievements",
@@ -81,35 +70,13 @@
       "aliases": [],
       "operator": null,
       "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-07-23T16:54:49.443Z",
+      "updated": "2023-07-24T21:58:19.885Z",
       "status": "ACTIVE",
-      "referenceCount": 2117,
+      "referenceCount": 2113,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-23T19:45:55.431Z",
-      "status": "ACTIVE",
-      "referenceCount": 9454,
-      "comment": null
-    },
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-07-23T19:45:55.394Z",
-      "status": "ACTIVE",
-      "referenceCount": 899,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -122,18 +89,7 @@
       "referenceCount": 342,
       "comment": ""
     },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2023-07-23T10:55:31.663Z",
-      "status": "ACTIVE",
-      "referenceCount": 1907,
-      "comment": null
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive",
@@ -141,9 +97,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-07-23T16:00:37.998Z",
+      "updated": "2023-07-24T12:17:05.620Z",
       "status": "ACTIVE",
-      "referenceCount": 425,
+      "referenceCount": 428,
       "comment": null
     },
     {
@@ -165,9 +121,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-07-22T11:37:17.603Z",
+      "updated": "2023-07-24T22:40:28.690Z",
       "status": "ACTIVE",
-      "referenceCount": 321,
+      "referenceCount": 320,
       "comment": ""
     },
     {
@@ -182,18 +138,7 @@
       "referenceCount": 332,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-07-23T19:45:55.410Z",
-      "status": "ACTIVE",
-      "referenceCount": 4792,
-      "comment": null
-    },
+    null,
     {
       "id": "21146",
       "name": "Educational",
@@ -217,21 +162,6 @@
       "status": "ACTIVE",
       "referenceCount": 326,
       "comment": ""
-    },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-07-22T21:26:26.486Z",
-      "status": "ACTIVE",
-      "referenceCount": 691,
-      "comment": null
     }
   ],
   "customAttributes": [
