@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-07-26T00:04:29.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 1905,
+      "comment": null
+    },
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -43,7 +54,7 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-07-24T20:14:32.920Z",
+      "updated": "2023-07-26T00:04:29.264Z",
       "status": "ACTIVE",
       "referenceCount": 231,
       "comment": ""
@@ -55,12 +66,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2023-07-24T13:49:26.378Z",
+      "updated": "2023-07-25T05:43:21.835Z",
       "status": "ACTIVE",
-      "referenceCount": 183,
+      "referenceCount": 184,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-26T00:04:29.302Z",
+      "status": "ACTIVE",
+      "referenceCount": 9467,
+      "comment": null
+    },
     {
       "id": "1181",
       "name": "Card Game",
@@ -68,9 +90,36 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-07-24T03:03:38.793Z",
+      "updated": "2023-07-25T23:54:50.441Z",
       "status": "ACTIVE",
-      "referenceCount": 87,
+      "referenceCount": 88,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-07-25T19:56:18.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 690,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-07-26T00:04:29.336Z",
+      "status": "ACTIVE",
+      "referenceCount": 1123,
       "comment": null
     }
   ],

@@ -35,9 +35,42 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-07-25T19:44:35.806Z",
+      "status": "ACTIVE",
+      "referenceCount": 901,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "Multiplayer",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2023-07-26T00:04:29.225Z",
+      "status": "ACTIVE",
+      "referenceCount": 1905,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "Sports",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2023-07-24T20:07:17.065Z",
+      "status": "ACTIVE",
+      "referenceCount": 142,
+      "comment": null
+    },
     {
       "id": "1299",
       "name": "Competitive",
@@ -45,7 +78,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-07-24T12:17:05.620Z",
+      "updated": "2023-07-26T00:04:29.247Z",
       "status": "ACTIVE",
       "referenceCount": 428,
       "comment": null
@@ -57,12 +90,23 @@
       "aliases": [],
       "operator": null,
       "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-07-24T20:14:32.920Z",
+      "updated": "2023-07-26T00:04:29.264Z",
       "status": "ACTIVE",
       "referenceCount": 231,
       "comment": ""
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-07-26T00:04:29.278Z",
+      "status": "ACTIVE",
+      "referenceCount": 4804,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "Strategy",
@@ -70,9 +114,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-07-24T20:31:11.132Z",
+      "updated": "2023-07-25T19:37:05.761Z",
       "status": "ACTIVE",
-      "referenceCount": 1039,
+      "referenceCount": 1040,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-07-26T00:04:29.302Z",
+      "status": "ACTIVE",
+      "referenceCount": 9467,
       "comment": null
     }
   ],

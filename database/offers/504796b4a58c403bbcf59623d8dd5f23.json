@@ -42,12 +42,23 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-07-20T17:19:54.457Z",
+      "updated": "2023-07-25T13:31:53.296Z",
       "status": "ACTIVE",
-      "referenceCount": 205,
+      "referenceCount": 206,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-07-26T00:04:29.278Z",
+      "status": "ACTIVE",
+      "referenceCount": 4804,
+      "comment": null
+    },
     {
       "id": "1117",
       "name": "Adventure",
@@ -55,9 +66,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-07-24T21:18:34.141Z",
+      "updated": "2023-07-25T23:20:54.793Z",
       "status": "ACTIVE",
-      "referenceCount": 1440,
+      "referenceCount": 1443,
       "comment": null
     },
     {
@@ -67,9 +78,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-07-24T21:00:51.420Z",
+      "updated": "2023-07-26T00:04:29.314Z",
       "status": "ACTIVE",
-      "referenceCount": 1745,
+      "referenceCount": 1746,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-07-26T00:04:29.336Z",
+      "status": "ACTIVE",
+      "referenceCount": 1123,
       "comment": null
     }
   ],
