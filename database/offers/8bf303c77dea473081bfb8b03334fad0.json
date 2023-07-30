@@ -50,18 +50,7 @@
       "referenceCount": 59,
       "comment": "From Ratings & Polls results."
     },
-    {
-      "id": "21122",
-      "name": "Diverse Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:12:59.057Z",
-      "updated": "2023-07-27T15:06:27.680Z",
-      "status": "ACTIVE",
-      "referenceCount": 254,
-      "comment": ""
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -81,9 +70,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-07-28T17:31:19.403Z",
+      "updated": "2023-07-29T18:15:14.175Z",
       "status": "ACTIVE",
-      "referenceCount": 431,
+      "referenceCount": 432,
       "comment": null
     },
     {
@@ -134,18 +123,7 @@
       "referenceCount": 334,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-28T23:55:11.983Z",
-      "status": "ACTIVE",
-      "referenceCount": 9511,
-      "comment": null
-    },
+    null,
     {
       "id": "21149",
       "name": "Quickly Understand the Controls",
@@ -165,9 +143,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-07-27T15:06:27.738Z",
+      "updated": "2023-07-29T16:39:27.246Z",
       "status": "ACTIVE",
-      "referenceCount": 213,
+      "referenceCount": 214,
       "comment": "From Ratings & Polls results."
     }
   ],

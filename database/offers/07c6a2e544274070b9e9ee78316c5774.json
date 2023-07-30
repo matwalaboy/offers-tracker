@@ -71,18 +71,7 @@
       "referenceCount": 337,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-07-28T23:55:11.983Z",
-      "status": "ACTIVE",
-      "referenceCount": 9511,
-      "comment": null
-    },
+    null,
     {
       "id": "1181",
       "name": "Card Game",
@@ -90,9 +79,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2023-07-27T23:49:38.974Z",
+      "updated": "2023-07-29T18:15:14.194Z",
       "status": "ACTIVE",
-      "referenceCount": 87,
+      "referenceCount": 88,
       "comment": null
     },
     {
@@ -107,18 +96,7 @@
       "referenceCount": 328,
       "comment": ""
     },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-07-28T22:28:13.384Z",
-      "status": "ACTIVE",
-      "referenceCount": 1128,
-      "comment": null
-    },
+    null,
     {
       "id": "21119",
       "name": "Great for Beginners",
@@ -126,9 +104,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:03:45.609Z",
-      "updated": "2023-07-27T15:06:27.738Z",
+      "updated": "2023-07-29T16:39:27.246Z",
       "status": "ACTIVE",
-      "referenceCount": 213,
+      "referenceCount": 214,
       "comment": "From Ratings & Polls results."
     }
   ],
