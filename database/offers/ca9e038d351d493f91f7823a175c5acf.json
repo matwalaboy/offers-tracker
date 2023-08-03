@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-01T18:43:18.792Z",
-      "status": "ACTIVE",
-      "referenceCount": 2114,
-      "comment": null
-    },
+    null,
     {
       "id": "1395",
       "name": "Narration",
@@ -57,7 +46,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2023-08-01T23:09:14.080Z",
+      "updated": "2023-08-02T04:39:18.609Z",
       "status": "ACTIVE",
       "referenceCount": 205,
       "comment": null
@@ -74,18 +63,7 @@
       "referenceCount": 13,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-02T00:28:46.675Z",
-      "status": "ACTIVE",
-      "referenceCount": 4847,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -93,9 +71,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-02T00:28:46.643Z",
+      "updated": "2023-08-03T00:41:45.332Z",
       "status": "ACTIVE",
-      "referenceCount": 9556,
+      "referenceCount": 9566,
       "comment": null
     }
   ],

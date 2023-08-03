@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "Simulation",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2023-08-01T18:43:18.803Z",
-      "status": "ACTIVE",
-      "referenceCount": 911,
-      "comment": null
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -57,9 +46,9 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-01T09:55:28.853Z",
+      "updated": "2023-08-02T19:07:06.615Z",
       "status": "ACTIVE",
-      "referenceCount": 341,
+      "referenceCount": 344,
       "comment": ""
     },
     {
@@ -69,7 +58,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:51.840Z",
-      "updated": "2023-08-01T09:55:28.810Z",
+      "updated": "2023-08-02T15:40:09.589Z",
       "status": "ACTIVE",
       "referenceCount": 337,
       "comment": null
@@ -81,35 +70,13 @@
       "aliases": [],
       "operator": null,
       "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-08-01T18:39:02.593Z",
+      "updated": "2023-08-02T15:40:09.670Z",
       "status": "ACTIVE",
       "referenceCount": 332,
       "comment": ""
     },
-    {
-      "id": "21894",
-      "name": "Cloud Saves",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-07-07T16:11:08.589Z",
-      "updated": "2023-08-01T18:24:16.586Z",
-      "status": "ACTIVE",
-      "referenceCount": 1357,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-02T00:28:46.675Z",
-      "status": "ACTIVE",
-      "referenceCount": 4847,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -117,21 +84,9 @@
       "aliases": [],
       "operator": null,
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-02T00:28:46.643Z",
+      "updated": "2023-08-03T00:41:45.332Z",
       "status": "ACTIVE",
-      "referenceCount": 9556,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-01T21:24:53.205Z",
-      "status": "ACTIVE",
-      "referenceCount": 1132,
+      "referenceCount": 9566,
       "comment": null
     }
   ],
