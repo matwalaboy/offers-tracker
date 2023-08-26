@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fea8bc5ccb2c47dda799d4320e8fe0f8",
   "creationDate": "2022-02-25T22:02:36.065Z",
-  "lastModifiedDate": "2023-08-24T15:44:25.038Z",
+  "lastModifiedDate": "2023-08-25T09:23:02.966Z",
   "effectiveDate": "2022-03-01T00:00:00.000Z",
   "viewableDate": "2022-03-01T00:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2023-08-18T16:27:44.549Z",
+      "status": "ACTIVE",
+      "referenceCount": 260,
+      "comment": ""
+    },
+    {
       "id": "21139",
       "name": "Amazing Characters",
       "namespace": null,
@@ -68,7 +80,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 325,
+      "referenceCount": 324,
       "comment": ""
     },
     {
@@ -92,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 9776,
+      "referenceCount": 9787,
       "comment": null
     },
     {
