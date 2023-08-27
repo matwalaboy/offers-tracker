@@ -47,7 +47,7 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 62,
+      "referenceCount": 63,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -59,7 +59,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 260,
+      "referenceCount": 263,
       "comment": ""
     },
     {
@@ -107,7 +107,7 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 153,
+      "referenceCount": 154,
       "comment": ""
     },
     {
@@ -131,21 +131,10 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 9787,
+      "referenceCount": 9789,
       "comment": null
     },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
-      "comment": null
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -155,7 +144,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 347,
+      "referenceCount": 348,
       "comment": ""
     },
     {
@@ -167,7 +156,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 324,
+      "referenceCount": 325,
       "comment": ""
     },
     {
@@ -179,7 +168,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 324,
+      "referenceCount": 326,
       "comment": ""
     },
     {
@@ -191,7 +180,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 338,
+      "referenceCount": 340,
       "comment": ""
     },
     {
@@ -242,21 +231,7 @@
       "referenceCount": 337,
       "comment": ""
     },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 723,
-      "comment": null
-    },
+    null,
     {
       "id": "21119",
       "name": "Great for Beginners",
@@ -266,7 +241,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 221,
+      "referenceCount": 222,
       "comment": "From Ratings & Polls results."
     }
   ],
