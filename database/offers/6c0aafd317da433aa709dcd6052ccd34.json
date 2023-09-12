@@ -50,18 +50,7 @@
       "referenceCount": 344,
       "comment": null
     },
-    {
-      "id": "19943",
-      "name": "Ubisoft Publisher Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-03-01T15:17:13.040Z",
-      "updated": "2023-03-02T21:54:47.994Z",
-      "status": "ACTIVE",
-      "referenceCount": 183,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -71,7 +60,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 10550,
+      "referenceCount": 10555,
       "comment": null
     },
     {
@@ -83,7 +72,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 1890,
+      "referenceCount": 1891,
       "comment": null
     },
     {
@@ -131,7 +120,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 329,
+      "referenceCount": 330,
       "comment": ""
     },
     {
@@ -217,7 +206,8 @@
       "status": "ACTIVE",
       "referenceCount": 228,
       "comment": "From Ratings & Polls results."
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
