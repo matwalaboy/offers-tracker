@@ -8,7 +8,7 @@
   "productSlug": "saints-row--gold-edition",
   "urlSlug": "saints-row--gold-edition",
   "creationDate": "2021-08-03T18:57:24.064Z",
-  "lastModifiedDate": "2023-08-03T15:12:49.750Z",
+  "lastModifiedDate": "2023-09-12T15:04:11.378Z",
   "effectiveDate": "2022-08-23T07:00:00.000Z",
   "viewableDate": "2022-08-23T07:00:00.000Z",
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "1264",
       "name": "Co-op",
@@ -57,7 +68,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1408,
+      "referenceCount": 1411,
       "comment": ""
     },
     {
@@ -72,7 +83,18 @@
       "referenceCount": 73,
       "comment": ""
     },
-    null,
+    {
+      "id": "1336",
+      "name": "Action-Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2023-08-23T03:24:56.304Z",
+      "status": "ACTIVE",
+      "referenceCount": 519,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "Shooter",
@@ -110,6 +132,18 @@
       "comment": null
     },
     {
+      "id": "29899",
+      "name": "Deals of the Week",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-07-26T14:41:48.253Z",
+      "updated": "2023-08-22T15:03:06.981Z",
+      "status": "ACTIVE",
+      "referenceCount": 44,
+      "comment": ""
+    },
+    {
       "id": "9547",
       "name": "Windows",
       "namespace": "epic",
@@ -118,7 +152,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 10555,
+      "referenceCount": 10568,
       "comment": null
     },
     {
@@ -142,11 +176,9 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 1891,
+      "referenceCount": 1894,
       "comment": null
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
