@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "27555",
-      "name": "Meridian4 Publisher Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-03-30T15:44:06.078Z",
-      "updated": "2023-08-15T15:03:42.129Z",
-      "status": "ACTIVE",
-      "referenceCount": 49,
-      "comment": ""
-    },
-    {
       "id": "17493",
       "name": "September Savings",
       "namespace": null,
@@ -71,18 +59,7 @@
       "referenceCount": 1730,
       "comment": ""
     },
-    {
-      "id": "21129",
-      "name": "Challenging Combat",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:19:41.315Z",
-      "updated": "2023-08-22T23:38:34.180Z",
-      "status": "ACTIVE",
-      "referenceCount": 133,
-      "comment": ""
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter",
@@ -128,7 +105,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 10651,
+      "referenceCount": 10677,
       "comment": null
     },
     {
@@ -140,7 +117,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 1909,
+      "referenceCount": 1918,
       "comment": null
     }
   ],
