@@ -83,7 +83,7 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 71,
+      "referenceCount": 73,
       "comment": ""
     },
     {
@@ -98,18 +98,7 @@
       "referenceCount": 1451,
       "comment": ""
     },
-    {
-      "id": "21127",
-      "name": "Creative Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:58.023Z",
-      "updated": "2023-08-22T10:58:47.680Z",
-      "status": "ACTIVE",
-      "referenceCount": 154,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -119,7 +108,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11045,
+      "referenceCount": 11065,
       "comment": null
     },
     {
@@ -143,7 +132,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 366,
+      "referenceCount": 367,
       "comment": ""
     },
     {
@@ -191,7 +180,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 342,
+      "referenceCount": 343,
       "comment": ""
     },
     {
@@ -251,24 +240,11 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 354,
+      "referenceCount": 355,
       "comment": ""
     },
-    {
-      "id": "10719",
-      "name": "Mac OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX",
-        "macOS"
-      ],
-      "operator": null,
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2023-08-23T05:08:24.605Z",
-      "status": "ACTIVE",
-      "referenceCount": 812,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {
