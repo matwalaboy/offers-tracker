@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2023-08-23T04:55:54.805Z",
       "status": "ACTIVE",
-      "referenceCount": 154,
+      "referenceCount": 159,
       "comment": ""
     },
     {
@@ -56,7 +56,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 281,
+      "referenceCount": 280,
       "comment": ""
     },
     {
@@ -71,7 +71,18 @@
       "referenceCount": 344,
       "comment": null
     },
-    null,
+    {
+      "id": "21127",
+      "name": "Creative Community",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:16:58.023Z",
+      "updated": "2023-08-22T10:58:47.680Z",
+      "status": "ACTIVE",
+      "referenceCount": 155,
+      "comment": ""
+    },
     {
       "id": "9547",
       "name": "Windows",
@@ -81,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11065,
+      "referenceCount": 11074,
       "comment": null
     },
     {
@@ -117,7 +128,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 367,
+      "referenceCount": 366,
       "comment": ""
     },
     {
@@ -129,7 +140,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 340,
+      "referenceCount": 342,
       "comment": ""
     },
     {
@@ -141,7 +152,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 343,
+      "referenceCount": 342,
       "comment": ""
     },
     {
@@ -153,10 +164,21 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 359,
+      "referenceCount": 358,
       "comment": ""
     },
-    null,
+    {
+      "id": "22776",
+      "name": "Cross Platform",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-09-13T17:14:22.713Z",
+      "updated": "2023-08-23T04:55:54.839Z",
+      "status": "ACTIVE",
+      "referenceCount": 300,
+      "comment": ""
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -190,12 +212,21 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 355,
+      "referenceCount": 354,
       "comment": ""
     },
-    null,
-    null,
-    null
+    {
+      "id": "21119",
+      "name": "Great for Beginners",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:03:45.609Z",
+      "updated": "2023-08-22T21:49:10.904Z",
+      "status": "ACTIVE",
+      "referenceCount": 237,
+      "comment": "From Ratings & Polls results."
+    }
   ],
   "customAttributes": [
     {
