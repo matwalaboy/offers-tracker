@@ -8,7 +8,7 @@
   "productSlug": "the-crew-motorfest",
   "urlSlug": "the-crew-motorfest",
   "creationDate": "2023-06-06T13:52:22.930Z",
-  "lastModifiedDate": "2023-10-23T22:45:35.972Z",
+  "lastModifiedDate": "2023-10-24T23:50:41.848Z",
   "effectiveDate": "2023-09-14T08:00:00.000Z",
   "viewableDate": "2023-09-14T08:00:00.000Z",
   "developer": null,
@@ -74,30 +74,8 @@
       "referenceCount": 1947,
       "comment": null
     },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
-    },
-    {
-      "id": "21139",
-      "name": "Amazing Characters",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:04.563Z",
-      "updated": "2023-08-22T10:58:47.673Z",
-      "status": "ACTIVE",
-      "referenceCount": 348,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "1188",
       "name": "RELAXING",
@@ -119,7 +97,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 344,
+      "referenceCount": 342,
       "comment": ""
     },
     {
@@ -131,7 +109,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 359,
+      "referenceCount": 357,
       "comment": ""
     },
     {
@@ -143,7 +121,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11094,
+      "referenceCount": 11108,
       "comment": null
     },
     {
@@ -167,7 +145,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 358,
+      "referenceCount": 356,
       "comment": ""
     },
     {
@@ -179,7 +157,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 235,
+      "referenceCount": 234,
       "comment": "From Ratings & Polls results."
     }
   ],
