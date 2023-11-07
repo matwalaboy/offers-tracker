@@ -72,6 +72,18 @@
       "comment": null
     },
     {
+      "id": "32023",
+      "name": "Kalypso Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-11-06T07:50:02.049Z",
+      "updated": "2023-11-06T16:00:03.044Z",
+      "status": "ACTIVE",
+      "referenceCount": 52,
+      "comment": ""
+    },
+    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -93,18 +105,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 11252,
       "comment": null
     }
   ],
