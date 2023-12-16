@@ -71,7 +71,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1525,
+      "referenceCount": 1526,
       "comment": ""
     },
     {
@@ -83,33 +83,11 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 164,
+      "referenceCount": 165,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 11856,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2124,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -119,7 +97,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 385,
+      "referenceCount": 384,
       "comment": ""
     },
     {
@@ -131,7 +109,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 361,
+      "referenceCount": 360,
       "comment": ""
     },
     {
@@ -155,7 +133,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 375,
+      "referenceCount": 376,
       "comment": ""
     },
     {
@@ -182,18 +160,7 @@
       "referenceCount": 175,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
+    null,
     {
       "id": "21146",
       "name": "Educational",
@@ -203,21 +170,10 @@
       "created": "2022-05-17T21:35:29.234Z",
       "updated": "2023-08-22T10:58:47.726Z",
       "status": "ACTIVE",
-      "referenceCount": 68,
+      "referenceCount": 69,
       "comment": ""
     },
-    {
-      "id": "24570",
-      "name": "Holiday Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-12-14T20:45:17.902Z",
-      "updated": "2023-12-13T15:58:44.228Z",
-      "status": "ACTIVE",
-      "referenceCount": 3413,
-      "comment": ""
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -239,7 +195,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 374,
+      "referenceCount": 373,
       "comment": ""
     },
     {
@@ -254,7 +210,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 890,
+      "referenceCount": 891,
       "comment": null
     },
     {
@@ -266,7 +222,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 254,
+      "referenceCount": 253,
       "comment": "From Ratings & Polls results."
     }
   ],
