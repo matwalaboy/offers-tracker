@@ -8,7 +8,7 @@
   "productSlug": "just-die-already",
   "urlSlug": "phosphorusgeneralaudience",
   "creationDate": "2020-12-16T16:08:55.010Z",
-  "lastModifiedDate": "2023-09-08T11:45:27.874Z",
+  "lastModifiedDate": "2023-12-19T13:45:29.959Z",
   "effectiveDate": "2021-05-20T17:00:00.000Z",
   "viewableDate": "2021-05-20T17:00:00.000Z",
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "21126",
-      "name": "Silly Community",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:16:44.693Z",
-      "updated": "2023-07-28T13:32:03.080Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": ""
-    },
-    {
       "id": "21130",
       "name": "Easy Combat",
       "namespace": null,
@@ -95,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11886,
+      "referenceCount": 11895,
       "comment": null
     },
     {
@@ -155,7 +143,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 361,
+      "referenceCount": 362,
       "comment": ""
     },
     {
@@ -227,7 +215,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 377,
+      "referenceCount": 379,
       "comment": ""
     },
     {
