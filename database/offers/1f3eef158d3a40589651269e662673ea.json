@@ -44,7 +44,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 300,
+      "referenceCount": 299,
       "comment": ""
     },
     {
@@ -80,33 +80,11 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 11944,
+      "referenceCount": 11945,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2139,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "Co-op",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
-      "status": "ACTIVE",
-      "referenceCount": 1166,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -140,7 +118,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 363,
+      "referenceCount": 364,
       "comment": ""
     },
     {
@@ -212,7 +190,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 262,
+      "referenceCount": 263,
       "comment": "From Ratings & Polls results."
     }
   ],

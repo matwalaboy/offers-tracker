@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "21122",
       "name": "Diverse Characters",
@@ -48,7 +59,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 300,
+      "referenceCount": 299,
       "comment": ""
     },
     {
@@ -72,10 +83,21 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 167,
+      "referenceCount": 170,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 11945,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "Controller Support",
@@ -109,7 +131,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 364,
+      "referenceCount": 365,
       "comment": ""
     },
     {
@@ -121,7 +143,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 363,
+      "referenceCount": 364,
       "comment": ""
     },
     {
@@ -160,7 +182,18 @@
       "referenceCount": 519,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 5001,
+      "comment": null
+    },
     {
       "id": "21146",
       "name": "Educational",
@@ -170,7 +203,7 @@
       "created": "2022-05-17T21:35:29.234Z",
       "updated": "2023-08-22T10:58:47.726Z",
       "status": "ACTIVE",
-      "referenceCount": 68,
+      "referenceCount": 69,
       "comment": ""
     },
     {
@@ -254,7 +287,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 262,
+      "referenceCount": 263,
       "comment": "From Ratings & Polls results."
     }
   ],
