@@ -2,14 +2,14 @@
   "id": "1e1d88f70cbd4ac6ad0ee33f251d1a6f",
   "namespace": "b6a1a2bc8ab94b7fab473216aee35a3e",
   "title": "Hotel: A Resort Simulator",
-  "description": "You are the manager of a hotel in an idyllic location. Build, design and develop your hotel, while creating unforgettable memories for your guests through expert management and by offering exceptional entertainment.",
+  "description": "You are the manager of a hotel in an idyllic location. Build, design and develop your hotel, while creating unforgettable memories for your guests through expert management and by offering exceptional entertainment.\n",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "hotel-a-resort-simulator",
   "urlSlug": "hotel-a-resort-simulator",
   "creationDate": "2021-08-01T19:01:38.726Z",
-  "lastModifiedDate": "2023-09-21T07:26:23.276Z",
-  "effectiveDate": "2099-02-01T00:00:00.000Z",
+  "lastModifiedDate": "2024-01-23T18:50:06.452Z",
+  "effectiveDate": "2024-01-23T18:00:00.000Z",
   "viewableDate": "2023-09-07T19:00:00.000Z",
   "developer": null,
   "seller": {
@@ -38,18 +38,17 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
+      "id": "1393",
+      "name": "Simulation",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2023-08-23T03:55:35.422Z",
       "status": "ACTIVE",
-      "referenceCount": 3096,
-      "comment": ""
+      "referenceCount": 943,
+      "comment": null
     },
     {
       "id": "1370",
@@ -72,7 +71,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12233,
+      "referenceCount": 12237,
       "comment": null
     },
     {
