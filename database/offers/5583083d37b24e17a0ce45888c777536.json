@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "fishing-planet-congo-discovery-pack",
   "creationDate": "2024-01-25T17:51:59.190Z",
-  "lastModifiedDate": "2024-01-25T17:51:59.190Z",
+  "lastModifiedDate": "2024-03-14T09:09:29.298Z",
   "effectiveDate": "2024-01-30T13:00:00.000Z",
   "viewableDate": "2024-01-25T17:51:30.457Z",
   "developer": null,
@@ -104,18 +104,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2327,
-      "comment": null
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person",

@@ -8,7 +8,7 @@
   "productSlug": "astria-ascending--collector-edition",
   "urlSlug": "astria-ascending--collector-edition",
   "creationDate": "2021-09-03T22:02:11.112Z",
-  "lastModifiedDate": "2024-02-26T10:51:42.515Z",
+  "lastModifiedDate": "2024-03-14T09:09:29.336Z",
   "effectiveDate": "2021-09-30T15:00:00.000Z",
   "viewableDate": "2021-09-30T15:00:00.000Z",
   "developer": null,
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12695,
+      "referenceCount": 12715,
       "comment": null
     },
     {
@@ -105,18 +105,6 @@
       "updated": "2019-06-20T12:00:52.168Z",
       "status": "ACTIVE",
       "referenceCount": null,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2327,
       "comment": null
     }
   ],

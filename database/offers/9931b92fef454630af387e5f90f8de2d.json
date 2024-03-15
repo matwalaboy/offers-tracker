@@ -8,7 +8,7 @@
   "productSlug": "need-for-speed-unbound/palace-edition",
   "urlSlug": "need-for-speed-unbound-palace-edition",
   "creationDate": "2022-08-26T17:42:32.901Z",
-  "lastModifiedDate": "2024-02-26T10:51:42.500Z",
+  "lastModifiedDate": "2024-03-14T09:09:29.320Z",
   "effectiveDate": "2022-12-02T07:00:00.000Z",
   "viewableDate": "2022-12-02T07:00:00.000Z",
   "developer": null,
@@ -68,7 +68,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3357,
+      "referenceCount": 3366,
       "comment": ""
     },
     {
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12695,
+      "referenceCount": 12715,
       "comment": null
     },
     {
@@ -105,18 +105,6 @@
       "updated": "2023-08-23T04:55:54.861Z",
       "status": "ACTIVE",
       "referenceCount": 244,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2327,
       "comment": null
     }
   ],

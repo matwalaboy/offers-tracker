@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "borderlands-3--season-pass-bundle",
   "creationDate": "2021-10-18T21:56:39.940Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.479Z",
+  "lastModifiedDate": "2024-03-14T09:09:29.316Z",
   "effectiveDate": "2021-10-25T17:00:00.000Z",
   "viewableDate": "2021-10-25T17:00:00.000Z",
   "developer": null,
@@ -83,21 +83,10 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12695,
+      "referenceCount": 12715,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2327,
-      "comment": null
-    },
+    null,
     {
       "id": "1294",
       "name": "First Person",

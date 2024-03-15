@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "8bce037f8f844d4fa902a7870338773a",
   "creationDate": "2021-09-14T13:12:57.366Z",
-  "lastModifiedDate": "2024-01-11T08:16:33.596Z",
+  "lastModifiedDate": "2024-03-14T09:09:29.302Z",
   "effectiveDate": "2021-10-05T17:00:00.000Z",
   "viewableDate": "2021-10-05T17:00:00.000Z",
   "developer": null,
@@ -92,21 +92,10 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 12695,
+      "referenceCount": 12715,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2327,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie",
