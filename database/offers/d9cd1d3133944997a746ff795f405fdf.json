@@ -1,20 +1,20 @@
 {
-  "id": "2f3f044af20f4df6a5340f14197e56da",
-  "namespace": "894b17f2131c4a38b2c43b50621730cc",
-  "title": "Revenge of Sardine",
-  "description": "The game tells the story of friends of sardine Keita who were captured by other animals on the way of migration, and Keita rescued his friends.",
+  "id": "d9cd1d3133944997a746ff795f405fdf",
+  "namespace": "6826d523207948248b2161700dc703ee",
+  "title": "Cleaning Queens 2: Sparkling Palace",
+  "description": "Get swept away in the sparkling love story of \"Cleaning Queens 2: Sparkling Palace\" as Beth and Ross navigate hidden object levels, mini-games, and a world of cleaning slang in their quest for a spotless future. Join them in over 100 levels of cleaning mayhem.",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "825947b02c8f411eabc0e8726515800b",
-  "creationDate": "2023-11-04T06:26:15.064Z",
-  "lastModifiedDate": "2024-04-25T22:23:57.034Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2024-04-24T21:59:33.633Z",
+  "urlSlug": "3e602b6d5168440388158b7db60cc3c8",
+  "creationDate": "2024-04-25T08:40:02.208Z",
+  "lastModifiedDate": "2024-04-25T08:40:02.208Z",
+  "effectiveDate": "2024-06-04T22:00:00.000Z",
+  "viewableDate": "2024-04-28T22:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-erey2ubdnqlcx6fmm2rkx7bx86lt5s",
-    "name": "African boy Keita studio"
+    "id": "o-fh42lv94p6vsnk9zctv74ruq6qcr2l",
+    "name": "Trela Games"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -72,27 +72,18 @@
       "comment": null
     },
     {
-      "id": "1117",
-      "name": "Adventure",
+      "id": "10719",
+      "name": "Mac OS",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
       "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2023-08-23T02:16:39.269Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1473,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "Indie",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2023-08-23T05:17:12.988Z",
-      "status": "ACTIVE",
-      "referenceCount": 1176,
+      "referenceCount": 1133,
       "comment": null
     }
   ],
@@ -106,6 +97,10 @@
       "value": "true"
     },
     {
+      "key": "isPromotionalContentUsed",
+      "value": "null"
+    },
+    {
       "key": "isManuallySetPCReleaseDate",
       "value": "true"
     },
@@ -117,38 +112,38 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/63cacc0c4d5443afbb7e8bf71c3bdad6/revenge-of-sardine-140sp.png",
-      "md5": "5c7e2bdc47630459911b0dfaaaec8633",
-      "size": 1180284,
-      "uploadedDate": "2023-11-05T01:04:28.986Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c00b21062fb4e8da1e5573f56faccd3/cleaning-queens-2-sparkling-palace-pntrs.png",
+      "md5": "4aae25ae953abfeb34df3ef3686f224e",
+      "size": 3394784,
+      "uploadedDate": "2024-04-24T06:19:32.072Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/63cacc0c4d5443afbb7e8bf71c3bdad6/revenge-of-sardine-1g1wz.png",
-      "md5": "e921a75e8ee8ac59f1f3166d6c91abab",
-      "size": 115648,
-      "uploadedDate": "2023-11-05T01:12:57.232Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c00b21062fb4e8da1e5573f56faccd3/cleaning-queens-2-sparkling-palace-pprll.png",
+      "md5": "99b6eba2e62bad44b096ff1f4dbbe5b5",
+      "size": 1971061,
+      "uploadedDate": "2024-04-24T06:19:36.631Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/63cacc0c4d5443afbb7e8bf71c3bdad6/revenge-of-sardine-1g1wz.png",
-      "md5": "e921a75e8ee8ac59f1f3166d6c91abab",
-      "size": 115648,
-      "uploadedDate": "2023-11-05T01:12:57.232Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/4c00b21062fb4e8da1e5573f56faccd3/cleaning-queens-2-sparkling-palace-pprll.png",
+      "md5": "99b6eba2e62bad44b096ff1f4dbbe5b5",
+      "size": 1971061,
+      "uploadedDate": "2024-04-24T06:19:36.631Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "1cfbd0be3369419aacd4dd9f7c59190b"
+      "id": "353e72ed894748ad8ed34f640dd116b1"
     }
   ],
   "catalogNs": {
-    "name": "894b17f2131c4a38b2c43b50621730cc"
+    "name": "6826d523207948248b2161700dc703ee"
   }
 }
