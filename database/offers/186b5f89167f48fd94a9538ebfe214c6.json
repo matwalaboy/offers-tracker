@@ -80,7 +80,7 @@
       "created": "2024-04-04T07:10:15.490Z",
       "updated": "2024-06-13T15:01:16.879Z",
       "status": "ACTIVE",
-      "referenceCount": 350,
+      "referenceCount": 349,
       "comment": ""
     },
     {
@@ -155,18 +155,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "1083",
-      "name": "Rogue-Lite",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2023-08-23T05:17:12.960Z",
-      "status": "ACTIVE",
-      "referenceCount": 204,
-      "comment": null
-    },
+    null,
     {
       "id": "21147",
       "name": "Inclusive Character Customization",
@@ -188,7 +177,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 448,
+      "referenceCount": 449,
       "comment": ""
     },
     {
