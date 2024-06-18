@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 968,
-      "comment": ""
-    },
+    null,
     {
       "id": "1287",
       "name": "Fantasy",
@@ -59,18 +48,7 @@
       "referenceCount": 95,
       "comment": null
     },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3711,
-      "comment": ""
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -80,7 +58,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14173,
+      "referenceCount": 14193,
       "comment": null
     },
     {
@@ -143,30 +121,8 @@
       "referenceCount": 1144,
       "comment": null
     },
-    {
-      "id": "22775",
-      "name": "MMO",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
-      "status": "ACTIVE",
-      "referenceCount": 256,
-      "comment": ""
-    },
-    {
-      "id": "22776",
-      "name": "Cross Platform",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2023-08-23T04:55:54.839Z",
-      "status": "ACTIVE",
-      "referenceCount": 574,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -200,7 +156,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 312,
+      "referenceCount": 313,
       "comment": "From Ratings & Polls results."
     }
   ],

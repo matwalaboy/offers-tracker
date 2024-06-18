@@ -35,30 +35,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "Action",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2023-08-23T05:17:12.937Z",
-      "status": "ACTIVE",
-      "referenceCount": 2167,
-      "comment": null
-    },
-    {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2024-03-28T21:49:30.504Z",
-      "status": "ACTIVE",
-      "referenceCount": 968,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "1121",
       "name": "Space",
@@ -83,18 +61,7 @@
       "referenceCount": 1144,
       "comment": null
     },
-    {
-      "id": "22775",
-      "name": "MMO",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
-      "status": "ACTIVE",
-      "referenceCount": 256,
-      "comment": ""
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -116,7 +83,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14173,
+      "referenceCount": 14193,
       "comment": null
     },
     {
@@ -128,7 +95,7 @@
       "created": "2022-06-24T20:06:43.344Z",
       "updated": "2023-08-22T18:09:40.655Z",
       "status": "ACTIVE",
-      "referenceCount": 162,
+      "referenceCount": 163,
       "comment": ""
     },
     {
@@ -140,9 +107,10 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2620,
+      "referenceCount": 2633,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
