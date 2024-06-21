@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1120",
-      "name": "RTS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:18.078Z",
-      "updated": "2023-08-23T05:08:24.551Z",
-      "status": "ACTIVE",
-      "referenceCount": 87,
-      "comment": null
-    },
+    null,
     {
       "id": "1344",
       "name": "Fighting",
@@ -80,33 +69,11 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 975,
+      "referenceCount": 977,
       "comment": ""
     },
-    {
-      "id": "1299",
-      "name": "Competitive",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2023-08-23T04:55:54.821Z",
-      "status": "ACTIVE",
-      "referenceCount": 452,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2023-08-23T03:10:10.001Z",
-      "status": "ACTIVE",
-      "referenceCount": 1144,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "22776",
       "name": "Cross Platform",
@@ -116,7 +83,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 583,
+      "referenceCount": 585,
       "comment": ""
     },
     {
@@ -140,7 +107,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14219,
+      "referenceCount": 14224,
       "comment": null
     },
     {
@@ -152,7 +119,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2644,
+      "referenceCount": 2646,
       "comment": null
     },
     {
@@ -167,7 +134,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1176,
+      "referenceCount": 1177,
       "comment": null
     }
   ],
