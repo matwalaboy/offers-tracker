@@ -38,20 +38,8 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3817,
+      "referenceCount": 3818,
       "comment": ""
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14426,
-      "comment": null
     }
   ],
   "customAttributes": [
@@ -142,7 +130,5 @@
       "id": "9a272b8849954d09a5276516640c4f8d"
     }
   ],
-  "catalogNs": {
-    "name": "c62d7481ae1744dab7310c8f4e1e9548"
-  }
+  "catalogNs": null
 }

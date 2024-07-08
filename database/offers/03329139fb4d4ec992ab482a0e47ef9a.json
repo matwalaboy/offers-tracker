@@ -44,7 +44,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 14426,
+      "referenceCount": 14430,
       "comment": null
     }
   ],
@@ -101,7 +101,5 @@
       "id": "f33ca99d56f84128a2184fd5e8d8a63c"
     }
   ],
-  "catalogNs": {
-    "name": "carnation"
-  }
+  "catalogNs": null
 }

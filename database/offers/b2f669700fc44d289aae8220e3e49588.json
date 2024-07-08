@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14426,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -154,7 +143,5 @@
       "id": "ea2d600acd534cf6b16ba2c506bf101e"
     }
   ],
-  "catalogNs": {
-    "name": "oregano"
-  }
+  "catalogNs": null
 }

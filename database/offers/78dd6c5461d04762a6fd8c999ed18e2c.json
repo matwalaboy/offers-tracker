@@ -56,7 +56,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1032,
+      "referenceCount": 1033,
       "comment": ""
     },
     {
@@ -83,18 +83,7 @@
       "referenceCount": 344,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14426,
-      "comment": null
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -155,18 +144,7 @@
       "referenceCount": 455,
       "comment": ""
     },
-    {
-      "id": "1307",
-      "name": "Open World",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2023-08-21T17:22:53.154Z",
-      "status": "ACTIVE",
-      "referenceCount": 416,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -200,7 +178,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 316,
+      "referenceCount": 315,
       "comment": "From Ratings & Polls results."
     }
   ],
