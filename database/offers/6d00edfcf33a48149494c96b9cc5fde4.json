@@ -59,7 +59,7 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2023-08-23T02:20:12.228Z",
       "status": "ACTIVE",
-      "referenceCount": 1879,
+      "referenceCount": 1882,
       "comment": ""
     },
     {
@@ -74,18 +74,7 @@
       "referenceCount": 197,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14750,
-      "comment": null
-    },
+    null,
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -107,7 +96,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 437,
+      "referenceCount": 436,
       "comment": ""
     },
     {
@@ -119,7 +108,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 437,
+      "referenceCount": 438,
       "comment": ""
     },
     {
@@ -146,18 +135,7 @@
       "referenceCount": 1144,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
+    null,
     {
       "id": "1115",
       "name": "Strategy",
@@ -179,7 +157,7 @@
       "created": "2022-05-17T21:36:07.333Z",
       "updated": "2023-08-22T16:40:57.276Z",
       "status": "ACTIVE",
-      "referenceCount": 139,
+      "referenceCount": 140,
       "comment": ""
     },
     {
@@ -203,7 +181,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 321,
+      "referenceCount": 323,
       "comment": "From Ratings & Polls results."
     }
   ],
