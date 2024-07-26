@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a",
   "creationDate": "2023-09-05T17:43:03.802Z",
-  "lastModifiedDate": "2024-07-24T07:37:49.386Z",
+  "lastModifiedDate": "2024-07-25T22:27:24.691Z",
   "effectiveDate": "2024-04-18T15:00:00.000Z",
   "viewableDate": "2024-04-11T15:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1098,
+      "referenceCount": 1101,
       "comment": ""
     },
     {
@@ -68,22 +68,22 @@
       "created": "2022-05-17T21:16:32.830Z",
       "updated": "2023-09-26T16:06:19.633Z",
       "status": "ACTIVE",
-      "referenceCount": 99,
+      "referenceCount": 98,
       "comment": ""
     },
-    null,
     {
-      "id": "1264",
-      "name": "Co-op",
+      "id": "9547",
+      "name": "Windows",
       "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2023-08-23T03:55:35.380Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 1166,
+      "referenceCount": 14818,
       "comment": null
     },
+    null,
     {
       "id": "1296",
       "name": "Casual",
@@ -108,18 +108,7 @@
       "referenceCount": 46,
       "comment": ""
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-22T10:58:47.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 483,
-      "comment": ""
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive",
@@ -132,18 +121,7 @@
       "referenceCount": 452,
       "comment": null
     },
-    {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
-      "status": "ACTIVE",
-      "referenceCount": 438,
-      "comment": ""
-    },
+    null,
     {
       "id": "1110",
       "name": "Party",
@@ -192,7 +170,7 @@
       "created": "2019-10-11T02:43:27.812Z",
       "updated": "2023-08-23T05:08:24.605Z",
       "status": "ACTIVE",
-      "referenceCount": 1207,
+      "referenceCount": 1208,
       "comment": null
     }
   ],

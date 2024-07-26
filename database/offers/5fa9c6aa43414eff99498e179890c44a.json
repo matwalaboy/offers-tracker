@@ -8,7 +8,7 @@
   "productSlug": "armored-warfare",
   "urlSlug": "armored-warfare",
   "creationDate": "2021-01-15T08:48:46.029Z",
-  "lastModifiedDate": "2024-07-10T02:30:50.152Z",
+  "lastModifiedDate": "2024-07-25T10:05:07.837Z",
   "effectiveDate": "2022-04-21T14:00:00.000Z",
   "viewableDate": "2021-05-25T14:00:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "21121",
       "name": "Great for Quick Sessions",
@@ -48,7 +59,7 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 89,
+      "referenceCount": 91,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -76,18 +87,17 @@
       "comment": null
     },
     {
-      "id": "21125",
-      "name": "Competitive Community",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:16:32.830Z",
-      "updated": "2023-09-26T16:06:19.633Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 99,
-      "comment": ""
+      "referenceCount": 14818,
+      "comment": null
     },
-    null,
     null,
     {
       "id": "1393",
@@ -101,18 +111,7 @@
       "referenceCount": 943,
       "comment": null
     },
-    {
-      "id": "21138",
-      "name": "Recommend this Game",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:29:17.831Z",
-      "updated": "2023-08-22T10:58:47.687Z",
-      "status": "ACTIVE",
-      "referenceCount": 483,
-      "comment": ""
-    },
+    null,
     {
       "id": "1203",
       "name": "Multiplayer",
@@ -137,19 +136,19 @@
       "referenceCount": 452,
       "comment": null
     },
+    null,
     {
-      "id": "21140",
-      "name": "Amazing Storytelling",
-      "namespace": null,
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2022-05-17T21:30:46.453Z",
-      "updated": "2023-08-22T14:02:04.254Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 438,
-      "comment": ""
+      "referenceCount": 5001,
+      "comment": null
     },
-    null,
     {
       "id": "21149",
       "name": "Quickly Understand the Controls",
@@ -159,7 +158,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 458,
+      "referenceCount": 460,
       "comment": ""
     },
     {
@@ -171,7 +170,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 323,
+      "referenceCount": 324,
       "comment": "From Ratings & Polls results."
     }
   ],
