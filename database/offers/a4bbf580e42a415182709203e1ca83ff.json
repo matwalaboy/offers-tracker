@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "701014dab18c45baa5a2409632502451",
   "creationDate": "2022-01-20T18:31:14.811Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.696Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.185Z",
   "effectiveDate": "2022-06-17T14:00:00.000Z",
   "viewableDate": "2022-06-08T14:00:00.000Z",
   "developer": null,
@@ -71,30 +71,9 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14850,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2807,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "10719",
       "name": "Mac OS",

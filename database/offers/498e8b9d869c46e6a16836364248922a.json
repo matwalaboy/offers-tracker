@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "72287d6742c24311ab09a7fb6368e61a",
   "creationDate": "2022-08-22T15:46:58.799Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.681Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.181Z",
   "effectiveDate": "2022-08-26T14:00:00.000Z",
   "viewableDate": "2022-08-22T14:00:00.000Z",
   "developer": null,
@@ -95,30 +95,9 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14850,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2807,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "1151",
       "name": "Platformer",

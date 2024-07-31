@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "000ff62d1877415589bb126e900a88e8",
   "creationDate": "2023-09-14T21:11:13.608Z",
-  "lastModifiedDate": "2024-07-23T06:13:37.693Z",
+  "lastModifiedDate": "2024-07-30T15:00:28.179Z",
   "effectiveDate": "2024-01-18T15:00:00.000Z",
   "viewableDate": "2023-12-14T15:00:00.000Z",
   "developer": null,
@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3935,
-      "comment": ""
-    },
+    null,
     {
       "id": "1210",
       "name": "Shooter",
@@ -71,18 +60,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14850,
-      "comment": null
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -95,18 +73,8 @@
       "referenceCount": 204,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2807,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1263",
       "name": "Indie",
