@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "37317ab32704433da3ff3fb9fbf3faed",
   "creationDate": "2023-10-30T23:14:36.243Z",
-  "lastModifiedDate": "2024-07-16T15:39:57.669Z",
+  "lastModifiedDate": "2024-08-01T15:03:34.965Z",
   "effectiveDate": "2023-10-31T04:00:00.000Z",
   "viewableDate": "2023-10-31T04:00:00.000Z",
   "developer": null,
@@ -36,18 +36,6 @@
   ],
   "tags": [
     {
-      "id": "16979",
-      "name": "Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-07-14T15:58:17.560Z",
-      "updated": "2024-07-18T15:00:10.854Z",
-      "status": "ACTIVE",
-      "referenceCount": 3077,
-      "comment": ""
-    },
-    {
       "id": "1370",
       "name": "Single Player",
       "namespace": "epic",
@@ -69,18 +57,6 @@
       "updated": "2023-08-23T05:08:24.575Z",
       "status": "ACTIVE",
       "referenceCount": 1068,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14875,
       "comment": null
     }
   ],

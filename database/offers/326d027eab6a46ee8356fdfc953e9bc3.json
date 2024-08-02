@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "delux-level",
   "creationDate": "2023-05-16T15:35:11.546Z",
-  "lastModifiedDate": "2024-07-16T15:39:57.636Z",
+  "lastModifiedDate": "2024-08-01T15:03:34.937Z",
   "effectiveDate": "2023-11-14T16:00:00.000Z",
   "viewableDate": "2023-11-14T09:00:00.000Z",
   "developer": null,
@@ -44,30 +44,7 @@
       "referenceCount": 2167,
       "comment": null
     },
-    {
-      "id": "16979",
-      "name": "Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2021-07-14T15:58:17.560Z",
-      "updated": "2024-07-18T15:00:10.854Z",
-      "status": "ACTIVE",
-      "referenceCount": 3077,
-      "comment": ""
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2023-08-23T01:02:46.275Z",
-      "status": "ACTIVE",
-      "referenceCount": 3954,
-      "comment": ""
-    },
+    null,
     {
       "id": "1336",
       "name": "Action-Adventure",
@@ -92,18 +69,7 @@
       "referenceCount": 5001,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 14875,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -114,18 +80,6 @@
       "updated": "2023-08-23T02:16:39.269Z",
       "status": "ACTIVE",
       "referenceCount": 1473,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "Controller Support",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2023-08-23T03:24:56.337Z",
-      "status": "ACTIVE",
-      "referenceCount": 2810,
       "comment": null
     }
   ],
