@@ -50,7 +50,18 @@
       "referenceCount": 423,
       "comment": null
     },
-    null,
+    {
+      "id": "29088",
+      "name": "Online Multiplayer",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2023-06-19T16:23:12.748Z",
+      "updated": "2024-03-28T21:49:30.504Z",
+      "status": "ACTIVE",
+      "referenceCount": 1130,
+      "comment": ""
+    },
     {
       "id": "1299",
       "name": "Competitive",
@@ -72,7 +83,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 3965,
+      "referenceCount": 3957,
       "comment": ""
     },
     {
@@ -84,10 +95,21 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 631,
+      "referenceCount": 632,
       "comment": ""
     },
-    null,
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 14988,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "Controller Support",
@@ -97,10 +119,21 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2828,
+      "referenceCount": 2834,
       "comment": null
     },
-    null,
+    {
+      "id": "1263",
+      "name": "Indie",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2023-08-23T05:17:12.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 1176,
+      "comment": null
+    },
     {
       "id": "1183",
       "name": "Local Multiplayer",
@@ -111,6 +144,21 @@
       "updated": "2024-03-28T21:48:38.999Z",
       "status": "ACTIVE",
       "referenceCount": 168,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "Mac OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX",
+        "macOS"
+      ],
+      "operator": null,
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2023-08-23T05:08:24.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 1213,
       "comment": null
     }
   ],
