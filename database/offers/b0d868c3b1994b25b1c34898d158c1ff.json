@@ -7,9 +7,9 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "794dad7d5321411fa8298073307992c9",
-  "creationDate": "2024-08-01T20:45:09.162Z",
-  "lastModifiedDate": "2024-08-01T20:45:09.162Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2024-04-23T22:08:37.697Z",
+  "lastModifiedDate": "2024-08-12T19:00:22.914Z",
+  "effectiveDate": "2024-08-12T19:00:04.499Z",
   "viewableDate": "2024-08-01T20:45:07.475Z",
   "developer": null,
   "seller": {
@@ -56,7 +56,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15000,
+      "referenceCount": 15010,
       "comment": null
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "key": "isManuallySetViewableDate",
-      "value": "true"
+      "value": "false"
     },
     {
       "key": "isPromotionalContentUsed",
