@@ -8,7 +8,7 @@
   "productSlug": "prince-of-persia-the-lost-crown",
   "urlSlug": "prince-of-persia-the-lost-crown",
   "creationDate": "2023-04-19T09:02:59.826Z",
-  "lastModifiedDate": "2024-08-02T14:13:04.648Z",
+  "lastModifiedDate": "2024-08-29T09:53:52.885Z",
   "effectiveDate": "2024-01-18T05:00:00.000Z",
   "viewableDate": "2024-01-18T05:00:00.000Z",
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "Action",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2023-08-23T05:17:12.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 2167,
+      "comment": null
+    },
     {
       "id": "21138",
       "name": "Recommend this Game",
@@ -60,7 +71,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 457,
+      "referenceCount": 456,
       "comment": ""
     },
     {
@@ -72,7 +83,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 451,
+      "referenceCount": 453,
       "comment": ""
     },
     {
@@ -120,22 +131,32 @@
       "created": "2022-05-17T21:19:41.315Z",
       "updated": "2023-08-22T23:38:34.180Z",
       "status": "ACTIVE",
-      "referenceCount": 171,
+      "referenceCount": 172,
       "comment": ""
     },
-    null,
-    null,
     {
-      "id": "35244",
-      "name": "Epic Savings",
-      "namespace": null,
+      "id": "1370",
+      "name": "Single Player",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2024-04-04T07:10:15.490Z",
-      "updated": "2024-08-19T15:02:07.771Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2023-08-23T05:17:12.951Z",
       "status": "ACTIVE",
-      "referenceCount": 503,
-      "comment": ""
+      "referenceCount": 5001,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15233,
+      "comment": null
     },
     {
       "id": "21149",
@@ -148,9 +169,7 @@
       "status": "ACTIVE",
       "referenceCount": 478,
       "comment": ""
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {

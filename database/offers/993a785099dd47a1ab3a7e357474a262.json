@@ -8,7 +8,7 @@
   "productSlug": "the-division/season-pass",
   "urlSlug": "the-division--season-pass",
   "creationDate": "2020-06-15T15:29:58.580Z",
-  "lastModifiedDate": "2024-08-02T14:13:04.652Z",
+  "lastModifiedDate": "2024-08-29T09:53:52.890Z",
   "effectiveDate": "2020-07-14T15:00:00.000Z",
   "viewableDate": "2020-07-14T15:00:00.000Z",
   "developer": null,
@@ -38,20 +38,18 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "35244",
-      "name": "Epic Savings",
-      "namespace": null,
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
       "aliases": [],
       "operator": null,
-      "created": "2024-04-04T07:10:15.490Z",
-      "updated": "2024-08-19T15:02:07.771Z",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 503,
-      "comment": ""
-    },
-    null
+      "referenceCount": 15233,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
