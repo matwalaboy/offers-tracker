@@ -47,7 +47,7 @@
       "created": "2022-05-17T21:12:59.057Z",
       "updated": "2023-08-18T16:27:44.549Z",
       "status": "ACTIVE",
-      "referenceCount": 377,
+      "referenceCount": 379,
       "comment": ""
     },
     {
@@ -71,7 +71,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4056,
+      "referenceCount": 4060,
       "comment": ""
     },
     {
@@ -86,18 +86,7 @@
       "referenceCount": 210,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15285,
-      "comment": null
-    },
+    null,
     {
       "id": "1166",
       "name": "4X",
@@ -119,7 +108,7 @@
       "created": "2022-05-17T21:26:38.263Z",
       "updated": "2023-08-15T18:25:19.800Z",
       "status": "ACTIVE",
-      "referenceCount": 20,
+      "referenceCount": 21,
       "comment": ""
     },
     {
@@ -131,21 +120,10 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 506,
+      "referenceCount": 507,
       "comment": ""
     },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
+    null,
     {
       "id": "21139",
       "name": "Amazing Characters",
@@ -167,7 +145,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 454,
+      "referenceCount": 455,
       "comment": ""
     },
     {
@@ -179,7 +157,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 480,
+      "referenceCount": 481,
       "comment": ""
     },
     {
@@ -227,7 +205,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 346,
+      "referenceCount": 349,
       "comment": "From Ratings & Polls results."
     },
     {
