@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "555d6661946044c7adf7940317e82ad5",
   "creationDate": "2024-04-08T21:59:14.288Z",
-  "lastModifiedDate": "2024-09-06T16:45:37.113Z",
+  "lastModifiedDate": "2024-09-12T09:09:16.529Z",
   "effectiveDate": "2024-05-02T20:00:00.000Z",
   "viewableDate": "2024-05-02T20:00:00.000Z",
   "developer": null,
@@ -48,6 +48,18 @@
       "comment": null
     },
     {
+      "id": "39473",
+      "name": "EA Publisher Sale",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2024-09-12T09:03:57.741Z",
+      "updated": "2024-09-12T09:07:26.669Z",
+      "status": "ACTIVE",
+      "referenceCount": 120,
+      "comment": ""
+    },
+    {
       "id": "1218",
       "name": "Horror",
       "namespace": "epic",
@@ -83,18 +95,7 @@
       "referenceCount": 62,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15402,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
