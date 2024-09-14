@@ -8,7 +8,7 @@
   "productSlug": "fall-guys",
   "urlSlug": "fall-guys",
   "creationDate": "2021-03-15T16:53:00.314Z",
-  "lastModifiedDate": "2024-09-12T22:50:58.250Z",
+  "lastModifiedDate": "2024-09-13T22:53:52.831Z",
   "effectiveDate": "2022-06-21T08:00:00.000Z",
   "viewableDate": "2022-05-16T17:00:00.000Z",
   "developer": null,
@@ -56,13 +56,57 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 105,
+      "referenceCount": 106,
       "comment": "From Ratings & Polls results."
     },
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "21122",
+      "name": "Diverse Characters",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:12:59.057Z",
+      "updated": "2023-08-18T16:27:44.549Z",
+      "status": "ACTIVE",
+      "referenceCount": 388,
+      "comment": ""
+    },
+    {
+      "id": "1188",
+      "name": "RELAXING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.840Z",
+      "updated": "2023-08-22T13:54:28.456Z",
+      "status": "ACTIVE",
+      "referenceCount": 344,
+      "comment": null
+    },
+    {
+      "id": "19847",
+      "name": "Achievements",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-02-23T20:19:16.824Z",
+      "updated": "2023-08-23T01:02:46.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 4140,
+      "comment": ""
+    },
+    {
+      "id": "9547",
+      "name": "Windows",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2023-08-23T05:17:12.978Z",
+      "status": "ACTIVE",
+      "referenceCount": 15525,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "Controller Support",
@@ -72,7 +116,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 2960,
+      "referenceCount": 2964,
       "comment": null
     },
     {
@@ -84,7 +128,7 @@
       "created": "2022-05-17T21:27:25.710Z",
       "updated": "2023-08-15T21:51:42.494Z",
       "status": "ACTIVE",
-      "referenceCount": 46,
+      "referenceCount": 47,
       "comment": ""
     },
     {
@@ -96,7 +140,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 517,
+      "referenceCount": 518,
       "comment": ""
     },
     {
@@ -156,7 +200,7 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 487,
+      "referenceCount": 488,
       "comment": ""
     },
     {
@@ -192,7 +236,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 487,
+      "referenceCount": 489,
       "comment": ""
     },
     {
