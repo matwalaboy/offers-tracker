@@ -8,7 +8,7 @@
   "productSlug": "the-escapists-2/home",
   "urlSlug": "fowlgeneralaudience",
   "creationDate": "2019-09-10T19:34:25.391Z",
-  "lastModifiedDate": "2024-08-30T09:12:50.851Z",
+  "lastModifiedDate": "2024-09-16T15:02:03.181Z",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "viewableDate": "2020-06-11T15:00:00.000Z",
   "developer": null,
@@ -74,18 +74,7 @@
       "referenceCount": 1997,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15526,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "Indie",
@@ -131,7 +120,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 518,
+      "referenceCount": 517,
       "comment": ""
     },
     {
@@ -143,7 +132,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 465,
+      "referenceCount": 463,
       "comment": ""
     },
     {
@@ -155,7 +144,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 463,
+      "referenceCount": 462,
       "comment": ""
     },
     {
@@ -167,21 +156,10 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 492,
+      "referenceCount": 490,
       "comment": ""
     },
-    {
-      "id": "1115",
-      "name": "Strategy",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2023-08-23T05:08:24.575Z",
-      "status": "ACTIVE",
-      "referenceCount": 1068,
-      "comment": null
-    },
+    null,
     {
       "id": "21149",
       "name": "Quickly Understand the Controls",
@@ -191,7 +169,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 490,
+      "referenceCount": 488,
       "comment": ""
     },
     {
@@ -205,18 +183,6 @@
       "status": "ACTIVE",
       "referenceCount": 358,
       "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-08-19T07:48:32.677Z",
-      "updated": "2024-09-02T15:01:34.149Z",
-      "status": "ACTIVE",
-      "referenceCount": 2158,
-      "comment": ""
     }
   ],
   "customAttributes": [

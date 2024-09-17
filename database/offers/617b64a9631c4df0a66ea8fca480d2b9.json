@@ -8,7 +8,7 @@
   "productSlug": "yooka-laylee-and-the-impossible-lair/home",
   "urlSlug": "yooka-laylee-and-the-impossible-lair",
   "creationDate": "2019-11-27T18:37:35.242Z",
-  "lastModifiedDate": "2024-08-30T09:12:50.789Z",
+  "lastModifiedDate": "2024-09-16T15:02:03.142Z",
   "effectiveDate": "2019-12-31T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -74,18 +74,7 @@
       "referenceCount": 1997,
       "comment": ""
     },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15526,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -119,7 +108,7 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 518,
+      "referenceCount": 517,
       "comment": ""
     },
     {
@@ -131,7 +120,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 465,
+      "referenceCount": 463,
       "comment": ""
     },
     {
@@ -143,7 +132,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 463,
+      "referenceCount": 462,
       "comment": ""
     },
     {
@@ -155,21 +144,10 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 492,
+      "referenceCount": 490,
       "comment": ""
     },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "Adventure",
@@ -191,7 +169,7 @@
       "created": "2022-05-17T21:39:57.117Z",
       "updated": "2023-08-22T10:58:47.694Z",
       "status": "ACTIVE",
-      "referenceCount": 490,
+      "referenceCount": 488,
       "comment": ""
     },
     {
@@ -217,18 +195,6 @@
       "status": "ACTIVE",
       "referenceCount": 358,
       "comment": "From Ratings & Polls results."
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-08-19T07:48:32.677Z",
-      "updated": "2024-09-02T15:01:34.149Z",
-      "status": "ACTIVE",
-      "referenceCount": 2158,
-      "comment": ""
     }
   ],
   "customAttributes": [

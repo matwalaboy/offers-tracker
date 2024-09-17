@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "484e262700074736adf999419368d435",
   "creationDate": "2021-09-16T22:37:24.231Z",
-  "lastModifiedDate": "2024-08-30T09:12:50.827Z",
+  "lastModifiedDate": "2024-09-16T15:02:03.161Z",
   "effectiveDate": "2022-06-01T13:00:00.000Z",
   "viewableDate": "2022-05-18T12:00:00.000Z",
   "developer": null,
@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2023-08-23T05:17:12.951Z",
-      "status": "ACTIVE",
-      "referenceCount": 5001,
-      "comment": null
-    },
+    null,
     {
       "id": "1083",
       "name": "Rogue-Lite",
@@ -58,30 +47,6 @@
       "status": "ACTIVE",
       "referenceCount": 204,
       "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "Windows",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2023-08-23T05:17:12.978Z",
-      "status": "ACTIVE",
-      "referenceCount": 15526,
-      "comment": null
-    },
-    {
-      "id": "38815",
-      "name": "End of Summer Sale",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-08-19T07:48:32.677Z",
-      "updated": "2024-09-02T15:01:34.149Z",
-      "status": "ACTIVE",
-      "referenceCount": 2158,
-      "comment": ""
     }
   ],
   "customAttributes": [
