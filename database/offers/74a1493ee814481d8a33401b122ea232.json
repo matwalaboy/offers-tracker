@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "ade2f1be66aa43fc9232b67787befb35",
   "creationDate": "2023-09-07T02:39:50.778Z",
-  "lastModifiedDate": "2024-09-29T20:05:22.050Z",
+  "lastModifiedDate": "2024-10-01T03:03:31.385Z",
   "effectiveDate": "2024-01-10T09:00:00.000Z",
   "viewableDate": "2024-01-10T09:00:00.000Z",
   "developer": null,
@@ -44,7 +44,7 @@
       "created": "2022-05-17T21:06:21.330Z",
       "updated": "2023-08-16T00:30:02.340Z",
       "status": "ACTIVE",
-      "referenceCount": 107,
+      "referenceCount": 108,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -80,7 +80,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15696,
+      "referenceCount": 15708,
       "comment": null
     },
     {
@@ -104,7 +104,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 480,
+      "referenceCount": 479,
       "comment": ""
     },
     {
@@ -116,19 +116,7 @@
       "created": "2022-05-17T21:30:46.453Z",
       "updated": "2023-08-22T14:02:04.254Z",
       "status": "ACTIVE",
-      "referenceCount": 474,
-      "comment": ""
-    },
-    {
-      "id": "21141",
-      "name": "Extremely Fun",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-05-17T21:31:30.352Z",
-      "updated": "2023-08-22T20:28:22.857Z",
-      "status": "ACTIVE",
-      "referenceCount": 504,
+      "referenceCount": 475,
       "comment": ""
     },
     {
@@ -152,7 +140,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2023-08-23T04:55:54.839Z",
       "status": "ACTIVE",
-      "referenceCount": 691,
+      "referenceCount": 692,
       "comment": ""
     },
     {
