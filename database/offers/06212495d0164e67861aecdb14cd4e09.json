@@ -44,7 +44,7 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2024-03-28T21:49:30.504Z",
       "status": "ACTIVE",
-      "referenceCount": 1301,
+      "referenceCount": 1304,
       "comment": ""
     },
     {
@@ -71,18 +71,7 @@
       "referenceCount": 1144,
       "comment": null
     },
-    {
-      "id": "22775",
-      "name": "MMO",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T16:48:03.250Z",
-      "updated": "2023-08-22T10:15:49.955Z",
-      "status": "ACTIVE",
-      "referenceCount": 296,
-      "comment": ""
-    },
+    null,
     {
       "id": "1307",
       "name": "Open World",
@@ -104,21 +93,10 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15727,
+      "referenceCount": 15817,
       "comment": null
     },
-    {
-      "id": "21739",
-      "name": "NFT BLOCKCHAIN",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-06-24T20:06:43.344Z",
-      "updated": "2023-08-22T18:09:40.655Z",
-      "status": "ACTIVE",
-      "referenceCount": 200,
-      "comment": ""
-    },
+    null,
     {
       "id": "9549",
       "name": "Controller Support",
@@ -128,7 +106,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2023-08-23T03:24:56.337Z",
       "status": "ACTIVE",
-      "referenceCount": 3003,
+      "referenceCount": 3006,
       "comment": null
     },
     {
