@@ -7,8 +7,8 @@
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "8947ec88781d4135b9bd44ae43aa59de",
-  "creationDate": "2024-10-14T01:10:02.311Z",
-  "lastModifiedDate": "2024-10-14T01:10:02.311Z",
+  "creationDate": "2024-10-04T18:23:04.540Z",
+  "lastModifiedDate": "2024-10-15T10:48:01.352Z",
   "effectiveDate": "2024-10-24T16:00:00.000Z",
   "viewableDate": "2024-10-14T01:09:44.056Z",
   "developer": null,
@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 15913,
+      "referenceCount": 15922,
       "comment": null
     }
   ],
@@ -121,28 +121,28 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-46vfa.png",
-      "md5": "2e8c036269af063413dcc54add82bb3e",
-      "size": 2302959,
-      "uploadedDate": "2024-10-13T14:05:49.700Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-irvcl.png",
+      "md5": "5b6c05a1a31918528bfafafccae86674",
+      "size": 3795921,
+      "uploadedDate": "2024-10-14T23:19:31.929Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-15smy.png",
-      "md5": "b08882c1fbf6f536d9fff15890146204",
-      "size": 1379116,
-      "uploadedDate": "2024-10-13T14:07:10.785Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-1esi2.png",
+      "md5": "6dd8a32daaca08fef86e898d58cc4942",
+      "size": 3284297,
+      "uploadedDate": "2024-10-14T23:20:58.020Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-15smy.png",
-      "md5": "b08882c1fbf6f536d9fff15890146204",
-      "size": 1379116,
-      "uploadedDate": "2024-10-13T14:07:10.785Z",
+      "url": "https://cdn1.epicgames.com/spt-assets/8246168896074de49df37da36ddecf7b/enkis-return-1esi2.png",
+      "md5": "6dd8a32daaca08fef86e898d58cc4942",
+      "size": 3284297,
+      "uploadedDate": "2024-10-14T23:20:58.020Z",
       "width": 1200,
       "height": 1600
     }
