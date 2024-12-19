@@ -44,7 +44,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 17061,
+      "referenceCount": 17080,
       "comment": null
     }
   ],
@@ -70,7 +70,5 @@
       "id": "833f8d6fd2734b82825b0428f60193ea"
     }
   ],
-  "catalogNs": {
-    "name": "0f710ebf203f42e1a26a8bc5cb48709a"
-  }
+  "catalogNs": null
 }
