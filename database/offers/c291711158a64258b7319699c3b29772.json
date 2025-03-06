@@ -1,0 +1,169 @@
+{
+  "id": "c291711158a64258b7319699c3b29772",
+  "namespace": "ue",
+  "title": "Entry Group",
+  "description": "This pack has been designed to be versatile and can be used in a variety of scenes.",
+  "longDescription": "<p>This pack has been designed to be versatile and </p><p>can be used in different scenes to fill different </p><p>scenes such as train station, airport, bus station, </p><p>river or sea port or just an office building scene. </p><p>The content from this package can be used both in </p><p>interiors and in open-air urban spaces.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "entry-group",
+  "creationDate": "2022-10-14T19:51:51.298Z",
+  "lastModifiedDate": "2024-12-15T12:44:41.529Z",
+  "effectiveDate": "2022-10-14T19:51:51.269Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9dgjz589c8zsyqjbj2sm65vaylh86q",
+    "name": "Sergey Bersenev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Meshes - 21</p><p>Materials - 35</p><p>Textures - 108</p><p>Blueprints - 4</p><p>Sound - 11</p><p><br /></p><p>Video Demo: <a href=\"https://youtu.be/hsUlo65ihWw\" rel=\"nofollow\">https://youtu.be/hsUlo65ihWw</a></p><p>Demo scene: <a href=\"https://sergey-bersenev.itch.io/entry-group\" rel=\"nofollow\">https://sergey-bersenev.itch.io/entry-group</a></p><p>Collision: (Yes automatically )</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (No)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fa19dc2c-9465-4efa-8992-29402fecd497"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-02d0d5dd585c272f65b668ee6eecf1b4.jpg",
+      "md5": "02d0d5dd585c272f65b668ee6eecf1b4",
+      "size": 94097,
+      "uploadedDate": "2022-10-05T20:31:07.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-01a9e61ba2bb87303059c89f612ee093.jpg",
+      "md5": "01a9e61ba2bb87303059c89f612ee093",
+      "size": 218629,
+      "uploadedDate": "2022-10-05T20:31:08.307Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-36adbfc73d793fed35e238e79cae0749.jpg",
+      "md5": "36adbfc73d793fed35e238e79cae0749",
+      "size": 181078,
+      "uploadedDate": "2022-10-13T15:40:08.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EntryGroup_thumb-284x284-1d93934b8c5c71609881c9765522310f.png",
+      "md5": "1d93934b8c5c71609881c9765522310f",
+      "size": 122767,
+      "uploadedDate": "2022-10-14T19:53:23.177Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EntryGroup_featured-894x488-094c20aded7d1927e1255e03e450d084.png",
+      "md5": "094c20aded7d1927e1255e03e450d084",
+      "size": 562609,
+      "uploadedDate": "2022-10-05T20:31:09.025Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-36adbfc73d793fed35e238e79cae0749_Snapshot.jpg",
+      "md5": "e2f5a3fac92f05467ffc3ce5a4e2c49f",
+      "size": 5352,
+      "uploadedDate": "2022-10-13T15:40:08.317Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-de244318482807fb5785a9d842f1d54b_Snapshot.jpg",
+      "md5": "9b84fa79980c35ed8d5724040930a19d",
+      "size": 5293,
+      "uploadedDate": "2022-10-05T20:31:07.310Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-02d0d5dd585c272f65b668ee6eecf1b4_Snapshot.jpg",
+      "md5": "4d3dd5a7eff403a4df150b26bee3b3ac",
+      "size": 4240,
+      "uploadedDate": "2022-10-05T20:31:08.012Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-01a9e61ba2bb87303059c89f612ee093_Snapshot.jpg",
+      "md5": "4b84ba3df1742dbc362a6d27fe1ef8c4",
+      "size": 6739,
+      "uploadedDate": "2022-10-05T20:31:08.817Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0cf2cb6a52aa47f085d4bca614ca7f53"
+    }
+  ],
+  "catalogNs": {
+    "name": "ue"
+  }
+}
