@@ -227,6 +227,18 @@
     "referenceCount": 1473,
     "comment": null
   },
+  "1118": {
+    "id": "1118",
+    "name": "CULT CLASSIC",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:17.105Z",
+    "updated": "2019-06-20T11:59:17.105Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1119": {
     "id": "1119",
     "name": "VOICE CONTROL",
@@ -673,6 +685,18 @@
     "referenceCount": null,
     "comment": null
   },
+  "1173": {
+    "id": "1173",
+    "name": "ALTERNATE HISTORY",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:44.499Z",
+    "updated": "2019-06-20T11:59:44.499Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1174": {
     "id": "1174",
     "name": "DARK HUMOR",
@@ -681,6 +705,18 @@
     "operator": null,
     "created": "2019-06-20T11:59:44.982Z",
     "updated": "2019-06-20T11:59:44.982Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
+  "1176": {
+    "id": "1176",
+    "name": "FUTURISTIC",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:45.964Z",
+    "updated": "2019-06-20T11:59:45.964Z",
     "status": "ACTIVE",
     "referenceCount": null,
     "comment": null
@@ -841,6 +877,18 @@
     "referenceCount": null,
     "comment": null
   },
+  "1197": {
+    "id": "1197",
+    "name": "RESOURCE MANAGEMENT",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:56.248Z",
+    "updated": "2019-06-20T11:59:56.248Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1198": {
     "id": "1198",
     "name": "Retro",
@@ -911,6 +959,18 @@
     "updated": "2020-08-20T17:37:37.403Z",
     "status": "ACTIVE",
     "referenceCount": 0,
+    "comment": null
+  },
+  "1207": {
+    "id": "1207",
+    "name": "EXPERIMENTAL",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:01.234Z",
+    "updated": "2019-06-20T12:00:01.234Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1208": {
@@ -1055,6 +1115,18 @@
     "updated": "2023-03-28T12:57:52.821Z",
     "status": "ACTIVE",
     "referenceCount": 109,
+    "comment": null
+  },
+  "1225": {
+    "id": "1225",
+    "name": "PVE",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:10.201Z",
+    "updated": "2019-06-20T12:00:10.201Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1228": {
@@ -1249,6 +1321,18 @@
     "referenceCount": null,
     "comment": null
   },
+  "1253": {
+    "id": "1253",
+    "name": "PSYCHEDELIC",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:24.178Z",
+    "updated": "2019-06-20T12:00:24.178Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1254": {
     "id": "1254",
     "name": "TACTICAL RPG",
@@ -1369,6 +1453,18 @@
     "referenceCount": null,
     "comment": null
   },
+  "1274": {
+    "id": "1274",
+    "name": "NONLINEAR",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:34.757Z",
+    "updated": "2019-06-20T12:00:34.757Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1275": {
     "id": "1275",
     "name": "MOBA",
@@ -1379,6 +1475,18 @@
     "updated": "2023-08-22T10:15:50.003Z",
     "status": "ACTIVE",
     "referenceCount": 7,
+    "comment": null
+  },
+  "1276": {
+    "id": "1276",
+    "name": "DYNAMIC NARRATION",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:35.735Z",
+    "updated": "2019-06-20T12:00:35.735Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1277": {
@@ -1463,6 +1571,18 @@
     "updated": "2023-01-20T09:26:02.870Z",
     "status": "ACTIVE",
     "referenceCount": 27,
+    "comment": null
+  },
+  "1285": {
+    "id": "1285",
+    "name": "TRADING CARD GAME",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:40.190Z",
+    "updated": "2019-06-20T12:00:40.190Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
     "comment": null
   },
   "1287": {
@@ -1633,6 +1753,18 @@
     "referenceCount": 416,
     "comment": null
   },
+  "1308": {
+    "id": "1308",
+    "name": "SOCCER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:51.679Z",
+    "updated": "2019-06-20T12:00:51.679Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1309": {
     "id": "1309",
     "name": "CONTROLLER",
@@ -1689,6 +1821,18 @@
     "operator": null,
     "created": "2019-06-20T12:00:54.151Z",
     "updated": "2019-06-20T12:00:54.151Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
+  "1314": {
+    "id": "1314",
+    "name": "STYLIZED",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:54.632Z",
+    "updated": "2019-06-20T12:00:54.632Z",
     "status": "ACTIVE",
     "referenceCount": null,
     "comment": null
@@ -1993,6 +2137,18 @@
     "referenceCount": null,
     "comment": null
   },
+  "1358": {
+    "id": "1358",
+    "name": "BEAT 'EM UP",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:16.190Z",
+    "updated": "2019-06-20T12:01:16.190Z",
+    "status": "ACTIVE",
+    "referenceCount": null,
+    "comment": null
+  },
   "1360": {
     "id": "1360",
     "name": "SPELLING",
@@ -2242,7 +2398,7 @@
     "created": "2019-10-11T02:43:18.435Z",
     "updated": "2023-08-23T05:17:12.978Z",
     "status": "ACTIVE",
-    "referenceCount": 18065,
+    "referenceCount": 18072,
     "comment": null
   },
   "9548": {
@@ -2296,7 +2452,7 @@
     "created": "2019-10-11T02:43:27.812Z",
     "updated": "2023-08-23T05:08:24.605Z",
     "status": "ACTIVE",
-    "referenceCount": 1454,
+    "referenceCount": 1456,
     "comment": null
   },
   "11631": {
@@ -2653,7 +2809,7 @@
     "created": "2022-02-23T20:19:16.824Z",
     "updated": "2023-08-23T01:02:46.275Z",
     "status": "ACTIVE",
-    "referenceCount": 4944,
+    "referenceCount": 4948,
     "comment": ""
   },
   "19943": {
@@ -2761,7 +2917,7 @@
     "created": "2022-05-17T18:56:51.047Z",
     "updated": "2023-08-03T18:31:17.357Z",
     "status": "ACTIVE",
-    "referenceCount": 260,
+    "referenceCount": 261,
     "comment": "From Ratings & Polls results."
   },
   "21119": {
@@ -2773,7 +2929,7 @@
     "created": "2022-05-17T21:03:45.609Z",
     "updated": "2023-08-22T21:49:10.904Z",
     "status": "ACTIVE",
-    "referenceCount": 458,
+    "referenceCount": 457,
     "comment": "From Ratings & Polls results."
   },
   "21120": {
@@ -2809,7 +2965,7 @@
     "created": "2022-05-17T21:12:59.057Z",
     "updated": "2023-08-18T16:27:44.549Z",
     "status": "ACTIVE",
-    "referenceCount": 485,
+    "referenceCount": 486,
     "comment": ""
   },
   "21123": {
@@ -2845,7 +3001,7 @@
     "created": "2022-05-17T21:16:32.830Z",
     "updated": "2023-09-26T16:06:19.633Z",
     "status": "ACTIVE",
-    "referenceCount": 172,
+    "referenceCount": 170,
     "comment": ""
   },
   "21126": {
@@ -2869,7 +3025,7 @@
     "created": "2022-05-17T21:16:58.023Z",
     "updated": "2023-08-22T10:58:47.680Z",
     "status": "ACTIVE",
-    "referenceCount": 287,
+    "referenceCount": 286,
     "comment": ""
   },
   "21129": {
@@ -2965,7 +3121,7 @@
     "created": "2022-05-17T21:27:42.043Z",
     "updated": "2023-08-17T19:40:36.201Z",
     "status": "ACTIVE",
-    "referenceCount": 130,
+    "referenceCount": 131,
     "comment": ""
   },
   "21138": {
@@ -2977,7 +3133,7 @@
     "created": "2022-05-17T21:29:17.831Z",
     "updated": "2023-08-22T10:58:47.687Z",
     "status": "ACTIVE",
-    "referenceCount": 623,
+    "referenceCount": 624,
     "comment": ""
   },
   "21139": {
@@ -2989,7 +3145,7 @@
     "created": "2022-05-17T21:30:04.563Z",
     "updated": "2023-08-22T10:58:47.673Z",
     "status": "ACTIVE",
-    "referenceCount": 575,
+    "referenceCount": 576,
     "comment": ""
   },
   "21140": {
@@ -3013,7 +3169,7 @@
     "created": "2022-05-17T21:31:30.352Z",
     "updated": "2023-08-22T20:28:22.857Z",
     "status": "ACTIVE",
-    "referenceCount": 591,
+    "referenceCount": 592,
     "comment": ""
   },
   "21146": {
@@ -3049,7 +3205,7 @@
     "created": "2022-05-17T21:39:57.117Z",
     "updated": "2023-08-22T10:58:47.694Z",
     "status": "ACTIVE",
-    "referenceCount": 587,
+    "referenceCount": 588,
     "comment": ""
   },
   "21150": {
@@ -3097,7 +3253,7 @@
     "created": "2022-06-24T20:06:43.344Z",
     "updated": "2024-10-25T20:00:26.146Z",
     "status": "ACTIVE",
-    "referenceCount": 254,
+    "referenceCount": 255,
     "comment": ""
   },
   "21865": {
@@ -3121,7 +3277,7 @@
     "created": "2022-07-07T16:11:08.589Z",
     "updated": "2023-08-23T02:20:12.228Z",
     "status": "ACTIVE",
-    "referenceCount": 2258,
+    "referenceCount": 2261,
     "comment": ""
   },
   "22485": {
@@ -3157,7 +3313,7 @@
     "created": "2022-09-13T16:48:03.250Z",
     "updated": "2023-08-22T10:15:49.955Z",
     "status": "ACTIVE",
-    "referenceCount": 379,
+    "referenceCount": 380,
     "comment": ""
   },
   "22776": {
@@ -3289,7 +3445,7 @@
     "created": "2023-06-19T16:23:12.748Z",
     "updated": "2024-03-28T21:49:30.504Z",
     "status": "ACTIVE",
-    "referenceCount": 1878,
+    "referenceCount": 1879,
     "comment": ""
   },
   "29899": {
@@ -3349,7 +3505,7 @@
     "created": "2024-01-30T16:42:20.388Z",
     "updated": "2024-02-05T20:14:29.988Z",
     "status": "ACTIVE",
-    "referenceCount": 232,
+    "referenceCount": 240,
     "comment": ""
   },
   "33916": {
