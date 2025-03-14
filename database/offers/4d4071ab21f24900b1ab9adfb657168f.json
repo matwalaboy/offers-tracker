@@ -376,5 +376,7 @@
       "id": "b979bc53727c467cb9a4839b92a17cb4"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }

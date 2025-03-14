@@ -400,5 +400,7 @@
       "id": "49ee43cff97f445e8e526cc079f5dbcb"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }
