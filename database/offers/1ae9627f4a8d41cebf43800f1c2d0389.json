@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "music-pack-for-a-viking-s-revenge",
   "creationDate": "2021-06-14T07:19:22.479Z",
-  "lastModifiedDate": "2024-10-18T21:49:18.829Z",
+  "lastModifiedDate": "2025-03-15T01:19:16.447Z",
   "effectiveDate": "2021-06-14T07:19:22.388Z",
   "viewableDate": null,
   "developer": null,
@@ -274,5 +274,7 @@
       "id": "f7ab601c19ec4d06b731d664d5576a61"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "aliens-vs-space-soldiers-game-music-pack",
   "creationDate": "2024-03-05T21:21:26.149Z",
-  "lastModifiedDate": "2024-10-18T21:49:18.300Z",
+  "lastModifiedDate": "2025-03-15T01:18:39.689Z",
   "effectiveDate": "2024-03-05T21:21:26.078Z",
   "viewableDate": null,
   "developer": null,
@@ -271,5 +271,7 @@
       "id": "bf29e0521826440b99afd54f3f1ca64b"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }

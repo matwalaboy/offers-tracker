@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "heroes-and-elven-music-pack",
   "creationDate": "2024-03-27T11:51:58.065Z",
-  "lastModifiedDate": "2024-10-18T21:49:18.572Z",
+  "lastModifiedDate": "2025-03-15T01:17:28.701Z",
   "effectiveDate": "2024-03-27T11:51:58.027Z",
   "viewableDate": null,
   "developer": null,
@@ -250,5 +250,7 @@
       "id": "ea7e66eaa5b848ceb81464895473573d"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }

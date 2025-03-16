@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "horror-slasher-investigation-music-pack",
   "creationDate": "2024-03-20T11:25:24.049Z",
-  "lastModifiedDate": "2024-10-18T21:49:19.380Z",
+  "lastModifiedDate": "2025-03-15T01:17:56.938Z",
   "effectiveDate": "2024-03-20T11:25:56.416Z",
   "viewableDate": null,
   "developer": null,
@@ -262,5 +262,7 @@
       "id": "755b79a05d104e42bcd3638667d1dbe9"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }
