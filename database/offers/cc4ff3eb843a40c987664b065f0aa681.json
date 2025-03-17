@@ -41,7 +41,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 4959,
+      "referenceCount": 4960,
       "comment": ""
     },
     {
@@ -118,7 +118,5 @@
       "id": "7b05396f4a79456a84efba636ae696cb"
     }
   ],
-  "catalogNs": {
-    "name": "5c5b2b01c8ce475d86cdd2c76fd11f7b"
-  }
+  "catalogNs": null
 }

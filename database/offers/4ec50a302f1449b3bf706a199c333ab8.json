@@ -131,7 +131,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 580,
+      "referenceCount": 579,
       "comment": ""
     },
     {
@@ -203,7 +203,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 463,
+      "referenceCount": 464,
       "comment": "From Ratings & Polls results."
     }
   ],
@@ -286,7 +286,5 @@
       "id": "d666b5e22c58413ebcf10a028d2364ee"
     }
   ],
-  "catalogNs": {
-    "name": "f01b3e0178d448f0b93911e292d8e614"
-  }
+  "catalogNs": null
 }
