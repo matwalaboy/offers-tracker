@@ -1,0 +1,258 @@
+{
+  "id": "77d0d5fecc95470b8446ccb2bcd5cc13",
+  "namespace": "ue",
+  "title": "Gameplay Interaction",
+  "description": "A flexible, network-replicated interaction system framework based on the gameplay ability system.",
+  "longDescription": "<p>A flexible, network-replicated interaction system framework based on the gameplay ability system, enabling developers to create dynamic gameplay experiences with customizable features.</p><p><br /></p><p><strong>Note: </strong>This plugin requires the setup of gameplay ability system in your project with enhanced input handling to function properly. Check out the demo project source code for an example.</p><p><br /></p><p><strong>Preview:</strong> <a href=\"https://www.youtube.com/watch?v&#61;BoEffzc7PSY\" rel=\"nofollow\">Watch Preview</a></p><p><strong>Documentation:</strong> <a href=\"https://github.com/imnazake/Unify/wiki/Gameplay-Interaction-Plugin\" rel=\"nofollow\">View Documentation</a></p><p><strong>Support:</strong> <a href=\"https://discord.gg/AKavNKeDmd\" rel=\"nofollow\">Join Our Discord</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gameplay-interaction",
+  "creationDate": "2024-08-10T20:05:37.982Z",
+  "lastModifiedDate": "2024-09-27T01:31:04.588Z",
+  "effectiveDate": "2024-08-10T20:05:37.930Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2nyzjf8esue4akvqj9bsxnwxc2vrys",
+    "name": "Nazake"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Supports instant and timed interactions by default.</li><li>Outline drawing around entities in the player&#39;s view.</li><li>Supports multiple interaction options with the ability to select options.</li><li>Supports playing montages, audio cues, and applying effects through interaction gameplay abilities.</li><li>Supports multiple interaction policies, including limited, unlimited, or specific interactors.</li></ul><p><br /></p><p>Code Modules:</p><ul><li> GameplayInteraction (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 18</p><p>Number of C&#43;&#43; Classes: 29</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows / Linux / MacOs</p><p>Supported Target Build Platforms: Windows / Linux / MacOs</p><p><br /></p><p>Important: This plugin requires the gameplay ability system to be set up in your project with enhanced input handling. Check out the demo project source code for an example.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1389",
+      "name": "MANAGEMENT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:31.894Z",
+      "updated": "2023-03-28T12:57:52.828Z",
+      "status": "ACTIVE",
+      "referenceCount": 15,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "73c21b9b-3025-4a88-b683-eb3c88fd9a1b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GIUEMarketplaceGallery1920x1080-1920x1080-02f23124af38971b7ca13d198b11537f.png",
+      "md5": "02f23124af38971b7ca13d198b11537f",
+      "size": 1813273,
+      "uploadedDate": "2024-08-09T17:43:11.251Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled-1-1920x1080-56d01092f54a355236c603df19a5e794.png",
+      "md5": "56d01092f54a355236c603df19a5e794",
+      "size": 2909439,
+      "uploadedDate": "2024-08-09T17:44:22.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GameplayInteraction_thumb-284x284-66889300e6ee9300b1d520f86bdce803.png",
+      "md5": "66889300e6ee9300b1d520f86bdce803",
+      "size": 6181,
+      "uploadedDate": "2024-08-09T17:43:11.704Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GameplayInteraction_featured-894x488-3b2959d4367669fe07de7099253a4c82.png",
+      "md5": "3b2959d4367669fe07de7099253a4c82",
+      "size": 21954,
+      "uploadedDate": "2024-08-09T17:43:11.746Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled-1-1920x1080-56d01092f54a355236c603df19a5e794_Snapshot.png",
+      "md5": "d316bc3d25a729dab1cac2bdebbdb6ba",
+      "size": 6704,
+      "uploadedDate": "2024-08-09T17:44:23.207Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GIUEMarketplaceGallery1920x1080-1920x1080-02f23124af38971b7ca13d198b11537f_Snapshot.png",
+      "md5": "4194d2c958f7024e6ccd6256df4f2e8f",
+      "size": 6016,
+      "uploadedDate": "2024-08-09T17:43:11.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEMarketplaceGallery1920x1080-1920x1080-8168d64f5eac474b9bf26fb51459e805_Snapshot.png",
+      "md5": "f9ea9af2d65b47e17ecaab7fd83b3028",
+      "size": 6132,
+      "uploadedDate": "2024-08-09T08:57:24.570Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEMarketplaceGallery1920x1080-1920x1080-2dbb7fca75be9cef8f4405c90a0d4c05_Snapshot.png",
+      "md5": "8788c2bc8e5688e8b4886f33e48fee92",
+      "size": 5790,
+      "uploadedDate": "2024-08-07T14:49:07.625Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "89eacd5f10eb4a888029df858e7edc75"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,158 @@
+{
+  "id": "e9d7d91eb7b74a068b53c8761f2cb3ca",
+  "namespace": "ue",
+  "title": "Wind Turbines",
+  "description": "The Sound of Wind Farms",
+  "longDescription": "Preview: <a href=\"https://soundcloud.com/detunized/sets/wind-turbines-live-pack-and-bwav\" rel=\"nofollow\">https://soundcloud.com/detunized/sets/wind-turbines-live-pack-and-bwav</a><br /><br />Wind Turbines features the sounds of fizzling propeller blades, humming transformer stations, mysterious drones and other mechanic noises taken from inside wind turbine towers.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wind-turbines",
+  "creationDate": "2016-10-13T14:44:13.164Z",
+  "lastModifiedDate": "2024-09-27T11:11:35.757Z",
+  "effectiveDate": "2016-11-09T00:00:00.000Z",
+  "viewableDate": "2016-11-09T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 59 (loopable) <br />Number of Audio Cues: 59 <br />Resolution: 48 kHz, 16bit stereo <br />Total playing time: 31 min (unlooped)",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "61076e44-8bb0-4033-a0be-dbc2905c6a59"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/WindTurbines_Screenshot-1920x1080-309b841381aedc470bb495a665cadda6.png",
+      "md5": "309b841381aedc470bb495a665cadda6",
+      "size": 724008,
+      "uploadedDate": "2016-10-17T18:02:58.970Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/WindTurbines_Thumb-284x284-45e5a840d7d95d637826f47c8c8e5cc6.png",
+      "md5": "45e5a840d7d95d637826f47c8c8e5cc6",
+      "size": 36641,
+      "uploadedDate": "2016-10-17T18:02:56.765Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/WindTurbines_Featured-476x246-2df9030cd77034bb3fd2f2851fd7c7bd.png",
+      "md5": "2df9030cd77034bb3fd2f2851fd7c7bd",
+      "size": 55673,
+      "uploadedDate": "2016-10-17T18:02:52.724Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/WindTurbines_FeaturedNew-894x488-ff9690445c461bee933027e8da734e32.png",
+      "md5": "ff9690445c461bee933027e8da734e32",
+      "size": 188412,
+      "uploadedDate": "2016-10-17T18:02:54.771Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "a27f1f69b099494b91f2d6254a696b04"
+    }
+  ],
+  "catalogNs": null
+}

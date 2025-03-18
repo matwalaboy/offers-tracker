@@ -1,0 +1,332 @@
+{
+  "id": "5f9f322b7cbd4f65965824f9c21dcf3e",
+  "namespace": "ue",
+  "title": "Mummy",
+  "description": "Low polygonal game ready animated model",
+  "longDescription": "<p>Low polygonal game ready animated model of Mummy</p><p><br /></p><p>The model contains 15 animation</p><p><br /></p><p>idle (x2) </p><p>run (x2)</p><p>rage (x1)</p><p>attack (x3)</p><p>cast (x3)</p><p>stun (x2)</p><p>death (x2)</p><p><br /></p><p>faces 2544</p><p>verts 2502</p><p>tris 5000</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mummy-01",
+  "creationDate": "2019-11-15T10:00:30.922Z",
+  "lastModifiedDate": "2024-09-30T19:00:34.250Z",
+  "effectiveDate": "2019-11-15T10:00:30.772Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mcrxh7ku8fp398yy6xjf597nbk6asp",
+    "name": "botastock"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/ZkKfxzhz4d8\" rel=\"nofollow\">VIDEO PREVIEW</a></p><p><strong>Scaled to Epic Skeleton</strong>: Yes</p><p><strong>Rigged</strong>: Yes</p><p><strong>Rigged to Epic Skeleton</strong>: Yes</p><p><strong>Animated</strong>: Yes</p><p><strong>Number of Characters</strong>: 1</p><p><strong>Vertex Counts of Characters</strong>: 2502</p><p><strong>Texture Resolutions</strong>: 4096x4096</p><p><strong>Number of Animations</strong>: 15</p><p><strong>Animation Types</strong>: Root Motion0/In-place15</p><p><strong>Supported Development Platforms</strong>: PC</p><p><strong>Supported Target Build Platforms</strong>: PC</p><p><strong>Documentation</strong>: No</p><p><strong>Important/Additional Notes</strong>: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1260",
+      "name": "ASYNCHRONOUS MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:27.611Z",
+      "updated": "2019-06-20T12:00:27.611Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1262",
+      "name": "CHESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:28.688Z",
+      "updated": "2019-06-20T12:00:28.688Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9adc73be-d5b4-43ec-aee2-f4c41191af3f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot074-1920x1080-e70444557a9411ce814516a61608819d.jpg",
+      "md5": "e70444557a9411ce814516a61608819d",
+      "size": 251377,
+      "uploadedDate": "2019-10-26T06:20:41.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot001-1920x1080-b236fca3736daaefced76e0febd2a354.jpg",
+      "md5": "b236fca3736daaefced76e0febd2a354",
+      "size": 278778,
+      "uploadedDate": "2019-10-26T06:20:42.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-7acd03358718febb830b9f822534d57b.png",
+      "md5": "7acd03358718febb830b9f822534d57b",
+      "size": 2839172,
+      "uploadedDate": "2019-10-26T06:20:43.559Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-1a11dca1261c7e7915a47ec633638ea4.png",
+      "md5": "1a11dca1261c7e7915a47ec633638ea4",
+      "size": 2572382,
+      "uploadedDate": "2019-10-26T06:20:44.295Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Mummy_thumb-284x284-13e4070578dfe0475447ae323ec64743.png",
+      "md5": "13e4070578dfe0475447ae323ec64743",
+      "size": 49960,
+      "uploadedDate": "2019-10-26T06:20:44.781Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Mummy_featured-894x488-102fd50b87fd963f3437ccb8c62ec7d2.png",
+      "md5": "102fd50b87fd963f3437ccb8c62ec7d2",
+      "size": 181683,
+      "uploadedDate": "2019-10-26T06:20:44.874Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot074-1920x1080-e70444557a9411ce814516a61608819d_Snapshot.jpg",
+      "md5": "2588c17c3e108fe173f1147c82e2010e",
+      "size": 2533,
+      "uploadedDate": "2019-10-26T06:20:42.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot001-1920x1080-b236fca3736daaefced76e0febd2a354_Snapshot.jpg",
+      "md5": "dce81185ade2e9fe5ddd02196ddd1fa0",
+      "size": 2761,
+      "uploadedDate": "2019-10-26T06:20:43.241Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-7acd03358718febb830b9f822534d57b_Snapshot.png",
+      "md5": "dd809406162a38e61b5f0799946a619d",
+      "size": 5977,
+      "uploadedDate": "2019-10-26T06:20:44.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-1a11dca1261c7e7915a47ec633638ea4_Snapshot.png",
+      "md5": "40ba9071aa3880d96cd9e2c8d82537b2",
+      "size": 5295,
+      "uploadedDate": "2019-10-26T06:20:44.739Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e48cb0bbac394a7bb8ffd26f50733ab9"
+    }
+  ],
+  "catalogNs": null
+}

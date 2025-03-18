@@ -1,0 +1,422 @@
+{
+  "id": "b07b01fc935649e1b1186a7fe3437be7",
+  "namespace": "ue",
+  "title": "Alien 1 Remake",
+  "description": "Low Poly Female remake of Alien 1 model. Suitable for your projects of genre: RPG, strategy, first person shooters, etc.",
+  "longDescription": "<p><strong>Rigged with Epic Skeleton.</strong></p><p><strong>The skeleton from UE5</strong></p><p><br /></p><p>The character has 25 animations.</p><p><br /></p><p><strong><u>37% discount when buying a bundle -</u></strong> <a href=\"https://www.unrealengine.com/marketplace/en-US/product/b5a95f2d4bbe498dad548a5358ab9e22\" rel=\"nofollow\">Female Alien Pack</a> - 5 Characters</p><p><strong><u>36% discount when buying a bundle -</u></strong> <a href=\"https://www.unrealengine.com/marketplace/en-US/product/70270fdd04004188b2629fcd441d05ae\" rel=\"nofollow\">Alien Legendary Pack</a> - 10 Characters</p><p><br /></p><p>Animations:</p><p>Attack x7</p><p>Idle x3</p><p>Dead x2</p><p>Dodge</p><p>Gethit x2</p><p>Jump</p><p>Walking, L, R, Back, crouched walking</p><p>run x2</p><p>Turn 180</p><p>Roar</p><p><br /></p><p><strong>Polycount: </strong></p><p>Vert 8823</p><p>Faces 17508</p><p>Tris 17508</p><p><br /></p><p>All screenshots rendered in UE5 - Big Star Station LUMEN</p><p><strong>Disclaimer: This pack consists of only 1 characters. It does not include the demo scenes in the screenshots. The project was created without using Lumen.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "alien-1-remake",
+  "creationDate": "2024-03-25T17:34:25.866Z",
+  "lastModifiedDate": "2024-09-29T18:58:51.862Z",
+  "effectiveDate": "2024-03-25T17:34:25.800Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lgnnfz66rx7vbj6c355p4mamnvbajt",
+    "name": "Khornes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Video preview: <a href=\"https://youtu.be/hpae9nHw-RI\" rel=\"nofollow\">https://youtu.be/hpae9nHw-RI</a></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes) UE5</p><p>\tIf rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (Yes)</p><p>Number of Animations: 25 &#43; Demo</p><p>Animation types (Root Motion/In-place): 2/23</p><p>Number of characters: 1</p><p>Vertex counts of characters: 8823</p><p>Number of Materials and Material Instances: 3</p><p>Number of Textures: 11</p><p>Texture Resolutions: (4096)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: No</p><p>Important/Additional Notes: Eye_L, Eye_R, Jaw.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dd74b933-fb0e-4d55-b82e-d6275a5fa394"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dfgh 2-1920x1080-bb08bf4593cccb2e14d095b27ae25a8e.jpg",
+      "md5": "bb08bf4593cccb2e14d095b27ae25a8e",
+      "size": 590933,
+      "uploadedDate": "2024-03-23T15:21:41.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/w-1920x1080-5e3489b6779db66484c102c30aa6e9b0.jpg",
+      "md5": "5e3489b6779db66484c102c30aa6e9b0",
+      "size": 686583,
+      "uploadedDate": "2024-03-23T15:21:42.079Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 1-1920x1080-1c6e7ffe84829aa2a713f57ce522b687.jpg",
+      "md5": "1c6e7ffe84829aa2a713f57ce522b687",
+      "size": 1013824,
+      "uploadedDate": "2024-03-23T15:21:43.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 2-1920x1080-923bc46af8ce932419cd3324da25751b.jpg",
+      "md5": "923bc46af8ce932419cd3324da25751b",
+      "size": 1147539,
+      "uploadedDate": "2024-03-23T15:21:44.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 3-1920x1080-f8c8bb5c393eea3d3c78454ed378c9fb.jpg",
+      "md5": "f8c8bb5c393eea3d3c78454ed378c9fb",
+      "size": 1083791,
+      "uploadedDate": "2024-03-23T15:21:45.087Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 4-1920x1080-aab608f64315899388bca8ebc00ac59a.jpg",
+      "md5": "aab608f64315899388bca8ebc00ac59a",
+      "size": 1065502,
+      "uploadedDate": "2024-03-23T15:21:46.061Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 5-1920x1080-2daf972a212510523da8619fd3d6302f.jpg",
+      "md5": "2daf972a212510523da8619fd3d6302f",
+      "size": 1124091,
+      "uploadedDate": "2024-03-23T15:21:47.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/aa 6-1920x1080-5fedfe36f7509ea8035cd121ee04b3dd.jpg",
+      "md5": "5fedfe36f7509ea8035cd121ee04b3dd",
+      "size": 1104266,
+      "uploadedDate": "2024-03-23T15:21:48.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dfgh 1-1920x1080-3364e16166e6e0f7d003eac9d51c61ff.jpg",
+      "md5": "3364e16166e6e0f7d003eac9d51c61ff",
+      "size": 564301,
+      "uploadedDate": "2024-03-23T15:21:48.933Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Alien1Remake_thumb-284x284-168fbb96447d5ba65360c6797451ae09.png",
+      "md5": "168fbb96447d5ba65360c6797451ae09",
+      "size": 148118,
+      "uploadedDate": "2024-03-23T15:21:49.588Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Alien1Remake_featured-894x488-4e2148162ca70e9952ce11ff0812d42a.png",
+      "md5": "4e2148162ca70e9952ce11ff0812d42a",
+      "size": 399904,
+      "uploadedDate": "2024-03-23T15:21:49.664Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dfgh 2-1920x1080-bb08bf4593cccb2e14d095b27ae25a8e_Snapshot.jpg",
+      "md5": "f6c013223f02225d4a1c115a9d0155e9",
+      "size": 3938,
+      "uploadedDate": "2024-03-23T15:21:41.783Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/w-1920x1080-5e3489b6779db66484c102c30aa6e9b0_Snapshot.jpg",
+      "md5": "83ee2b6f984075bdf422c11e970eebfd",
+      "size": 4027,
+      "uploadedDate": "2024-03-23T15:21:42.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 1-1920x1080-1c6e7ffe84829aa2a713f57ce522b687_Snapshot.jpg",
+      "md5": "aa3100822ec1a0cd783ae07b0c34934e",
+      "size": 6379,
+      "uploadedDate": "2024-03-23T15:21:43.788Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 2-1920x1080-923bc46af8ce932419cd3324da25751b_Snapshot.jpg",
+      "md5": "0292650622ed6a83ccf9de0d9c68dfac",
+      "size": 7171,
+      "uploadedDate": "2024-03-23T15:21:44.755Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 3-1920x1080-f8c8bb5c393eea3d3c78454ed378c9fb_Snapshot.jpg",
+      "md5": "bd5ccf55a9b3c69c2eee536dfc1a9cc9",
+      "size": 7113,
+      "uploadedDate": "2024-03-23T15:21:45.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 4-1920x1080-aab608f64315899388bca8ebc00ac59a_Snapshot.jpg",
+      "md5": "a866891a0b74972734cb1b65734897a1",
+      "size": 6992,
+      "uploadedDate": "2024-03-23T15:21:46.686Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 5-1920x1080-2daf972a212510523da8619fd3d6302f_Snapshot.jpg",
+      "md5": "0882070f76c53607bf544550bf75d0c3",
+      "size": 7240,
+      "uploadedDate": "2024-03-23T15:21:47.657Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/aa 6-1920x1080-5fedfe36f7509ea8035cd121ee04b3dd_Snapshot.jpg",
+      "md5": "fcb1f617da609695d519a479cc663729",
+      "size": 7217,
+      "uploadedDate": "2024-03-23T15:21:48.627Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dfgh 1-1920x1080-3364e16166e6e0f7d003eac9d51c61ff_Snapshot.jpg",
+      "md5": "f6059eb338133570dd88a5b5e4a7d5ba",
+      "size": 3639,
+      "uploadedDate": "2024-03-23T15:21:49.462Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a17ebc8e03c346159cc2d7d1e92b1335"
+    }
+  ],
+  "catalogNs": null
+}

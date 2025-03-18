@@ -1,0 +1,317 @@
+{
+  "id": "d6e73d57925e4acf89649cea5b686e86",
+  "namespace": "ue",
+  "title": "Http request & WebSocket communication Blueprint Helper",
+  "description": "Plugin handling http request and websocket communication",
+  "longDescription": "<h2><strong><u>About</u></strong></h2><p><br /></p><p>This plugin exposes easy to use blueprint functions to make advanced <strong>http request</strong> and <strong>open websocket communication, </strong>you can use them everywhere</p><p>You can use it for <strong>server-sent events</strong> (one way communication) and <strong>websocket communication</strong> (two way communication)</p><p>If you <strong>found this plugin helpful</strong>, <strong>leave a rate or comment</strong> for others</p><p><br /></p><p>&gt; If you wish to <strong>manipulate and</strong> <strong>(de)serialize struct to/from XML/JSON, </strong>checkout my other plugin available <a href=\"https://www.unrealengine.com/marketplace/en-US/product/69f737d5e17041079d05044e705f4bee\" rel=\"nofollow\">here</a> on the marketplace</p><p>&gt; If you wish to create a<strong> TCP or UDP</strong> <strong>socket</strong>, checkout my other plugin for socket available <a href=\"https://www.unrealengine.com/marketplace/en-US/product/a10b185845ee42daa3a76c0c5a9b2ad8\" rel=\"nofollow\">here</a> on the marketplace</p><p>&gt; If you wish to <strong>encrypt data or file </strong>before sending them, checkout my other plugin for security available <a href=\"https://www.unrealengine.com/marketplace/en-US/product/83e5202838f84cf0a3310eee815ce5cd\" rel=\"nofollow\">here</a> on the marketplace</p><p>&gt; If you wish to <strong>handle files on your system</strong>, checkout my other plugin for files handling available <a href=\"https://www.unrealengine.com/marketplace/en-US/product/bec5be3d587f4ff49a61d45d0e81e4c0\" rel=\"nofollow\">here </a>on the marketplace</p><p><br /></p><h2><strong><u>Features</u></strong></h2><p><br /></p><ul><li>Make http request (GET, POST, PUT, DELETE, HEAD, PATCH)</li><li>Track request progress</li><li>Use custom headers for request and websocket</li><li>Supports server sent events, one way http communication (in UE 5.2 &amp; above )</li><li>Send text, binary or file payload</li><li>Define a timeout for the request</li><li>Establish a websocket client connection (ws, wss)</li><li>Send text, binary messages over websocket</li><li>Async nodes available for quick and simple usage</li></ul><p><br /></p><h2><strong><u>Details</u></strong></h2><p><br /></p><p>Code Modules:</p><ul><li> HttpHelper (Runtime)</li></ul><p>Number of Blueprints nodes: 20</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win, Mac, Linux</p><p>Supported Target Build Platforms: Win32, Win64, Android, Linux, IOS, MacOS</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "http-websocket-helper",
+  "creationDate": "2021-07-11T19:58:05.635Z",
+  "lastModifiedDate": "2024-09-29T20:16:06.969Z",
+  "effectiveDate": "2021-07-11T19:58:05.603Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y23zdbg2kltd7nejyw8rlw78vy7hfv",
+    "name": "RLoris"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong><u>Instructions</u></strong></h2><p><br /></p><p><strong>Setup </strong>can be found <a href=\"https://github.com/RLoris/HttpHelperDoc/blob/master/README.md#Setup\" rel=\"nofollow\">here</a></p><p><strong>Documentation </strong>can be found <a href=\"https://github.com/RLoris/HttpHelperDoc/blob/master/README.md#Documentation\" rel=\"nofollow\">here</a></p><p><strong>Support</strong> can be found <a href=\"https://github.com/RLoris/HttpHelperDoc/blob/master/README.md#Support\" rel=\"nofollow\">here</a></p><p><strong>Demos </strong>can be found <a href=\"https://github.com/RLoris/HttpHelperDoc/blob/master/README.md#Demos\" rel=\"nofollow\">here</a></p><p><br /></p><h2><strong><u>Bugs</u></strong></h2><p><br /></p><p>You can <strong>ask question</strong> before buying, <strong>check the documentation/question sections</strong> as it may contain the answer you are looking for !</p><p>Keep in mind that <strong>I don&#39;t do your work for you</strong>, I only provide the right tools to help your development process !</p><p><strong>If you find a bug, please fill in </strong><a href=\"https://forms.gle/CpekZfTewGZrUVen7\" rel=\"nofollow\"><strong>this form</strong></a><strong>, I will investigate and fix it if you provide the relevant details to reproduce it !</strong></p><p><br /></p><h2><strong><u>Feature requests</u></strong></h2><p><br /></p><p>If you want a new feature related with this plugin use case, ask a question here with the feature description and what you have in mind, I will implement it eventually.</p><p>For any other reason, you can contact me by clicking on my markeplace name (RLoris) under plugin name and using my support email.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1368",
+      "name": "FAMILY FRIENDLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:21.189Z",
+      "updated": "2019-06-20T12:01:21.189Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d126c150-dd47-4ee7-916b-7f5545fdf4ad"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node1hd-1920x1080-e6cf04babaafb00ce4dbdaf7d1fa2016.png",
+      "md5": "e6cf04babaafb00ce4dbdaf7d1fa2016",
+      "size": 276042,
+      "uploadedDate": "2021-07-10T17:18:22.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node2hd-1920x1080-16921360a058b365aadee756e2614067.png",
+      "md5": "16921360a058b365aadee756e2614067",
+      "size": 306093,
+      "uploadedDate": "2021-07-08T15:23:17.663Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node3hd-1920x1080-e9aa6c434c8781a9293dcb51cc396a6a.png",
+      "md5": "e9aa6c434c8781a9293dcb51cc396a6a",
+      "size": 623884,
+      "uploadedDate": "2021-07-08T15:23:18.123Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/nodeshd-1920x1080-3d301b47606c2598093dcff3d98cab40.png",
+      "md5": "3d301b47606c2598093dcff3d98cab40",
+      "size": 534629,
+      "uploadedDate": "2021-07-08T15:23:18.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HttpWebsocketHelper_thumb-284x284-d44ba006683dbccd591caea754fb926b.png",
+      "md5": "d44ba006683dbccd591caea754fb926b",
+      "size": 11103,
+      "uploadedDate": "2021-07-08T15:23:19.012Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HttpWebsocketHelper_featured-894x488-11acdb900b8dd6a86d2e1a96c76e9e8f.png",
+      "md5": "11acdb900b8dd6a86d2e1a96c76e9e8f",
+      "size": 246628,
+      "uploadedDate": "2021-07-08T15:23:19.127Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node1hd-1920x1080-e6cf04babaafb00ce4dbdaf7d1fa2016_Snapshot.png",
+      "md5": "3feb166fca11da95c72123133c12b5ea",
+      "size": 3760,
+      "uploadedDate": "2021-07-10T17:18:23.168Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node1hd-1920x1080-9a5aef6adc7c5fbeae8d12bd9f4e28df_Snapshot.png",
+      "md5": "8ec90c95f3b4ac1c0d2361758c980d94",
+      "size": 3904,
+      "uploadedDate": "2021-07-08T15:23:17.520Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node2hd-1920x1080-16921360a058b365aadee756e2614067_Snapshot.png",
+      "md5": "bbb5fba4985746762ca43700955c7cbb",
+      "size": 3888,
+      "uploadedDate": "2021-07-08T15:23:17.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node3hd-1920x1080-e9aa6c434c8781a9293dcb51cc396a6a_Snapshot.png",
+      "md5": "c6c492b2fdab6caabf94e45bd40a2836",
+      "size": 5115,
+      "uploadedDate": "2021-07-08T15:23:18.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/nodeshd-1920x1080-3d301b47606c2598093dcff3d98cab40_Snapshot.png",
+      "md5": "732053156a138b32ea50e485f4293001",
+      "size": 5598,
+      "uploadedDate": "2021-07-08T15:23:18.954Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e18c54dd79884eb2ad591e6908bcb48a"
+    }
+  ],
+  "catalogNs": null
+}

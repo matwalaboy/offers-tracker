@@ -1,0 +1,383 @@
+{
+  "id": "4b4a6289429f4be3915ecd6190980faa",
+  "namespace": "ue",
+  "title": "ArchViz Vol. 1.0 - Living",
+  "description": "Full-fledged ArchViz masterpiece! Realistic pre-built Living Room scene with 91 unique assets & 81 textures. Render-ready brilliance, all yours.",
+  "longDescription": "<p>Introducing Dekorate&#39;s <strong>ArchViz Vol. 1.0 - Living</strong> scene, 91 high-poly assets with lifelike textures. Perfect for designers and 3D artists seeking top-tier quality for their creations.</p><p><br /></p><p>Crafted for realism, it features a modern dining area, chic kitchen, and inviting seating area, perfect for architectural visualization.</p><p><br /></p><p>This complete project grants you instant access to a fully realized environment, helping in speeding up your workflow.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "archviz-vol-1-0-living",
+  "creationDate": "2024-02-08T08:57:59.828Z",
+  "lastModifiedDate": "2024-09-28T14:10:28.369Z",
+  "effectiveDate": "2024-02-08T08:57:59.792Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y8pal7uufk242rgndqdenlt9z5eyvy",
+    "name": "Dekorate"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Disclaimer : </strong></p><p>The project supports Lumen 5.0&#43; and pathtracing. For baked lighting, default-generated lightmap UVs are provided.</p><p> </p><p>Lumen documentation : </p><p><a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/\" rel=\"nofollow\">https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/</a></p><p><br /></p><p>The scene is using the Sun Position Calculator plugin.</p><p> </p><p>Technical Details</p><p> </p><p>Collision: Yes - automatically generated</p><p>LODs: No</p><p>Total no. of unique meshes: 91</p><p>Total polycount of the whole scene is 21,13,561 Tris </p><p>Total no. of Static Meshes: 91</p><p>Total no. of Master Materials: 09</p><p>Total no. of Material Instances: 81</p><p>Total no. of Material Functions: 05</p><p> </p><p>Total no. of textures: 61</p><p>1x1: 1</p><p>512x512: 05</p><p>512x1024: 02</p><p>1024x512: 01</p><p>1024x1024: 17</p><p>2048x1024: 01</p><p>2048x2048: 24</p><p>4096x4096: 10</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/archvis"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1252",
+      "name": "AGRICULTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:23.695Z",
+      "updated": "2019-06-20T12:00:23.695Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "41b1077e-bc2e-4c74-818c-e4d48b1ca4de"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 4711zon-1920x1080-e5e6975111a40d74ea51706d65c4e75a.jpg",
+      "md5": "e5e6975111a40d74ea51706d65c4e75a",
+      "size": 174065,
+      "uploadedDate": "2024-01-30T18:56:04.545Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 2911zon-1920x1080-9b4680f0b1ed14535767abc04a378312.jpg",
+      "md5": "9b4680f0b1ed14535767abc04a378312",
+      "size": 143332,
+      "uploadedDate": "2024-01-30T18:56:04.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 9211zon-1920x1080-4672c8a621ad328695a186c2c9384250.jpg",
+      "md5": "4672c8a621ad328695a186c2c9384250",
+      "size": 155464,
+      "uploadedDate": "2024-01-30T18:56:05.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 3811zon-1920x1080-fea4b7ba6ea6cadf2c87fb1e426eba02.jpg",
+      "md5": "fea4b7ba6ea6cadf2c87fb1e426eba02",
+      "size": 123181,
+      "uploadedDate": "2024-01-30T18:56:05.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 5611zon-1920x1080-5e4e87a802441eda56210ac89cc32569.jpg",
+      "md5": "5e4e87a802441eda56210ac89cc32569",
+      "size": 146341,
+      "uploadedDate": "2024-01-30T18:56:06.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 6511zon-1920x1080-61a951d1e8cbc600844e56d6097f8441.jpg",
+      "md5": "61a951d1e8cbc600844e56d6097f8441",
+      "size": 214064,
+      "uploadedDate": "2024-01-30T18:56:06.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 7411zon-1920x1080-cbbeedd8e3a57027f7e0255c8d38316c.jpg",
+      "md5": "cbbeedd8e3a57027f7e0255c8d38316c",
+      "size": 98579,
+      "uploadedDate": "2024-01-30T18:56:06.736Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 8311zon-1920x1080-62a1f4dd3b1262d8200b9b825c67889f.jpg",
+      "md5": "62a1f4dd3b1262d8200b9b825c67889f",
+      "size": 151863,
+      "uploadedDate": "2024-01-30T18:56:07.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cam 11-1920x1080-5ca2c40433de27ec544e7409e019ec1c.png",
+      "md5": "5ca2c40433de27ec544e7409e019ec1c",
+      "size": 2901411,
+      "uploadedDate": "2024-02-01T15:01:11.198Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ArchVizVol10Living_thumb-284x284-689c3adcf9a1afca88de9319013332c6.png",
+      "md5": "689c3adcf9a1afca88de9319013332c6",
+      "size": 109447,
+      "uploadedDate": "2024-02-09T19:49:43.987Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DekorateVol30Interiors_featured-894x488-7ebe0eb7dfb708438206599231b77662.png",
+      "md5": "7ebe0eb7dfb708438206599231b77662",
+      "size": 703922,
+      "uploadedDate": "2024-01-30T18:56:07.655Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 11-1920x1080-5ca2c40433de27ec544e7409e019ec1c_Snapshot.png",
+      "md5": "2f019dc2e92394232f69966bd941cf66",
+      "size": 7356,
+      "uploadedDate": "2024-02-01T15:01:11.541Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 1111zon-1920x1080-d64efbb8bdd92405b78caac368dba7a0_Snapshot.jpg",
+      "md5": "56253b14ca660de71c6c2eb7d29d82fb",
+      "size": 7416,
+      "uploadedDate": "2024-01-30T18:56:04.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 4711zon-1920x1080-e5e6975111a40d74ea51706d65c4e75a_Snapshot.jpg",
+      "md5": "7bb7c7ee704c35e27747103336108b51",
+      "size": 7400,
+      "uploadedDate": "2024-01-30T18:56:04.791Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 2911zon-1920x1080-9b4680f0b1ed14535767abc04a378312_Snapshot.jpg",
+      "md5": "ff013b27a4531a2493f0189a58faa6d2",
+      "size": 6233,
+      "uploadedDate": "2024-01-30T18:56:05.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 9211zon-1920x1080-4672c8a621ad328695a186c2c9384250_Snapshot.jpg",
+      "md5": "f8a8b10e7c31eff009d70d9d93910d8e",
+      "size": 7326,
+      "uploadedDate": "2024-01-30T18:56:05.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 3811zon-1920x1080-fea4b7ba6ea6cadf2c87fb1e426eba02_Snapshot.jpg",
+      "md5": "9feb06fb42574f594a46a8e938906f98",
+      "size": 5989,
+      "uploadedDate": "2024-01-30T18:56:05.919Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 5611zon-1920x1080-5e4e87a802441eda56210ac89cc32569_Snapshot.jpg",
+      "md5": "a7345ee50a1b8aadedfcd606bd85f613",
+      "size": 7084,
+      "uploadedDate": "2024-01-30T18:56:06.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 6511zon-1920x1080-61a951d1e8cbc600844e56d6097f8441_Snapshot.jpg",
+      "md5": "b83b090daece533c34da887888639f99",
+      "size": 8077,
+      "uploadedDate": "2024-01-30T18:56:06.632Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 7411zon-1920x1080-cbbeedd8e3a57027f7e0255c8d38316c_Snapshot.jpg",
+      "md5": "c2012ae8c66766bfca827fd5c1995acb",
+      "size": 6178,
+      "uploadedDate": "2024-01-30T18:56:06.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cam 8311zon-1920x1080-62a1f4dd3b1262d8200b9b825c67889f_Snapshot.jpg",
+      "md5": "1970426b659f159ba7486756b9f33b5f",
+      "size": 6875,
+      "uploadedDate": "2024-01-30T18:56:07.305Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7fed0ee3dc3e49168f71a56c48f565bc"
+    }
+  ],
+  "catalogNs": null
+}

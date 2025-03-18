@@ -1,0 +1,152 @@
+{
+  "id": "ea24496dc0344768a7ec38708a987eea",
+  "namespace": "ue",
+  "title": "Car Racing Sounds",
+  "description": "95 background sounds for car racing",
+  "longDescription": "<p><a href=\"https://youtu.be/2k9auABjpEM\" rel=\"nofollow\">Video 1: Car Racing Sounds</a></p><p><a href=\"https://youtu.be/os9enbvzZVM\" rel=\"nofollow\">Video 2: Car Racing Sounds - Lobby</a></p><p><br /></p><p>Car Racing Sounds - includes 95 looped sounds for car racing:</p><ul><li>45 background sounds for car racing</li><li>50 background sounds for car racing lobby</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "car-racing-sounds",
+  "creationDate": "2024-07-03T15:13:48.309Z",
+  "lastModifiedDate": "2024-09-29T22:56:31.374Z",
+  "effectiveDate": "2024-07-03T15:13:48.279Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e23041e57a48c59aa94762d507cdb8",
+    "name": "Artem Bayankin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Audio Wavs: 157</p><p>Number of Audio Cues: 95</p><p>Sample rate / bit rate: 48000 Hz</p><p>Does music loop: Yes</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6fc0095c-c3d0-4a39-9eed-688a2ddaccc3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 1-1920x1080-6016fbdcb50667453acd0c937868e307.jpg",
+      "md5": "6016fbdcb50667453acd0c937868e307",
+      "size": 659547,
+      "uploadedDate": "2024-07-02T20:26:57.344Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot2-1920x1080-d57c544109f9af30a51ccb34590a624a.jpg",
+      "md5": "d57c544109f9af30a51ccb34590a624a",
+      "size": 685143,
+      "uploadedDate": "2024-07-02T20:26:57.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CarRacingSounds_thumb-284x284-f568e3d40e29d2de1849d241b625e749.png",
+      "md5": "f568e3d40e29d2de1849d241b625e749",
+      "size": 210135,
+      "uploadedDate": "2024-07-02T20:26:58.431Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CarRacingSounds_featured-894x488-d80c1a49ed9077d84136b6bdb28afdef.png",
+      "md5": "d80c1a49ed9077d84136b6bdb28afdef",
+      "size": 1145016,
+      "uploadedDate": "2024-07-02T20:26:58.603Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 1-1920x1080-6016fbdcb50667453acd0c937868e307_Snapshot.jpg",
+      "md5": "916aeff6e28d8ca4edc9f07e807bc4cb",
+      "size": 4694,
+      "uploadedDate": "2024-07-02T20:26:57.701Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot2-1920x1080-d57c544109f9af30a51ccb34590a624a_Snapshot.jpg",
+      "md5": "0c2348dcd91fb592da51dd3a50921328",
+      "size": 4948,
+      "uploadedDate": "2024-07-02T20:26:58.245Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9243a632a3a44a75ada116ed520a0c27"
+    }
+  ],
+  "catalogNs": null
+}

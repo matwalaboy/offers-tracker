@@ -1,0 +1,413 @@
+{
+  "id": "1ad87ed3c25c4282bdf97e0018a89ed6",
+  "namespace": "ue",
+  "title": "Thumbnail Gallery Maker",
+  "description": "Generate thumbnail galleries from your project's content browser",
+  "longDescription": "<p>* Do you have a hard time navigating the content browser to find out what assets are in your project?</p><p><br /></p><p>Thumbnail Gallery Maker offers the solution! </p><p>By creating a gallery of thumbnails directly from your project&#39;s assets, you can quickly see at a glance all the assets in your project!</p><p><br /></p><p>* Do you need to share or advertise a content pack with external partners or customers? </p><p><br /></p><p>Thumbnail Gallery Maker is the answer!</p><p>Quickly generate a shareable HTML file which you can zip up and send, or even upload to a web browser to access your gallery from anywhere in the world!</p><p><br /></p><p><br /></p><p>Specifics:</p><p>Thumbnail Gallery Maker is a tool that generates asset thumbnails from your project as well as a fully-featured HTML thumbnail gallery.</p><p><br /></p><p>Specify the folders, asset types and gallery settings you want and watch while your beautiful new gallery is generated right before your eyes!</p><p><br /></p><p>The generated gallery is saved to your hard drive as an HTML file which can be loaded in any browser.</p><p><br /></p><p>Galleries have a number of built-in tools, including;</p><p>* A tree-view which matches the project folder structure</p><p>* Clicking on tree nodes displays assets in or below that folder level</p><p>* A filter field allows you to refine asset searches by searching asset names</p><p>* Thumbnail previews show data per asset so you can quickly see each asset&#39;s type and location within your project</p><p>* Customisable thumbnail display sizes to allow you to show more or less thumbnails on screen at once</p><p><br /></p><p>All thumbnail compatable asset types are supported.</p><p><br /></p><p>Full documentation can be found at https://www.techtoast.co.uk/thumbnailgallerymaker/</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "thumbnail-gallery-maker",
+  "creationDate": "2022-02-09T08:36:58.547Z",
+  "lastModifiedDate": "2024-09-27T14:58:32.098Z",
+  "effectiveDate": "2022-02-09T08:44:11.629Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gt55wwbp6c9sk6c9hrsqbpm53qmqkb",
+    "name": "TechToast"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Include Multiple Content Search Paths</li><li>All thumbnail-compatable asset types supported</li><li>Render thumbnails at any size up to 2048</li><li>Generate thumbnails only or choose to generate an additional HTML gallery with which to view your thumbnails</li></ul><p>Code Modules:</p><ul><li> ThumbnailGalleryMaker (Editor module) </li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: NA</p><p>Supported Development Platforms: Win32, Win64</p><p>Supported Target Build Platforms: NA</p><p>Documentation: https://www.techtoast.co.uk/thumbnailgallerymaker/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1340",
+      "name": "MYTHOLOGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:07.374Z",
+      "updated": "2019-06-20T12:01:07.374Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fcd659f7-293f-4218-87dd-11921ace2065"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen06-1920x1080-04750c24ae04af0124d56e87d2ba221e.jpg",
+      "md5": "04750c24ae04af0124d56e87d2ba221e",
+      "size": 512015,
+      "uploadedDate": "2022-02-06T11:29:47.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen07-1920x1080-6b14de61b332ca3b51222de852bcb515.jpg",
+      "md5": "6b14de61b332ca3b51222de852bcb515",
+      "size": 181755,
+      "uploadedDate": "2022-02-06T11:29:47.973Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen05-1920x1080-282b971d40be16322eaee4e94873478a.jpg",
+      "md5": "282b971d40be16322eaee4e94873478a",
+      "size": 384829,
+      "uploadedDate": "2022-02-06T11:29:48.271Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen01-1920x1080-7dac8337b88c63aefaaebd1436db6645.jpg",
+      "md5": "7dac8337b88c63aefaaebd1436db6645",
+      "size": 257215,
+      "uploadedDate": "2022-02-06T11:29:48.580Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen02-1920x1080-bce2b010600547d71baad28571531b9a.jpg",
+      "md5": "bce2b010600547d71baad28571531b9a",
+      "size": 231237,
+      "uploadedDate": "2022-02-06T11:29:48.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen03-1920x1080-2f9fbb85a890569b06df935a0a5b1809.jpg",
+      "md5": "2f9fbb85a890569b06df935a0a5b1809",
+      "size": 415587,
+      "uploadedDate": "2022-02-06T11:29:49.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen04-1920x1080-b9695b0e9e70dfd1ef4cd1e47d228bc8.jpg",
+      "md5": "b9695b0e9e70dfd1ef4cd1e47d228bc8",
+      "size": 397800,
+      "uploadedDate": "2022-02-06T11:29:49.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ThumbnailGalleryMaker_thumb-284x284-3d35f090a4430eb422db83320ed8edd3.png",
+      "md5": "3d35f090a4430eb422db83320ed8edd3",
+      "size": 123664,
+      "uploadedDate": "2022-02-06T11:29:49.984Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ThumbnailGalleryMaker_featured-894x488-decaeecacea8023b967d1f3e604c7947.png",
+      "md5": "decaeecacea8023b967d1f3e604c7947",
+      "size": 560080,
+      "uploadedDate": "2022-02-06T11:29:50.112Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen06-1920x1080-04750c24ae04af0124d56e87d2ba221e_Snapshot.jpg",
+      "md5": "99c2dbe03c4b1263243ae4b3045fbfca",
+      "size": 9135,
+      "uploadedDate": "2022-02-06T11:29:47.831Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen07-1920x1080-6b14de61b332ca3b51222de852bcb515_Snapshot.jpg",
+      "md5": "68dcf8415b1505d5ce68b98a58b8ab12",
+      "size": 5686,
+      "uploadedDate": "2022-02-06T11:29:48.172Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen05-1920x1080-282b971d40be16322eaee4e94873478a_Snapshot.jpg",
+      "md5": "46cadc716910d11f8d4585b956a23cc0",
+      "size": 7836,
+      "uploadedDate": "2022-02-06T11:29:48.478Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen01-1920x1080-7dac8337b88c63aefaaebd1436db6645_Snapshot.jpg",
+      "md5": "9d84f5d8f66e8da57cfc2b2ba118a75f",
+      "size": 5793,
+      "uploadedDate": "2022-02-06T11:29:48.819Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen02-1920x1080-bce2b010600547d71baad28571531b9a_Snapshot.jpg",
+      "md5": "6d74de37b7d1a56d1bfa0339327882a9",
+      "size": 5550,
+      "uploadedDate": "2022-02-06T11:29:49.174Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen03-1920x1080-2f9fbb85a890569b06df935a0a5b1809_Snapshot.jpg",
+      "md5": "e30e6f265459859a86d92bb263dca259",
+      "size": 8541,
+      "uploadedDate": "2022-02-06T11:29:49.536Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen04-1920x1080-b9695b0e9e70dfd1ef4cd1e47d228bc8_Snapshot.jpg",
+      "md5": "9f5fae8a18acd3519a75d26e7427c38d",
+      "size": 8106,
+      "uploadedDate": "2022-02-06T11:29:49.893Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen07-1920x1080-6b14de61b332ca3b51222de852bcb515_Snapshot.jpg",
+      "md5": "68dcf8415b1505d5ce68b98a58b8ab12",
+      "size": 5686,
+      "uploadedDate": "2022-02-03T22:47:32.953Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen06-1920x1080-7aa844835b641c0b4a698503f3edadf6_Snapshot.jpg",
+      "md5": "87d6acbb7c82cadd9755173d079094f1",
+      "size": 9192,
+      "uploadedDate": "2022-02-03T22:47:33.308Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen04-1920x1080-af03c1e143f1cef474c028af90914641_Snapshot.jpg",
+      "md5": "a4f7f64b64a96b3cf4475b7e14243858",
+      "size": 8157,
+      "uploadedDate": "2022-02-03T22:47:33.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen05-1920x1080-c50c75562a64cc5516a6df3a55950991_Snapshot.jpg",
+      "md5": "5148dc460440ad309f70fb40de8466d4",
+      "size": 8170,
+      "uploadedDate": "2022-02-03T22:47:34.016Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen01-1920x1080-7dac8337b88c63aefaaebd1436db6645_Snapshot.jpg",
+      "md5": "9d84f5d8f66e8da57cfc2b2ba118a75f",
+      "size": 5793,
+      "uploadedDate": "2022-02-03T22:47:34.605Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen02-1920x1080-bce2b010600547d71baad28571531b9a_Snapshot.jpg",
+      "md5": "6d74de37b7d1a56d1bfa0339327882a9",
+      "size": 5550,
+      "uploadedDate": "2022-02-03T22:47:34.934Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen03-1920x1080-db9e5570f543725cd97b33213820dcf4_Snapshot.jpg",
+      "md5": "1583719f90f354e9678c5827531a67f4",
+      "size": 8811,
+      "uploadedDate": "2022-02-03T22:47:35.276Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3790c6ba9aec4c94a1b267cfbe7c4b0b"
+    }
+  ],
+  "catalogNs": null
+}

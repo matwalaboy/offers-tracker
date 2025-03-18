@@ -1,0 +1,356 @@
+{
+  "id": "82de80e066c04459bfec4d8aa90162ec",
+  "namespace": "ue",
+  "title": "Middle Eastern Courtyard",
+  "description": "Middle eastern courtyard with modular assets, props and tweakable materials.",
+  "longDescription": "<p>A modular middle eastern courtyard with suitable game ready props and tweakable materials. The product comes with an example map with to show how the assets can be used together with and overview map with all the asset included in this package. All assets are made with game production quality and standards.</p><p>Video: <a href=\"https://youtu.be/I4e4VEStd1A\" rel=\"nofollow\">https://youtu.be/I4e4VEStd1A</a></p><p>Breakdown: <a href=\"https://youtu.be/Wt8p30kDlfU\" rel=\"nofollow\">https://youtu.be/Wt8p30kDlfU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "middle-eastern-courtyard",
+  "creationDate": "2021-02-17T20:23:51.760Z",
+  "lastModifiedDate": "2024-09-29T17:04:43.819Z",
+  "effectiveDate": "2021-02-17T20:23:48.886Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jby3npw456za4npqaww4ugwbvy8td9",
+    "name": "Joakim Stigsson"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Over 128 high quality assets ready for game production.</li><li>Master material and material functions with tweakable material instances.</li><li>Tilabe materials with vertex blend such as grunge and puddles.</li><li>Post process with color grading.</li><li>Example cinematic sequence. </li></ul><p>Number of Unique Meshes: <strong>124</strong></p><p>Collision: <strong>Yes</strong> (Automatically generated)</p><p>Lightmaps<strong> : Yes</strong></p><p>Triange Count: <strong>128 556</strong></p><p>LODs: <strong>No</strong></p><p>Number of Materials and Material Instances: <strong>63</strong></p><p>Number of Textures: <strong>229</strong></p><p>Texture Resolutions: <strong>2048, 1024, 512, 256</strong></p><p>Supported Development Platforms: <strong>Windows</strong></p><p>Important/Additional Notes: <strong>Email joakim_stigsson&#64;hotmail.com for questions and support.</strong> </p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2b7e797d-02a6-4eb0-b5b5-599fe90f1ad5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard01-1920x1080-20e2e23cd2cf074837a895cb295ee2a5.jpg",
+      "md5": "20e2e23cd2cf074837a895cb295ee2a5",
+      "size": 1957006,
+      "uploadedDate": "2021-02-14T20:13:21.779Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard02-1920x1080-1f83150ae8035f92c74bf7a80e5c8de1.jpg",
+      "md5": "1f83150ae8035f92c74bf7a80e5c8de1",
+      "size": 1804835,
+      "uploadedDate": "2021-02-14T20:13:22.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard03-1920x1080-954d08f8c35534bdfc4daf941fd59c2f.jpg",
+      "md5": "954d08f8c35534bdfc4daf941fd59c2f",
+      "size": 1474876,
+      "uploadedDate": "2021-02-14T20:13:22.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard04-1920x1080-f7aab80e776c6285b63664723679a88b.jpg",
+      "md5": "f7aab80e776c6285b63664723679a88b",
+      "size": 1531661,
+      "uploadedDate": "2021-02-14T20:13:23.444Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard08-1920x1080-346a6b285e579b64bd3f333738646127.jpg",
+      "md5": "346a6b285e579b64bd3f333738646127",
+      "size": 1614502,
+      "uploadedDate": "2021-02-14T20:13:24.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard07-1920x1080-45425b736a917165dceae1e913b48e8e.jpg",
+      "md5": "45425b736a917165dceae1e913b48e8e",
+      "size": 1222257,
+      "uploadedDate": "2021-02-14T20:13:24.519Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard05-1920x1080-c22f36fb880f14b192ae312d4b2edfdd.jpg",
+      "md5": "c22f36fb880f14b192ae312d4b2edfdd",
+      "size": 1826978,
+      "uploadedDate": "2021-02-14T20:13:25.034Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard09-1920x1080-240fab6c7f553ab26713a52376d9f7e0.jpg",
+      "md5": "240fab6c7f553ab26713a52376d9f7e0",
+      "size": 1605137,
+      "uploadedDate": "2021-02-14T20:13:25.474Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard10-1920x1080-e69ca18eb62f31cb8708b88a15c32d45.jpg",
+      "md5": "e69ca18eb62f31cb8708b88a15c32d45",
+      "size": 1764592,
+      "uploadedDate": "2021-02-14T20:13:26.049Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiddleEasternCourtyard11-1920x1080-51ceb55048f63f02e2eb166f6b501efb.jpg",
+      "md5": "51ceb55048f63f02e2eb166f6b501efb",
+      "size": 1092410,
+      "uploadedDate": "2021-02-14T20:13:26.541Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MiddleEasternCourtyard_thumb-284x284-42c6d5087f1cbfb6ae4dcf7eb762424e.png",
+      "md5": "42c6d5087f1cbfb6ae4dcf7eb762424e",
+      "size": 190372,
+      "uploadedDate": "2021-02-15T19:57:46.761Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MiddleEasternCourtyard_featured-894x488-b3089354acf7741b8d749effa05a4d36.png",
+      "md5": "b3089354acf7741b8d749effa05a4d36",
+      "size": 962038,
+      "uploadedDate": "2021-02-14T20:13:27.141Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard01-1920x1080-20e2e23cd2cf074837a895cb295ee2a5_Snapshot.jpg",
+      "md5": "07d9fc89ebdab575b5669daa4d041907",
+      "size": 9012,
+      "uploadedDate": "2021-02-14T20:13:22.094Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard02-1920x1080-1f83150ae8035f92c74bf7a80e5c8de1_Snapshot.jpg",
+      "md5": "f4da82a7731c2275c7a11a4b444e7381",
+      "size": 8543,
+      "uploadedDate": "2021-02-14T20:13:22.627Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard03-1920x1080-954d08f8c35534bdfc4daf941fd59c2f_Snapshot.jpg",
+      "md5": "5403bd9e7d94532a4ba305a9dbe24ae2",
+      "size": 9410,
+      "uploadedDate": "2021-02-14T20:13:23.273Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard04-1920x1080-f7aab80e776c6285b63664723679a88b_Snapshot.jpg",
+      "md5": "213583820c4d043caa42dc38be966e1d",
+      "size": 6793,
+      "uploadedDate": "2021-02-14T20:13:23.785Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard08-1920x1080-346a6b285e579b64bd3f333738646127_Snapshot.jpg",
+      "md5": "22af15c9ac788a7da973a5fa38457377",
+      "size": 7547,
+      "uploadedDate": "2021-02-14T20:13:24.329Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard07-1920x1080-45425b736a917165dceae1e913b48e8e_Snapshot.jpg",
+      "md5": "70ca56c1eefc3266aa47d336f46991e1",
+      "size": 7098,
+      "uploadedDate": "2021-02-14T20:13:24.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard05-1920x1080-c22f36fb880f14b192ae312d4b2edfdd_Snapshot.jpg",
+      "md5": "b68940e462776d4866deee35dbf3338c",
+      "size": 8908,
+      "uploadedDate": "2021-02-14T20:13:25.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard09-1920x1080-240fab6c7f553ab26713a52376d9f7e0_Snapshot.jpg",
+      "md5": "a94a311b77bc94052b25e58512bae92a",
+      "size": 7961,
+      "uploadedDate": "2021-02-14T20:13:25.774Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard10-1920x1080-e69ca18eb62f31cb8708b88a15c32d45_Snapshot.jpg",
+      "md5": "7431188ce7eaae1018208ace3fbde999",
+      "size": 9109,
+      "uploadedDate": "2021-02-14T20:13:26.370Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiddleEasternCourtyard11-1920x1080-51ceb55048f63f02e2eb166f6b501efb_Snapshot.jpg",
+      "md5": "b5badb997bc63cbcfc2578f278ccb4ae",
+      "size": 7289,
+      "uploadedDate": "2021-02-14T20:13:26.892Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "701177df9dc7469ca1a01a678b74bb04"
+    }
+  ],
+  "catalogNs": null
+}

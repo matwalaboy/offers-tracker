@@ -1,0 +1,224 @@
+{
+  "id": "242f72a5b169468894d12702725511b1",
+  "namespace": "ue",
+  "title": "Squirrels",
+  "description": "Two animated handpainted squirrels package.",
+  "longDescription": "<p>Two animated handpainted squirrels package.</p><p><a href=\"https://www.youtube.com/watch?v&#61;qMJ7YamTQIc\" rel=\"nofollow\">Animations video preview</a></p><p><a href=\"https://sketchfab.com/3d-models/squirrel-b9577c9a235447ea8e7b29520c54bd42\" rel=\"nofollow\">Sketchfab preview</a></p><p><a href=\"https://discord.gg/jgBNSMP4bb\" rel=\"nofollow\">My Discord group</a></p><p><br /></p><p>Animations:</p><p>Ten different idles</p><p>Run animations</p><p>Death animation</p><p><br /></p><p>Triangle counts:</p><p>Squirrel 1 - 4782</p><p>Squirrel 2 - 4785</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "squirrels",
+  "creationDate": "2022-06-14T21:44:23.272Z",
+  "lastModifiedDate": "2024-09-30T18:43:59.610Z",
+  "effectiveDate": "2022-06-14T21:44:23.193Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-93wt2wz4uvaryh5tl8kjlpu9wzd3ne",
+    "name": "DmitriyDryzhak"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Animated: Yes</p><p>Number of Animations: 13</p><p>Animation types: in place</p><p>Number of characters: 2</p><p>Number of Materials and Material Instances: 3</p><p>Number of Textures: 9</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "238a34e4-3302-4182-89f8-ed4ba147cef7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19200-1920x1080-7038dd03e5df862ecf32ade2cb387589.jpg",
+      "md5": "7038dd03e5df862ecf32ade2cb387589",
+      "size": 1222716,
+      "uploadedDate": "2022-06-06T21:19:29.513Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201-1920x1080-3926f9ea3d2f4f3f3866d6816efa7710.jpg",
+      "md5": "3926f9ea3d2f4f3f3866d6816efa7710",
+      "size": 1131683,
+      "uploadedDate": "2022-06-06T21:19:29.930Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19202-1920x1080-5e1cbe61c0da397fd402eb23c214799d.jpg",
+      "md5": "5e1cbe61c0da397fd402eb23c214799d",
+      "size": 974041,
+      "uploadedDate": "2022-06-06T21:19:30.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19203-1920x1080-a8876401826c891a6623a4185d934201.jpg",
+      "md5": "a8876401826c891a6623a4185d934201",
+      "size": 1311440,
+      "uploadedDate": "2022-06-06T21:19:30.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Squirrels_thumb-284x284-5b751d09d32c4ff249ed4a1ab63810a0.png",
+      "md5": "5b751d09d32c4ff249ed4a1ab63810a0",
+      "size": 164714,
+      "uploadedDate": "2022-06-06T21:19:31.294Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Squirrels_featured-894x488-cf842371dc252bebb79cb48d43f3fba9.png",
+      "md5": "cf842371dc252bebb79cb48d43f3fba9",
+      "size": 691710,
+      "uploadedDate": "2022-06-06T21:19:31.435Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19200-1920x1080-7038dd03e5df862ecf32ade2cb387589_Snapshot.jpg",
+      "md5": "e0d828466d799a790a4060589450ea70",
+      "size": 6525,
+      "uploadedDate": "2022-06-06T21:19:29.804Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201-1920x1080-3926f9ea3d2f4f3f3866d6816efa7710_Snapshot.jpg",
+      "md5": "39babe2ff2b668b7c8a64c919a03a23f",
+      "size": 6198,
+      "uploadedDate": "2022-06-06T21:19:30.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19202-1920x1080-5e1cbe61c0da397fd402eb23c214799d_Snapshot.jpg",
+      "md5": "21b3aaa2200c48e84e2ed6ae5d385f1c",
+      "size": 5718,
+      "uploadedDate": "2022-06-06T21:19:30.689Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19203-1920x1080-a8876401826c891a6623a4185d934201_Snapshot.jpg",
+      "md5": "fadebe38ad1e481d0dcf388eb3b9497a",
+      "size": 6598,
+      "uploadedDate": "2022-06-06T21:19:31.198Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9f7e1d9b58a9490d9a135b71b370e762"
+    }
+  ],
+  "catalogNs": null
+}

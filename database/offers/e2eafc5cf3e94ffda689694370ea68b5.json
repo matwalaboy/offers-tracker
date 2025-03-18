@@ -1,0 +1,326 @@
+{
+  "id": "e2eafc5cf3e94ffda689694370ea68b5",
+  "namespace": "ue",
+  "title": "NHC - Meteorite In Jar",
+  "description": "The pack includes 132 different meteorite in jar pictures with transparent backgrounds and 3 types of resolutions (396 textures in total).",
+  "longDescription": "<p>The pack consists of 132 different images (in 3 resolutions - 396 items), which include of different meteorite in jar pictures that can organically fit into any mobile project, game, website or product design.</p><p>These icons have three types of resolution and a transparent background for easier use.</p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-meteorite-in-jar",
+  "creationDate": "2024-04-06T00:42:07.466Z",
+  "lastModifiedDate": "2024-09-29T14:55:56.885Z",
+  "effectiveDate": "2024-04-06T00:42:07.410Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features</p><p>Optional size of textures</p><p>Transparent </p><p><br /></p><p>Number of Textures: 396</p><p>1024 px - 132 textures</p><p>512 px - 132 textures</p><p>256 px - 132 textures</p><p><br /></p><p>Texture Resolutions: 256*256, 512*512, 1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "abde701e-9823-4e8d-ac4d-3b60fc6c0805"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production05-1920x1080-5e837102cfd533d056e0da5a36e8f5c3.png",
+      "md5": "5e837102cfd533d056e0da5a36e8f5c3",
+      "size": 1771734,
+      "uploadedDate": "2024-04-01T18:27:01.199Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production14-1920x1080-e06d4ae70183808f05b1e6464c919e6d.png",
+      "md5": "e06d4ae70183808f05b1e6464c919e6d",
+      "size": 1496327,
+      "uploadedDate": "2024-04-01T18:27:01.693Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production21-1920x1080-0b68ef1cb1a096c7b81a2bde5ded7f38.png",
+      "md5": "0b68ef1cb1a096c7b81a2bde5ded7f38",
+      "size": 1685249,
+      "uploadedDate": "2024-04-01T18:27:02.230Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production40-1920x1080-da68c69d11254502d00139fa1f32d74a.png",
+      "md5": "da68c69d11254502d00139fa1f32d74a",
+      "size": 1659836,
+      "uploadedDate": "2024-04-01T18:27:02.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production00-1920x1080-5d0628a80412830a5c19932aca77213d.png",
+      "md5": "5d0628a80412830a5c19932aca77213d",
+      "size": 1454640,
+      "uploadedDate": "2024-04-01T18:27:03.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production01-1920x1080-6cfb40c50ad506fc65af06e53fb73b00.png",
+      "md5": "6cfb40c50ad506fc65af06e53fb73b00",
+      "size": 1436957,
+      "uploadedDate": "2024-04-01T18:27:03.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production02-1920x1080-be87556b716240305a11bd8b38636d44.png",
+      "md5": "be87556b716240305a11bd8b38636d44",
+      "size": 1473908,
+      "uploadedDate": "2024-04-01T18:27:04.385Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCMeteoriteInJar_thumb-284x284-e2f5e8aa38331d6708d804336a1002b3.png",
+      "md5": "e2f5e8aa38331d6708d804336a1002b3",
+      "size": 122824,
+      "uploadedDate": "2024-04-01T18:27:04.727Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCMeteoriteInJar_featured-894x488-15a53c058c1dc9b1162202d8c24a8020.png",
+      "md5": "15a53c058c1dc9b1162202d8c24a8020",
+      "size": 327333,
+      "uploadedDate": "2024-04-01T18:27:04.887Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production05-1920x1080-5e837102cfd533d056e0da5a36e8f5c3_Snapshot.png",
+      "md5": "5d36516a39e6464a20a685b125ad5dfc",
+      "size": 5103,
+      "uploadedDate": "2024-04-01T18:27:01.494Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production14-1920x1080-e06d4ae70183808f05b1e6464c919e6d_Snapshot.png",
+      "md5": "85eb851e1cf8b28956c48e39cc061fe0",
+      "size": 4877,
+      "uploadedDate": "2024-04-01T18:27:01.972Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production21-1920x1080-0b68ef1cb1a096c7b81a2bde5ded7f38_Snapshot.png",
+      "md5": "1fa76a21f8871e7b9c4def0fa92a6789",
+      "size": 5100,
+      "uploadedDate": "2024-04-01T18:27:02.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production40-1920x1080-da68c69d11254502d00139fa1f32d74a_Snapshot.png",
+      "md5": "91db1c4a5a8b277e90fc18916eccfab3",
+      "size": 4859,
+      "uploadedDate": "2024-04-01T18:27:03.044Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production00-1920x1080-5d0628a80412830a5c19932aca77213d_Snapshot.png",
+      "md5": "0f6d9b6826f379aec2f5d130e31149d6",
+      "size": 6341,
+      "uploadedDate": "2024-04-01T18:27:03.610Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production01-1920x1080-6cfb40c50ad506fc65af06e53fb73b00_Snapshot.png",
+      "md5": "519e5df7ddd88ce981cce83b5317551e",
+      "size": 6442,
+      "uploadedDate": "2024-04-01T18:27:04.111Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production02-1920x1080-be87556b716240305a11bd8b38636d44_Snapshot.png",
+      "md5": "a1eefac28b38ff54db0a9dcecec6eb35",
+      "size": 6428,
+      "uploadedDate": "2024-04-01T18:27:04.681Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "284e1f12e9294f16ac54eb4b5ba9a95b"
+    }
+  ],
+  "catalogNs": null
+}

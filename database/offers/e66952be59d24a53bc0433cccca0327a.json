@@ -1,0 +1,146 @@
+{
+  "id": "e66952be59d24a53bc0433cccca0327a",
+  "namespace": "ue",
+  "title": "8-bit UI Sounds",
+  "description": "104 UI sounds, specially designed to add a retro feel to your game",
+  "longDescription": "<p><a href=\"https://drive.google.com/file/d/1JWHlQDhAqHXQ0oUE5glL4Jt9RDZPnJcx/view?usp&#61;sharing\" rel=\"nofollow\"><strong>View the file list</strong></a></p><p><a href=\"https://soundcloud.com/levivbaudio/8-bit-ui-sounds-preview/s-Y9eheKfYgqt?si&#61;076779d6ca76447baea66cd404dbbc4d&amp;utm_source&#61;clipboard&amp;utm_medium&#61;text&amp;utm_campaign&#61;social_sharing\" rel=\"nofollow\"><strong>Listen to the audio preview</strong></a></p><p><br /></p><p>Looking for some interesting 8-bit retro sounds for your game&#39;s UI?</p><p>Get this collection of 104 UI sound effects and add a special retro/old-school feel to your user interfaces.</p><p>This package includes sounds for:</p><ul><li>Experience (XP) - acquired / level up / lost</li><li>Items - acquired / selected / sold / used</li><li>Level events (short jingles) - start / complete / fail / points (stars)</li><li>Menus - close / open / scroll / tick</li><li>Notifications - alert / fail / information / sucess</li><li>Options and buttons - hoover / invalid / select</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "8-bit-ui-sounds",
+  "creationDate": "2023-10-17T11:49:23.310Z",
+  "lastModifiedDate": "2024-09-26T13:48:03.192Z",
+  "effectiveDate": "2023-10-17T11:49:23.269Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-w2zmwn2axuxbtpdyxn9ml27dffknpx",
+    "name": "Levi Vilas Boas"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Format: Mono 16bit WAV, 48000Hz</p><p>Number of Audio Waves: 104</p><p>Number of Audio Cues: 104</p><p><br /></p><p>The sounds are not loopable.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5bd91e09-9253-4bb0-bc60-f58e0cfacb61"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery-1920x1080-b2f5d23c836e16f8a6240316694f07b4.jpg",
+      "md5": "b2f5d23c836e16f8a6240316694f07b4",
+      "size": 107315,
+      "uploadedDate": "2023-10-03T13:49:45.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/8bitUISounds_thumb-284x284-1adb57c2f87f125cd5b1699b8cbff41a.png",
+      "md5": "1adb57c2f87f125cd5b1699b8cbff41a",
+      "size": 43974,
+      "uploadedDate": "2023-10-03T13:49:45.562Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/8bitUISounds_featured-894x488-89cbd7cca008538db41481649b8c42f6.png",
+      "md5": "89cbd7cca008538db41481649b8c42f6",
+      "size": 87702,
+      "uploadedDate": "2023-10-03T13:49:45.637Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery-1920x1080-b2f5d23c836e16f8a6240316694f07b4_Snapshot.jpg",
+      "md5": "c66882e0b437dda821a63147c3973ecb",
+      "size": 6301,
+      "uploadedDate": "2023-10-03T13:49:45.464Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "adba6959a49643d88fa5bc6045cc538a"
+    }
+  ],
+  "catalogNs": null
+}

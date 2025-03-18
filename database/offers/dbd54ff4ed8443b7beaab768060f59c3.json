@@ -1,0 +1,410 @@
+{
+  "id": "dbd54ff4ed8443b7beaab768060f59c3",
+  "namespace": "ue",
+  "title": "Superhero Flight Animations",
+  "description": "This is a set of animations, additive poses, simple VFX, and Blueprints to form a flight system.",
+  "longDescription": "<h2><strong>Update!!</strong></h2><p>Compatible with Unreal Engine 5 mannequins!</p><p>It does not support new features such as UE5 control rigs.</p><p><br /></p><p><strong>Video Preview </strong>: <a href=\"https://youtu.be/nmRzelo_HLc\" rel=\"nofollow\">https://youtu.be/nmRzelo_HLc</a></p><p>Includes 5 hover mode and fast flight mode animations.</p><p>Includes third person character Blueprint, Animation Blueprint, some blend spaces, and some simple VFX.</p><p>Blueprints are network compatible.</p><p>VFX uses physics materials to spawn 5 types.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "superhero-flight-animations",
+  "creationDate": "2021-03-19T04:18:29.945Z",
+  "lastModifiedDate": "2024-09-30T03:29:47.824Z",
+  "effectiveDate": "2021-03-19T04:18:29.904Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Number of Blueprints</strong> : 24 ( Character, Component, AnimNotify, CameraShake, GameMode, and Widget )</p><p><strong>Maps</strong> : 3 ( OpenWorldMap, OverviewMap, TutorialMap )</p><p><strong>Input</strong> : Gamepad and Keyboard</p><p><strong>Network Replicated </strong>: Yes</p><p><strong>The character Scaled to Epic skeleton</strong> : Yes</p><p><strong>Rigged</strong> : Yes</p><p><strong>The character Rigged to Epic skeleton</strong> : Yes</p><p><strong>Animated </strong>: Yes</p><p><strong>Number of character animations</strong> : 50 &#43; 80 additive pose</p><p><strong>Number of Effects </strong>: 16</p><p><strong>Animation types</strong> : In place</p><p><strong>Intended Platform</strong> : All</p><p><strong>Platform Tested</strong> : Windows</p><p><strong>Documentation</strong> : No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/animations"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "41185c19-5191-4153-8293-8cc9901efa95"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS14-1920x1080-be86e6a3a89c99e0b478cb0bc3030570.png",
+      "md5": "be86e6a3a89c99e0b478cb0bc3030570",
+      "size": 2864691,
+      "uploadedDate": "2022-04-08T08:52:49.423Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS15-1920x1080-d828920924790fb6bbf0d363579f094c.png",
+      "md5": "d828920924790fb6bbf0d363579f094c",
+      "size": 3036419,
+      "uploadedDate": "2022-04-08T08:52:50.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS16-1920x1080-fa6572dcc2538e08b8cb6e52a1efd25a.png",
+      "md5": "fa6572dcc2538e08b8cb6e52a1efd25a",
+      "size": 3053112,
+      "uploadedDate": "2022-04-08T08:52:50.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SuperheroFlightAnim 64-bit Development PCD3DSM5  20220407 122942-1920x1080-f1304b6ed0c64eb2cf044d8ad047bffd.png",
+      "md5": "f1304b6ed0c64eb2cf044d8ad047bffd",
+      "size": 2804720,
+      "uploadedDate": "2022-04-08T08:52:51.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS12-1920x1080-73160449a4d6f188349ef35f4ede89d9.png",
+      "md5": "73160449a4d6f188349ef35f4ede89d9",
+      "size": 2135536,
+      "uploadedDate": "2022-04-08T08:57:24.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS11-1920x1080-9f774bc38ef7dc35e4e3a28a5bc08309.png",
+      "md5": "9f774bc38ef7dc35e4e3a28a5bc08309",
+      "size": 1807752,
+      "uploadedDate": "2022-04-08T08:57:25.567Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS10-1920x1080-c9242be374c6727124c76f1c59823ac6.png",
+      "md5": "c9242be374c6727124c76f1c59823ac6",
+      "size": 1685620,
+      "uploadedDate": "2022-04-08T08:57:26.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SuperheroFlightAnimations_thumb-284x284-d179ec660b01345fa93726978533226b.png",
+      "md5": "d179ec660b01345fa93726978533226b",
+      "size": 109433,
+      "uploadedDate": "2022-04-08T08:52:51.568Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SuperheroFlightAnimations_featured-894x488-af9d081435bb60be3392956b9e0cbab4.png",
+      "md5": "af9d081435bb60be3392956b9e0cbab4",
+      "size": 577302,
+      "uploadedDate": "2022-04-08T08:52:51.683Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS12-1920x1080-73160449a4d6f188349ef35f4ede89d9_Snapshot.png",
+      "md5": "ecffdaf3c603e98f1d29085342fa2f80",
+      "size": 6668,
+      "uploadedDate": "2022-04-08T08:57:25.321Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS11-1920x1080-9f774bc38ef7dc35e4e3a28a5bc08309_Snapshot.png",
+      "md5": "11544c82923edd8fd824157c86eaca23",
+      "size": 5812,
+      "uploadedDate": "2022-04-08T08:57:25.949Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS10-1920x1080-c9242be374c6727124c76f1c59823ac6_Snapshot.png",
+      "md5": "99328964893525e86d3fd18e238b9706",
+      "size": 5166,
+      "uploadedDate": "2022-04-08T08:57:26.497Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS14-1920x1080-be86e6a3a89c99e0b478cb0bc3030570_Snapshot.png",
+      "md5": "4506d1224bc8e6592eacd4509b2e4db6",
+      "size": 6250,
+      "uploadedDate": "2022-04-08T08:52:49.791Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS15-1920x1080-d828920924790fb6bbf0d363579f094c_Snapshot.png",
+      "md5": "5f488346d8b8f4e3442bf554c3c6babe",
+      "size": 5584,
+      "uploadedDate": "2022-04-08T08:52:50.370Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS16-1920x1080-fa6572dcc2538e08b8cb6e52a1efd25a_Snapshot.png",
+      "md5": "c8591ef81f37803f8f8c5e7965040656",
+      "size": 5637,
+      "uploadedDate": "2022-04-08T08:52:50.951Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SuperheroFlightAnim 64-bit Development PCD3DSM5  20220407 122942-1920x1080-f1304b6ed0c64eb2cf044d8ad047bffd_Snapshot.png",
+      "md5": "1b1c319a05d130f3c0c8f878b9967fd5",
+      "size": 5332,
+      "uploadedDate": "2022-04-08T08:52:51.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS01-1920x1080-0b1b9f2e0945afc924b72a62dd9a1598_Snapshot.png",
+      "md5": "c283f11dcce01490da1ef2ba75bf9192",
+      "size": 5782,
+      "uploadedDate": "2021-03-04T03:22:00.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS02-1920x1080-b7da95e0987c04c904be89fbb1d07903_Snapshot.png",
+      "md5": "6ee61ba6f687d1ce78224145a33f54a4",
+      "size": 4043,
+      "uploadedDate": "2021-03-04T03:22:01.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS03-1920x1080-22c99442cda92916cd6dc6dbc40befd2_Snapshot.png",
+      "md5": "4976cc2e5460b2c90dce8eda61974a88",
+      "size": 5788,
+      "uploadedDate": "2021-03-04T03:22:01.686Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS04-1920x1080-36be6f0c3220a0c5cf57299c01efca83_Snapshot.png",
+      "md5": "5cdacee639ebde9ba0de504ff91839c9",
+      "size": 4730,
+      "uploadedDate": "2021-03-04T03:22:02.212Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS05-1920x1080-da1d018553a00db17302c1e17505fef6_Snapshot.png",
+      "md5": "98ff7b26600767ea561069443da20b4e",
+      "size": 4851,
+      "uploadedDate": "2021-03-04T03:22:02.700Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS06-1920x1080-f325b95b506d06f28eba8d3ec4cb134c_Snapshot.png",
+      "md5": "ada8b67456e5f0f61e466c9d557ca2be",
+      "size": 4809,
+      "uploadedDate": "2021-03-04T03:22:03.242Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS07-1920x1080-e191eff6467dbd0e066d8f46d58c87d1_Snapshot.png",
+      "md5": "40de2d8b27f55717e5551c870bc8686d",
+      "size": 4561,
+      "uploadedDate": "2021-03-04T03:22:03.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS08-1920x1080-896dd450f03027f7e4a0ec1d87e565f3_Snapshot.png",
+      "md5": "5a83d199dd369ff2bed04b250c3a3a63",
+      "size": 4668,
+      "uploadedDate": "2021-03-04T03:22:04.206Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS10-1920x1080-c9242be374c6727124c76f1c59823ac6_Snapshot.png",
+      "md5": "99328964893525e86d3fd18e238b9706",
+      "size": 5166,
+      "uploadedDate": "2021-03-04T03:22:04.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS11-1920x1080-9f774bc38ef7dc35e4e3a28a5bc08309_Snapshot.png",
+      "md5": "11544c82923edd8fd824157c86eaca23",
+      "size": 5812,
+      "uploadedDate": "2021-03-04T03:22:05.454Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS12-1920x1080-73160449a4d6f188349ef35f4ede89d9_Snapshot.png",
+      "md5": "ecffdaf3c603e98f1d29085342fa2f80",
+      "size": 6668,
+      "uploadedDate": "2021-03-04T03:22:06.086Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS13-1920x1080-493b32dbc8e12e0a489a24ce3ea247d9_Snapshot.png",
+      "md5": "5473ba8712b6fdf709d364618c6e6675",
+      "size": 7421,
+      "uploadedDate": "2021-03-04T03:22:06.664Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "155fca2ed82d4823b560985b07c6361a"
+    }
+  ],
+  "catalogNs": null
+}

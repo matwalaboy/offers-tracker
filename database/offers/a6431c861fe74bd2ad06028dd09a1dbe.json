@@ -1,0 +1,290 @@
+{
+  "id": "a6431c861fe74bd2ad06028dd09a1dbe",
+  "namespace": "ue",
+  "title": "SnowRock Material",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p>10 Materials</p><p><br /></p><p><br /></p><p><br /></p><p>Snow Rock</p><p><br /></p><p><br /></p><p><br /></p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "snowrock-material",
+  "creationDate": "2024-01-01T17:37:54.346Z",
+  "lastModifiedDate": "2024-09-30T13:54:40.022Z",
+  "effectiveDate": "2024-01-01T17:37:54.318Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features: </li></ul><p>Number of Unique Materials and Material Instances: 10 </p><p>Number of Textures: 40</p><p>Texture Resolutions: 4096x 4096</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d90850e7-70c9-4b6a-b905-1db6f46598c8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-e45c444b339803a85d823cad994ef7e6.jpg",
+      "md5": "e45c444b339803a85d823cad994ef7e6",
+      "size": 280526,
+      "uploadedDate": "2024-01-01T09:51:50.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-859b255f52a1a129627ce446c0cda0aa.jpg",
+      "md5": "859b255f52a1a129627ce446c0cda0aa",
+      "size": 333031,
+      "uploadedDate": "2024-01-01T09:51:50.598Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-6e7424a8274a16e213ad9c9757f97c2e.jpg",
+      "md5": "6e7424a8274a16e213ad9c9757f97c2e",
+      "size": 336217,
+      "uploadedDate": "2024-01-01T09:51:50.997Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-f56f48fcca7d42df1ded4aefe74fc7d3.jpg",
+      "md5": "f56f48fcca7d42df1ded4aefe74fc7d3",
+      "size": 272389,
+      "uploadedDate": "2024-01-01T09:51:51.367Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-d0171963869187453ff17217b492f6c8.jpg",
+      "md5": "d0171963869187453ff17217b492f6c8",
+      "size": 337789,
+      "uploadedDate": "2024-01-01T09:51:51.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-51f701900e71c36010b9332b2f10a861.jpg",
+      "md5": "51f701900e71c36010b9332b2f10a861",
+      "size": 307023,
+      "uploadedDate": "2024-01-01T09:51:52.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-41d90f956b45d053ee9996f1fa240985.jpg",
+      "md5": "41d90f956b45d053ee9996f1fa240985",
+      "size": 288857,
+      "uploadedDate": "2024-01-01T09:51:52.479Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-98a7d6718408647eeac78e8ebac50fea.jpg",
+      "md5": "98a7d6718408647eeac78e8ebac50fea",
+      "size": 265291,
+      "uploadedDate": "2024-01-01T09:51:52.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-3df9de39cef7926f27ae0f8d316d673d.jpg",
+      "md5": "3df9de39cef7926f27ae0f8d316d673d",
+      "size": 338158,
+      "uploadedDate": "2024-01-01T09:51:53.209Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SnowRockMaterial_thumb-284x284-77a5c93be2fc1623d2c8d1c8b7fa63fb.png",
+      "md5": "77a5c93be2fc1623d2c8d1c8b7fa63fb",
+      "size": 144620,
+      "uploadedDate": "2024-01-01T09:51:53.566Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SnowRockMaterial_featured-894x488-fbfcb211a9b269ce35367d48d29512fc.png",
+      "md5": "fbfcb211a9b269ce35367d48d29512fc",
+      "size": 605986,
+      "uploadedDate": "2024-01-01T09:51:53.677Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-e45c444b339803a85d823cad994ef7e6_Snapshot.jpg",
+      "md5": "21fd5c68152f39a60b1382278edfb42b",
+      "size": 7589,
+      "uploadedDate": "2024-01-01T09:51:50.482Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-859b255f52a1a129627ce446c0cda0aa_Snapshot.jpg",
+      "md5": "aa54b0cb34da6857d3e725523a61a2c4",
+      "size": 8904,
+      "uploadedDate": "2024-01-01T09:51:50.847Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-6e7424a8274a16e213ad9c9757f97c2e_Snapshot.jpg",
+      "md5": "acb2e137e2be4a8ba81bbea269b4b825",
+      "size": 8895,
+      "uploadedDate": "2024-01-01T09:51:51.243Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-f56f48fcca7d42df1ded4aefe74fc7d3_Snapshot.jpg",
+      "md5": "827ba775dccbb3fcb916dc67d45ac402",
+      "size": 7174,
+      "uploadedDate": "2024-01-01T09:51:51.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-d0171963869187453ff17217b492f6c8_Snapshot.jpg",
+      "md5": "8eff7b02756b12e56e60c931dfbdcba7",
+      "size": 8749,
+      "uploadedDate": "2024-01-01T09:51:51.992Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-51f701900e71c36010b9332b2f10a861_Snapshot.jpg",
+      "md5": "0ad6fe273b1719613fab6fd95707c38f",
+      "size": 7450,
+      "uploadedDate": "2024-01-01T09:51:52.349Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-41d90f956b45d053ee9996f1fa240985_Snapshot.jpg",
+      "md5": "116fde4e2ee58f9ebf465f067d407823",
+      "size": 7666,
+      "uploadedDate": "2024-01-01T09:51:52.705Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-98a7d6718408647eeac78e8ebac50fea_Snapshot.jpg",
+      "md5": "fd6ab01f720f1f70e3dfa051eb922365",
+      "size": 7649,
+      "uploadedDate": "2024-01-01T09:51:53.108Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-3df9de39cef7926f27ae0f8d316d673d_Snapshot.jpg",
+      "md5": "54fafa4481b8af4675e18ab969dc7cd3",
+      "size": 8815,
+      "uploadedDate": "2024-01-01T09:51:53.473Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cedd718d2d8d48d3b4036b16dc7f93aa"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,300 @@
+{
+  "id": "9992f5b3370440e7bb035f357a076cdf",
+  "namespace": "ue",
+  "title": "Ambient Effects Pack",
+  "description": "Ambient Weather Effects  For Enviroment",
+  "longDescription": "<p><br /></p><p><a href=\"https://youtu.be/LKrSjLVS6KU\" rel=\"nofollow\"><strong><em>Trailer</em></strong></a></p><p><br /></p><p>Ambient Weather Effects For your enviroment</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ambient-effects-pack",
+  "creationDate": "2024-05-29T09:19:59.941Z",
+  "lastModifiedDate": "2024-09-27T21:04:19.987Z",
+  "effectiveDate": "2024-05-29T09:19:59.912Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-w7eycya4jug3gpxux6yabn5c8st7rl",
+    "name": "MajiqFX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>User Parameter Controllers</li><li> Butterly and Firefle Effect</li><li> 3xFalling Leaves</li><li> Fog Blueprint</li><li>Rain</li><li>Snow</li><li>Storm with debris weather</li></ul><p><br /></p><p>Type of Emitters: (CPU, GPU, etc)</p><p>Number of Unique Effects: 13 Niagara Emitters and 1 Blueprint</p><p>LODs: (Yes)</p><p>Number of Materials: 9</p><p>Number of Textures:015</p><p>Number of Blueprints: 1</p><p>Number of Unique Meshes: 2</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p><br /></p><p>Help <a href=\"https://discord.com/invite/hFuhAU6K\" rel=\"nofollow\"><strong>Discord</strong></a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "76fcc6db-33f5-4d5d-986b-e9eb66ee468b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PVr1-1920x1080-644f63b3ef5e2919c656bf5474d1cf7e.png",
+      "md5": "644f63b3ef5e2919c656bf5474d1cf7e",
+      "size": 1369164,
+      "uploadedDate": "2024-05-27T23:40:24.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCrenTXT-1920x1080-fd934682e10ed29da8e05803af1601cb.png",
+      "md5": "fd934682e10ed29da8e05803af1601cb",
+      "size": 1374224,
+      "uploadedDate": "2024-05-27T23:40:25.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCrenBF-1920x1080-cd00c2f693c2e23ccefbadf992d1af02.png",
+      "md5": "cd00c2f693c2e23ccefbadf992d1af02",
+      "size": 1447675,
+      "uploadedDate": "2024-05-27T23:40:25.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCren1.2.1Leavess-1920x1080-9c8da7bedf33d8a2731e0fdce13e3b91.png",
+      "md5": "9c8da7bedf33d8a2731e0fdce13e3b91",
+      "size": 852641,
+      "uploadedDate": "2024-05-27T23:40:25.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCren1.2.1TXT-1920x1080-f0b880feb0428b5fe0702a46408107ce.png",
+      "md5": "f0b880feb0428b5fe0702a46408107ce",
+      "size": 843358,
+      "uploadedDate": "2024-05-27T23:40:26.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCren1.2.1Ran-1920x1080-f8e3616f564f27f358182a31de253322.png",
+      "md5": "f8e3616f564f27f358182a31de253322",
+      "size": 1599624,
+      "uploadedDate": "2024-05-27T23:40:26.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AmbientEffectsPack_thumb-284x284-a750371144a6b7a71573846555073473.png",
+      "md5": "a750371144a6b7a71573846555073473",
+      "size": 172816,
+      "uploadedDate": "2024-05-27T23:40:27.332Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AmbientEffectsPack_featured-894x488-90b66d9b2544b35a01367e205a113db2.png",
+      "md5": "90b66d9b2544b35a01367e205a113db2",
+      "size": 858657,
+      "uploadedDate": "2024-05-27T23:40:27.482Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PVr1-1920x1080-644f63b3ef5e2919c656bf5474d1cf7e_Snapshot.png",
+      "md5": "e05c0987f071bf99ed6db25e33a43e35",
+      "size": 7060,
+      "uploadedDate": "2024-05-27T23:40:24.753Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCrenTXT-1920x1080-fd934682e10ed29da8e05803af1601cb_Snapshot.png",
+      "md5": "9ee4d84245cb3bdaf6846e26d0505e71",
+      "size": 7131,
+      "uploadedDate": "2024-05-27T23:40:25.117Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCrenBF-1920x1080-cd00c2f693c2e23ccefbadf992d1af02_Snapshot.png",
+      "md5": "0df4bce387a6ee6b5f0de6070ff7bd66",
+      "size": 4644,
+      "uploadedDate": "2024-05-27T23:40:25.644Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCren1.2.1Leavess-1920x1080-9c8da7bedf33d8a2731e0fdce13e3b91_Snapshot.png",
+      "md5": "60e113e1d65acdc0c6ac632ba7bcef5c",
+      "size": 4576,
+      "uploadedDate": "2024-05-27T23:40:26.137Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCren1.2.1TXT-1920x1080-f0b880feb0428b5fe0702a46408107ce_Snapshot.png",
+      "md5": "b5eee237fa31fbb3c732d5775d6d55ea",
+      "size": 3996,
+      "uploadedDate": "2024-05-27T23:40:26.633Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCren1.2.1Ran-1920x1080-f8e3616f564f27f358182a31de253322_Snapshot.png",
+      "md5": "059c04d9589f8423560aede70c0f1457",
+      "size": 4530,
+      "uploadedDate": "2024-05-27T23:40:27.231Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c643d53aee024c01b2cb5a4cdc4a4067"
+    }
+  ],
+  "catalogNs": null
+}

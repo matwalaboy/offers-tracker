@@ -1,0 +1,150 @@
+{
+  "id": "f288aaf575f648d794d971ca8cb1885c",
+  "namespace": "ue",
+  "title": "Extra Win Function",
+  "description": "Extra Win Function",
+  "longDescription": "<p>You can use This Plugin to Get And Set Computer Information like - Check the Internet Connection from your computer, Set the Computer Sound Level, etc</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "extra-win-function",
+  "creationDate": "2024-06-18T01:08:28.599Z",
+  "lastModifiedDate": "2024-09-27T07:56:05.655Z",
+  "effectiveDate": "2024-06-18T01:08:28.576Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-rynqwbuds7nwfdmr2sznmhbkp86bw9",
+    "name": "Gdy Developer"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>Features:</p><ol><li>CheckInternetConnection</li><li>GetDevicePlatform</li><li>GetRamSize</li><li>GetProcessorCoreCount</li><li>IsBatterySupported</li><li>IsBatteryCharging</li><li>GetComputerUsername</li><li>GetDeviceName</li><li>IsMicrophoneAvailable</li><li>IsSpeakerAvailable</li><li>GetPrimaryGraphicsCardName</li><li>IsMouseAvailable</li><li>IsGraphicsCardAvailable</li><li>GetComputerSoundLevel</li><li>GetProcessorThreadCount</li><li>OpenDirectory</li><li>GetAllSpeakerNames</li><li>ShowMessageBox</li><li>CreateDirectory</li><li>GetAllGraphicsCardNames</li><li>GetDefaultSoundDeviceName</li><li>GetAllMicrophoneNames</li><li>GetDefaultMicrophoneName</li><li>GetTotalMouseButtonCount</li><li>GetDisplayRefreshRate</li><li>GetGraphicsCardRAMSize</li><li>DeleteDirectory</li><li>SetComputerSoundLevel</li><li>SetMicrophoneVolume</li><li>GetMicrophoneVolume</li><li>MuteMicrophoneVolume</li><li>MuteComputerSound</li></ol><p><br /></p><p>Code Modules:</p><ul><li> Extra_Win_Function [Runtime]</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 32</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: (&#34;Win64&#34;)</p><p>Supported Target Build Platforms: (&#34;Win64&#34;)</p><p>DocsURL: <a href=\"https://gdydevelopment.blogspot.com/2024/05/extra-win-function.html\" rel=\"nofollow\">Doc</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "dbf64b8c-4d92-400f-ab8f-a60f5f7c4d83"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Photo-1920x1080-49aec8a119eb24eeb83cb2b29b25061f.png",
+      "md5": "49aec8a119eb24eeb83cb2b29b25061f",
+      "size": 711733,
+      "uploadedDate": "2024-05-22T00:15:24.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WindowsExtraFunction_thumb-284x284-583657265de0c42f5e51a86b04d0c6d4.png",
+      "md5": "583657265de0c42f5e51a86b04d0c6d4",
+      "size": 82698,
+      "uploadedDate": "2024-05-22T00:15:25.219Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WindowsExtraFunction_featured-894x488-4000f5e49a867d62d38e741187226c97.png",
+      "md5": "4000f5e49a867d62d38e741187226c97",
+      "size": 333170,
+      "uploadedDate": "2024-05-22T00:15:25.448Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Photo-1920x1080-49aec8a119eb24eeb83cb2b29b25061f_Snapshot.png",
+      "md5": "9901f0c86e362530aba344d4de752542",
+      "size": 6708,
+      "uploadedDate": "2024-05-22T00:15:25.179Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cc8350dc4ff74825bb5765a14612dd42"
+    }
+  ],
+  "catalogNs": null
+}

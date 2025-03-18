@@ -1,0 +1,380 @@
+{
+  "id": "1ede21ccbe914c29a8202cd7ec340b51",
+  "namespace": "ue",
+  "title": "Japanese Style Minka House",
+  "description": "Japanese Style Minka House",
+  "longDescription": "<p>Japanese Style Minka House with Blueprints and Audio</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "japanese-style-minka-house",
+  "creationDate": "2023-03-03T21:59:26.137Z",
+  "lastModifiedDate": "2024-09-30T04:58:28.167Z",
+  "effectiveDate": "2023-03-03T21:59:26.091Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5vrbywtlfbzfpf3tc8ga6xzg9gjt4l",
+    "name": "Black Eye Creations"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> PBR Materials</li><li> Blueprints</li><li> Audio</li></ul><p>Number of Unique Meshes: 40 Meshes</p><p>Collision: Yes: Custom Complex Collision</p><p>LODs: No</p><p>Number of Materials and Material Instances: 6 Materials and 8 Material Instances</p><p>Number of Textures: 32 Textures</p><p>Texture Resolutions: 4096x4096</p><p>Audio Cues: 3 Audio Cues </p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Documentation: Link https://drive.google.com/file/d/1v18xpopx5m0nkyOWWn0p7ZiFGy3UCi8g/view?usp&#61;share_link</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1195",
+      "name": "SKIING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:55.245Z",
+      "updated": "2019-06-20T11:59:55.245Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ce53d3ad-4ed1-45bf-b850-aad171ba8752"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture.JPG-1920x1080-b85d66784012fa1efbbab00836f3abd9.jpg",
+      "md5": "b85d66784012fa1efbbab00836f3abd9",
+      "size": 133215,
+      "uploadedDate": "2023-02-27T02:58:14.243Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture1.JPG-1920x1080-19f744392709959e87b9014e82611300.jpg",
+      "md5": "19f744392709959e87b9014e82611300",
+      "size": 115015,
+      "uploadedDate": "2023-02-27T02:58:14.647Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture2.JPG-1920x1080-8efe340722bcd13d43f5509ccbea71fb.jpg",
+      "md5": "8efe340722bcd13d43f5509ccbea71fb",
+      "size": 127206,
+      "uploadedDate": "2023-02-27T02:58:14.949Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture3.JPG-1920x1080-1f05a786490e2a0129a59571bc138b3e.jpg",
+      "md5": "1f05a786490e2a0129a59571bc138b3e",
+      "size": 119849,
+      "uploadedDate": "2023-02-27T02:58:15.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture4.JPG-1920x1080-518b249b07c843fa07d0b2343258c984.jpg",
+      "md5": "518b249b07c843fa07d0b2343258c984",
+      "size": 192732,
+      "uploadedDate": "2023-02-27T02:58:15.625Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture5.JPG-1920x1080-e5c9b0130cc52fcce58577d925f9faba.jpg",
+      "md5": "e5c9b0130cc52fcce58577d925f9faba",
+      "size": 174409,
+      "uploadedDate": "2023-02-27T02:58:15.943Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture6.JPG-1920x1080-bc4516edcbd1d06dacfdc3164fb5654d.jpg",
+      "md5": "bc4516edcbd1d06dacfdc3164fb5654d",
+      "size": 215702,
+      "uploadedDate": "2023-02-27T02:58:16.266Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture7.JPG-1920x1080-c010d3392674e3c637890f38c55553b1.jpg",
+      "md5": "c010d3392674e3c637890f38c55553b1",
+      "size": 260088,
+      "uploadedDate": "2023-02-27T02:58:16.674Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture8.JPG-1920x1080-16cb6dd0cd3e7d30f13fc41cee87bf7b.jpg",
+      "md5": "16cb6dd0cd3e7d30f13fc41cee87bf7b",
+      "size": 136732,
+      "uploadedDate": "2023-02-27T02:58:17.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture9.JPG-1920x1080-15c330c293df72b4dcf038c8be3dde7a.jpg",
+      "md5": "15c330c293df72b4dcf038c8be3dde7a",
+      "size": 137540,
+      "uploadedDate": "2023-02-27T02:58:17.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Capture10.JPG-1920x1080-a5b4f2cea7a09027e5ada87f4340e50b.jpg",
+      "md5": "a5b4f2cea7a09027e5ada87f4340e50b",
+      "size": 131385,
+      "uploadedDate": "2023-02-27T02:58:17.848Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/House 11.JPG-1920x1080-b5890815bc420891a8c24711f8b6c7eb.jpg",
+      "md5": "b5890815bc420891a8c24711f8b6c7eb",
+      "size": 135359,
+      "uploadedDate": "2024-01-01T05:46:40.725Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/House 11.JPG-1920x1080-b5890815bc420891a8c24711f8b6c7eb_Snapshot.jpg",
+      "md5": "3db6d53da9170b2f9a129c3fa8fb4f02",
+      "size": 5353,
+      "uploadedDate": "2024-01-01T05:46:40.955Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JapaneseStyleMinkaHouse_thumb-284x284-040b1b4fc91556d24054fdce3f0d4a30.png",
+      "md5": "040b1b4fc91556d24054fdce3f0d4a30",
+      "size": 107535,
+      "uploadedDate": "2023-02-27T02:58:18.103Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/JapaneseStyleMinkaHouse_featured-894x488-9a68f4849e101893864cc5c468af87d0.png",
+      "md5": "9a68f4849e101893864cc5c468af87d0",
+      "size": 378446,
+      "uploadedDate": "2023-02-27T02:58:18.208Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture.JPG-1920x1080-b85d66784012fa1efbbab00836f3abd9_Snapshot.jpg",
+      "md5": "94524466e951be440d7f5537ccbbb6aa",
+      "size": 5922,
+      "uploadedDate": "2023-02-27T02:58:14.580Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture1.JPG-1920x1080-19f744392709959e87b9014e82611300_Snapshot.jpg",
+      "md5": "ab1c58923a4d7adfececb748e77b127d",
+      "size": 5143,
+      "uploadedDate": "2023-02-27T02:58:14.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture2.JPG-1920x1080-8efe340722bcd13d43f5509ccbea71fb_Snapshot.jpg",
+      "md5": "f93020c719ef9a9ae675d66159bb9d7e",
+      "size": 5617,
+      "uploadedDate": "2023-02-27T02:58:15.164Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture3.JPG-1920x1080-1f05a786490e2a0129a59571bc138b3e_Snapshot.jpg",
+      "md5": "0b60b5da685d30673071dce71989cab9",
+      "size": 5225,
+      "uploadedDate": "2023-02-27T02:58:15.438Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture4.JPG-1920x1080-518b249b07c843fa07d0b2343258c984_Snapshot.jpg",
+      "md5": "60b26748053e812493a6490848fa1d3d",
+      "size": 6424,
+      "uploadedDate": "2023-02-27T02:58:15.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture5.JPG-1920x1080-e5c9b0130cc52fcce58577d925f9faba_Snapshot.jpg",
+      "md5": "eef8087399fb75a7903d470ae0f454e6",
+      "size": 6768,
+      "uploadedDate": "2023-02-27T02:58:16.157Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture6.JPG-1920x1080-bc4516edcbd1d06dacfdc3164fb5654d_Snapshot.jpg",
+      "md5": "60a3819e12fc68c0a1dcc22d8b30bf57",
+      "size": 8310,
+      "uploadedDate": "2023-02-27T02:58:16.486Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture7.JPG-1920x1080-c010d3392674e3c637890f38c55553b1_Snapshot.jpg",
+      "md5": "ffafc0b88b614b43d44773f16d197818",
+      "size": 9666,
+      "uploadedDate": "2023-02-27T02:58:16.920Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture8.JPG-1920x1080-16cb6dd0cd3e7d30f13fc41cee87bf7b_Snapshot.jpg",
+      "md5": "feb4df26080d224496f80cb641900c9c",
+      "size": 6279,
+      "uploadedDate": "2023-02-27T02:58:17.323Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture9.JPG-1920x1080-15c330c293df72b4dcf038c8be3dde7a_Snapshot.jpg",
+      "md5": "d92d295c7131e92eab393450d3b354a5",
+      "size": 5032,
+      "uploadedDate": "2023-02-27T02:58:17.775Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Capture10.JPG-1920x1080-a5b4f2cea7a09027e5ada87f4340e50b_Snapshot.jpg",
+      "md5": "6aab304cacdae097929b60acdfa11c00",
+      "size": 4860,
+      "uploadedDate": "2023-02-27T02:58:18.056Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9611e535875c43b99452fe8a013058e4"
+    }
+  ],
+  "catalogNs": null
+}

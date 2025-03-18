@@ -1,0 +1,242 @@
+{
+  "id": "28cb9334e9994f31aa72128c7e9fe1d1",
+  "namespace": "ue",
+  "title": "Synthwave City Backgrounds",
+  "description": "Welcome to Synthwave City! Enjoy its amazing and mesmerizing views!",
+  "longDescription": "<p>We are pleased to offer you a set of 103 excellent images of cityscapes in the style of synthwave - this is a great help for those who are developing a game with a city theme. The set presents various angles - central squares, views of the city from apartment windows, apartment interiors, landscapes with water bodies, vegetation, etc.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "synthwave-city-backgrounds",
+  "creationDate": "2024-01-19T14:51:07.474Z",
+  "lastModifiedDate": "2024-09-27T15:43:32.201Z",
+  "effectiveDate": "2024-01-19T14:51:07.440Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Textures: 103</p><p>Texture Resolutions: 1024 x 1024 px</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>AI Software: Playground AI.</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a5a14e95-2d31-454f-b310-dab0cf59eee0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo-1920x1080-f23c3dc0487df508c269b86c1ae2e060.jpg",
+      "md5": "f23c3dc0487df508c269b86c1ae2e060",
+      "size": 1862748,
+      "uploadedDate": "2024-01-17T16:20:47.495Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo2-1920x1080-e8e11b50d9064b2af3730bab32d3db36.jpg",
+      "md5": "e8e11b50d9064b2af3730bab32d3db36",
+      "size": 1544666,
+      "uploadedDate": "2024-01-17T16:20:48.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo3-1920x1080-a7d9fa2c9172cf4335f417f85d947c90.jpg",
+      "md5": "a7d9fa2c9172cf4335f417f85d947c90",
+      "size": 1872785,
+      "uploadedDate": "2024-01-17T16:20:49.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo4-1920x1080-0d351f3ac56974289fa0c28a247351ee.jpg",
+      "md5": "0d351f3ac56974289fa0c28a247351ee",
+      "size": 2109919,
+      "uploadedDate": "2024-01-17T16:20:50.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo5-1920x1080-d7f703256db443cc136812fe7c397a91.jpg",
+      "md5": "d7f703256db443cc136812fe7c397a91",
+      "size": 1952446,
+      "uploadedDate": "2024-01-17T16:20:51.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SynthwaveCityBackgrounds_thumb-284x284-a83431eecbced32bd7ff9c5675d6bbc5.png",
+      "md5": "a83431eecbced32bd7ff9c5675d6bbc5",
+      "size": 191410,
+      "uploadedDate": "2024-01-18T15:45:38.423Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SynthwaveCityBackgrounds_featured-894x488-b8f5ebcc3605f54a892ce27f8cc4a58b.png",
+      "md5": "b8f5ebcc3605f54a892ce27f8cc4a58b",
+      "size": 1039058,
+      "uploadedDate": "2024-01-17T16:20:52.716Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo-1920x1080-f23c3dc0487df508c269b86c1ae2e060_Snapshot.jpg",
+      "md5": "55211cddf609df2400b1d93d5b1fa8ec",
+      "size": 8557,
+      "uploadedDate": "2024-01-17T16:20:48.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo2-1920x1080-e8e11b50d9064b2af3730bab32d3db36_Snapshot.jpg",
+      "md5": "a2690cf60d6232651dbdf8ff0a22e331",
+      "size": 7560,
+      "uploadedDate": "2024-01-17T16:20:49.206Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo3-1920x1080-a7d9fa2c9172cf4335f417f85d947c90_Snapshot.jpg",
+      "md5": "26076a8ba3bbbfbeb9d3ce6f8f33f68c",
+      "size": 8561,
+      "uploadedDate": "2024-01-17T16:20:50.209Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo4-1920x1080-0d351f3ac56974289fa0c28a247351ee_Snapshot.jpg",
+      "md5": "c7340a31129ac196e30aaf787d2c1f41",
+      "size": 8820,
+      "uploadedDate": "2024-01-17T16:20:51.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo5-1920x1080-d7f703256db443cc136812fe7c397a91_Snapshot.jpg",
+      "md5": "16dbc938ae66be2dbde2fb1ce7683fa2",
+      "size": 7944,
+      "uploadedDate": "2024-01-17T16:20:52.341Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "28c1d7dbda4b4fe88a65f69d46713d98"
+    }
+  ],
+  "catalogNs": null
+}

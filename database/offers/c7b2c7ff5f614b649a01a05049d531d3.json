@@ -1,0 +1,248 @@
+{
+  "id": "c7b2c7ff5f614b649a01a05049d531d3",
+  "namespace": "ue",
+  "title": "NHC - BlockWorld Background",
+  "description": "The pack includes 111 different blockworld background pictures",
+  "longDescription": "<p>The pack consists of 111 different images, which include of different blockworld background pictures that can organically fit into any mobile project, game, website or product design.</p><p><br /></p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-blockworld-background",
+  "creationDate": "2024-03-10T14:43:42.424Z",
+  "lastModifiedDate": "2024-09-26T18:16:43.141Z",
+  "effectiveDate": "2024-03-10T14:43:42.390Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p><br /></p><p>Number of Textures: 111</p><p>1024 px - 111 textures</p><p><br /></p><p>Texture Resolutions:1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1237",
+      "name": "STORY RICH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.304Z",
+      "updated": "2023-08-01T18:12:20.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 157,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b4698261-32c5-4f81-ad85-56c06133b907"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide 3-1920x1080-6a6a2d3daa0481e17cb153d376a0d011.jpg",
+      "md5": "6a6a2d3daa0481e17cb153d376a0d011",
+      "size": 206745,
+      "uploadedDate": "2024-03-07T23:41:15.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide 2-1920x1080-d1d48c14ac1fd9ab9dece0f2af2d0514.jpg",
+      "md5": "d1d48c14ac1fd9ab9dece0f2af2d0514",
+      "size": 207765,
+      "uploadedDate": "2024-03-07T23:41:16.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide-1920x1080-f3939e42d514e3f593042918dc9ee4b0.jpg",
+      "md5": "f3939e42d514e3f593042918dc9ee4b0",
+      "size": 311557,
+      "uploadedDate": "2024-03-07T23:41:16.572Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide 1-1920x1080-82cba03912ab38d12a34739b573fabbe.jpg",
+      "md5": "82cba03912ab38d12a34739b573fabbe",
+      "size": 317002,
+      "uploadedDate": "2024-03-07T23:41:17.164Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCBlockWorldBackground_thumb-284x284-b0087506e54b5a00a1b1eabbd4ce95ce.png",
+      "md5": "b0087506e54b5a00a1b1eabbd4ce95ce",
+      "size": 172536,
+      "uploadedDate": "2024-03-07T23:41:17.660Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCBlockWorldBackground_featured-894x488-c0e7981e98c4fef042e1c058f1851051.png",
+      "md5": "c0e7981e98c4fef042e1c058f1851051",
+      "size": 726485,
+      "uploadedDate": "2024-03-07T23:41:17.863Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide 3-1920x1080-6a6a2d3daa0481e17cb153d376a0d011_Snapshot.jpg",
+      "md5": "9fc1a2f9847e08253ec153e93896d193",
+      "size": 6746,
+      "uploadedDate": "2024-03-07T23:41:15.922Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide 2-1920x1080-d1d48c14ac1fd9ab9dece0f2af2d0514_Snapshot.jpg",
+      "md5": "8a135112a2bf770f6418af17f1570b74",
+      "size": 8693,
+      "uploadedDate": "2024-03-07T23:41:16.398Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide-1920x1080-f3939e42d514e3f593042918dc9ee4b0_Snapshot.jpg",
+      "md5": "dec6566d5615bcf6b3bcd865bdf1d0e7",
+      "size": 9288,
+      "uploadedDate": "2024-03-07T23:41:16.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide 1-1920x1080-82cba03912ab38d12a34739b573fabbe_Snapshot.jpg",
+      "md5": "dc0427eab92dda289049f990238470bd",
+      "size": 9173,
+      "uploadedDate": "2024-03-07T23:41:17.489Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "40f55e6f550247ecb707367d9f4c1f40"
+    }
+  ],
+  "catalogNs": null
+}

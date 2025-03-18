@@ -1,0 +1,341 @@
+{
+  "id": "ba1ea8baec5a45c3ae990714586cc771",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Castle",
+  "description": "Modular assets suited for designing Castle buildings and interiors",
+  "longDescription": "<p>Level Design: <a href=\"https://youtu.be/t5bbhjJbhcU\" rel=\"nofollow\">https://youtu.be/t5bbhjJbhcU</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>Modular assets suited for designing Castle buildings and interiors. Includes basic vegetation for populating the exterior, if desired, and props for interior decoration as well.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-castle",
+  "creationDate": "2017-12-08T21:22:49.776Z",
+  "lastModifiedDate": "2024-09-29T23:11:53.080Z",
+  "effectiveDate": "2017-12-08T21:22:49.621Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Walls</li><li>Floors</li><li>Props</li><li>Basic Nature Set</li></ul><p>Texture Size: All 2048x2048</p><p>Number of Textures: 3 (all used in the Grass and Ground Plants)</p><p>Collision: Yes, Per-Poly Collisions</p><p>Vertex Count: 8 to 5898</p><p>LODs: 0</p><p>Number of Meshes: 177</p><p>Number of Materials and Material Instances: 5 Master Materials, 25 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "de3f4f92-30be-4e5d-bf42-5e96cc8ba93f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_01-1920x1080-f4ff9e88d77a3d6b5aad18d56be14570.png",
+      "md5": "f4ff9e88d77a3d6b5aad18d56be14570",
+      "size": 354872,
+      "uploadedDate": "2017-12-07T14:17:26.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_02-1920x1080-5054e16ba7d1042257249a8e670e9517.png",
+      "md5": "5054e16ba7d1042257249a8e670e9517",
+      "size": 619053,
+      "uploadedDate": "2017-12-07T14:17:26.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_03-1920x1080-54284b52e1b623f501a57acd7c7b16c0.png",
+      "md5": "54284b52e1b623f501a57acd7c7b16c0",
+      "size": 684811,
+      "uploadedDate": "2017-12-07T14:17:26.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_04-1920x1080-9af562d67fbd7e64545dd8d75d61f46b.png",
+      "md5": "9af562d67fbd7e64545dd8d75d61f46b",
+      "size": 610532,
+      "uploadedDate": "2017-12-07T14:17:26.784Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_05-1920x1080-12a5638295901d99bd56106f275c6aea.png",
+      "md5": "12a5638295901d99bd56106f275c6aea",
+      "size": 495511,
+      "uploadedDate": "2017-12-07T14:17:26.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_06-1920x1080-9fcdfda11a5cd1e7df1f5c9703487680.png",
+      "md5": "9fcdfda11a5cd1e7df1f5c9703487680",
+      "size": 650546,
+      "uploadedDate": "2017-12-07T14:17:26.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_07-1920x1080-4f7a14b3d94c92cdbdbdf51266dfa3b7.png",
+      "md5": "4f7a14b3d94c92cdbdbdf51266dfa3b7",
+      "size": 738620,
+      "uploadedDate": "2017-12-07T14:17:27.138Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_08-1920x1080-3e44276f8384d90b8f62eac25f6663fc.png",
+      "md5": "3e44276f8384d90b8f62eac25f6663fc",
+      "size": 844486,
+      "uploadedDate": "2017-12-07T14:17:27.241Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_09-1920x1080-da1b5eb7ce6833efb99136f2214e55c4.png",
+      "md5": "da1b5eb7ce6833efb99136f2214e55c4",
+      "size": 840707,
+      "uploadedDate": "2017-12-07T14:17:27.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_10-1920x1080-0eb81049ee85ab103261a0145d135111.png",
+      "md5": "0eb81049ee85ab103261a0145d135111",
+      "size": 434158,
+      "uploadedDate": "2017-12-07T14:17:27.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_11-1920x1080-cdf54caf1f50d8468f7da4b79e52b7ce.png",
+      "md5": "cdf54caf1f50d8468f7da4b79e52b7ce",
+      "size": 434116,
+      "uploadedDate": "2017-12-07T14:17:27.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_12-1920x1080-2b76f35b071ea6406702369556770d61.png",
+      "md5": "2b76f35b071ea6406702369556770d61",
+      "size": 436393,
+      "uploadedDate": "2017-12-07T14:17:27.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_13-1920x1080-d0af867bf414241410144455568f970e.png",
+      "md5": "d0af867bf414241410144455568f970e",
+      "size": 361557,
+      "uploadedDate": "2017-12-07T14:17:27.954Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_14-1920x1080-84e08426947633f4d2c17067b3b55556.png",
+      "md5": "84e08426947633f4d2c17067b3b55556",
+      "size": 387781,
+      "uploadedDate": "2017-12-07T14:17:28.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_15-1920x1080-9ceac27cbf52f2773227133de1657880.png",
+      "md5": "9ceac27cbf52f2773227133de1657880",
+      "size": 377223,
+      "uploadedDate": "2017-12-07T14:17:28.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_16-1920x1080-f420865d29573c2112345bb411a3eeb3.png",
+      "md5": "f420865d29573c2112345bb411a3eeb3",
+      "size": 423675,
+      "uploadedDate": "2017-12-07T14:17:28.192Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_17-1920x1080-d5e6c97ead6f9c03bf4ea37068ae3347.png",
+      "md5": "d5e6c97ead6f9c03bf4ea37068ae3347",
+      "size": 448995,
+      "uploadedDate": "2017-12-07T14:17:28.272Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_18-1920x1080-fd2f6d1a75c48e289f698fed586d81e5.png",
+      "md5": "fd2f6d1a75c48e289f698fed586d81e5",
+      "size": 605547,
+      "uploadedDate": "2017-12-07T14:17:28.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_19-1920x1080-d71a0cf932ee85c012e8dc3f6020c081.png",
+      "md5": "d71a0cf932ee85c012e8dc3f6020c081",
+      "size": 482219,
+      "uploadedDate": "2017-12-07T14:17:28.503Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_20-1920x1080-9e09dfd8469ae45e9b24100b7704757c.png",
+      "md5": "9e09dfd8469ae45e9b24100b7704757c",
+      "size": 492058,
+      "uploadedDate": "2017-12-07T14:17:28.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyCastle_Screenshot_21-1920x1080-6c781635d200ec4cb5fb65f5ffeaa6a6.png",
+      "md5": "6c781635d200ec4cb5fb65f5ffeaa6a6",
+      "size": 681438,
+      "uploadedDate": "2017-12-07T14:17:28.799Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OlbertsLowPolyCastle_thumb-284x284-569898df91ca38ca588a0f8ff21e8202.png",
+      "md5": "569898df91ca38ca588a0f8ff21e8202",
+      "size": 164368,
+      "uploadedDate": "2017-12-07T14:17:28.886Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OlbertsLowPolyCastle_featured-894x488-d956aef4c4bcf6605daab03e0e7c8992.png",
+      "md5": "d956aef4c4bcf6605daab03e0e7c8992",
+      "size": 827398,
+      "uploadedDate": "2017-12-07T14:17:29.013Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "2bdfa31e1b854a0583338e60a2d0a343"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,476 @@
+{
+  "id": "ceeef48c46c24e27863bad749b0014b2",
+  "namespace": "ue",
+  "title": "229 Set of Steel and Magic Arms",
+  "description": "A comprehensive set of 229 Set of Steel and Magic Arms",
+  "longDescription": "<p>Introducing a comprehensive set of cold and magical weapons for Unreal Engine 5, meticulously crafted to enhance your RPG and fantasy game environments. This set includes an array of deadly and enchanting weapons such as halberds, sabers, axes, and more. </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "229-set-of-steel-and-magic-arms",
+  "creationDate": "2024-07-21T13:09:39.926Z",
+  "lastModifiedDate": "2024-09-26T14:24:42.533Z",
+  "effectiveDate": "2024-07-21T13:09:39.895Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-yvezd6nxzw4psg6kf2khqr2dllcccz",
+    "name": "Capybarasmomstore"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Transparent background, magical and melee weapons of various colors and types.</p><p>Number of Textures: 229</p><p>Texture Resolutions: 1024х1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0ef2a4af-d1e0-42c1-b804-cdc7bd673597"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010801-1920x1080-c1c2b63c51baff2d871f017cfd426a71.png",
+      "md5": "c1c2b63c51baff2d871f017cfd426a71",
+      "size": 171407,
+      "uploadedDate": "2024-07-18T09:00:12.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010801magic-1920x1080-41bbc5e980254b12d8aeac1e9d35ff73.png",
+      "md5": "41bbc5e980254b12d8aeac1e9d35ff73",
+      "size": 278819,
+      "uploadedDate": "2024-07-18T09:00:13.035Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010802-1920x1080-7526713c3bc5f552266aa84a3a01bb63.png",
+      "md5": "7526713c3bc5f552266aa84a3a01bb63",
+      "size": 298205,
+      "uploadedDate": "2024-07-18T09:00:13.281Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010802magic-1920x1080-63a0d479e94181cac85d564df25c016e.png",
+      "md5": "63a0d479e94181cac85d564df25c016e",
+      "size": 280675,
+      "uploadedDate": "2024-07-18T09:00:13.461Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010803-1920x1080-24bafafa762bf308e86195da4b962249.png",
+      "md5": "24bafafa762bf308e86195da4b962249",
+      "size": 165247,
+      "uploadedDate": "2024-07-18T09:00:13.740Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010803magic-1920x1080-c9b81f7c7e92101b1a7e67a14e78d2c0.png",
+      "md5": "c9b81f7c7e92101b1a7e67a14e78d2c0",
+      "size": 227250,
+      "uploadedDate": "2024-07-18T09:00:13.918Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010804-1920x1080-ec7657c31c8a2a50e8ab647ed55fdca4.png",
+      "md5": "ec7657c31c8a2a50e8ab647ed55fdca4",
+      "size": 172937,
+      "uploadedDate": "2024-07-18T09:00:14.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010804magic-1920x1080-4ac35ff65dc4118e222d0eab8f587126.png",
+      "md5": "4ac35ff65dc4118e222d0eab8f587126",
+      "size": 299303,
+      "uploadedDate": "2024-07-18T09:00:14.326Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010805-1920x1080-4a323fc27a1ddf2dc22a023302ffb68f.png",
+      "md5": "4a323fc27a1ddf2dc22a023302ffb68f",
+      "size": 275139,
+      "uploadedDate": "2024-07-18T09:00:14.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010805magic-1920x1080-09f551fdbabd5c0f9c8af3359a4e9588.png",
+      "md5": "09f551fdbabd5c0f9c8af3359a4e9588",
+      "size": 178334,
+      "uploadedDate": "2024-07-18T09:00:14.799Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010806-1920x1080-674c97eb53ed9edead38498039334765.png",
+      "md5": "674c97eb53ed9edead38498039334765",
+      "size": 203297,
+      "uploadedDate": "2024-07-18T09:00:15.071Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010806magic-1920x1080-30c9c87b67c519be05ada3555255c066.png",
+      "md5": "30c9c87b67c519be05ada3555255c066",
+      "size": 234607,
+      "uploadedDate": "2024-07-18T09:00:15.409Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010807-1920x1080-9894d7e65f86e89334983b5722d1177f.png",
+      "md5": "9894d7e65f86e89334983b5722d1177f",
+      "size": 199185,
+      "uploadedDate": "2024-07-18T09:00:15.646Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010807magic-1920x1080-018fbca81a4455adb4320d7aa0729c44.png",
+      "md5": "018fbca81a4455adb4320d7aa0729c44",
+      "size": 286778,
+      "uploadedDate": "2024-07-18T09:00:15.843Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010808-1920x1080-74169ca391930282f68fdda131942f0f.png",
+      "md5": "74169ca391930282f68fdda131942f0f",
+      "size": 329469,
+      "uploadedDate": "2024-07-18T09:00:16.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010808magic-1920x1080-c79126fc6e877e9467ec2f1686d400e2.png",
+      "md5": "c79126fc6e877e9467ec2f1686d400e2",
+      "size": 150621,
+      "uploadedDate": "2024-07-18T09:00:16.280Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/229SetofSteelandMagicArms_thumb-284x284-3e891d12df763533fd1a772693c33dd4.png",
+      "md5": "3e891d12df763533fd1a772693c33dd4",
+      "size": 66903,
+      "uploadedDate": "2024-07-18T09:00:16.409Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/229SetofSteelandMagicArms_featured-894x488-225b0bbe569d7fa893f2ef1502d25cab.png",
+      "md5": "225b0bbe569d7fa893f2ef1502d25cab",
+      "size": 283318,
+      "uploadedDate": "2024-07-18T09:00:16.623Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010801-1920x1080-c1c2b63c51baff2d871f017cfd426a71_Snapshot.png",
+      "md5": "d64552b49802b118ec946b768df5ad09",
+      "size": 5993,
+      "uploadedDate": "2024-07-18T09:00:12.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010801magic-1920x1080-41bbc5e980254b12d8aeac1e9d35ff73_Snapshot.png",
+      "md5": "7124ffe344650bbe09b99f22f0dc8263",
+      "size": 7032,
+      "uploadedDate": "2024-07-18T09:00:13.113Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010802-1920x1080-7526713c3bc5f552266aa84a3a01bb63_Snapshot.png",
+      "md5": "a771e24a227e8689dcf149223d3867cf",
+      "size": 6625,
+      "uploadedDate": "2024-07-18T09:00:13.361Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010802magic-1920x1080-63a0d479e94181cac85d564df25c016e_Snapshot.png",
+      "md5": "4100383de9555c8cc31a6a14a47eafdd",
+      "size": 7570,
+      "uploadedDate": "2024-07-18T09:00:13.544Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010803-1920x1080-24bafafa762bf308e86195da4b962249_Snapshot.png",
+      "md5": "b08413121eae91f61f51e00a50715c23",
+      "size": 5153,
+      "uploadedDate": "2024-07-18T09:00:13.811Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010803magic-1920x1080-c9b81f7c7e92101b1a7e67a14e78d2c0_Snapshot.png",
+      "md5": "2e832acca69cba1ffe190ad244f43a78",
+      "size": 6555,
+      "uploadedDate": "2024-07-18T09:00:13.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010804-1920x1080-ec7657c31c8a2a50e8ab647ed55fdca4_Snapshot.png",
+      "md5": "f6d09d98ce582532c0357ba76b06961d",
+      "size": 4929,
+      "uploadedDate": "2024-07-18T09:00:14.168Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010804magic-1920x1080-4ac35ff65dc4118e222d0eab8f587126_Snapshot.png",
+      "md5": "673be23e2dc89d94ec1c99a95b95e7e3",
+      "size": 7818,
+      "uploadedDate": "2024-07-18T09:00:14.403Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010805-1920x1080-4a323fc27a1ddf2dc22a023302ffb68f_Snapshot.png",
+      "md5": "4c67896a418c0f2a90b9cb62fe996cad",
+      "size": 5922,
+      "uploadedDate": "2024-07-18T09:00:14.611Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010805magic-1920x1080-09f551fdbabd5c0f9c8af3359a4e9588_Snapshot.png",
+      "md5": "537b1b77f81aac29207864b45104cd3f",
+      "size": 6977,
+      "uploadedDate": "2024-07-18T09:00:14.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010806-1920x1080-674c97eb53ed9edead38498039334765_Snapshot.png",
+      "md5": "2106880b090f6a9f10a6c1f7507f427b",
+      "size": 5300,
+      "uploadedDate": "2024-07-18T09:00:15.167Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010806magic-1920x1080-30c9c87b67c519be05ada3555255c066_Snapshot.png",
+      "md5": "5d5c07abd7ea10ca6ccf8b112497c44d",
+      "size": 7380,
+      "uploadedDate": "2024-07-18T09:00:15.505Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010807-1920x1080-9894d7e65f86e89334983b5722d1177f_Snapshot.png",
+      "md5": "a08dff30e3d07b2beab89ddc039461ed",
+      "size": 5503,
+      "uploadedDate": "2024-07-18T09:00:15.721Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010807magic-1920x1080-018fbca81a4455adb4320d7aa0729c44_Snapshot.png",
+      "md5": "1f6f4ba582bb4d888ae1d2eee830598c",
+      "size": 7628,
+      "uploadedDate": "2024-07-18T09:00:15.953Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010808-1920x1080-74169ca391930282f68fdda131942f0f_Snapshot.png",
+      "md5": "ac450092b948330bf66dac5e3586040b",
+      "size": 6809,
+      "uploadedDate": "2024-07-18T09:00:16.131Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010808magic-1920x1080-c79126fc6e877e9467ec2f1686d400e2_Snapshot.png",
+      "md5": "9c88f41041ba0a6a03c203bc1f2c2b14",
+      "size": 3415,
+      "uploadedDate": "2024-07-18T09:00:16.356Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "426e44fe69694605b849cfaf470bf612"
+    }
+  ],
+  "catalogNs": null
+}

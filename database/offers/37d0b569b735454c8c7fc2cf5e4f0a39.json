@@ -1,0 +1,284 @@
+{
+  "id": "37d0b569b735454c8c7fc2cf5e4f0a39",
+  "namespace": "ue",
+  "title": "Tile Movement Tool - customizable to your needs",
+  "description": "Tilebased movement in different directions. Supports also stopping and is customizable in used keys, tilesize, speed, or animations.",
+  "longDescription": "<p>Example Video: <a href=\"https://youtu.be/ypbr2JKuOt0?si&#61;LEM5zOLSIMwGXEO7\" rel=\"nofollow\">https://youtu.be/ypbr2JKuOt0?si&#61;LEM5zOLSIMwGXEO7</a></p><p><br /></p><p>Empower your characters with precise movement patterns using our Tile Movement Tool. Whether your character is exploring a vast world or navigating tight spaces, this tool provides seamless control over their movements.</p><p><br /></p><p>Key Features:</p><ul><li>Versatile Movement Patterns: Enable your characters to traverse across tiles in different directions with the ability to stop at any point. The distance between start and stop remains consistent, offering predictable and controlled motion.</li><li>Customizable Settings: Tailor the tool to suit your project&#39;s needs with adjustable tile size, movement speed, and animation preferences.</li><li>Customizable Controls: Adapt the movement controls to fit your gameplay mechanics seamlessly. Customize and redefine the directional keys according to your preferences, giving you full control over character navigation.</li><li>Universal Application: Compatible with any character or object in the Unreal Engine</li><li>Unlimited Customization: Incorporate your own characters, objects, and animations to create truly unique experiences.</li></ul><p><br /></p><p>Documentation for customizing: <a href=\"https://drive.google.com/file/d/1QsqO6VpCC84iFh_z1wIQi8Fav94XAiba/view?usp&#61;sharing\" rel=\"nofollow\">Tile Movement Tool - How to customize</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tile-movement-tool-customizable-to-your-needs",
+  "creationDate": "2024-05-11T04:40:55.577Z",
+  "lastModifiedDate": "2024-09-29T16:23:15.839Z",
+  "effectiveDate": "2024-05-11T04:40:55.518Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hlxzke5l3r47ekspft8mrbf58hvyvh",
+    "name": "IZUware"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> tilebased movement in up to different directions</li><li> supports stopping of the movement</li><li> customizable keys, tilesize, speed, or animations</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Input: Keyboard NumPad and Arrow Keys, but controls are fully customizable</p><p><br /></p><p>Important/Additional Notes: the mannequin of Unreal Engine, it&#39;s mesh, it&#39;s skeleton and animations are used for showing the tool</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "616624dd-6fb2-4b68-94bd-549384dca437"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-1d5b089a80f307bc1a90af16f302966e.png",
+      "md5": "1d5b089a80f307bc1a90af16f302966e",
+      "size": 1429863,
+      "uploadedDate": "2024-05-11T05:13:29.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-c82971bc72399d2179aa5578cfe75f0b.png",
+      "md5": "c82971bc72399d2179aa5578cfe75f0b",
+      "size": 1422277,
+      "uploadedDate": "2024-05-11T05:13:29.567Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-1c8b403e68708c67a9c4528a910b1985.png",
+      "md5": "1c8b403e68708c67a9c4528a910b1985",
+      "size": 373923,
+      "uploadedDate": "2024-05-06T22:24:20.379Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TileMovementTooleasilycustomizabletoyourneeds_thumb-284x284-79ddff42e8062de51da1d0ad74d1fc09.png",
+      "md5": "79ddff42e8062de51da1d0ad74d1fc09",
+      "size": 86105,
+      "uploadedDate": "2024-05-06T22:24:20.712Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TileMovementToolcustomizabletoyourneeds_featured-894x488-69bb409522150ffdb27b55ca1e8a2b08.png",
+      "md5": "69bb409522150ffdb27b55ca1e8a2b08",
+      "size": 481214,
+      "uploadedDate": "2024-05-11T05:14:23.341Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-1d5b089a80f307bc1a90af16f302966e_Snapshot.png",
+      "md5": "60b0d58ebc2dc1de45b1fc6479fdc084",
+      "size": 5239,
+      "uploadedDate": "2024-05-11T05:13:29.393Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-c82971bc72399d2179aa5578cfe75f0b_Snapshot.png",
+      "md5": "75a97ffbae0eac2c245e4ec1f2b0f44b",
+      "size": 5140,
+      "uploadedDate": "2024-05-11T05:13:29.908Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-b2222a35c9e9e216ea53f732692dbe96_Snapshot.png",
+      "md5": "b4c113bc9d394f73ad7ff0f05b239812",
+      "size": 4711,
+      "uploadedDate": "2024-05-06T22:24:19.600Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-2ccb45f68baac457c983d80b0003bea2_Snapshot.png",
+      "md5": "cd2746097b394ad62d01df6a755ddd69",
+      "size": 5155,
+      "uploadedDate": "2024-05-06T22:24:20.154Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-1c8b403e68708c67a9c4528a910b1985_Snapshot.png",
+      "md5": "8584b64ed79b173d09c3fed2dd065bae",
+      "size": 6657,
+      "uploadedDate": "2024-05-06T22:24:20.665Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a337097777b8484495094bba29eb01bf"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "7d429e007b1047d7be63ab1da5c56a23",
+  "namespace": "ue",
+  "title": "Fabric Material V8",
+  "description": "4k Fabric Material  V8 Pack / 4K resolution / Seamless / PBR Material / Tileable Texture",
+  "longDescription": "<h2>Fabric Material V8</h2><p><br /></p><ul><li>I would be very grateful if you rate the products you purchased with stars. I would like to correct my mistakes and produce better products. Your feedback is very valuable to me.</li><li>14 Fabric Material Material.</li><li>14 Pcs Parameters PBR Material</li><li>All materials have 4k resolution.</li><li>Tilable Material</li><li>All materials are prepared with substance.</li><li>Quality suitable for game, movie</li></ul><p><br /></p><p>Mega Metal Material Pack : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/mega-metal-material-pack\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/mega-metal-material-pack</a></p><p>Fabric Material V4 :<a href=\"https://www.unrealengine.com/marketplace/en-US/product/bf400d6f77ce453ca19d225a10d6ce27\" rel=\"nofollow\"> https://www.unrealengine.com/marketplace/en-US/product/bf400d6f77ce453ca19d225a10d6ce27</a></p><p>Realistic Fabric Material V4 : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/realistic-fabric-material-v4\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/realistic-fabric-material-v4</a></p><p>Fabric Material Pack : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/fabric-material-pack\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/fabric-material-pack</a></p><p>Fabric_Material_V3 : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v3\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v3</a></p><p>Fabric_Material_V2 : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v2\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v2</a></p><p>Fabric Material V7 : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v7\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/fabric-material-v7</a></p><p><br /></p><h1><br /></h1>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fabric-material-v8",
+  "creationDate": "2023-10-23T01:10:41.739Z",
+  "lastModifiedDate": "2024-09-30T08:03:02.490Z",
+  "effectiveDate": "2023-10-23T01:10:41.682Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5nmf2b8scqy43bruzlvn4t9sdn8huz",
+    "name": "Wanderlust"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Unique Materials and Material Instances: 14 Materials</p><p>Number of Textures: 69</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "Trivia",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2023-07-29T14:59:59.710Z",
+      "status": "ACTIVE",
+      "referenceCount": 96,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bbc27ada-774d-40c0-9241-80e4312eb238"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0000-1920x1080-53a4622b088fe65f8bed90ffb70a55e8.jpeg",
+      "md5": "53a4622b088fe65f8bed90ffb70a55e8",
+      "size": 1926217,
+      "uploadedDate": "2023-10-21T15:35:14.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0001-1920x1080-ce0984f26614c10d640afaf792e8fdc3.jpeg",
+      "md5": "ce0984f26614c10d640afaf792e8fdc3",
+      "size": 1869947,
+      "uploadedDate": "2023-10-21T15:35:14.717Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0002-1920x1080-e15162b3203ddd53605703dfc5f5c5c6.jpeg",
+      "md5": "e15162b3203ddd53605703dfc5f5c5c6",
+      "size": 2161505,
+      "uploadedDate": "2023-10-21T15:35:15.163Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0003-1920x1080-8a98e13fdaa6e1d824a6898e3eaaf142.jpeg",
+      "md5": "8a98e13fdaa6e1d824a6898e3eaaf142",
+      "size": 2010354,
+      "uploadedDate": "2023-10-21T15:35:15.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0012-1920x1080-b8fbcc2202fc47a3a6b4b080acdbe624.jpeg",
+      "md5": "b8fbcc2202fc47a3a6b4b080acdbe624",
+      "size": 1791913,
+      "uploadedDate": "2023-10-21T15:35:16.283Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0004-1920x1080-260c7ce17cc034c655507bf96be93f04.jpeg",
+      "md5": "260c7ce17cc034c655507bf96be93f04",
+      "size": 2341037,
+      "uploadedDate": "2023-10-21T15:35:16.933Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0005-1920x1080-f41c80c4a8a3db883ef39736d7ba5354.jpeg",
+      "md5": "f41c80c4a8a3db883ef39736d7ba5354",
+      "size": 2194309,
+      "uploadedDate": "2023-10-21T15:35:17.449Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0006-1920x1080-e366cc0c00ef8324ff79f1f91c185d69.jpeg",
+      "md5": "e366cc0c00ef8324ff79f1f91c185d69",
+      "size": 2499001,
+      "uploadedDate": "2023-10-21T15:35:18.062Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0009-1920x1080-1212cb8be646b1efb83ff196e5cd8eeb.jpeg",
+      "md5": "1212cb8be646b1efb83ff196e5cd8eeb",
+      "size": 2379999,
+      "uploadedDate": "2023-10-21T15:35:18.694Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0010-1920x1080-e0b7f99c27374950d940a94ccdc79001.jpeg",
+      "md5": "e0b7f99c27374950d940a94ccdc79001",
+      "size": 2084987,
+      "uploadedDate": "2023-10-21T15:35:19.196Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0013-1920x1080-1c016de8ddc766c4daa9b80bc7325770.jpeg",
+      "md5": "1c016de8ddc766c4daa9b80bc7325770",
+      "size": 2742072,
+      "uploadedDate": "2023-10-21T15:35:19.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FabricMaterialV8_thumb-284x284-d29cc730c290d6b916228a0580f4b1d6.png",
+      "md5": "d29cc730c290d6b916228a0580f4b1d6",
+      "size": 90710,
+      "uploadedDate": "2023-10-21T15:35:20.175Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FabricMaterialV8_featured-894x488-352adb3d67106624ac7af1011140d3a3.png",
+      "md5": "352adb3d67106624ac7af1011140d3a3",
+      "size": 539949,
+      "uploadedDate": "2023-10-21T15:35:20.348Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0000-1920x1080-53a4622b088fe65f8bed90ffb70a55e8_Snapshot.jpeg",
+      "md5": "7278499857268d527f5d850799c8a984",
+      "size": 10440,
+      "uploadedDate": "2023-10-21T15:35:14.514Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0001-1920x1080-ce0984f26614c10d640afaf792e8fdc3_Snapshot.jpeg",
+      "md5": "a9aa83aa4be18a306f9e47dc28e22af6",
+      "size": 9240,
+      "uploadedDate": "2023-10-21T15:35:15.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0002-1920x1080-e15162b3203ddd53605703dfc5f5c5c6_Snapshot.jpeg",
+      "md5": "517e0c69edf2d6d78d79253f337ee894",
+      "size": 7753,
+      "uploadedDate": "2023-10-21T15:35:15.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0003-1920x1080-8a98e13fdaa6e1d824a6898e3eaaf142_Snapshot.jpeg",
+      "md5": "45cb154801ce0906521be7b5aab343d5",
+      "size": 7622,
+      "uploadedDate": "2023-10-21T15:35:16.008Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0012-1920x1080-b8fbcc2202fc47a3a6b4b080acdbe624_Snapshot.jpeg",
+      "md5": "4a8c79552477d8be24c47f3995d1acad",
+      "size": 7252,
+      "uploadedDate": "2023-10-21T15:35:16.576Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0004-1920x1080-260c7ce17cc034c655507bf96be93f04_Snapshot.jpeg",
+      "md5": "2e86e44387a5c917445f97d49d2cf9ac",
+      "size": 8570,
+      "uploadedDate": "2023-10-21T15:35:17.246Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0005-1920x1080-f41c80c4a8a3db883ef39736d7ba5354_Snapshot.jpeg",
+      "md5": "37029a8f9d409a996dcfddf50e0a2dff",
+      "size": 6371,
+      "uploadedDate": "2023-10-21T15:35:17.835Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0006-1920x1080-e366cc0c00ef8324ff79f1f91c185d69_Snapshot.jpeg",
+      "md5": "570c7d1ffc67f5cc905ec2e2653036e4",
+      "size": 9073,
+      "uploadedDate": "2023-10-21T15:35:18.414Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0009-1920x1080-1212cb8be646b1efb83ff196e5cd8eeb_Snapshot.jpeg",
+      "md5": "ef4c109b7349e13fd93387afb4faa161",
+      "size": 8645,
+      "uploadedDate": "2023-10-21T15:35:19.003Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0010-1920x1080-e0b7f99c27374950d940a94ccdc79001_Snapshot.jpeg",
+      "md5": "3d29adfd1c2f0bb2cf93e6e82ef591f1",
+      "size": 5381,
+      "uploadedDate": "2023-10-21T15:35:19.502Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0013-1920x1080-1c016de8ddc766c4daa9b80bc7325770_Snapshot.jpeg",
+      "md5": "2fbcb0d962b9d51e1a85b559297f6016",
+      "size": 8360,
+      "uploadedDate": "2023-10-21T15:35:20.134Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e120ff1072b941e880e740da30919129"
+    }
+  ],
+  "catalogNs": null
+}

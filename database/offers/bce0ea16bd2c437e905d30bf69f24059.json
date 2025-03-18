@@ -1,0 +1,260 @@
+{
+  "id": "bce0ea16bd2c437e905d30bf69f24059",
+  "namespace": "ue",
+  "title": "Real Rare Crystals",
+  "description": "Over 25 Real Rare Crystals with highly customizable Material Generator and Crystal Cluster Generator!",
+  "longDescription": "<p><strong>Real Rare Crystals is a pack of handcrafted beautiful crystals perfect to bring life to your game environment.</strong></p><p>Create your own unique materials by creating an instance of the master materials and tweaking to your hearts content. <strong><u>Virtually limitless material combinations.</u></strong></p><p>Don&#39;t settle for cartoony, poorly shaded, low res textured crystal packs, demand the best. This complete set will have you on your way to creating a magical crystal environment with zero setup time.</p><p>All crystals have their own mask maps baked out and included so you can adjust every detail of your crystal like ridge color, gradient fade point, wear and more.</p><p><br /></p><p><strong>Discord Support: </strong><a href=\"https://discord.gg/6qVCQeU\" rel=\"nofollow\">https://discord.gg/6qVCQeU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "real-rare-crystals",
+  "creationDate": "2018-03-27T21:32:54.085Z",
+  "lastModifiedDate": "2024-09-30T11:14:19.289Z",
+  "effectiveDate": "2018-03-27T21:32:54.060Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fl5kbsundg3dywgf6yb8zzfnvy2sly",
+    "name": "3DVFX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><u>Features:</u></h2><ul><li> <strong>25 Crystal Meshes &#43; 10 that have real inner flecks</strong></li><li> <strong>Extensive Master material creator</strong> for both the crystal externals and internal flecks, incredibly customizable!</li><li> <strong>Crystal cluster generator</strong> for quick cluster setup and deployment</li></ul><p><br /></p><h2><u>Texture Sizes:</u></h2><ul><li> Crystal masks 2048x2048</li><li> Some shared gradients and grunge maps 512x512</li></ul><p><br /></p><p>Scaled to Epic skeleton: (Yes)</p><p>Collision: (Yes, automatically generated)</p><p>Triangle Count: 60 for smallest crystals to 104 for larger crystals to 1161 for large crystals with inner flecks.</p><p>Vertex Count: 148 for smallest crystals to 288 for larger crystals to 3363 for large crystals with inner flecks.</p><p>LODs: 0</p><p>Number of Meshes: 25 Crystals &#43; 10 with inner flecks</p><p>Number of Materials and Material Instances: 2 Master Materials and 45 Material Instances</p><p>Number of Textures: 56 Total (6 Shared)</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Steam VR / HTC Vive, Oculus, Gear VR, Linux, HTML5, Xbox One, Android, iOS, PS4, Windows, Mac</p><p>Documentation: No documentation required, just drop into your game and go!</p><p>Important/Additional Notes: Feel free to get in contact for support if required however everything has been made as easy as possible to get you up and running in no time.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1222",
+      "name": "TEXT-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.648Z",
+      "updated": "2019-06-20T12:00:08.648Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f79a99fd-d617-47f3-a888-bbde8da76376"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery01-1920x1080-dd250ead387e0a811945edc32b478b5f.png",
+      "md5": "dd250ead387e0a811945edc32b478b5f",
+      "size": 1214469,
+      "uploadedDate": "2018-02-16T07:59:26.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery02-1920x1080-86d1a745c700496a0829cee9eb48bc83.png",
+      "md5": "86d1a745c700496a0829cee9eb48bc83",
+      "size": 1734833,
+      "uploadedDate": "2018-02-16T07:59:26.356Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery03-1920x1080-8968815c01586978deb5dfcb9b88d01f.png",
+      "md5": "8968815c01586978deb5dfcb9b88d01f",
+      "size": 668090,
+      "uploadedDate": "2018-02-16T07:59:26.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery04-1920x1080-a63516d1e0db43991d1cba49674c130b.png",
+      "md5": "a63516d1e0db43991d1cba49674c130b",
+      "size": 1408927,
+      "uploadedDate": "2018-02-16T07:59:26.738Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealRareCrystals_thumb-284x284-d7c536355e8087dd75450592c052249a.png",
+      "md5": "d7c536355e8087dd75450592c052249a",
+      "size": 189982,
+      "uploadedDate": "2018-02-16T07:59:26.874Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealRareCrystals_featured-894x488-1f6524540b4f0e99ba3792ef67c9eee5.png",
+      "md5": "1f6524540b4f0e99ba3792ef67c9eee5",
+      "size": 469233,
+      "uploadedDate": "2018-02-16T07:59:26.965Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "dbaea5aa823c4d5db717c0f801c34ce5"
+    }
+  ],
+  "catalogNs": null
+}

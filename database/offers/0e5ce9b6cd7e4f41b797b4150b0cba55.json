@@ -1,0 +1,254 @@
+{
+  "id": "0e5ce9b6cd7e4f41b797b4150b0cba55",
+  "namespace": "ue",
+  "title": "Topdown Physics Based Camera System",
+  "description": "Collision-based camera system including a room transition. Works for any number and shape of rooms, with a single camera.",
+  "longDescription": "<p>A fully customizable camera system for topdown games where the camera will interact with blocking volumes.</p><p>Additionally contains a transition volume to ease the transition between blocked zones. Allows you to not only set camera boundaries but also obey them in any physical custom shape.</p><p>Fully customizable:</p><ul><li>Rooms of any size and shape. Not just boxes.</li><li>Collision distances in each direction (Front, back, left and right)</li><li>Collision channel</li><li>Camera offset</li><li>Distance from the character to the camera</li><li>Camera Lag and Camera Lag Speed</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "topdown-physics-based-camera-system",
+  "creationDate": "2021-07-25T20:34:46.539Z",
+  "lastModifiedDate": "2024-09-29T16:07:26.354Z",
+  "effectiveDate": "2021-07-25T20:34:46.448Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ux5ul79mncz6kb4t9hbl2su8rtsbsr",
+    "name": "ProjectZero"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/4AxOwXzckEs\" rel=\"nofollow\">Demo Video</a></p><p>Features:</p><ul><li>Topdown support, including projects based on the topdown template.</li><li>Block cameras using standard Camera Blocking Volumes</li><li> Place blocking volumes in any configuration</li><li>Adjustable camera transitions between rooms</li><li>Adjustable camera lag</li><li>Customize parameters in Blueprints</li></ul><p>Code Modules:</p><ul><li> A dynamic camera actor [runtime]</li></ul><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win32, Win64</p><p>Supported Target Build Platforms: Win32, Win64</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1SPQ_Hjmt7zR5jeiyGrDVmtACJd_ZZ-tf/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p>Example Project: <a href=\"https://mega.nz/file/9GIQXTZK#SGvts5AkfKJAVYGq-ac0GOurze7iGvoTvX4MrQyXpnQ\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes: none</p><p>Discord channel: <a href=\"https://discord.gg/VmFXeq7J9F\" rel=\"nofollow\">https://discord.gg/VmFXeq7J9F</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "03e7c10f-605a-4979-af76-eb17390f4b26"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dynamic topdown camera-1920x1080-c3a7fcb222a87e956188cc04a3752709.png",
+      "md5": "c3a7fcb222a87e956188cc04a3752709",
+      "size": 1492365,
+      "uploadedDate": "2021-07-20T19:55:34.158Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot 1-1920x1080-e0e3d04358bf0c5c935551e89c9d85d0.png",
+      "md5": "e0e3d04358bf0c5c935551e89c9d85d0",
+      "size": 1356288,
+      "uploadedDate": "2021-07-20T19:55:34.669Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot 2-1920x1080-ded15977d90da2d9da840509938dd409.png",
+      "md5": "ded15977d90da2d9da840509938dd409",
+      "size": 1352397,
+      "uploadedDate": "2021-07-20T19:55:35.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot 3-1920x1080-1c66b7da3b449d168a8298ca0ba1105b.png",
+      "md5": "1c66b7da3b449d168a8298ca0ba1105b",
+      "size": 345530,
+      "uploadedDate": "2021-07-20T19:55:35.575Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot 4-1920x1080-752473ca0f9e0285230bdcc2dad38a3e.png",
+      "md5": "752473ca0f9e0285230bdcc2dad38a3e",
+      "size": 1461351,
+      "uploadedDate": "2021-07-20T19:55:36.042Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TopdownPhysicsBasedCameraSystem_thumb-284x284-7c7e44d6a6888bbeadb046d66be17726.png",
+      "md5": "7c7e44d6a6888bbeadb046d66be17726",
+      "size": 72129,
+      "uploadedDate": "2021-07-20T19:55:36.447Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TopdownPhysicsBasedCameraSystem_featured-894x488-84f4f41171b0bc1063175ee4572dd67b.png",
+      "md5": "84f4f41171b0bc1063175ee4572dd67b",
+      "size": 332089,
+      "uploadedDate": "2021-07-20T19:55:36.581Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dynamic topdown camera-1920x1080-c3a7fcb222a87e956188cc04a3752709_Snapshot.png",
+      "md5": "dce6fd48680e637c843f8bed17be6ceb",
+      "size": 5422,
+      "uploadedDate": "2021-07-20T19:55:34.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot 1-1920x1080-e0e3d04358bf0c5c935551e89c9d85d0_Snapshot.png",
+      "md5": "b9d8845a3073b289d7c2072e4cdffe6e",
+      "size": 5639,
+      "uploadedDate": "2021-07-20T19:55:34.980Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot 2-1920x1080-ded15977d90da2d9da840509938dd409_Snapshot.png",
+      "md5": "7bb66790cb4becc42bf530320fab742f",
+      "size": 5808,
+      "uploadedDate": "2021-07-20T19:55:35.421Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot 3-1920x1080-1c66b7da3b449d168a8298ca0ba1105b_Snapshot.png",
+      "md5": "347d1f1c8c13cafa712e312794ba82e2",
+      "size": 5307,
+      "uploadedDate": "2021-07-20T19:55:35.856Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot 4-1920x1080-752473ca0f9e0285230bdcc2dad38a3e_Snapshot.png",
+      "md5": "99be01b2420b13543f143477bc13f307",
+      "size": 6586,
+      "uploadedDate": "2021-07-20T19:55:36.393Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "49e92f99fcd94b3f8857855205a50eac"
+    }
+  ],
+  "catalogNs": null
+}

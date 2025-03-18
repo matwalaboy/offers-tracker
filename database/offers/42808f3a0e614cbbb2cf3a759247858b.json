@@ -1,0 +1,200 @@
+{
+  "id": "42808f3a0e614cbbb2cf3a759247858b",
+  "namespace": "ue",
+  "title": "Color Picker and HUE Picker UMG",
+  "description": "Simple solution for Color picker and HUE picker in-game widgets",
+  "longDescription": "<p>Simple solution for Color picker and HUE picker in-game widgets.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "color-picker-and-hue-picker-umg",
+  "creationDate": "2018-12-20T16:35:31.799Z",
+  "lastModifiedDate": "2024-09-28T12:20:28.936Z",
+  "effectiveDate": "2018-12-20T16:35:31.775Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-befa1695284690b33864dc59d67b4e",
+    "name": "VEA GAMES"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Color Picker Widget</li><li> HUE Picker Widget</li><li> Movable interface (drag window label by mouse left)</li></ul><p><br /></p><p>Demo level included.</p><p><br /></p><p>Number of Blueprints: 2</p><p>Input: Mouse</p><p>Network Replicated: No</p><p>Supported Development Platforms: PC, Mobile, Consoles</p><p>Supported Target Build Platforms: PC, Mobile, Consoles</p><p>Documentation: www.veagames.com</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "33353764-2eae-445c-a0cf-f65e09ee4782"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerScreen1-1920x1080-a4a7e58b39258d2ccc68aeae4abc4a47.jpg",
+      "md5": "a4a7e58b39258d2ccc68aeae4abc4a47",
+      "size": 664585,
+      "uploadedDate": "2018-11-22T17:35:35.600Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerScreen3-1920x1080-d223c2674d1f6dcd21878efab32153f1.jpg",
+      "md5": "d223c2674d1f6dcd21878efab32153f1",
+      "size": 673106,
+      "uploadedDate": "2018-11-22T17:35:36.106Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerScreen2-1920x1080-2e874a69bd08468173e97c5ceecae8e3.jpg",
+      "md5": "2e874a69bd08468173e97c5ceecae8e3",
+      "size": 939301,
+      "uploadedDate": "2018-11-22T17:35:36.528Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ColorPickerScreen4-1920x1080-6da68dbe3d7ca1919432f5f4c69e693c.jpg",
+      "md5": "6da68dbe3d7ca1919432f5f4c69e693c",
+      "size": 634306,
+      "uploadedDate": "2018-11-22T17:35:36.904Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ColorPickerandHUEPickerUMG_thumb-284x284-fb6e00f0eb75b7d9f0a230ec0728fd8b.png",
+      "md5": "fb6e00f0eb75b7d9f0a230ec0728fd8b",
+      "size": 90556,
+      "uploadedDate": "2018-11-22T17:35:37.230Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ColorPickerandHUEPickerUMG_featured-894x488-2fa44db0cdacac9d768a62bbd4d1bad6.png",
+      "md5": "2fa44db0cdacac9d768a62bbd4d1bad6",
+      "size": 437046,
+      "uploadedDate": "2018-11-22T17:35:37.343Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerScreen1-1920x1080-a4a7e58b39258d2ccc68aeae4abc4a47_Snapshot.jpg",
+      "md5": "84e2660fe6bb89cdb70b827931229c88",
+      "size": 2481,
+      "uploadedDate": "2018-11-22T17:35:35.817Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerScreen3-1920x1080-d223c2674d1f6dcd21878efab32153f1_Snapshot.jpg",
+      "md5": "14c845e29bcb98d6c4d67b895c8fc711",
+      "size": 1899,
+      "uploadedDate": "2018-11-22T17:35:36.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerScreen2-1920x1080-2e874a69bd08468173e97c5ceecae8e3_Snapshot.jpg",
+      "md5": "7e40ed6faa956559414e0fbe146a17e4",
+      "size": 2352,
+      "uploadedDate": "2018-11-22T17:35:36.779Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ColorPickerScreen4-1920x1080-6da68dbe3d7ca1919432f5f4c69e693c_Snapshot.jpg",
+      "md5": "98dd68ff3b5e613bef8e0793d2836cda",
+      "size": 1400,
+      "uploadedDate": "2018-11-22T17:35:37.172Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "673e3a5cb43440d881efcf52fef0a53c"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,344 @@
+{
+  "id": "5a8b5f3f57e642668d9fda424c7d3559",
+  "namespace": "ue",
+  "title": "Niagara WaterFoam Splash Pack",
+  "description": "Realistic Water/Foam Splash Fx Pack",
+  "longDescription": "<p>Special effects that can be used in any water scene.</p><p>It can be easily edited and used.</p><p>It can be used in realistic games and movies.</p><p>Offers low FPS</p><p><br /></p><p><br /></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "niagara-waterfoam-splash-pack",
+  "creationDate": "2021-06-15T08:29:07.045Z",
+  "lastModifiedDate": "2024-09-29T19:17:03.801Z",
+  "effectiveDate": "2021-06-15T08:29:06.960Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-uypxpqffhgjvsxdrla5hx6chqxmewe",
+    "name": "MassiveFx"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong><em>Type of Emitters: (CPU)</em></strong></p><p><strong><em>Number of Unique Effects: 15</em></strong></p><p><strong><em>LODs: (Yes)</em></strong></p><p><strong><em>Number of Materials: 6</em></strong></p><p><strong><em>Number of Materials Instance : 21</em></strong></p><p><strong><em>Number of Textures: 20</em></strong></p><p><strong><em>Number of Unique Meshes: 5</em></strong></p><p><strong><em>Supported Development Platforms:</em></strong></p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p><strong><em>Documentation:</em></strong> <a href=\"https://youtu.be/NKHfwbZPXyo\" rel=\"nofollow\">https://youtu.be/NKHfwbZPXyo</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e5a1bc79-33b3-4bc9-98bc-33ad16f0213c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash7-1920x1080-4bc42e4ee4fc20461749e0fe29869cdb.jpg",
+      "md5": "4bc42e4ee4fc20461749e0fe29869cdb",
+      "size": 813108,
+      "uploadedDate": "2021-06-11T19:32:20.181Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash1-1920x1080-9ce7a5b6c4941493b7b8cb45cdd51c00.jpg",
+      "md5": "9ce7a5b6c4941493b7b8cb45cdd51c00",
+      "size": 709287,
+      "uploadedDate": "2021-06-11T19:32:20.654Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash2-1920x1080-7228b945a5204d194a75562cd79c54b3.jpg",
+      "md5": "7228b945a5204d194a75562cd79c54b3",
+      "size": 738432,
+      "uploadedDate": "2021-06-11T19:32:21.056Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash3-1920x1080-49b1193fd97bde1c7becbec2980430a2.jpg",
+      "md5": "49b1193fd97bde1c7becbec2980430a2",
+      "size": 783072,
+      "uploadedDate": "2021-06-11T19:32:21.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash4-1920x1080-0e793ec8a879ffb8d28a4b16f5a92916.jpg",
+      "md5": "0e793ec8a879ffb8d28a4b16f5a92916",
+      "size": 709287,
+      "uploadedDate": "2021-06-11T19:32:22.509Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash5-1920x1080-24ba53b21cc4abcd271cfe86b6103c7b.jpg",
+      "md5": "24ba53b21cc4abcd271cfe86b6103c7b",
+      "size": 577631,
+      "uploadedDate": "2021-06-11T19:32:22.904Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash6-1920x1080-e1e62513b8d9ae907881b69d3f06c572.jpg",
+      "md5": "e1e62513b8d9ae907881b69d3f06c572",
+      "size": 661966,
+      "uploadedDate": "2021-06-11T19:32:23.296Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash8-1920x1080-6e2965dfe9393fc3f0089478c9bef8ec.jpg",
+      "md5": "6e2965dfe9393fc3f0089478c9bef8ec",
+      "size": 667270,
+      "uploadedDate": "2021-06-11T19:32:23.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NiagaraWaterFoamSplashPack_thumb-284x284-8fdb3bfccef0acb4726b797ef0e10879.png",
+      "md5": "8fdb3bfccef0acb4726b797ef0e10879",
+      "size": 123626,
+      "uploadedDate": "2021-06-11T19:32:23.937Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NiagaraWaterFoamSplashPack_featured-894x488-6b9e7ad4c42fcbeada24cdb23adb7f79.png",
+      "md5": "6b9e7ad4c42fcbeada24cdb23adb7f79",
+      "size": 421518,
+      "uploadedDate": "2021-06-11T19:32:24.056Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash7-1920x1080-4bc42e4ee4fc20461749e0fe29869cdb_Snapshot.jpg",
+      "md5": "19073af956b9148b2fb2ea595f6c6386",
+      "size": 3952,
+      "uploadedDate": "2021-06-11T19:32:20.499Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash1-1920x1080-9ce7a5b6c4941493b7b8cb45cdd51c00_Snapshot.jpg",
+      "md5": "3c2d4ca7136e755967f665292800ba63",
+      "size": 3700,
+      "uploadedDate": "2021-06-11T19:32:20.908Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash2-1920x1080-7228b945a5204d194a75562cd79c54b3_Snapshot.jpg",
+      "md5": "82ec66ec54e2a0624f9c388a812408b7",
+      "size": 3886,
+      "uploadedDate": "2021-06-11T19:32:21.319Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash3-1920x1080-49b1193fd97bde1c7becbec2980430a2_Snapshot.jpg",
+      "md5": "d09e8ccf4b4f22ff4d5eccbc1575ef0a",
+      "size": 3865,
+      "uploadedDate": "2021-06-11T19:32:22.373Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash4-1920x1080-0e793ec8a879ffb8d28a4b16f5a92916_Snapshot.jpg",
+      "md5": "3c2d4ca7136e755967f665292800ba63",
+      "size": 3700,
+      "uploadedDate": "2021-06-11T19:32:22.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash5-1920x1080-24ba53b21cc4abcd271cfe86b6103c7b_Snapshot.jpg",
+      "md5": "7938ff013994afa33cc6eba6f0e16e9c",
+      "size": 3292,
+      "uploadedDate": "2021-06-11T19:32:23.145Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash6-1920x1080-e1e62513b8d9ae907881b69d3f06c572_Snapshot.jpg",
+      "md5": "10c1872cdedcb27a657287abdfce3cd2",
+      "size": 3650,
+      "uploadedDate": "2021-06-11T19:32:23.537Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash8-1920x1080-6e2965dfe9393fc3f0089478c9bef8ec_Snapshot.jpg",
+      "md5": "7ae44ab2d0087e3f485f11bdad622a4d",
+      "size": 4238,
+      "uploadedDate": "2021-06-11T19:32:23.896Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "da28b68b36b64bfb8484437219c159d4"
+    }
+  ],
+  "catalogNs": null
+}

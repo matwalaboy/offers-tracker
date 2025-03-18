@@ -1,0 +1,239 @@
+{
+  "id": "392fdc57ea344938890ad1417615cd30",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Crepuscular Forest",
+  "description": "Asset package equipped with everything you need to design stylized Low Poly crepuscular forest environments.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;X6V70K_7Gp8\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;X6V70K_7Gp8</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>The assets of this pack have a wide range of possibilities, it fits a lot of exotic environments, from leafy forests to neon forests, through rare and exotic meadows, all this while maintaining a harmonious stylized low poly, thanks to its simplicity.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-crepuscular-forest",
+  "creationDate": "2016-10-26T18:42:31.955Z",
+  "lastModifiedDate": "2024-09-29T23:58:15.187Z",
+  "effectiveDate": "2016-11-16T00:00:00.000Z",
+  "viewableDate": "2016-11-16T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> (40) Trees </li><li> (25) Rocks from all the sizes </li><li> (5) Bushes </li><li> (10) DryTrees </li><li> (15) Grass and Ground Plants </li><li> (5) BackGround Landscape </li><li> (5) Clouds Included </li></ul><p>Texture Size: All 2048x2048</p><p>Number of Textures: 10 (all used in the Grass and Ground Plants)</p><p>Collision: Yes, Per-Poly Collisions </p><p>Vertex Count: 8 to 6679</p><p>LODs: 0</p><p>Number of Meshes: 105</p><p>Number of Materials and Material Instances: 3 Master Materials, 26 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ba246c4f-5298-4aee-b637-cfd0cf7882ee"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_01-1920x1080-ef9d09fccdb837eeb7092334c57f539e.png",
+      "md5": "ef9d09fccdb837eeb7092334c57f539e",
+      "size": 489244,
+      "uploadedDate": "2016-10-26T18:40:55.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_02-1920x1080-71a3e939eed2666dddd53eecd9fad679.png",
+      "md5": "71a3e939eed2666dddd53eecd9fad679",
+      "size": 336653,
+      "uploadedDate": "2016-10-26T18:40:57.182Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_03-1920x1080-9e271e753be1584f37f46f807170360f.png",
+      "md5": "9e271e753be1584f37f46f807170360f",
+      "size": 674186,
+      "uploadedDate": "2016-10-26T18:40:59.231Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_04-1920x1080-a1449ab002bd0a898ad5198068ac5782.png",
+      "md5": "a1449ab002bd0a898ad5198068ac5782",
+      "size": 747593,
+      "uploadedDate": "2016-10-26T18:41:01.864Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_05-1920x1080-e0515b7c00a07f2296a3ed95f59ac13f.png",
+      "md5": "e0515b7c00a07f2296a3ed95f59ac13f",
+      "size": 755461,
+      "uploadedDate": "2016-10-26T18:41:04.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_06-1920x1080-7ac2a803dd2bc78cce7cc2372480ee9e.png",
+      "md5": "7ac2a803dd2bc78cce7cc2372480ee9e",
+      "size": 682337,
+      "uploadedDate": "2016-10-26T18:41:06.695Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_07-1920x1080-2822e2f434b7b5fec001e3ae6c7fc8af.png",
+      "md5": "2822e2f434b7b5fec001e3ae6c7fc8af",
+      "size": 667669,
+      "uploadedDate": "2016-10-26T18:41:08.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_08-1920x1080-7d3a24eb4fe9de349369c6af1d3de040.png",
+      "md5": "7d3a24eb4fe9de349369c6af1d3de040",
+      "size": 743962,
+      "uploadedDate": "2016-10-26T18:41:11.742Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_09-1920x1080-482df40bcea27b10b041e7e162f4804e.png",
+      "md5": "482df40bcea27b10b041e7e162f4804e",
+      "size": 663345,
+      "uploadedDate": "2016-10-26T18:41:13.602Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_screenshot_10-1920x1080-4d448c3831ba3d5b74e66a27b5049576.png",
+      "md5": "4d448c3831ba3d5b74e66a27b5049576",
+      "size": 703478,
+      "uploadedDate": "2016-10-26T18:41:15.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_Thumb-284x284-49be963f446a5138f528ffa8d7845571.png",
+      "md5": "49be963f446a5138f528ffa8d7845571",
+      "size": 37973,
+      "uploadedDate": "2016-10-26T18:40:52.609Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_Featured-476x246-9fcc8939ca2a4c0f205df0703e9572e5.png",
+      "md5": "9fcc8939ca2a4c0f205df0703e9572e5",
+      "size": 55150,
+      "uploadedDate": "2016-10-26T18:40:48.536Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyCrepuscularForest_FeaturedNew-894x488-40fd71e6b9769e730288a8a892a86d41.png",
+      "md5": "40fd71e6b9769e730288a8a892a86d41",
+      "size": 167978,
+      "uploadedDate": "2016-10-26T18:40:50.826Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "45b8e2d6761a4911955a842aafd6b115"
+    }
+  ],
+  "catalogNs": null
+}

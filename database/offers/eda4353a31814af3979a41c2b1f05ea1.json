@@ -1,0 +1,221 @@
+{
+  "id": "eda4353a31814af3979a41c2b1f05ea1",
+  "namespace": "ue",
+  "title": "Timeless Books - Icons Pack",
+  "description": "145 stylized timeless book pictures without backgrounds",
+  "longDescription": "<p>This collection includes 145 high-quality, background-free 2D book illustrations. Each book is designed to fit seamlessly into various inventory systems and interfaces, making them an ideal choice for games of different genres such as RPGs, adventure games, and visual novels. </p><p>The diverse styles and themes of the books allow for easy integration into game environments, story elements, and character interactions, enhancing the overall visual appeal and functionality of your projects.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "timeless-books",
+  "creationDate": "2024-06-25T21:00:35.444Z",
+  "lastModifiedDate": "2024-09-30T20:41:49.886Z",
+  "effectiveDate": "2024-06-25T21:00:35.395Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>145 high-quality stylized book images</li><li>Diverse designs with different genres, cover styles, and themes</li><li>Various character interactions and book settings</li><li>Number of all textures: 435</li><li>256*256 - 145 PNG images</li><li>515*512 - 145 PNG images</li><li>1024*1024 - 145 PNG images</li></ul><p>Texture Resolutions: 1024*1024</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "38adf13a-e491-4da2-ac3c-454870b720b5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-888e12f0296dcffaf7e709c8243dd543.jpg",
+      "md5": "888e12f0296dcffaf7e709c8243dd543",
+      "size": 159478,
+      "uploadedDate": "2024-06-24T14:06:50.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-f973c79168e8160fbef14844995daa44.jpg",
+      "md5": "f973c79168e8160fbef14844995daa44",
+      "size": 239621,
+      "uploadedDate": "2024-06-25T21:05:43.092Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TimelessBooks_thumb-284x284-95bdd5d14a7d37cf2f154d07729170b0.png",
+      "md5": "95bdd5d14a7d37cf2f154d07729170b0",
+      "size": 121392,
+      "uploadedDate": "2024-06-24T14:06:51.342Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TimelessBooks_featured-894x488-731827000fbcf98d09e15a57318416b7.png",
+      "md5": "731827000fbcf98d09e15a57318416b7",
+      "size": 651413,
+      "uploadedDate": "2024-06-24T14:06:51.497Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-f973c79168e8160fbef14844995daa44_Snapshot.jpg",
+      "md5": "966bb09b464644a0a6e3f70609c3a95b",
+      "size": 7545,
+      "uploadedDate": "2024-06-25T21:05:43.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-f973c79168e8160fbef14844995daa44_Snapshot.jpg",
+      "md5": "966bb09b464644a0a6e3f70609c3a95b",
+      "size": 7545,
+      "uploadedDate": "2024-06-25T21:04:03.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-888e12f0296dcffaf7e709c8243dd543_Snapshot.jpg",
+      "md5": "639e2a153919825483b6fb0e8ca71d19",
+      "size": 6995,
+      "uploadedDate": "2024-06-24T14:06:51.256Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "142e86acadaa43aca2c51cbed12695b3"
+    }
+  ],
+  "catalogNs": null
+}

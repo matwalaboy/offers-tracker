@@ -1,0 +1,158 @@
+{
+  "id": "437919dd3d1f4861a63cab11b868bfe5",
+  "namespace": "ue",
+  "title": "Olbert's Music Atmospheres: Landscapes Vol.1",
+  "description": "13 Open Ambient Beautiful Sounds",
+  "longDescription": "<p>Preview: <a href=\"https://soundcloud.com/user-163705015/sets/olberts-music-atmospheres-landscapes-vol-1\" rel=\"nofollow\">SoundCloud</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>This atmosphere pack includes 13 .WAV binaural soundtracks ready to use. This pack features big spaces, guitars, plucks, pianos, strings and pads with multidirectional sounds to create emotionful atmospheres. Great sound pack for video games and films.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-music-atmospheres-landscapes-vol",
+  "creationDate": "2021-05-04T16:00:40.784Z",
+  "lastModifiedDate": "2024-09-29T23:54:20.475Z",
+  "effectiveDate": "2021-05-04T16:00:40.691Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 13 Handcrafted Background Ambient Sounds</li></ul><p>Number of Audio Wavs: 13</p><p>Number of Audio Cues: 13</p><p>Sample rate / bit rate: 44,100 Hz</p><p>Does music loop: Yes</p><p>Minutes of audio provided: 25 Minutes</p><p>Supported Development Platforms: Windows, Mac</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8b7388c5-4ad2-4875-b206-4ab4af29e561"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EALandscapes01-1920x1080-cdc007cf479e6eff10a0b4d51ff9fe1a.png",
+      "md5": "cdc007cf479e6eff10a0b4d51ff9fe1a",
+      "size": 2102375,
+      "uploadedDate": "2021-05-01T21:46:11.693Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OlbertsMusicAtmospheresLandscapesVol1_thumb-284x284-34a78f6587b088649ba7e597917d41f5.png",
+      "md5": "34a78f6587b088649ba7e597917d41f5",
+      "size": 77122,
+      "uploadedDate": "2021-05-01T21:46:12.141Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OlbertsMusicAtmospheresLandscapesVol1_featured-894x488-d919b87a8f26ffd1404c2d03ab119c60.png",
+      "md5": "d919b87a8f26ffd1404c2d03ab119c60",
+      "size": 309037,
+      "uploadedDate": "2021-05-01T21:46:12.260Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EALandscapes01-1920x1080-cdc007cf479e6eff10a0b4d51ff9fe1a_Snapshot.png",
+      "md5": "6bb142acccd40da25942900105c2741e",
+      "size": 3602,
+      "uploadedDate": "2021-05-01T21:46:12.051Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cda3ec9bd6084cf28b89b4e76389844a"
+    }
+  ],
+  "catalogNs": null
+}

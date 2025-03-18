@@ -1,0 +1,308 @@
+{
+  "id": "3168a52c378142d78e79f50e593f04f1",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Prison",
+  "description": "Modular assets suite for designing Prisons in a Low Poly Style",
+  "longDescription": "<p>Level Design: <a href=\"https://youtu.be/MjWvDYTTbDU\" rel=\"nofollow\">https://youtu.be/MjWvDYTTbDU</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>Modular assets suite for designing Prisons in a Low Poly Style</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-prison",
+  "creationDate": "2017-10-23T17:09:21.647Z",
+  "lastModifiedDate": "2024-09-29T23:11:22.411Z",
+  "effectiveDate": "2017-10-23T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Walls And Variations</li><li>Floors And Variations</li><li>Props</li><li>Jail Doors</li><li>Basic Vegetation</li></ul><p>Texture Size: All 2048x2048</p><p>Collision: Yes, Per Poly Collisions</p><p>Vertex Count: 0 To 2190</p><p>LODs: 0</p><p>Number of Meshes: 201</p><p>Number of Materials and Material Instances: 4 Master Materials, 42 Material Instances</p><p>Number of Textures: 3</p><p>Platforms Tested: PC</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d554e430-92b0-422d-abff-a87c33dfb81d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_01-1920x1080-520efd8660b1f748fa4d86bde25b2dde.png",
+      "md5": "520efd8660b1f748fa4d86bde25b2dde",
+      "size": 825917,
+      "uploadedDate": "2017-10-12T17:16:10.307Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_02-1920x1080-fbf29d8fad03ceaf0e3b7b1876b89299.png",
+      "md5": "fbf29d8fad03ceaf0e3b7b1876b89299",
+      "size": 857026,
+      "uploadedDate": "2017-10-12T17:16:10.420Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_03-1920x1080-26394b88d390c0b5cedba8a981b740c4.png",
+      "md5": "26394b88d390c0b5cedba8a981b740c4",
+      "size": 882213,
+      "uploadedDate": "2017-10-12T17:16:10.584Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_04-1920x1080-a4e0b9acf97922398ac15915b3fd5dd1.png",
+      "md5": "a4e0b9acf97922398ac15915b3fd5dd1",
+      "size": 879280,
+      "uploadedDate": "2017-10-12T17:16:10.702Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_05-1920x1080-edaf55c063e34c444a57dd247823ecfe.png",
+      "md5": "edaf55c063e34c444a57dd247823ecfe",
+      "size": 851986,
+      "uploadedDate": "2017-10-12T17:16:10.808Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_06-1920x1080-fc5d01e307304cfc3ae85209c775294e.png",
+      "md5": "fc5d01e307304cfc3ae85209c775294e",
+      "size": 853836,
+      "uploadedDate": "2017-10-12T17:16:11.146Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_07-1920x1080-c09becc7a3f92cb4b78881b3635d3a6f.png",
+      "md5": "c09becc7a3f92cb4b78881b3635d3a6f",
+      "size": 806051,
+      "uploadedDate": "2017-10-12T17:16:11.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_08-1920x1080-3bf6ee438e6d0741205ca0c91e2317b9.png",
+      "md5": "3bf6ee438e6d0741205ca0c91e2317b9",
+      "size": 831135,
+      "uploadedDate": "2017-10-12T17:16:11.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_09-1920x1080-3c96acad0b7a2e83ac938b5553fabbf9.png",
+      "md5": "3c96acad0b7a2e83ac938b5553fabbf9",
+      "size": 823700,
+      "uploadedDate": "2017-10-12T17:16:11.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_10-1920x1080-1ddbe718b562b6183e99859d5e6454bf.png",
+      "md5": "1ddbe718b562b6183e99859d5e6454bf",
+      "size": 841993,
+      "uploadedDate": "2017-10-12T17:16:11.869Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_11-1920x1080-f407dabdb298b1bc3e8e5cfc83ba33b4.png",
+      "md5": "f407dabdb298b1bc3e8e5cfc83ba33b4",
+      "size": 843840,
+      "uploadedDate": "2017-10-12T17:16:11.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_12-1920x1080-b9ba6f52105ed8ab040b03d200f5afa4.png",
+      "md5": "b9ba6f52105ed8ab040b03d200f5afa4",
+      "size": 793477,
+      "uploadedDate": "2017-10-12T17:16:12.101Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_13-1920x1080-0dc65698d5dd0bd1bafb5285b4ad3543.png",
+      "md5": "0dc65698d5dd0bd1bafb5285b4ad3543",
+      "size": 728171,
+      "uploadedDate": "2017-10-12T17:16:12.217Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_14-1920x1080-c0472f31645d7c85374df27c1eb01e90.png",
+      "md5": "c0472f31645d7c85374df27c1eb01e90",
+      "size": 739641,
+      "uploadedDate": "2017-10-12T17:16:12.379Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_15-1920x1080-2833fa2442231e716e83755d2414f7d0.png",
+      "md5": "2833fa2442231e716e83755d2414f7d0",
+      "size": 599176,
+      "uploadedDate": "2017-10-12T17:16:12.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_16-1920x1080-1aecee953049a9551d342dc041940aca.png",
+      "md5": "1aecee953049a9551d342dc041940aca",
+      "size": 679898,
+      "uploadedDate": "2017-10-12T17:16:12.662Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_17-1920x1080-5c51c3690879736746cf97902e325996.png",
+      "md5": "5c51c3690879736746cf97902e325996",
+      "size": 644895,
+      "uploadedDate": "2017-10-12T17:16:12.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_18-1920x1080-0dcc506b22848948487d100adfff0902.png",
+      "md5": "0dcc506b22848948487d100adfff0902",
+      "size": 635723,
+      "uploadedDate": "2017-10-12T17:16:12.890Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_19-1920x1080-2ab85ec0525e64d65ceae76d20d92c64.png",
+      "md5": "2ab85ec0525e64d65ceae76d20d92c64",
+      "size": 660049,
+      "uploadedDate": "2017-10-12T17:16:13.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolyPrison_screenshot_20-1920x1080-591047be5b82274b5538578003a8c62f.png",
+      "md5": "591047be5b82274b5538578003a8c62f",
+      "size": 698654,
+      "uploadedDate": "2017-10-12T17:16:13.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OlbertsLowPolyPrison_thumb-284x284-ae6d1eaa2c51b6867e8faee1dca66b82.png",
+      "md5": "ae6d1eaa2c51b6867e8faee1dca66b82",
+      "size": 82316,
+      "uploadedDate": "2017-10-12T17:16:13.542Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OlbertsLowPolyPrison_featured-894x488-33fbac7c4b0c7e1029122ec494a3104f.png",
+      "md5": "33fbac7c4b0c7e1029122ec494a3104f",
+      "size": 393931,
+      "uploadedDate": "2017-10-12T17:16:13.834Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "82adeb1a17514a229e4abaf23567f3a4"
+    }
+  ],
+  "catalogNs": null
+}

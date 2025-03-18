@@ -1,0 +1,272 @@
+{
+  "id": "e2f734cf7cd7477aba0cc2b916348792",
+  "namespace": "ue",
+  "title": "Horse Starter Kit",
+  "description": "Horses for your game environments by Living Systems. Add rideable Horses to your game.  Horse and Rider Actor Blueprints included. UE4 and UE5 Skeletons on a Horse - Drag and Drop easy.",
+  "longDescription": "<p>Video: <a href=\"https://youtu.be/ZKKqjRI5wJg\" rel=\"nofollow\">https://youtu.be/ZKKqjRI5wJg</a></p><p><br /></p><p>The Horse Starter Kit is the perfect solution for anyone looking to add horses to their game. This development kit is animated using the Unreal Character Skeleton (UE4 and UE5 skeletons) for the Horse Rider. So if you have a character that uses the Unreal 4 or 5 Skeletons, you can have your character riding around on horses in minutes. In the new update (UE 5.1 or greater) for the Horse Starter Kit adding horses to your levels is now drag and drop easy with riding and mounting behavior in the Character Blueprints . Hit the ground running with the Horse Starter Kit.</p><p>Take a look at the <a href=\"https://drive.google.com/file/d/1b4AVYIUCf6vKcwL-z878fYMDovUTf6Di/view?usp&#61;sharing\" rel=\"nofollow\">Getting Started PDF</a> for v3.0</p><p><br /></p><p><br /></p><p><strong>***Monthly Unreal Engine Sponsored Content product for May 2022***</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "horse-starter-kit",
+  "creationDate": "2015-11-24T21:55:41.139Z",
+  "lastModifiedDate": "2024-09-27T18:03:08.266Z",
+  "effectiveDate": "2016-01-13T00:00:00.000Z",
+  "viewableDate": "2016-01-13T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-0f46f83e764d58a449922d50aebe4e",
+    "name": "Living Systems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Included in the Horse Starter Kit v3.0:</p><p>• (1) Fully rigged and animated Horse skeletal mesh with reins, and saddle pieces</p><p>• (69) Animations for both the Horse (Custom Skeleton) and Rider (Unreal Skeleton)</p><p>• Animations are now compatible with the UE5 Manny and Quinn Skeletons in addition to the UE4 Mannequin Skeleton</p><p>• (2) Animation Blueprints for both the Horse and Rider</p><p>• (2) 2D Movement Blendspaces for both the Horse and Rider</p><p>• (3) Character Blueprints for both Rideable Horse Characters and Rider Characters with 2 parent classes</p><p>• (3) NPC Horse Blueprints with Parent class</p><p>• (1) Sample map</p><p>• (3) Horse Skins</p><p>• (1) Physics Asset</p><p>• Groom mane and tail. Also hair plane mane and tail available</p><p>• Mounting and dismounting animations</p><p>• Horse will orient to ground by adjustable amount</p><p>• Camera blend effects based on speed</p><p>• High resolution textures (4K) and materials</p><p>• 60 FPS Animations</p><p><br /></p><p>Intended Platform: Windows</p><p>Platforms Tested: Windows</p><p>Documentation Included: <a href=\"https://drive.google.com/file/d/1b4AVYIUCf6vKcwL-z878fYMDovUTf6Di/view?usp&#61;sharing\" rel=\"nofollow\">Getting Started PDF</a></p><p>For more Information, and Troubleshooting visit the <a href=\"https://forums.unrealengine.com/t/the-horse-starter-kit-v3-0/1967602\" rel=\"nofollow\">Forum Thread</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1171",
+      "name": "HACK AND SLASH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:43.507Z",
+      "updated": "2019-06-20T11:59:43.507Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1255",
+      "name": "MATURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:25.140Z",
+      "updated": "2019-06-20T12:00:25.140Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "121ad578-1980-4cfd-97cf-5ad64d0b1528"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen21-1920x1080-ca4a093d92c64e85951062148d571370.jpg",
+      "md5": "ca4a093d92c64e85951062148d571370",
+      "size": 1723156,
+      "uploadedDate": "2024-08-05T20:38:50.597Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen22-1920x1080-0e01c5601ec1db2b8736e4ffdc2d452a.jpg",
+      "md5": "0e01c5601ec1db2b8736e4ffdc2d452a",
+      "size": 1630471,
+      "uploadedDate": "2024-08-05T20:47:50.726Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Screenshot_02-1920x1080-5cc5887a7aa65d47776ac5446a6c8845.png",
+      "md5": "5cc5887a7aa65d47776ac5446a6c8845",
+      "size": 2923472,
+      "uploadedDate": "2015-11-24T21:53:32.831Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Screenshot_01-1920x1080-d0ef9cedd58f33f03a62e727b55a617a.png",
+      "md5": "d0ef9cedd58f33f03a62e727b55a617a",
+      "size": 3206404,
+      "uploadedDate": "2015-11-24T21:53:28.346Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Screenshot_03-1920x1080-d3f2de65b6f67dc231b88ea100f1903f.png",
+      "md5": "d3f2de65b6f67dc231b88ea100f1903f",
+      "size": 3588861,
+      "uploadedDate": "2015-11-24T21:53:37.365Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Screenshot_04-1920x1080-1aa2619a11c55ccf340fa0305a399931.png",
+      "md5": "1aa2619a11c55ccf340fa0305a399931",
+      "size": 3464150,
+      "uploadedDate": "2015-11-24T21:53:42.106Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HorseStarterKit_thumb-284x284-6100e28bb4581730975399cdbfa47437.png",
+      "md5": "6100e28bb4581730975399cdbfa47437",
+      "size": 218920,
+      "uploadedDate": "2024-06-29T00:33:53.247Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Featured-476x246-60a9edd854670cb7e5dedc6a7a00598f.png",
+      "md5": "60a9edd854670cb7e5dedc6a7a00598f",
+      "size": 250429,
+      "uploadedDate": "2015-11-24T21:53:17.874Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen22-1920x1080-0e01c5601ec1db2b8736e4ffdc2d452a_Snapshot.jpg",
+      "md5": "230a49d85b5788d27ae113c73e2432d8",
+      "size": 9467,
+      "uploadedDate": "2024-08-05T20:47:51.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen21-1920x1080-ca4a093d92c64e85951062148d571370_Snapshot.jpg",
+      "md5": "2fbc19fea30cfb188b65026ce0f37193",
+      "size": 9054,
+      "uploadedDate": "2024-08-05T20:38:50.978Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_ComingSoon-394x208-22046355c720f501b6ab8986da077b23.png",
+      "md5": "22046355c720f501b6ab8986da077b23",
+      "size": 177066,
+      "uploadedDate": "2015-11-24T21:53:13.097Z",
+      "width": 394,
+      "height": 208
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_ComingSoon_Sm-145x208-e5912be694447f7e7d5a6bb8910237cb.png",
+      "md5": "e5912be694447f7e7d5a6bb8910237cb",
+      "size": 65544,
+      "uploadedDate": "2015-11-24T21:53:15.149Z",
+      "width": 145,
+      "height": 208
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_FeaturedNew-894x488-045324e819f09f8ce6c7e4cac6431e62.png",
+      "md5": "045324e819f09f8ce6c7e4cac6431e62",
+      "size": 897454,
+      "uploadedDate": "2015-11-24T21:53:21.162Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Image_894x488",
+      "url": "https://cdn1.epicgames.com/ue/item/HorseStarterKit_Image_894X488-896x488-b0d6458115b1a1894b50d9eec24d8dba.png",
+      "md5": "b0d6458115b1a1894b50d9eec24d8dba",
+      "size": 905840,
+      "uploadedDate": "2015-11-24T21:53:24.622Z",
+      "width": 896,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "187eea8db1c1402e948d04cf6422dad9"
+    }
+  ],
+  "catalogNs": null
+}

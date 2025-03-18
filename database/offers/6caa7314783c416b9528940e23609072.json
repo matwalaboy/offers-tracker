@@ -1,0 +1,332 @@
+{
+  "id": "6caa7314783c416b9528940e23609072",
+  "namespace": "ue",
+  "title": "Sci-Fi Weapons Cyberpunk Arsenal",
+  "description": "1000+ Sci-Fi Sound Effects",
+  "longDescription": "<h1>The future is yours to command</h1><p><br /></p><p>Hundreds of hours in development over the span of a year, <strong>Sci-Fi Weapons: Cyberpunk Arsenal</strong> equips you with <strong>1200 locked-and-loaded Sci-Fi sound effects</strong>. Command over <strong>50 visceral Weapons</strong>, a range of <strong>Explosions &amp; Beams</strong> and <strong>harness 18 support categories</strong> including Gore, Shields, Hit Markers, Bullet whiz-bys, Targeting SFX, Reloads and more! <a href=\"https://youtu.be/txHYDzmuaz4\" rel=\"nofollow\"><strong>Watch the trailer.&#xfeff;</strong></a></p><p><br /></p><p><strong>You&#39;ll have a blast with:</strong></p><ul><li><strong>Over 50 hard-hitting Weapons</strong> (696 sounds)</li><li>Single, burst &amp; looped fire for most weapons.</li><li>Variants per weapon to add realism and keep players hooked.</li><li>An extensive arsenal of mechanical, future-tech, and alien weaponry. Pistols (including Silenced), Blasters, Automatics, Shotguns, Rocket Launcher, Grenade Launcher, Mines, Unique weapons including the Flange Cannon, Electron Impeller and Energy Orb. And more!</li><li><strong>18 Support Categories</strong> to bring your worlds fully to life (427 sounds) Ammo, Arm Weapon, Bullet By Centred, Bullet By Left to Right, Charge, Clothing Rustle, Cooldown, Giblets, Goo Splatter, Hit Markers, Impact, Kill Confirm, Out Of Ammo, Reload, Scope, Shield, Targeting, Vocalisation (robotic and creature)</li><li><strong>Explosions &amp; things that go BOOM! </strong>(88 sounds) 64 explosion sounds across 5 categories, from distant shockwaves to up-close impacts. 24 tension-building timer beeps and risers.</li><li><strong>Beams and Laser loops </strong>(23 sounds)</li><li><strong>Looping Battlefield Ambiences</strong> (14 sounds)</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-weapons-cyberpunk-arsenal",
+  "creationDate": "2021-01-20T16:58:44.012Z",
+  "lastModifiedDate": "2024-09-29T08:31:22.651Z",
+  "effectiveDate": "2021-01-20T17:13:18.316Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ebs2kscjws6nptf8rk4mmnqrhxke47",
+    "name": "Shapeforms Audio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Number of Audio Waves:</strong> 1200</p><p><strong>Number of Audio Cues: </strong>1200</p><p><strong>Sample rate / bit rate: </strong>44,100 Hz / 16-bit</p><p><strong>Do Sound FX loop:</strong> Yes (some weapon fire sounds, lasers and beams, battle ambiences), No (one-shot sfx)</p><p><strong>Minutes of audio provided:</strong> 16</p><p><strong>Supported Development Platforms: </strong>Windows: Yes, Mac: Yes</p><p><strong>Documentation:</strong> <a href=\"https://drive.google.com/file/d/1e7EOsTqhyFf22aaUTmkctggtbS5Q9siT/view?usp&#61;sharing\" rel=\"nofollow\">PDF file list</a> (note format shows 96 24 – this is the source format; the included audio for Unreal is 44 16)</p><p><strong>Library preview: </strong><a href=\"https://youtu.be/xb9HSYjFjzA\" rel=\"nofollow\">View trailer</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "17e3999f-4d48-48fa-999d-863451e1bd9c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scifiweaponsgallery1920x1080-1920x1080-a994350569fb066656e9264c6780ad22.jpg",
+      "md5": "a994350569fb066656e9264c6780ad22",
+      "size": 308126,
+      "uploadedDate": "2021-01-19T02:53:23.810Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sci-Fi-Weapons-Wavs-1920x1080-ab78ed0b21cdc4f54aa08972c6e6b760.jpg",
+      "md5": "ab78ed0b21cdc4f54aa08972c6e6b760",
+      "size": 294023,
+      "uploadedDate": "2021-01-27T13:19:00.549Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sci-Fi-Weapons-Cues-1920x1080-bbc54e9736a3804b2b8c26980d4ed1eb.jpg",
+      "md5": "bbc54e9736a3804b2b8c26980d4ed1eb",
+      "size": 299994,
+      "uploadedDate": "2021-01-27T13:19:00.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Sci-Fi-Weapons-Cue-1920x1080-8afb68dc9982b8cf66f57f4d2a38c5fc.jpg",
+      "md5": "8afb68dc9982b8cf66f57f4d2a38c5fc",
+      "size": 144677,
+      "uploadedDate": "2021-01-27T13:19:01.279Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiWeaponsCyberpunkArsenal_thumb-284x284-e7d771f0f9487c5cd8089815f474c09d.png",
+      "md5": "e7d771f0f9487c5cd8089815f474c09d",
+      "size": 126190,
+      "uploadedDate": "2021-01-19T02:53:24.129Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SciFiWeaponsCyberpunkArsenal_featured-894x488-ea8766d0a74775feb9640b18a87184fc.png",
+      "md5": "ea8766d0a74775feb9640b18a87184fc",
+      "size": 512907,
+      "uploadedDate": "2021-01-19T02:53:24.228Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sci-Fi-Weapons-Wavs-1920x1080-ab78ed0b21cdc4f54aa08972c6e6b760_Snapshot.jpg",
+      "md5": "842224632e9fec0735954c9f1f571bbe",
+      "size": 6941,
+      "uploadedDate": "2021-01-27T13:19:00.773Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sci-Fi-Weapons-Cues-1920x1080-bbc54e9736a3804b2b8c26980d4ed1eb_Snapshot.jpg",
+      "md5": "657ddfdeb22fce070d67d72662da3367",
+      "size": 7263,
+      "uploadedDate": "2021-01-27T13:19:01.138Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Sci-Fi-Weapons-Cue-1920x1080-8afb68dc9982b8cf66f57f4d2a38c5fc_Snapshot.jpg",
+      "md5": "a69697447c076328f5d3c05b564c0ede",
+      "size": 3868,
+      "uploadedDate": "2021-01-27T13:19:01.492Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scifiweaponsgallery1920x1080-1920x1080-a994350569fb066656e9264c6780ad22_Snapshot.jpg",
+      "md5": "8f4cf503b19d4c81151227de786b4f07",
+      "size": 5929,
+      "uploadedDate": "2021-01-19T02:53:24.024Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "362e23f6bd414a8a8584393d69de1d9f"
+    }
+  ],
+  "catalogNs": null
+}

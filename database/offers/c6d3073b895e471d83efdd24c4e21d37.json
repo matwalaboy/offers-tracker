@@ -1,0 +1,395 @@
+{
+  "id": "c6d3073b895e471d83efdd24c4e21d37",
+  "namespace": "ue",
+  "title": "Succubus",
+  "description": "Low-poly model of a succubus. Two versions of the skeleton: UE4 Mannequin Skeleton and UE5 Mannequin Simple Skeleton.",
+  "longDescription": "<p>Animation test: <a href=\"https://youtu.be/4amKDDSlNYs\" rel=\"nofollow\">https://youtu.be/4amKDDSlNYs</a></p><p><br /></p><p>Features:</p><ul><li>Polycount: 24825 triangles, 14390 vertices;</li><li>Facial expressions are included (50 Morph Targets);</li><li>18 animations (flying variations, walk, run, dodge, jump);</li><li>Two versions of the skeleton: UE4 and UE5. Skeletons have the same bone hierarchy as standard mannequins. Additional bones that are added to both standard skeletons: wing01-wing14 (left and right).</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "succubus-06",
+  "creationDate": "2024-08-07T20:54:29.399Z",
+  "lastModifiedDate": "2024-09-26T23:26:57.796Z",
+  "effectiveDate": "2024-08-07T20:54:29.365Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tcwyuqryjfzgycnsrk5pluj5f6wxby",
+    "name": "Tarsin 3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: Yes</p><p>Rigged to Epic skeleton: Yes, UE4 and UE5 versions</p><p>\tIf rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: Yes</p><p>Number of Animations: 18</p><p>Animation types: In-place</p><p>Number of characters: 1</p><p>Vertex counts of characters: 14390</p><p>Triangles: 24825</p><p>Number of Materials: 3</p><p>Number of Textures: 9</p><p>Texture Resolutions: PBR Textures (Base Color, Normal, AORoughnessMetallic):</p><p>body (4096x4096), cloth (2048x2048), head (1024x1024)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "Comedy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2023-08-23T03:10:10.044Z",
+      "status": "ACTIVE",
+      "referenceCount": 162,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "db73bee1-6b3c-479b-a7fa-1feade292c20"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc03-1920x1080-fa58e3e238dfc581f755b0c19c895b58.jpg",
+      "md5": "fa58e3e238dfc581f755b0c19c895b58",
+      "size": 1957038,
+      "uploadedDate": "2024-08-04T19:20:39.660Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc04-1920x1080-5045bd59bf3dd0b929471c4f1704bc83.jpg",
+      "md5": "5045bd59bf3dd0b929471c4f1704bc83",
+      "size": 1989993,
+      "uploadedDate": "2024-08-04T19:20:40.220Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc05-1920x1080-ac260cb81f2af1f9d967d95654bd4f49.jpg",
+      "md5": "ac260cb81f2af1f9d967d95654bd4f49",
+      "size": 1481906,
+      "uploadedDate": "2024-08-04T19:20:40.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc06-1920x1080-295a7572990ff7ddc81679fa87df986d.jpg",
+      "md5": "295a7572990ff7ddc81679fa87df986d",
+      "size": 1519581,
+      "uploadedDate": "2024-08-04T19:20:41.325Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc07-1920x1080-5b62d706c98d81e89489d56387287f66.jpg",
+      "md5": "5b62d706c98d81e89489d56387287f66",
+      "size": 1110839,
+      "uploadedDate": "2024-08-04T19:20:41.813Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc08-1920x1080-481622bffeb26f7682bc2175f3340910.jpg",
+      "md5": "481622bffeb26f7682bc2175f3340910",
+      "size": 1131833,
+      "uploadedDate": "2024-08-04T19:20:42.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/suc02-1920x1080-fefe9e337917094487f9eb2380216b83.jpg",
+      "md5": "fefe9e337917094487f9eb2380216b83",
+      "size": 1906851,
+      "uploadedDate": "2024-08-04T19:20:38.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Succubus_thumb-284x284-b6c45b2730fcc5c3c67c8d3bc74d9a88.png",
+      "md5": "b6c45b2730fcc5c3c67c8d3bc74d9a88",
+      "size": 149189,
+      "uploadedDate": "2024-08-04T19:20:42.624Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Succubus_featured-894x488-479574dd7e44658ad5f6de0d7dc8b928.png",
+      "md5": "479574dd7e44658ad5f6de0d7dc8b928",
+      "size": 764053,
+      "uploadedDate": "2024-08-04T19:20:42.725Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc01-1920x1080-940594702b61ea38e6fc3dd9d24528c0_Snapshot.jpg",
+      "md5": "10d6d714755c143192f5868998b527eb",
+      "size": 3507,
+      "uploadedDate": "2024-08-04T19:20:38.692Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc02-1920x1080-fefe9e337917094487f9eb2380216b83_Snapshot.jpg",
+      "md5": "02ee29e8a6d895f0bce0e15077ee1aaf",
+      "size": 4101,
+      "uploadedDate": "2024-08-04T19:20:39.434Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc03-1920x1080-fa58e3e238dfc581f755b0c19c895b58_Snapshot.jpg",
+      "md5": "a214cf809bf9a219fed4bc6b51b4c71e",
+      "size": 4803,
+      "uploadedDate": "2024-08-04T19:20:40.008Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc04-1920x1080-5045bd59bf3dd0b929471c4f1704bc83_Snapshot.jpg",
+      "md5": "3722117cfebd7ba1776b95775ba26b89",
+      "size": 5440,
+      "uploadedDate": "2024-08-04T19:20:40.561Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc05-1920x1080-ac260cb81f2af1f9d967d95654bd4f49_Snapshot.jpg",
+      "md5": "dd7619eeeeb0be9c44a668951a85ecd6",
+      "size": 6189,
+      "uploadedDate": "2024-08-04T19:20:41.121Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc06-1920x1080-295a7572990ff7ddc81679fa87df986d_Snapshot.jpg",
+      "md5": "bc88b7eb70e6a35571a2f5847b1f0448",
+      "size": 6975,
+      "uploadedDate": "2024-08-04T19:20:41.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc07-1920x1080-5b62d706c98d81e89489d56387287f66_Snapshot.jpg",
+      "md5": "bc112d1ea16fbb1e7699d0de37728a1b",
+      "size": 6142,
+      "uploadedDate": "2024-08-04T19:20:42.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/suc08-1920x1080-481622bffeb26f7682bc2175f3340910_Snapshot.jpg",
+      "md5": "a9861f519c483a37c9e2c698b0905c53",
+      "size": 6169,
+      "uploadedDate": "2024-08-04T19:20:42.532Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9ae0e3f453be4342930ec120d4718ebf"
+    }
+  ],
+  "catalogNs": null
+}

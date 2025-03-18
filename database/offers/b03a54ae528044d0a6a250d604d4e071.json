@@ -1,0 +1,260 @@
+{
+  "id": "b03a54ae528044d0a6a250d604d4e071",
+  "namespace": "ue",
+  "title": "Cave and railroad",
+  "description": "Create a cave easily that can turn into a maze.",
+  "longDescription": "<p>With this pack you can easily create a cave that can turn into a maze or if you prefer add a railway.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cave-and-railroad",
+  "creationDate": "2023-11-18T19:39:09.181Z",
+  "lastModifiedDate": "2024-09-30T16:21:21.446Z",
+  "effectiveDate": "2023-11-18T19:39:09.149Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-unhv4b7b7p2428nprju6evv5tu463v",
+    "name": "SyllasVieira"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Modular cave</p><p>Miscellaneous assets</p><p>Textures</p><p><br /></p><p>Number of Unique Meshes: 34</p><p>Collision: (Yes)</p><p>Vertex Count: 61 to 21000</p><p>LODs: (Yes)</p><p>Number of Materials and Material Instances:  43</p><p>Number of Textures: 61</p><p>Texture Resolutions: (2048 and 4096)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\t</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9f1b5893-c192-4a5b-8c84-ed6b219ffbae"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave04-1920x1080-596f693f58a1b0121a53d614ef6b0bed.jpg",
+      "md5": "596f693f58a1b0121a53d614ef6b0bed",
+      "size": 326511,
+      "uploadedDate": "2023-11-17T15:19:50.455Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave07-1920x1080-fa74f2c98b1a5a1cc7b4bb457fa5f071.jpg",
+      "md5": "fa74f2c98b1a5a1cc7b4bb457fa5f071",
+      "size": 316274,
+      "uploadedDate": "2023-11-17T15:19:50.833Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave02-1920x1080-65c80b7519aec163b41d309aab6f954a.jpg",
+      "md5": "65c80b7519aec163b41d309aab6f954a",
+      "size": 445694,
+      "uploadedDate": "2023-11-17T15:19:51.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave06-1920x1080-fe439fd0d963825c82d6e2eba2e904ee.jpg",
+      "md5": "fe439fd0d963825c82d6e2eba2e904ee",
+      "size": 270926,
+      "uploadedDate": "2023-11-17T15:19:51.758Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave05-1920x1080-9609bcf9051862eb124fac3381be0dc3.jpg",
+      "md5": "9609bcf9051862eb124fac3381be0dc3",
+      "size": 335483,
+      "uploadedDate": "2023-11-17T15:19:52.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave03-1920x1080-17592fdcc81b7473dcde06ddabf44114.jpg",
+      "md5": "17592fdcc81b7473dcde06ddabf44114",
+      "size": 568440,
+      "uploadedDate": "2023-11-17T15:19:52.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave08-1920x1080-ee04c2e180ea61822688767582bde680.jpg",
+      "md5": "ee04c2e180ea61822688767582bde680",
+      "size": 597810,
+      "uploadedDate": "2023-11-17T15:19:52.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cave01-1920x1080-29a4c7cca3294ba90fb83515a7091418.jpg",
+      "md5": "29a4c7cca3294ba90fb83515a7091418",
+      "size": 312125,
+      "uploadedDate": "2023-11-17T15:19:53.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Caveandrailway_thumb-284x284-d59fa32b98334deea641c69383b4664d.png",
+      "md5": "d59fa32b98334deea641c69383b4664d",
+      "size": 129441,
+      "uploadedDate": "2023-11-17T15:19:53.703Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Caveandrailway_featured-894x488-10cc92dcade4bef1e14da53d0fff116b.png",
+      "md5": "10cc92dcade4bef1e14da53d0fff116b",
+      "size": 764908,
+      "uploadedDate": "2023-11-17T15:19:53.865Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave04-1920x1080-596f693f58a1b0121a53d614ef6b0bed_Snapshot.jpg",
+      "md5": "d9450e72908f1ec1f90fff56fecffdc0",
+      "size": 3831,
+      "uploadedDate": "2023-11-17T15:19:50.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave07-1920x1080-fa74f2c98b1a5a1cc7b4bb457fa5f071_Snapshot.jpg",
+      "md5": "6b58e5e122b2c177a140e52d1d7b9d67",
+      "size": 3672,
+      "uploadedDate": "2023-11-17T15:19:51.208Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave02-1920x1080-65c80b7519aec163b41d309aab6f954a_Snapshot.jpg",
+      "md5": "0f533ccc85182e51d0a5a5ff4593a9a0",
+      "size": 5118,
+      "uploadedDate": "2023-11-17T15:19:51.577Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave06-1920x1080-fe439fd0d963825c82d6e2eba2e904ee_Snapshot.jpg",
+      "md5": "32a74fe325812fa64a6134d7735bb53a",
+      "size": 3584,
+      "uploadedDate": "2023-11-17T15:19:52.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave05-1920x1080-9609bcf9051862eb124fac3381be0dc3_Snapshot.jpg",
+      "md5": "169613c813f3cacc005e3c22fa67ec08",
+      "size": 4091,
+      "uploadedDate": "2023-11-17T15:19:52.396Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave03-1920x1080-17592fdcc81b7473dcde06ddabf44114_Snapshot.jpg",
+      "md5": "30f8ae71a1985fdfb6c0d5df4926bc10",
+      "size": 5423,
+      "uploadedDate": "2023-11-17T15:19:52.794Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave08-1920x1080-ee04c2e180ea61822688767582bde680_Snapshot.jpg",
+      "md5": "000e891fc5334940c405c61618017888",
+      "size": 6119,
+      "uploadedDate": "2023-11-17T15:19:53.232Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cave01-1920x1080-29a4c7cca3294ba90fb83515a7091418_Snapshot.jpg",
+      "md5": "75bd5e2a9127cc1cacac5465cd4ca266",
+      "size": 5518,
+      "uploadedDate": "2023-11-17T15:19:53.661Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f5ac4f9ecfa04043ab3b7f58f792532e"
+    }
+  ],
+  "catalogNs": null
+}

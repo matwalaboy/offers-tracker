@@ -1,0 +1,392 @@
+{
+  "id": "c7b80998c33b4fcc95c7abc573cbe828",
+  "namespace": "ue",
+  "title": "First Person Combat Fists",
+  "description": "FPP handkey combat fists",
+  "longDescription": "<p>First Person combat fists. (bonus: Kick Animation). 55 Animations all hand keyed on the Unreal Epic Skeleton. Place your camera wherever you wish in order to get the FP view you desired. The head has Animation for each asset so, once you attach the camera to the head bone, you will have the camera Animation (shakes for each hit etc.).</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;TV8wm0adVFU&amp;feature&#61;youtu.be\" rel=\"nofollow\">VIDEO</a></p><p><a href=\"https://docs.google.com/spreadsheets/d/1pYlo09rENA4S3EWM0JJLN9kjlscVyr89iY1EuVZbgf0/edit?usp&#61;sharing\" rel=\"nofollow\">Animation List</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fpp-combat-fists",
+  "creationDate": "2019-03-27T18:09:43.723Z",
+  "lastModifiedDate": "2024-09-28T14:07:00.143Z",
+  "effectiveDate": "2019-03-27T18:09:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ut4dw94axxgv25cqfg8vqrlurj3ncq",
+    "name": "frame ION animation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Scaled to Epic Skeleton</strong>: Yes</p><p><strong>Rigged</strong>: Yes</p><p><strong>Rigged to Epic Skeleton</strong>: Yes</p><p><strong>Animated</strong>: Yes</p><p><strong>Number of Characters</strong>: 1</p><p><strong>Number of Animations</strong>: 55</p><p><strong>Animation Types</strong>: In-place</p><p><br /></p><p><strong>To view the animations in engine from First Person perspective</strong>:</p><ul><li>Launch the project</li><li>Open the Overview map</li><li>Press play</li><li>Use right arrow and left arrow on your keyboard to cycle through animations.</li></ul><p><strong><em>This is a small Blueprint created just to easily view the animations from the intended FP view. <u>It is NOT a gameplay Blueprint!</u></em></strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/animations"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "63d6c6f8-4b2e-44eb-8c1e-5371aa46096c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-257cc2cf5371d4be861134680f0d28eb.jpg",
+      "md5": "257cc2cf5371d4be861134680f0d28eb",
+      "size": 239326,
+      "uploadedDate": "2019-01-29T21:04:56.623Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-ae31b9e24c6d795f29e79a8770578214.jpg",
+      "md5": "ae31b9e24c6d795f29e79a8770578214",
+      "size": 232648,
+      "uploadedDate": "2019-01-29T21:04:57.058Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-86c693ce217cc6d831ed37224c510aab.jpg",
+      "md5": "86c693ce217cc6d831ed37224c510aab",
+      "size": 197111,
+      "uploadedDate": "2019-01-29T21:04:57.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-3e2758ec89c6e58089a06e115828e229.jpg",
+      "md5": "3e2758ec89c6e58089a06e115828e229",
+      "size": 224365,
+      "uploadedDate": "2019-01-29T21:04:57.762Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-c99d7cf0452c0f523033cea0970d0385.jpg",
+      "md5": "c99d7cf0452c0f523033cea0970d0385",
+      "size": 230301,
+      "uploadedDate": "2019-01-29T21:04:57.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-ae0f7c8ed5cef370a744a44ece1a6281.jpg",
+      "md5": "ae0f7c8ed5cef370a744a44ece1a6281",
+      "size": 236963,
+      "uploadedDate": "2019-01-29T21:04:58.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-db2233518e1d218242f5de5b32df0cba.jpg",
+      "md5": "db2233518e1d218242f5de5b32df0cba",
+      "size": 230709,
+      "uploadedDate": "2019-01-29T21:04:58.497Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-36f7dd64d0408ff7c9ea704ba3e7db2b.jpg",
+      "md5": "36f7dd64d0408ff7c9ea704ba3e7db2b",
+      "size": 202808,
+      "uploadedDate": "2019-01-29T21:04:58.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-c55089edbc8897353a2b86e14523a17a.jpg",
+      "md5": "c55089edbc8897353a2b86e14523a17a",
+      "size": 240126,
+      "uploadedDate": "2019-01-29T21:04:58.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-45be0f8205a49009226715a0fa97055e.jpg",
+      "md5": "45be0f8205a49009226715a0fa97055e",
+      "size": 189585,
+      "uploadedDate": "2019-01-29T21:04:59.231Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-45781f34fce80fdfbd4f3d67923b3624.jpg",
+      "md5": "45781f34fce80fdfbd4f3d67923b3624",
+      "size": 196592,
+      "uploadedDate": "2019-01-29T21:04:59.533Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-12033d28e4113567f2d664caaa9d3c3c.jpg",
+      "md5": "12033d28e4113567f2d664caaa9d3c3c",
+      "size": 242966,
+      "uploadedDate": "2019-01-29T21:04:59.724Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FPPcombatfists_thumb-284x284-1ffb19c30fc2537122f56e698b154058.png",
+      "md5": "1ffb19c30fc2537122f56e698b154058",
+      "size": 82169,
+      "uploadedDate": "2019-01-29T21:04:59.942Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FPPcombatfists_featured-894x488-e4c3e820bcec9d2241ccbf0b68c7c08a.png",
+      "md5": "e4c3e820bcec9d2241ccbf0b68c7c08a",
+      "size": 290254,
+      "uploadedDate": "2019-01-29T21:05:00.044Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-257cc2cf5371d4be861134680f0d28eb_Snapshot.jpg",
+      "md5": "22c65fd8d81db4c4beeadf0d2cf042b9",
+      "size": 2331,
+      "uploadedDate": "2019-01-29T21:04:56.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-ae31b9e24c6d795f29e79a8770578214_Snapshot.jpg",
+      "md5": "de3b76d9221c9dbec34a35bd74afd34c",
+      "size": 2292,
+      "uploadedDate": "2019-01-29T21:04:57.178Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-86c693ce217cc6d831ed37224c510aab_Snapshot.jpg",
+      "md5": "2687d2eaed9e6cf4cc80eab56a3233ec",
+      "size": 2243,
+      "uploadedDate": "2019-01-29T21:04:57.473Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-3e2758ec89c6e58089a06e115828e229_Snapshot.jpg",
+      "md5": "612561a0455799351f5035e65eb58cd1",
+      "size": 2302,
+      "uploadedDate": "2019-01-29T21:04:57.877Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-c99d7cf0452c0f523033cea0970d0385_Snapshot.jpg",
+      "md5": "9fa94e81ac3e284338c0b3f5a286078d",
+      "size": 2181,
+      "uploadedDate": "2019-01-29T21:04:58.158Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-ae0f7c8ed5cef370a744a44ece1a6281_Snapshot.jpg",
+      "md5": "8702b06b9bf4646bff075685f18dd1b3",
+      "size": 2395,
+      "uploadedDate": "2019-01-29T21:04:58.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-db2233518e1d218242f5de5b32df0cba_Snapshot.jpg",
+      "md5": "a88db50337e762dc666f5fffc43f3e5b",
+      "size": 2466,
+      "uploadedDate": "2019-01-29T21:04:58.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-36f7dd64d0408ff7c9ea704ba3e7db2b_Snapshot.jpg",
+      "md5": "06f2c2c4b4481f970fd4c54c6ab9c454",
+      "size": 2370,
+      "uploadedDate": "2019-01-29T21:04:58.823Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-c55089edbc8897353a2b86e14523a17a_Snapshot.jpg",
+      "md5": "d9e0b1e2d4c00550f6420e93a37e9e3d",
+      "size": 2406,
+      "uploadedDate": "2019-01-29T21:04:59.100Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-45be0f8205a49009226715a0fa97055e_Snapshot.jpg",
+      "md5": "0532c5dcb843ec643bd292777c2d87be",
+      "size": 2303,
+      "uploadedDate": "2019-01-29T21:04:59.350Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-45781f34fce80fdfbd4f3d67923b3624_Snapshot.jpg",
+      "md5": "7765bb5250a62145402946c425d2c238",
+      "size": 1910,
+      "uploadedDate": "2019-01-29T21:04:59.650Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-12033d28e4113567f2d664caaa9d3c3c_Snapshot.jpg",
+      "md5": "cc50b9fbd438f9c4f137d9693513d22a",
+      "size": 2167,
+      "uploadedDate": "2019-01-29T21:04:59.855Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "83a14b69c26f4b27b053b3c6af51f06c"
+    }
+  ],
+  "catalogNs": null
+}

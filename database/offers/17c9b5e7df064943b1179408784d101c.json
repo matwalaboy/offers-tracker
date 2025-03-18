@@ -1,0 +1,242 @@
+{
+  "id": "17c9b5e7df064943b1179408784d101c",
+  "namespace": "ue",
+  "title": "Rank Icons",
+  "description": "This pack includes 120+ high-detailed 512x512 PNGs, and we will continue to update more.",
+  "longDescription": "<p>There are 84 unique icons in total, with 3 styles (as seen in the screenshot). Each icon is 256x256 pixels in size (PNG), with a transparent background and frame background. Please refer to the screenshot for details. Thank you.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rank-icons",
+  "creationDate": "2023-02-28T05:57:24.376Z",
+  "lastModifiedDate": "2024-09-27T08:35:29.291Z",
+  "effectiveDate": "2023-02-28T05:57:24.338Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83vhy8a5we7mlr8zj94al9tj4s2rzx",
+    "name": "ChessStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> 54 icons</li><li> 512 x 512 Size</li><li> Transparent</li></ul><p><br /></p><p>Number of Textures:118</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/textures"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "40143a9d-e7dd-4883-9c7c-3b48dac9e3fc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19501300-1920x1080-a95f397dd212537c2e22812bae9a358d.png",
+      "md5": "a95f397dd212537c2e22812bae9a358d",
+      "size": 911313,
+      "uploadedDate": "2023-02-26T18:05:11.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/142280001-1920x1080-3474b32fe48a46ee5a962b61d282307e.png",
+      "md5": "3474b32fe48a46ee5a962b61d282307e",
+      "size": 895962,
+      "uploadedDate": "2023-02-26T18:05:12.222Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/142280002-1920x1080-be2d17443d862a01806c8c47d1d8aa21.png",
+      "md5": "be2d17443d862a01806c8c47d1d8aa21",
+      "size": 1228515,
+      "uploadedDate": "2023-02-26T18:05:12.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/142280004-1920x1080-5fe8601ac3d733b46dca087e50819a7f.png",
+      "md5": "5fe8601ac3d733b46dca087e50819a7f",
+      "size": 1105991,
+      "uploadedDate": "2023-02-26T18:05:13.267Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/142280003-1920x1080-716a2ab06b9dce2b9f46908db3a8de7e.png",
+      "md5": "716a2ab06b9dce2b9f46908db3a8de7e",
+      "size": 798660,
+      "uploadedDate": "2023-02-26T18:05:13.720Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RankIcons_thumb-284x284-97a88ebf860b4c972182d086fda10c7a.png",
+      "md5": "97a88ebf860b4c972182d086fda10c7a",
+      "size": 96800,
+      "uploadedDate": "2023-02-26T18:05:14.030Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RankIcons_featured-894x488-5ce8edd2cef806655709b19a39942e9c.png",
+      "md5": "5ce8edd2cef806655709b19a39942e9c",
+      "size": 303245,
+      "uploadedDate": "2023-02-26T18:05:14.161Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19501300-1920x1080-a95f397dd212537c2e22812bae9a358d_Snapshot.png",
+      "md5": "767f9c598cee178c4815251fc1da3e69",
+      "size": 6100,
+      "uploadedDate": "2023-02-26T18:05:12.009Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/142280001-1920x1080-3474b32fe48a46ee5a962b61d282307e_Snapshot.png",
+      "md5": "a7217d3959b715397164ef2939db8b0a",
+      "size": 6539,
+      "uploadedDate": "2023-02-26T18:05:12.494Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/142280002-1920x1080-be2d17443d862a01806c8c47d1d8aa21_Snapshot.png",
+      "md5": "d81e742d23f0cf62cf7e33580f381f9f",
+      "size": 5967,
+      "uploadedDate": "2023-02-26T18:05:13.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/142280004-1920x1080-5fe8601ac3d733b46dca087e50819a7f_Snapshot.png",
+      "md5": "eec163a51c0c2b80b7fd6abe1f96fd4b",
+      "size": 6349,
+      "uploadedDate": "2023-02-26T18:05:13.570Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/142280003-1920x1080-716a2ab06b9dce2b9f46908db3a8de7e_Snapshot.png",
+      "md5": "95eddf4ab92534e256694b30e57ec943",
+      "size": 5604,
+      "uploadedDate": "2023-02-26T18:05:13.984Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b6b3609ae1dd4c71a9b884959ce3c7e1"
+    }
+  ],
+  "catalogNs": null
+}

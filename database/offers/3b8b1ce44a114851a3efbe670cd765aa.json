@@ -1,0 +1,480 @@
+{
+  "id": "3b8b1ce44a114851a3efbe670cd765aa",
+  "namespace": "ue",
+  "title": "The Art of Combat",
+  "description": "The Art of Combat is designed entirely in blueprints as a plug and play solution for combat designers.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;dTNTVVlYRjc\" rel=\"nofollow\">Preview</a></p><p><a href=\"https://1drv.ms/u/c/d0245d26656377fd/ETbQ33aOBnlDpVOZeaPrI4MBMPXi1He53OFyTC9P3ljNfA\" rel=\"nofollow\">Demo (Combat)</a></p><p><a href=\"https://1drv.ms/u/c/d0245d26656377fd/EQ1MxIU1KSVLn5rVLL32y9oBEgx6G3D_YXJo6gfsto3ACg\" rel=\"nofollow\">Demo (Menu &#43; Multiplayer on Steam - Press Shift &#43; Tab for Steam Overlay)</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;6a4-vwYE-ks&amp;list&#61;PLPnLVuQKEU67jRDNDU2iGu5Lf-C7I6_s4\" rel=\"nofollow\">The Art of Combat - Tutorial Series</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;dTNTVVlYRjc&amp;list&#61;PLPnLVuQKEU669aEZSA7yNo36ABYMyt0CM\" rel=\"nofollow\">Overview Playlist</a></p><p><a href=\"http://www.evernote.com/l/AhQC-MeHEVtLurVyYrP5RHXPdL1DZRCB_A0/\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://forums.unrealengine.com/showthread.php?101084-The-Art-of-Combat-Melee-Combat-System-for-the-Unreal-Engine\" rel=\"nofollow\">Forum</a></p><p><a href=\"https://discord.gg/8QR8mSm\" rel=\"nofollow\">Discord Server</a></p><p><a href=\"http://www.ibrahimakinde.com\" rel=\"nofollow\">Designer&#39;s Portfolio</a></p><p>Example real world use case: This product is used in <a href=\"https://youtu.be/65RE3a3kn_g?si&#61;tXtbW8yv_vDPKDVq\" rel=\"nofollow\"><strong>Stencil of Judgement</strong></a>.</p><p>Support/Custom Requests (Discord): &#64;Ragnar#9805</p><p><br /></p><p>46 NEW ANIMATIONS WORTH $2000 HAVE BEEN ADDED TO THE PACK AS AN UPDATE.</p><p><br /></p><p><strong>The Art of Combat is designed entirely in blueprints as a plug and play solution for combat designers.</strong></p><p><br /></p><p>Features:</p><p>• <strong>Multiplayer Fully Supported!</strong></p><p>• <strong>Responsive Hit System</strong></p><p>• <strong>Responsive Evade System</strong></p><p>• <strong>Parry and Counter Systems</strong></p><p>• <strong>Feint System</strong></p><p>• <strong>Targeting Systems</strong></p><p>• <strong>RPG Component</strong></p><p>• <strong>Character Select UI</strong></p><p><br /></p><p><u>Rate it! Thanks in advance.</u></p><p><br /></p><p><u>Tip:</u> Set &#34;Use Fixed Frame Rate&#34; to &#34;True&#34; in project settings to preview networked play smoothly.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-art-of-combat",
+  "creationDate": "2016-02-02T22:29:17.054Z",
+  "lastModifiedDate": "2024-09-28T13:50:42.575Z",
+  "effectiveDate": "2016-03-09T00:00:00.000Z",
+  "viewableDate": "2016-03-09T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-082dcbb4a7493bab6a9639ae8a8a4d",
+    "name": "Ibrahim Akinde"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 100</p><p><br /></p><p><strong>New Blueprints and Improvements</strong></p><p>• New <strong>Complete Archery System</strong> (Ranger Class with the ability to use melee attacks as well as ranged attacks)</p><p>• New<strong> Steam API Integration For Singleplayer/Multiplayer</strong></p><p>• New <strong>AI Personality Improvements</strong> (The AI is now even more intelligent, using a combination of certain variables and probability for Action Design like AI Aggression Level (Aggressive, Reactive, Passive), Preferred Hate Rank Level of Target (High, Mid, Low), Current Energy Checking Priority (Defines the probability of the AI to &#34;want&#34; to check its energy levels to make sure it has sufficient energy), Energy Refill Threshold (High, Mid, Low)</p><p>• New <strong>Character Improvements</strong> (Gender Definition, New Graphs - AI Graph, Ranger Graph, Defense Graph (Parries, Parry Counters, Responsive Evade System, Feints, Feint Counters, Blocks and Guard Breaks), Attack, Movement, Targeting, Equipment, Damage, Hits, RPG, Attack Techniques, Special Techniques, and SFX Graphs)</p><p>• New <strong>Projectile Classes</strong></p><p>• New <strong>Projectile Deflection System</strong></p><p>• New <strong>Modular RPG Component</strong> (Regeneration and Draining of Stats, Level Ascension, Class/Sin Assignment, Attributes, Stats, Stat Point Assignment)</p><p>• New <strong>Game Mode</strong> <strong>Templates</strong> For Various Battle Scenarios (Survival, Versus)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "92c3f809-6ec2-46f3-8ad3-fe70b6120633"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h45m31s740-1920x1080-f9ae782bbbaccdb97112c3690d827d1b.png",
+      "md5": "f9ae782bbbaccdb97112c3690d827d1b",
+      "size": 667601,
+      "uploadedDate": "2017-09-01T16:40:37.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h49m08s842-1920x1080-db27208698e824f9805402bf4709cde9.png",
+      "md5": "db27208698e824f9805402bf4709cde9",
+      "size": 663489,
+      "uploadedDate": "2017-09-01T16:40:37.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h53m39s623-1920x1080-c52a4db6d7ba05f43f16a06f615efdce.png",
+      "md5": "c52a4db6d7ba05f43f16a06f615efdce",
+      "size": 669599,
+      "uploadedDate": "2017-09-01T16:40:37.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h56m30s719-1920x1080-d7e51800f993fdabd1d6402d132fe1ae.png",
+      "md5": "d7e51800f993fdabd1d6402d132fe1ae",
+      "size": 1026974,
+      "uploadedDate": "2017-09-01T16:40:38.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h57m07s968-1920x1080-38750b341fff55ce3319dd5037d39f9f.png",
+      "md5": "38750b341fff55ce3319dd5037d39f9f",
+      "size": 953135,
+      "uploadedDate": "2017-09-01T16:40:38.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h57m40s751-1920x1080-7c6c9fdaaebce5140c5f22dc9009cdae.png",
+      "md5": "7c6c9fdaaebce5140c5f22dc9009cdae",
+      "size": 1028441,
+      "uploadedDate": "2017-09-01T16:40:38.367Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h58m49s206-1920x1080-17291326f4c005c1dfd284e44dbf4a7c.png",
+      "md5": "17291326f4c005c1dfd284e44dbf4a7c",
+      "size": 977442,
+      "uploadedDate": "2017-09-01T16:40:38.674Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-16h59m47s377-1920x1080-d4399d4e91d59cee079717ec645a1ecc.png",
+      "md5": "d4399d4e91d59cee079717ec645a1ecc",
+      "size": 975753,
+      "uploadedDate": "2017-09-01T16:40:38.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h00m17s565-1920x1080-797f69ae86185b70b57a051706792a1a.png",
+      "md5": "797f69ae86185b70b57a051706792a1a",
+      "size": 745390,
+      "uploadedDate": "2017-09-01T16:40:39.081Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h01m08s377-1920x1080-f1da162d53f78c44640f4b553a287da0.png",
+      "md5": "f1da162d53f78c44640f4b553a287da0",
+      "size": 235382,
+      "uploadedDate": "2017-09-01T16:40:39.375Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h01m53s281-1920x1080-974fcd54551af5057280542168983a73.png",
+      "md5": "974fcd54551af5057280542168983a73",
+      "size": 602887,
+      "uploadedDate": "2017-09-01T16:40:39.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h02m16s064-1920x1080-e6dc78e6ff076c055e8f3aad34ac1068.png",
+      "md5": "e6dc78e6ff076c055e8f3aad34ac1068",
+      "size": 594671,
+      "uploadedDate": "2017-09-01T16:40:39.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h04m51s174-1920x1080-9a35e0e060c4dfbf20a7e562fde6ce7f.png",
+      "md5": "9a35e0e060c4dfbf20a7e562fde6ce7f",
+      "size": 992632,
+      "uploadedDate": "2017-09-01T16:40:40.320Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h05m25s154-1920x1080-c4ad3f32f4041493be87bd72afd7de25.png",
+      "md5": "c4ad3f32f4041493be87bd72afd7de25",
+      "size": 530443,
+      "uploadedDate": "2017-09-01T16:40:40.439Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h05m57s082-1920x1080-fecc9727757ead86bc2c3feed6bb01d1.png",
+      "md5": "fecc9727757ead86bc2c3feed6bb01d1",
+      "size": 1030982,
+      "uploadedDate": "2017-09-01T16:40:40.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h06m58s300-1920x1080-482fec6ee6cbf808b60c1231d60dd2fa.png",
+      "md5": "482fec6ee6cbf808b60c1231d60dd2fa",
+      "size": 961631,
+      "uploadedDate": "2017-09-01T16:40:40.843Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h07m14s739-1920x1080-405448949fbd814a81360d3fadd67836.png",
+      "md5": "405448949fbd814a81360d3fadd67836",
+      "size": 816552,
+      "uploadedDate": "2017-09-01T16:40:41.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h07m31s240-1920x1080-fb9df188222d903f6307c5a7cbf7a447.png",
+      "md5": "fb9df188222d903f6307c5a7cbf7a447",
+      "size": 829763,
+      "uploadedDate": "2017-09-01T16:40:41.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/vlcsnap-2017-09-01-17h08m59s267-1920x1080-5a8d7be53d15f765eed888ee72ae4426.png",
+      "md5": "5a8d7be53d15f765eed888ee72ae4426",
+      "size": 999770,
+      "uploadedDate": "2017-09-01T16:40:41.467Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Screenshot_1-1920x1080-99d562a73ced6ca5864babd4dc8bb4fa.png",
+      "md5": "99d562a73ced6ca5864babd4dc8bb4fa",
+      "size": 371104,
+      "uploadedDate": "2016-02-02T22:26:53.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Screenshot_5-1920x1080-4a77eba229dfed6f21d5a1390210e15f.png",
+      "md5": "4a77eba229dfed6f21d5a1390210e15f",
+      "size": 240857,
+      "uploadedDate": "2016-02-02T22:26:16.112Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Screenshot_6-1920x1080-a347aef101631eec1bed96e31279589b.png",
+      "md5": "a347aef101631eec1bed96e31279589b",
+      "size": 407487,
+      "uploadedDate": "2016-02-02T22:26:15.184Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Screenshot_7-1920x1080-c1341e9e9d1f96e1ea960aec327e3d04.png",
+      "md5": "c1341e9e9d1f96e1ea960aec327e3d04",
+      "size": 400871,
+      "uploadedDate": "2016-02-02T22:26:11.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Thumbnail-284x284-b113bdce9e8f9ae18fb4f85f40f8facd.png",
+      "md5": "b113bdce9e8f9ae18fb4f85f40f8facd",
+      "size": 19067,
+      "uploadedDate": "2016-02-02T22:26:06.867Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_Featured-476x246-ace3dfdc759a4e33cbce80231a8ac79b.png",
+      "md5": "ace3dfdc759a4e33cbce80231a8ac79b",
+      "size": 41478,
+      "uploadedDate": "2016-02-02T22:26:59.891Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/TheArtOfCombat_New Featured-894x488-5bc85c306ec6b3d3aee9202702002e90.png",
+      "md5": "5bc85c306ec6b3d3aee9202702002e90",
+      "size": 118633,
+      "uploadedDate": "2016-02-02T22:26:57.684Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "98a5dd1347e743f1a082642b666a3f1f"
+    }
+  ],
+  "catalogNs": null
+}

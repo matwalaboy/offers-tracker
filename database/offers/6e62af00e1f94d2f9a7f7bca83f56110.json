@@ -1,0 +1,296 @@
+{
+  "id": "6e62af00e1f94d2f9a7f7bca83f56110",
+  "namespace": "ue",
+  "title": "Fantasy_Eggs_01",
+  "description": "A set of 115 icons. All icons are of high quality.",
+  "longDescription": "<p>All icons have transparent backgrounds, so you can place them on any surface you need.</p><p>1、Overall good stylized look, maintained on all icons.115 unique icons in total.</p><p>2、All come with background and no background versions.;Each icon is 512x512 pixels size (PNG and PSD).</p><p>3、Publisher provides pngs so you can edit and adjust icons.</p><p>4、Wide range of themed icons with variations and vivid colors.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-eggs-01",
+  "creationDate": "2023-06-21T15:56:10.206Z",
+  "lastModifiedDate": "2024-09-27T09:13:15.115Z",
+  "effectiveDate": "2023-06-21T15:56:10.164Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83vhy8a5we7mlr8zj94al9tj4s2rzx",
+    "name": "ChessStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>All Icons have transparent and grey background</li><li>  Each icon is 512x512 pixels size (PNG and PSD)</li><li> 115 unique icons in total</li></ul><p>Number of Textures: 230</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1222",
+      "name": "TEXT-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.648Z",
+      "updated": "2019-06-20T12:00:08.648Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3c65e5a6-2a1f-49b2-9dac-a7dc3999247a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-92e104c812a4c03e7a650741aa6e1e3f.png",
+      "md5": "92e104c812a4c03e7a650741aa6e1e3f",
+      "size": 1371152,
+      "uploadedDate": "2023-06-18T11:57:50.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12020x800 -1920x1080-a055810cff15bc0f5e43cb1d0ad058f5.png",
+      "md5": "a055810cff15bc0f5e43cb1d0ad058f5",
+      "size": 1447675,
+      "uploadedDate": "2023-06-18T11:57:50.665Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1200x800-1920x1080-05c5d0c6325c8fe9d6b216f07ae4764d.png",
+      "md5": "05c5d0c6325c8fe9d6b216f07ae4764d",
+      "size": 1388781,
+      "uploadedDate": "2023-06-18T11:57:51.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1200x800 2 2-1920x1080-f65e3475348cc09e1461da1630c68ae7.png",
+      "md5": "f65e3475348cc09e1461da1630c68ae7",
+      "size": 1365774,
+      "uploadedDate": "2023-06-18T11:57:51.865Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyEggs01_thumb-284x284-42bec96d0a6a87ae3f1c3aec06c01b26.png",
+      "md5": "42bec96d0a6a87ae3f1c3aec06c01b26",
+      "size": 109322,
+      "uploadedDate": "2023-06-18T11:57:52.280Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyEggs01_featured-894x488-4584eef11570b942133de30266c7630b.png",
+      "md5": "4584eef11570b942133de30266c7630b",
+      "size": 485124,
+      "uploadedDate": "2023-06-18T11:57:52.387Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-92e104c812a4c03e7a650741aa6e1e3f_Snapshot.png",
+      "md5": "062d03cb51e327351f4c22b89c535b9b",
+      "size": 8598,
+      "uploadedDate": "2023-06-18T11:57:50.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12020x800 -1920x1080-a055810cff15bc0f5e43cb1d0ad058f5_Snapshot.png",
+      "md5": "f10bba1b2173622c1086d83acf99ee6f",
+      "size": 7970,
+      "uploadedDate": "2023-06-18T11:57:51.045Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1200x800-1920x1080-05c5d0c6325c8fe9d6b216f07ae4764d_Snapshot.png",
+      "md5": "12b7fdeb241e8ea041effd1e53cf2ee1",
+      "size": 7994,
+      "uploadedDate": "2023-06-18T11:57:51.629Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1200x800 2 2-1920x1080-f65e3475348cc09e1461da1630c68ae7_Snapshot.png",
+      "md5": "5cbcc3dfa1c8dfadd2a09b10d81542d5",
+      "size": 7400,
+      "uploadedDate": "2023-06-18T11:57:52.237Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d730500f78f940419eab4fad4fe7507d"
+    }
+  ],
+  "catalogNs": null
+}

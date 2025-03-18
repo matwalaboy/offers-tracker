@@ -1,0 +1,272 @@
+{
+  "id": "5daf9b97980048a4822480db98e37b51",
+  "namespace": "ue",
+  "title": "Stylized Fantasy Knight",
+  "description": "It is a character asset for a pretty cartoon stylized action RPG.",
+  "longDescription": "<p><strong>Video preview</strong>: <a href=\"https://youtu.be/TbeWgxUrmD8\" rel=\"nofollow\">https://youtu.be/TbeWgxUrmD8</a></p><p><br /></p><p>This Asset is one of the characters series available in fantasy RPG.</p><p>We designed a male and female knight with the concept of being a party member rather than a protagonist.</p><p>Asset include a sword and shield, which are minimal sword combat actions.</p><p>In addition, five types of hairstyles for male and female were also prepared.</p><p>A stylized background asset is also included as a bonus.</p><p>Let&#96;s use this character set to form a party with the protagonist character you designed.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-fantasy-knight",
+  "creationDate": "2019-09-09T12:46:16.310Z",
+  "lastModifiedDate": "2024-09-30T07:39:18.970Z",
+  "effectiveDate": "2019-09-09T12:46:15.942Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>3 Maps (Overview, Animations, Gameplay)</li><li>2 Blueprints (1 Character class, 1 Animation Blueprint)</li><li>2 Mesh variations (Male, Female)</li><li>10 Hair mesh (5 Male hair, 5 Female hair)</li><li>1 Weapon mesh (Wand 1)</li><li>14 Environments mesh (Stylized like)</li><li>Physics supported hair and cloth.</li><li>Mobile ready!! </li></ul><p><br /></p><p><strong>Scaled to Epic skeleton</strong>: (Yes)</p><p><strong>Rigged</strong>: (Yes)</p><p><strong>Rigged to Epic skeleton</strong>: (Yes)</p><p><strong>Animated</strong>: (Yes)</p><p><strong>Number of characters</strong>: 2</p><p><strong>Vertex counts of characters</strong>: 12k total</p><p><strong>Texture Resolutions</strong>: 2048 each ( Head,Body,Hair )</p><p><strong>Number of Animations</strong>: 15 (Male and Female each)</p><p><strong>Animation types</strong>: In place 12 root motion 0</p><p><strong>Supported Development Platforms</strong>: All</p><p><strong>Supported Target Build Platforms</strong>: Windows</p><p><strong>Documentation</strong>: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1249",
+      "name": "JRPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:22.247Z",
+      "updated": "2019-06-20T12:00:22.247Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "21772dec-cc13-4634-8562-60de54af55a9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS03-1920x1080-738d3332ee8a6f95142c18cfbcdf4e8f.png",
+      "md5": "738d3332ee8a6f95142c18cfbcdf4e8f",
+      "size": 2667022,
+      "uploadedDate": "2019-08-28T11:28:06.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/stylizedknightpromotionpicture-1920x1080-5cb2199e9ff88acd17ad2afb383e89b2.png",
+      "md5": "5cb2199e9ff88acd17ad2afb383e89b2",
+      "size": 1097687,
+      "uploadedDate": "2019-08-28T11:28:07.031Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS05-A-1920x1080-c94af796b1b0437ac214dc31d6b44209.png",
+      "md5": "c94af796b1b0437ac214dc31d6b44209",
+      "size": 2458754,
+      "uploadedDate": "2019-08-28T11:28:07.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SS04-1920x1080-8b7899f384b51848a1ff9a5ad24d35a8.png",
+      "md5": "8b7899f384b51848a1ff9a5ad24d35a8",
+      "size": 2866797,
+      "uploadedDate": "2019-08-28T11:28:08.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedFantasyKngiht_thumb-284x284-d12e5f97f0deaa45f3b84d0f1ec10cfe.png",
+      "md5": "d12e5f97f0deaa45f3b84d0f1ec10cfe",
+      "size": 164316,
+      "uploadedDate": "2019-08-28T11:28:09.034Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedFantasyKngiht_featured-894x488-b81c78f23c29a7c1ea20140f9b7dad42.png",
+      "md5": "b81c78f23c29a7c1ea20140f9b7dad42",
+      "size": 657038,
+      "uploadedDate": "2019-08-28T11:28:09.192Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS03-1920x1080-738d3332ee8a6f95142c18cfbcdf4e8f_Snapshot.png",
+      "md5": "355e7ae81ef7f425ccabef0b6cc4e5ce",
+      "size": 8342,
+      "uploadedDate": "2019-08-28T11:28:06.875Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/stylizedknightpromotionpicture-1920x1080-5cb2199e9ff88acd17ad2afb383e89b2_Snapshot.png",
+      "md5": "d3ec9e671bc6b63417a1c675d919018d",
+      "size": 5249,
+      "uploadedDate": "2019-08-28T11:28:07.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS05-A-1920x1080-c94af796b1b0437ac214dc31d6b44209_Snapshot.png",
+      "md5": "aa990ce2173f3275499db74e995e5c3d",
+      "size": 8332,
+      "uploadedDate": "2019-08-28T11:28:08.235Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SS04-1920x1080-8b7899f384b51848a1ff9a5ad24d35a8_Snapshot.png",
+      "md5": "58240ebba3fa529af9daebd79cb1b0b2",
+      "size": 8751,
+      "uploadedDate": "2019-08-28T11:28:08.967Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4a1222ce11af42a582c3c11ab0d147a1"
+    }
+  ],
+  "catalogNs": null
+}

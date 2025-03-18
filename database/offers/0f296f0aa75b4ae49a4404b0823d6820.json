@@ -1,0 +1,200 @@
+{
+  "id": "0f296f0aa75b4ae49a4404b0823d6820",
+  "namespace": "ue",
+  "title": "Horse Archery System",
+  "description": "Realistic Third Person Horse Archery System made in blueprint",
+  "longDescription": "<p>Realistic Third Person Horse Archery System made in blueprint</p><p><a href=\"https://www.youtube.com/watch?v&#61;3lP_Nu4ZUfY&amp;feature&#61;youtu.be\" rel=\"nofollow\"><strong>Overview video</strong></a></p><p><a href=\"https://youtu.be/G-2sjIB-Pmk\" rel=\"nofollow\"><strong>Update video</strong></a></p><p><a href=\"https://drive.google.com/file/d/1gEdyfEEV1p-4pbhgkx_kCeCsNIo5Tfs4/view?usp&#61;sharing\" rel=\"nofollow\"><strong>Free Demo</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "horse-archery-system",
+  "creationDate": "2020-06-01T09:21:26.301Z",
+  "lastModifiedDate": "2024-09-29T16:59:02.532Z",
+  "effectiveDate": "2020-06-01T09:28:28.143Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-027025e457464e9b3864d908fa4486",
+    "name": "Countermarch"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Archery animation system utilizing IK</li><li>Blueprint only loading, aiming &amp; shooting</li><li>Archery Targets</li><li>Simulated Mount</li><li>Easily migrated to another character</li></ul><p><br /></p><p>Rigged to Epic skeleton: Yes</p><p>If rigged to the Epic skeleton, IK bones are included: Yes</p><p>Number of Animations: 109 (Character), 8 (Bow), 6 (Mount)</p><p>Animation types: In-place</p><p>Number of Materials and Material Instances: 7 Materials, 12 Material Instances</p><p>Number of Textures: 14</p><p>Texture Resolutions: 4096x4096 (Antique Bronze Vase), 16x16 (Aiming Flight Path), 32x32 (Crosshair)</p><p>Number of Blueprints: 26</p><p>Input: Mouse and Keyboard</p><p>Network Replicated: No</p><p><br /></p><p>Documentation: Blueprint Comments &amp; Descriptions</p><p>Important/Additional Notes: None</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1171",
+      "name": "HACK AND SLASH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:43.507Z",
+      "updated": "2019-06-20T11:59:43.507Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9aea225b-03d3-4057-91ca-f28baceca002"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HorseArcherySystemScreenshot00-1920x1080-412a7a05635193e42c330cfed270b87a.png",
+      "md5": "412a7a05635193e42c330cfed270b87a",
+      "size": 2841261,
+      "uploadedDate": "2020-05-08T16:18:12.720Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HorseArcherySystemScreenshot01-1920x1080-1224704180dfd1e030391bb73b04ef73.png",
+      "md5": "1224704180dfd1e030391bb73b04ef73",
+      "size": 2810373,
+      "uploadedDate": "2020-05-08T16:18:19.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HorseArcherySystem_thumb-284x284-74d438da6f47687e17bc0c948c6bb44d.png",
+      "md5": "74d438da6f47687e17bc0c948c6bb44d",
+      "size": 157239,
+      "uploadedDate": "2020-05-08T16:18:19.593Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HorseArcherySystem_featured-894x488-a6995f44f50807ddb17c52f9d8439db0.png",
+      "md5": "a6995f44f50807ddb17c52f9d8439db0",
+      "size": 624048,
+      "uploadedDate": "2020-05-08T16:18:19.919Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HorseArcherySystemScreenshot00-1920x1080-412a7a05635193e42c330cfed270b87a_Snapshot.png",
+      "md5": "5bace70d00460da44365102a9d302c7d",
+      "size": 5290,
+      "uploadedDate": "2020-05-08T16:18:13.139Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HorseArcherySystemScreenshot01-1920x1080-1224704180dfd1e030391bb73b04ef73_Snapshot.png",
+      "md5": "7bad15fbaac02f5c6f10413d1291811d",
+      "size": 4761,
+      "uploadedDate": "2020-05-08T16:18:19.482Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f310c78999d84054a1997849a4499440"
+    }
+  ],
+  "catalogNs": null
+}

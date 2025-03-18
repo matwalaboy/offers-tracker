@@ -1,0 +1,125 @@
+{
+  "id": "b8e53bee960e4cd0b74c0a02261cd957",
+  "namespace": "ue",
+  "title": "Easy Flight Model",
+  "description": "A simple, versatile and easy to use semi-realistic flight model. Just attach it as a child component to any physics body and it'll fly.",
+  "longDescription": "<p>Preview 1: <a href=\"https://www.youtube.com/watch?v&#61;ZiUyCK9HqDc\" rel=\"nofollow\">youtube.com/watch?v&#61;ZiUyCK9HqDc</a> (from first example project)</p><p>Preview 2: <a href=\"https://www.youtube.com/watch?v&#61;z0hXVZMwNTU\" rel=\"nofollow\">youtube.com/watch?v&#61;z0hXVZMwNTU</a> (from second example project)</p><p>Example Project 1 (UE 5.1) : <a href=\"https://drive.google.com/open?id&#61;0B20tIRBAcOlsSDIwcTJuMFdoRDA\" rel=\"nofollow\">https://drive.google.com/open?id&#61;0B20tIRBAcOlsSDIwcTJuMFdoRDA</a></p><p>Example Project 2 (UE 5.1): <a href=\"https://drive.google.com/file/d/0B20tIRBAcOlscGdHc3JFSjJLRzQ/view?usp&#61;sharing\" rel=\"nofollow\">https://drive.google.com/file/d/0B20tIRBAcOlscGdHc3JFSjJLRzQ/view?usp&#61;sharing</a></p><p><br /></p><p>Tutorial Playlist: <a href=\"https://www.youtube.com/playlist?list&#61;PLpdNKDbSpbwV4xJCTI-9l_SGJjedPvAp9\" rel=\"nofollow\">youtube.com/playlist?list&#61;PLpdNKDbSpbwV4xJCTI-9l_SGJjedPvAp9</a></p><p><br /></p><p>Works by taking location, velocity, mass and other properties of physics object it&#39;s attached to, computing aerodynamic forces that would act on it, and applying them as physics impulses. Can be used to simulate almost any fixed wing airplane, as well as bombs, missiles and similar objects.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-flight-model",
+  "creationDate": "2016-08-05T18:18:06.918Z",
+  "lastModifiedDate": "2024-09-30T09:01:38.709Z",
+  "effectiveDate": "2016-09-29T00:00:00.000Z",
+  "viewableDate": "2016-09-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5d323d7e97444299516a3431d27685",
+    "name": "mookie"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>List of Modules:</p><p>- &#34;easyfm&#34; (Runtime)</p><p><br /></p><p>List of Features:</p><p>-Lift, drag - uses a curve to vary coefficient depending on angle of attack.-Can simulate lift and drag caused by sideways movement - for vehicles with vertical lifting surfaces.</p><p>-Buoyancy - can also simulate balloons and airships.</p><p>-Stabilization - Neutral and control trim simulated, can use control curves to vary for realistic stalls.</p><p>-Control surfaces - w/ curves to vary control efficiency based on AoA. -Additional lift devices - flaps and spoilers, deployment/retraction time simulated.</p><p>-Engine - control curves, thrust redirection for VTOL.</p><p>-Dynamic air density - affecting all aerodynamic forces, default curves based on real world measurements included.</p><p>-Mach - lift, drag, stability and engine thrust can be varied depending on mach number.</p><p>-Ground effect - using raycast against terrain mesh</p><p>-Fly-by-wire computer assists.</p><p>-Guidance - automatically adjust controls to steer towards target vector using PID controller.</p><p>-Linear mode - optional unrealistic mode for more &#34;slidey&#34; arcade physics.</p><p>-Code plugin - works in both C&#43;&#43; and blueprint-only projects.</p><p>-Can run in physx substep to increase accuracy.</p><p>-Net movement replication with smoothing and jitter filter.</p><p>-Complete blueprint integration - all variables can be read and changed.</p><p>-No hardcoded parameters.</p><p>-Includes bonus very simple raycast landing gear simulation</p><p>-Full source code included.</p><p>-Lift asymmetry simulation (new in 2.30)</p><p><br /></p><p>Intended Platforms: Desktop</p><p>Platforms Tested: Windows, Linux</p><p>Documentation Included: No</p><p>Important/Additional Notes: Multiplayer world origin rebasing is only supported in UE4.14&#43;</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "73a4f45d-f0e1-4f9d-88a2-658bf4d77bfe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenShot00000-1920x1080-e3f468df7b940a7a378e1b46c4f4e7a0.png",
+      "md5": "e3f468df7b940a7a378e1b46c4f4e7a0",
+      "size": 527173,
+      "uploadedDate": "2016-08-05T18:16:43.407Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenShot00001-1920x1080-4d984e133989175cb7c983a5c4e7f190.png",
+      "md5": "4d984e133989175cb7c983a5c4e7f190",
+      "size": 437741,
+      "uploadedDate": "2016-08-05T18:16:41.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenShot00003-1920x1080-c6875945ad1c5430ec6ad10f6551634d.png",
+      "md5": "c6875945ad1c5430ec6ad10f6551634d",
+      "size": 856479,
+      "uploadedDate": "2016-08-05T18:16:38.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenShot00004-1920x1080-3618bc6fee66a03f302fb8b6de190bde.png",
+      "md5": "3618bc6fee66a03f302fb8b6de190bde",
+      "size": 497032,
+      "uploadedDate": "2016-08-05T18:16:36.870Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/easyfm_Thumb-284x284-af3441a0a63c94fb3550292920bb75e9.png",
+      "md5": "af3441a0a63c94fb3550292920bb75e9",
+      "size": 163775,
+      "uploadedDate": "2016-08-05T18:16:35.144Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/featured-476x246-a04f284ce5ac009aa82643e9b0c3ea34.png",
+      "md5": "a04f284ce5ac009aa82643e9b0c3ea34",
+      "size": 232319,
+      "uploadedDate": "2016-08-05T18:16:46.943Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/featuredNew-894x488-c60c973485b220bdb17aeb9d161c3cea.png",
+      "md5": "c60c973485b220bdb17aeb9d161c3cea",
+      "size": 728544,
+      "uploadedDate": "2016-08-05T18:16:45.373Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "5f70b3075439431281c9850beb84b30a"
+    }
+  ],
+  "catalogNs": null
+}

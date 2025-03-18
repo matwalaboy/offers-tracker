@@ -1,0 +1,206 @@
+{
+  "id": "83e9de3ee9b1405c9ff5b46952a31382",
+  "namespace": "ue",
+  "title": "Data Table Expand",
+  "description": "n the Runtime mode, you can load and save the CSV file, and you can add and delete data.",
+  "longDescription": "<p>UDataTable的扩展对象&#xff0c;可以在Runtime模式下可以加载和保存CSV文件&#xff0c;并且可以进行数据的添加和删除&#xff0c;也可以使用系统DataTable的所有功能。</p><p>The extension object of UDataTable, CSV files can be loaded and saved in Runtime mode, and data can be added and deleted, and all the functions of the system DataTable can be used.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "data-table-expand",
+  "creationDate": "2023-05-27T17:20:31.531Z",
+  "lastModifiedDate": "2024-09-27T04:21:23.398Z",
+  "effectiveDate": "2023-05-27T17:20:31.488Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gc7x6nj7qlfarb37kchme2thh48ltv",
+    "name": "DT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Create DT Data Table From CSV File</li><li>Create DT Data Table From Other Table</li><li>Save CSV File</li><li>Add Row</li><li>Remove Row</li><li>Empty Table</li></ul><p>Code Modules:</p><ul><li>Runtime : DTDataTable</li></ul><p><br /></p><p>Number of Blueprints: 6</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64&#xff0c;HoloLens&#xff0c;Mac&#xff0c;IOS&#xff0c;Android&#xff0c;Linux</p><p>Documentation: <a href=\"https://dt.cq.cn/archives/1075?from&#61;ue\" rel=\"nofollow\">English</a> <a href=\"https://dt.cq.cn/archives/1058?from&#61;ue\" rel=\"nofollow\">中文</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "39fd3250-7a95-4d85-bbd2-10afdcbb0a86"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-e3d27ecf18829d1d39c02b6f00a041df.png",
+      "md5": "e3d27ecf18829d1d39c02b6f00a041df",
+      "size": 203554,
+      "uploadedDate": "2023-05-27T07:57:32.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-d796ee051e95bf97ee0c738fe1bdcbdd.png",
+      "md5": "d796ee051e95bf97ee0c738fe1bdcbdd",
+      "size": 181307,
+      "uploadedDate": "2023-05-27T07:57:33.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-c7591938cd254f22a09d4b00d1d0871e.png",
+      "md5": "c7591938cd254f22a09d4b00d1d0871e",
+      "size": 189086,
+      "uploadedDate": "2023-05-27T08:50:55.528Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DataTableExpand_thumb-284x284-82f8c14ff7baa5c349618a1b7b4e3ace.png",
+      "md5": "82f8c14ff7baa5c349618a1b7b4e3ace",
+      "size": 18407,
+      "uploadedDate": "2023-05-27T07:57:33.371Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DataTableExpand_featured-894x488-bcfc8b9514d24f65e10cd85d67b9df1c.png",
+      "md5": "bcfc8b9514d24f65e10cd85d67b9df1c",
+      "size": 134218,
+      "uploadedDate": "2023-05-27T07:57:33.478Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-c7591938cd254f22a09d4b00d1d0871e_Snapshot.png",
+      "md5": "ed7d8845e2c3d803bc08c5dafc54c897",
+      "size": 3990,
+      "uploadedDate": "2023-05-27T08:50:55.772Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-e3d27ecf18829d1d39c02b6f00a041df_Snapshot.png",
+      "md5": "f297c7d077a08f935b90bc220faed636",
+      "size": 4162,
+      "uploadedDate": "2023-05-27T07:57:32.867Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d796ee051e95bf97ee0c738fe1bdcbdd_Snapshot.png",
+      "md5": "2c3190a988802fe0120bd6bd4a3468f8",
+      "size": 5064,
+      "uploadedDate": "2023-05-27T07:57:33.324Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "29206886af8f45b6ab3b0dbca0857c16"
+    }
+  ],
+  "catalogNs": null
+}

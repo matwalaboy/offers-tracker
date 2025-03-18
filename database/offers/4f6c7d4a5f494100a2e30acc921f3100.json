@@ -1,0 +1,239 @@
+{
+  "id": "4f6c7d4a5f494100a2e30acc921f3100",
+  "namespace": "ue",
+  "title": "Crazy Insane Dining Sets",
+  "description": "An insanely large collection of high quality Next-Gen Ready Dining Sets.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/iuSFuwG9wnA\" rel=\"nofollow\">https://youtu.be/iuSFuwG9wnA</a><br /><br />This pack contains 65 Dining Sets and many small props keeping Dining rooms in mind. It is focused and aimed at Independent architects and Small Indie Studios with a very high quality and quantity in one giant pack. <br />All the furniture and many small props have texture resolutions of 4096x4096 with a few with 1024x1024 (which wouldn’t benefit from higher resolutions). Since this is a pack meant for interior scenes so LOD’s haven’t been applied but are included as Low Poly models where performance demands. <br />65 Blueprints are included with Dining Sets laid, so you just have to drag and drop them in your scenes.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "crazy-insane-dining-sets",
+  "creationDate": "2016-09-15T18:13:09.086Z",
+  "lastModifiedDate": "2024-09-28T10:08:10.692Z",
+  "effectiveDate": "2016-10-05T00:00:00.000Z",
+  "viewableDate": "2016-10-05T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-cc0531317941389b29a57c076cb906",
+    "name": "Tiny Little Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "No of Assets: 1470<br /><br />No of Meshes: 354 <br />: 65 Chairs and Tables <br />: 14 Hutches <br />: 28 Credenzas <br />: 10 Wine, Champagne and Whiskey Bottles <br />: 21 Wine, Champagne and Whiskey Glasses <br />: 2 Carpets/Rugs with multiple textures, 3 Plants, 2 Plant Pots, 2 Vases, 1 Figurine, 1 Table Lamp, 3 Benches, 2 Ceiling Lights, 4 Misc. Decoration props.<br /><br />No of Blueprints: 65<br /><br />Average Triangle count\t: From less than 3000 to about 35000 for some. Most have low poly models with them.<br /><br />No of Textures: 684<br /><br />Texture Resolutions: Minimum 512x512 for small parts 1024x1024 for glasses <br />: Mostly 4096x4096<br /><br />Number of Materials: 22 Master Materials <br />: 5 Material Functions <br />: 339 Material Instances<br /><br />Intended Platform: Desktop, Console &amp; VR",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/archvis"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e91aaac7-f7d2-4040-93d7-7a5b84e086a3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_1-1920x1080-1c702ff09d66bf0aeb714146b3ab7102.png",
+      "md5": "1c702ff09d66bf0aeb714146b3ab7102",
+      "size": 601502,
+      "uploadedDate": "2016-09-15T18:10:26.364Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_2-1920x1080-350d5f4f074db17c91ebfee1a4ee93f9.png",
+      "md5": "350d5f4f074db17c91ebfee1a4ee93f9",
+      "size": 706944,
+      "uploadedDate": "2016-09-15T18:10:28.439Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_3-1920x1080-df72a3bdfb1bd2f1098560871bea0147.png",
+      "md5": "df72a3bdfb1bd2f1098560871bea0147",
+      "size": 572439,
+      "uploadedDate": "2016-09-15T18:10:30.852Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_4-1920x1080-450429f004a1b343bdb451113e8b9b9f.png",
+      "md5": "450429f004a1b343bdb451113e8b9b9f",
+      "size": 554298,
+      "uploadedDate": "2016-09-15T18:10:35.086Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_5-1920x1080-ab07e453c7d5c094dc837b3fe9bfc801.png",
+      "md5": "ab07e453c7d5c094dc837b3fe9bfc801",
+      "size": 852878,
+      "uploadedDate": "2016-09-15T18:10:38.477Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_6-1920x1080-7bc083dc036878bead47c553d8b20ca4.png",
+      "md5": "7bc083dc036878bead47c553d8b20ca4",
+      "size": 340846,
+      "uploadedDate": "2016-09-15T18:10:40.831Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_7-1920x1080-855281375961df9505d1a46a962acc11.png",
+      "md5": "855281375961df9505d1a46a962acc11",
+      "size": 628928,
+      "uploadedDate": "2016-09-15T18:10:43.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_8-1920x1080-7b5fd1fe17485b411a3a4885f69c90c6.png",
+      "md5": "7b5fd1fe17485b411a3a4885f69c90c6",
+      "size": 638945,
+      "uploadedDate": "2016-09-15T18:10:45.831Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_9-1920x1080-435736fce36f53c6d9763b2f1f282b79.png",
+      "md5": "435736fce36f53c6d9763b2f1f282b79",
+      "size": 620100,
+      "uploadedDate": "2016-09-15T18:10:48.740Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_screenshot_10-1920x1080-bcf6a801bb4c2b947aba19262553bfc3.png",
+      "md5": "bcf6a801bb4c2b947aba19262553bfc3",
+      "size": 680462,
+      "uploadedDate": "2016-09-15T18:10:51.887Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_Thumb-248x248-95a5b2ed087b91d6bfe1b36bb63a5094.png",
+      "md5": "95a5b2ed087b91d6bfe1b36bb63a5094",
+      "size": 30741,
+      "uploadedDate": "2016-09-15T18:10:23.254Z",
+      "width": 248,
+      "height": 248
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_featured-476x246-b60d80e31393fadf3a3a1f16634d1dd1.png",
+      "md5": "b60d80e31393fadf3a3a1f16634d1dd1",
+      "size": 46932,
+      "uploadedDate": "2016-09-15T18:10:18.497Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_CrazyInsaneDiningSets_FeaturedNew-894x488-d4c07d8feb7cee3fbf5589d9b3df1e21.png",
+      "md5": "d4c07d8feb7cee3fbf5589d9b3df1e21",
+      "size": 141942,
+      "uploadedDate": "2016-09-15T18:10:20.785Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "b8cd166a16ee4a02b303af3ca917ece8"
+    }
+  ],
+  "catalogNs": null
+}

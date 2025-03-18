@@ -1,0 +1,674 @@
+{
+  "id": "1299ca5486ea460c997a17734168ad04",
+  "namespace": "ue",
+  "title": "Mutant 5",
+  "description": "Low-poly game ready model of the character Mutant 5",
+  "longDescription": "<p>Low-poly game ready model of the character Mutant 5</p><p>Rigged with Epic Skeleton with openable jaw</p><p>Suitable for games of different genre: RPG, strategy, first-personal shooter, etc.</p><p><a href=\"https://youtu.be/yD_tn2dJBvU\" rel=\"nofollow\">https://youtu.be/yD_tn2dJBvU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mutant-5-01",
+  "creationDate": "2022-04-25T19:23:19.613Z",
+  "lastModifiedDate": "2024-09-30T17:25:59.770Z",
+  "effectiveDate": "2022-04-25T19:23:19.520Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-r9w8yhdx7jeauju6t3purprgzn525u",
+    "name": "Estrele Indaz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Technical Details</p><p>1 Character</p><p> PBR Materials</p><p> 4K Textures</p><p>Epic Skeleton with additional bones: jaw (c_jaw_x)</p><p>Material instance</p><p> </p><p><br /></p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: Yes</p><p>If rigged to the Epic skeleton, IK bones are included: Yes</p><p>Animated: No</p><p>PBR Textures Metall/Roughness</p><p><br /></p><p>Materials instance: 9</p><p>Materials of Body(5) 4096x4096</p><p>Textures: 4096x4096 (32)</p><p>2048x2048 (13)</p><p><br /></p><p>tris 21748</p><p>vertices 12506</p><p>faces 11158</p><p>some of the photos are rendered in Marmoset</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b8bf5a4d-dff8-41ae-92e4-94f87838c16e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport-1920x1080-5a4c4b7ede1debda4f311c37317f98d5.jpg",
+      "md5": "5a4c4b7ede1debda4f311c37317f98d5",
+      "size": 93846,
+      "uploadedDate": "2022-04-23T12:09:02.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport003-1920x1080-26e7ffa99b55b3e891a78b5aa20aac18.jpg",
+      "md5": "26e7ffa99b55b3e891a78b5aa20aac18",
+      "size": 201769,
+      "uploadedDate": "2022-04-23T12:09:05.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport015-1920x1080-fb02988892473f8039bae8e8f0bfc7bc.jpg",
+      "md5": "fb02988892473f8039bae8e8f0bfc7bc",
+      "size": 129814,
+      "uploadedDate": "2022-04-23T12:09:01.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport001-1920x1080-8b78bedc5361cb64219f9ec30ff8d1e5.jpg",
+      "md5": "8b78bedc5361cb64219f9ec30ff8d1e5",
+      "size": 148175,
+      "uploadedDate": "2022-04-23T12:09:03.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport013-1920x1080-77c98c466ddf067c40db0e560ae44f88.jpg",
+      "md5": "77c98c466ddf067c40db0e560ae44f88",
+      "size": 159242,
+      "uploadedDate": "2022-04-23T12:08:52.377Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport010-1920x1080-9378d3e1666748f8e016c3fcd97e2629.jpg",
+      "md5": "9378d3e1666748f8e016c3fcd97e2629",
+      "size": 102540,
+      "uploadedDate": "2022-04-23T12:08:56.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport005-1920x1080-408d5228a13e8e82b7e70b3f4bb645f1.jpg",
+      "md5": "408d5228a13e8e82b7e70b3f4bb645f1",
+      "size": 88981,
+      "uploadedDate": "2022-04-23T12:09:07.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport017-1920x1080-29857eb99ba046b10fe13752a09f3ac3.jpg",
+      "md5": "29857eb99ba046b10fe13752a09f3ac3",
+      "size": 265088,
+      "uploadedDate": "2022-04-23T12:09:00.621Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport009-1920x1080-ab44f121fc89ae7cea982540afc4bc2b.jpg",
+      "md5": "ab44f121fc89ae7cea982540afc4bc2b",
+      "size": 146753,
+      "uploadedDate": "2022-04-23T12:08:56.034Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport006-1920x1080-c6ee61bab726e76ab3e4293e0bd7d83a.jpg",
+      "md5": "c6ee61bab726e76ab3e4293e0bd7d83a",
+      "size": 151316,
+      "uploadedDate": "2022-04-23T12:08:53.331Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport007-1920x1080-290192f3467b357ac43e5986942c010c.jpg",
+      "md5": "290192f3467b357ac43e5986942c010c",
+      "size": 148351,
+      "uploadedDate": "2022-04-23T12:08:54.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport008-1920x1080-b5b74fb993e587302139d5c20dd657cc.jpg",
+      "md5": "b5b74fb993e587302139d5c20dd657cc",
+      "size": 107092,
+      "uploadedDate": "2022-04-23T12:08:55.123Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport018-1920x1080-67a763049bab29e9c456819427157016.jpg",
+      "md5": "67a763049bab29e9c456819427157016",
+      "size": 201867,
+      "uploadedDate": "2022-04-23T12:08:59.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport002-1920x1080-27c3f5609604a16685ab00bb6751df29.jpg",
+      "md5": "27c3f5609604a16685ab00bb6751df29",
+      "size": 295139,
+      "uploadedDate": "2022-04-23T12:09:04.329Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport011-1920x1080-3b6d21a0e5904c6db0f281bb45a30d94.jpg",
+      "md5": "3b6d21a0e5904c6db0f281bb45a30d94",
+      "size": 87186,
+      "uploadedDate": "2022-04-23T12:08:57.794Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport020-1920x1080-b0530b6073c33461a664eb1b823a4b18.jpg",
+      "md5": "b0530b6073c33461a664eb1b823a4b18",
+      "size": 102964,
+      "uploadedDate": "2022-04-23T12:08:58.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesViewport004-1920x1080-2ba3f95a11370774a48dd24cd2dc8add.jpg",
+      "md5": "2ba3f95a11370774a48dd24cd2dc8add",
+      "size": 88229,
+      "uploadedDate": "2022-04-23T12:09:06.235Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-304fb8514e669edcb59ff89a7d7d0936.jpg",
+      "md5": "304fb8514e669edcb59ff89a7d7d0936",
+      "size": 369107,
+      "uploadedDate": "2022-04-23T12:09:07.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-2ad4345fbb9c21c86537778ff4f1039b.jpg",
+      "md5": "2ad4345fbb9c21c86537778ff4f1039b",
+      "size": 330695,
+      "uploadedDate": "2022-04-23T12:09:08.276Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-be8206864e5cb5e9fc725fdda196e31e.jpg",
+      "md5": "be8206864e5cb5e9fc725fdda196e31e",
+      "size": 363212,
+      "uploadedDate": "2022-04-23T12:09:08.630Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-852af3a4f69d53469c489cf19c6217a0.jpg",
+      "md5": "852af3a4f69d53469c489cf19c6217a0",
+      "size": 387940,
+      "uploadedDate": "2022-04-23T12:09:08.982Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-b48e5a0659a4d32d75f03a2c60ec0778.jpg",
+      "md5": "b48e5a0659a4d32d75f03a2c60ec0778",
+      "size": 414027,
+      "uploadedDate": "2022-04-23T12:09:09.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-b4876eeb13b8b99ffc49cc88630b4205.jpg",
+      "md5": "b4876eeb13b8b99ffc49cc88630b4205",
+      "size": 361322,
+      "uploadedDate": "2022-04-23T12:09:09.734Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-b58ea83743c7778d36997cbf890274f4.jpg",
+      "md5": "b58ea83743c7778d36997cbf890274f4",
+      "size": 352198,
+      "uploadedDate": "2022-04-23T12:09:10.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-c53cc39d50d56bb9a133d7ea7fc49b3a.jpg",
+      "md5": "c53cc39d50d56bb9a133d7ea7fc49b3a",
+      "size": 353370,
+      "uploadedDate": "2022-04-23T12:09:10.441Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Mutant5_thumb-284x284-396bb8d36fdb4c410c992114b48a2913.png",
+      "md5": "396bb8d36fdb4c410c992114b48a2913",
+      "size": 85386,
+      "uploadedDate": "2022-05-28T08:26:44.197Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Mutant5_featured-894x488-be92452e0277e1f534522e9b244d6da4.png",
+      "md5": "be92452e0277e1f534522e9b244d6da4",
+      "size": 248719,
+      "uploadedDate": "2022-04-23T12:09:10.835Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport013-1920x1080-77c98c466ddf067c40db0e560ae44f88_Snapshot.jpg",
+      "md5": "65183a9fe895ae4bf6d27a65c086ec95",
+      "size": 3432,
+      "uploadedDate": "2022-04-23T12:08:53.024Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport006-1920x1080-c6ee61bab726e76ab3e4293e0bd7d83a_Snapshot.jpg",
+      "md5": "60ad0331d0502724b2dd0473664b4530",
+      "size": 2814,
+      "uploadedDate": "2022-04-23T12:08:53.942Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport007-1920x1080-290192f3467b357ac43e5986942c010c_Snapshot.jpg",
+      "md5": "032811eb7e87cd91abd48ae13f06278f",
+      "size": 3455,
+      "uploadedDate": "2022-04-23T12:08:54.863Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport008-1920x1080-b5b74fb993e587302139d5c20dd657cc_Snapshot.jpg",
+      "md5": "f84de756d8cfee86f56d71bf0d4f732f",
+      "size": 2907,
+      "uploadedDate": "2022-04-23T12:08:55.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport009-1920x1080-ab44f121fc89ae7cea982540afc4bc2b_Snapshot.jpg",
+      "md5": "f369708cd5fbf40f7e2d388dd2e43d99",
+      "size": 3472,
+      "uploadedDate": "2022-04-23T12:08:56.663Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport010-1920x1080-9378d3e1666748f8e016c3fcd97e2629_Snapshot.jpg",
+      "md5": "4fa4ca9ac2570180d9723f21c4aec93e",
+      "size": 2875,
+      "uploadedDate": "2022-04-23T12:08:57.534Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport011-1920x1080-3b6d21a0e5904c6db0f281bb45a30d94_Snapshot.jpg",
+      "md5": "97e9d1c322a7647be0cd06111f8c84a8",
+      "size": 2468,
+      "uploadedDate": "2022-04-23T12:08:58.389Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport020-1920x1080-b0530b6073c33461a664eb1b823a4b18_Snapshot.jpg",
+      "md5": "26b1c5bb8e168063b62436022703a903",
+      "size": 2719,
+      "uploadedDate": "2022-04-23T12:08:59.343Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport018-1920x1080-67a763049bab29e9c456819427157016_Snapshot.jpg",
+      "md5": "17783815b3ca697171a54a3f523071c8",
+      "size": 4080,
+      "uploadedDate": "2022-04-23T12:09:00.295Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport017-1920x1080-29857eb99ba046b10fe13752a09f3ac3_Snapshot.jpg",
+      "md5": "acc0af113afbb5946d01bc288ff2e47c",
+      "size": 5059,
+      "uploadedDate": "2022-04-23T12:09:01.263Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport015-1920x1080-fb02988892473f8039bae8e8f0bfc7bc_Snapshot.jpg",
+      "md5": "00bf87c3c8e0bd394385f620759f8932",
+      "size": 3485,
+      "uploadedDate": "2022-04-23T12:09:02.138Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport-1920x1080-5a4c4b7ede1debda4f311c37317f98d5_Snapshot.jpg",
+      "md5": "ee061c6c54cebb2320ecaeb1b0d9b541",
+      "size": 2416,
+      "uploadedDate": "2022-04-23T12:09:03.005Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport001-1920x1080-8b78bedc5361cb64219f9ec30ff8d1e5_Snapshot.jpg",
+      "md5": "21e38c239dcbcc6b98fef0eac1988dba",
+      "size": 3194,
+      "uploadedDate": "2022-04-23T12:09:03.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport002-1920x1080-27c3f5609604a16685ab00bb6751df29_Snapshot.jpg",
+      "md5": "1dc9ac80e2be4e24d02ac78aab847cb4",
+      "size": 5538,
+      "uploadedDate": "2022-04-23T12:09:04.979Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport003-1920x1080-26e7ffa99b55b3e891a78b5aa20aac18_Snapshot.jpg",
+      "md5": "a6b9cccd025fbff968ef1b3c6859d91f",
+      "size": 3876,
+      "uploadedDate": "2022-04-23T12:09:05.938Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport004-1920x1080-2ba3f95a11370774a48dd24cd2dc8add_Snapshot.jpg",
+      "md5": "abac78ca29fc5a0c9bb82d112d4b3da1",
+      "size": 2327,
+      "uploadedDate": "2022-04-23T12:09:06.851Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesViewport005-1920x1080-408d5228a13e8e82b7e70b3f4bb645f1_Snapshot.jpg",
+      "md5": "f916d093a230f0f1563f8a39e5226de5",
+      "size": 2306,
+      "uploadedDate": "2022-04-23T12:09:07.770Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-304fb8514e669edcb59ff89a7d7d0936_Snapshot.jpg",
+      "md5": "db9146906a62f3f8147e59834e975db5",
+      "size": 4929,
+      "uploadedDate": "2022-04-23T12:09:08.150Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-2ad4345fbb9c21c86537778ff4f1039b_Snapshot.jpg",
+      "md5": "ca20e350eef0c52d4e4cccf4840b318b",
+      "size": 5954,
+      "uploadedDate": "2022-04-23T12:09:08.499Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-be8206864e5cb5e9fc725fdda196e31e_Snapshot.jpg",
+      "md5": "945a750e96a776789dcc7458010f204a",
+      "size": 6380,
+      "uploadedDate": "2022-04-23T12:09:08.857Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-852af3a4f69d53469c489cf19c6217a0_Snapshot.jpg",
+      "md5": "b7cc0d2ba22117ecd50f5127cbf2c704",
+      "size": 5480,
+      "uploadedDate": "2022-04-23T12:09:09.223Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-b48e5a0659a4d32d75f03a2c60ec0778_Snapshot.jpg",
+      "md5": "37b84a54326d1d8a1a5c7d8eda868135",
+      "size": 4987,
+      "uploadedDate": "2022-04-23T12:09:09.609Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-b4876eeb13b8b99ffc49cc88630b4205_Snapshot.jpg",
+      "md5": "f4c9248598dee4a98cdd6ea3ec06b13c",
+      "size": 5811,
+      "uploadedDate": "2022-04-23T12:09:09.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-b58ea83743c7778d36997cbf890274f4_Snapshot.jpg",
+      "md5": "2eaafc041523db149a8485eac24e2523",
+      "size": 5469,
+      "uploadedDate": "2022-04-23T12:09:10.334Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-c53cc39d50d56bb9a133d7ea7fc49b3a_Snapshot.jpg",
+      "md5": "3ce070216f04f9dd17160c35448186bf",
+      "size": 5647,
+      "uploadedDate": "2022-04-23T12:09:10.687Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "76eb9ae619b8446e932f78c2bb81cde3"
+    }
+  ],
+  "catalogNs": null
+}

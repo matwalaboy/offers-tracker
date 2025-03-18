@@ -1,0 +1,224 @@
+{
+  "id": "c099b02b8de84c18bca2bdf7ee8337a7",
+  "namespace": "ue",
+  "title": "Gems Icons 01",
+  "description": "A set of 100 gems icons. All icons are of high quality.",
+  "longDescription": "<p>All icons have transparent backgrounds, so you can place them on any surface you need.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "gems-icons-01",
+  "creationDate": "2023-06-13T01:51:58.489Z",
+  "lastModifiedDate": "2024-09-27T09:00:41.965Z",
+  "effectiveDate": "2023-06-13T01:51:58.435Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83vhy8a5we7mlr8zj94al9tj4s2rzx",
+    "name": "ChessStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>All Icons have transparent and grey background</li><li>  Each icon is 512x512 pixels size (PNG)</li><li> 100 unique icons in total</li></ul><p>Number of Textures: 100</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "62afdb0b-a17d-43f1-9aa7-d9ebad6dd1be"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1200x630-1920x1080-926da5d25f46e00ff26c3c2ad0ab94cf.png",
+      "md5": "926da5d25f46e00ff26c3c2ad0ab94cf",
+      "size": 2359373,
+      "uploadedDate": "2023-05-16T16:31:21.104Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/420x2180-1920x1080-b3ba853c638988bb9c3dd8fae854201d.png",
+      "md5": "b3ba853c638988bb9c3dd8fae854201d",
+      "size": 1771742,
+      "uploadedDate": "2023-05-16T16:31:21.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GemsIcons01_thumb-284x284-8cf3e8dcb8651b57eb62096ee3768db8.png",
+      "md5": "8cf3e8dcb8651b57eb62096ee3768db8",
+      "size": 150688,
+      "uploadedDate": "2023-05-16T16:31:22.255Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GemsIcons01_featured-894x488-d8e003e412f4768b6e72159d83a30ef5.png",
+      "md5": "d8e003e412f4768b6e72159d83a30ef5",
+      "size": 874730,
+      "uploadedDate": "2023-05-16T16:31:22.404Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1200x630-1920x1080-926da5d25f46e00ff26c3c2ad0ab94cf_Snapshot.png",
+      "md5": "968af33667770e763bed836937cfbf66",
+      "size": 10963,
+      "uploadedDate": "2023-05-16T16:31:21.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/420x2180-1920x1080-b3ba853c638988bb9c3dd8fae854201d_Snapshot.png",
+      "md5": "d3ab513d905b3b8b8e828b8e03f62483",
+      "size": 9283,
+      "uploadedDate": "2023-05-16T16:31:22.140Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7ab1e235de974069925cbf81635cf804"
+    }
+  ],
+  "catalogNs": null
+}

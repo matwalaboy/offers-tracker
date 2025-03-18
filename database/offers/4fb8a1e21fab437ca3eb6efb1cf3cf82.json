@@ -1,0 +1,332 @@
+{
+  "id": "4fb8a1e21fab437ca3eb6efb1cf3cf82",
+  "namespace": "ue",
+  "title": "Miami Night & Day City Pack",
+  "description": "This Miami city pack has been inspired by the famous Ocean Drive in Miami, which is home to many game and movie settings.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;AalJPGqbqPg\" rel=\"nofollow\">Watch a walkthrough video</a></p><p><br /></p><p>This Miami city pack has been inspired by the famous Ocean Drive in Miami, which is home to many game and movie settings.</p><p>Choose from a wealth of uniquely crafted meshes each with materials, textures and lods set up for optimal performance.  </p><p>Create vast exterior areas using the selection of meshes using modular assets which snap together allowing you to create the level of your choosing.</p><p>An example level showing you a glimpse of what you can create has been included with lighting and post processing effects giving you the game ready art you see in the screen shots.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "miami-night-city-pack",
+  "creationDate": "2021-11-26T18:32:01.456Z",
+  "lastModifiedDate": "2024-09-30T11:06:11.484Z",
+  "effectiveDate": "2021-11-26T18:32:01.402Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3gw8zexfa3s4awxy625lb8f9knepfd",
+    "name": "CrescentDialGames"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Key features:</p><ul><li>Modular components - Just drag and drop</li><li>Lots of props included allowing you to personalize to your own taste</li><li>Lighting and post processing included in example map</li></ul><p><br /></p><p>Number of Unique Meshes: 108</p><p>Collision: (Yes - automatically generated]</p><p>Vertex Count: Walls: 50 - 500, Large structures: 1000-5000, Props: 200-5000</p><p>LODs: Yes</p><p>Number of Materials [8]</p><p>Material Instances: [75]</p><p>Number of Textures:[125]</p><p><br /></p><p>Texture Resolutions: </p><p>4096 trim texture for large walls, structures</p><p>2048, 1024,512 for smaller deco, props and foliage</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d1c31555-3d28-4acc-9cd3-3e6569c510c5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 69-1920x1080-81136bab6e573001987143033ad87e58.jpg",
+      "md5": "81136bab6e573001987143033ad87e58",
+      "size": 345813,
+      "uploadedDate": "2021-11-02T11:13:07.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 65-1920x1080-2d8290ccf026cac129c981662e8b1702.jpg",
+      "md5": "2d8290ccf026cac129c981662e8b1702",
+      "size": 367205,
+      "uploadedDate": "2021-11-02T11:13:07.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 67-1920x1080-0bd6e2f4f34cfe15912ff6b9c37a49fb.jpg",
+      "md5": "0bd6e2f4f34cfe15912ff6b9c37a49fb",
+      "size": 345999,
+      "uploadedDate": "2021-11-02T11:13:08.299Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 68-1920x1080-c853e365a19f6e8c8ab4c636c871813d.jpg",
+      "md5": "c853e365a19f6e8c8ab4c636c871813d",
+      "size": 371505,
+      "uploadedDate": "2021-11-02T11:13:08.674Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 78-1920x1080-3b250850156d899583d9ebbcbe6a5cf2.jpg",
+      "md5": "3b250850156d899583d9ebbcbe6a5cf2",
+      "size": 404547,
+      "uploadedDate": "2021-11-02T11:13:08.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 76-1920x1080-d06f284e29397b3b8dece5d6b5ae2aed.jpg",
+      "md5": "d06f284e29397b3b8dece5d6b5ae2aed",
+      "size": 334982,
+      "uploadedDate": "2021-11-02T11:13:09.401Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 77-1920x1080-310573514c5f601cf58573e9f8e7e39d.jpg",
+      "md5": "310573514c5f601cf58573e9f8e7e39d",
+      "size": 344476,
+      "uploadedDate": "2021-11-02T11:13:09.745Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 75-1920x1080-ab9fb3a8bef5d0db48cb0963077d3417.jpg",
+      "md5": "ab9fb3a8bef5d0db48cb0963077d3417",
+      "size": 253653,
+      "uploadedDate": "2021-11-02T11:13:10.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 60-1920x1080-5d3647896ca1ad0d564f3dcf07e20462.jpg",
+      "md5": "5d3647896ca1ad0d564f3dcf07e20462",
+      "size": 217549,
+      "uploadedDate": "2021-11-02T11:13:10.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 62-1920x1080-0200a59eda2d3682718fca6d57efdab8.jpg",
+      "md5": "0200a59eda2d3682718fca6d57efdab8",
+      "size": 283159,
+      "uploadedDate": "2021-11-02T11:13:10.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MiamiNightCityPack_thumb-284x284-089929bb2a136bcf9620b97ed8153c4e.png",
+      "md5": "089929bb2a136bcf9620b97ed8153c4e",
+      "size": 168421,
+      "uploadedDate": "2021-11-02T11:13:11.107Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MiamiNightCityPack_featured-894x488-f9b404b579026a0a42400d8beab5c90e.png",
+      "md5": "f9b404b579026a0a42400d8beab5c90e",
+      "size": 778626,
+      "uploadedDate": "2021-11-02T11:13:11.249Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 69-1920x1080-81136bab6e573001987143033ad87e58_Snapshot.jpg",
+      "md5": "d1ed74cd18bdd9f6ecc69e657ee34eae",
+      "size": 8246,
+      "uploadedDate": "2021-11-02T11:13:07.809Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 65-1920x1080-2d8290ccf026cac129c981662e8b1702_Snapshot.jpg",
+      "md5": "ea3a2b35ab90c8c3190d115c4ecae0b5",
+      "size": 9018,
+      "uploadedDate": "2021-11-02T11:13:08.146Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 67-1920x1080-0bd6e2f4f34cfe15912ff6b9c37a49fb_Snapshot.jpg",
+      "md5": "8cb69d90fd30881ba1be2fdd72cff5d6",
+      "size": 8880,
+      "uploadedDate": "2021-11-02T11:13:08.558Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 68-1920x1080-c853e365a19f6e8c8ab4c636c871813d_Snapshot.jpg",
+      "md5": "59d69f3edb0c1eeaa376c8d7de9bac8e",
+      "size": 9162,
+      "uploadedDate": "2021-11-02T11:13:08.919Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 78-1920x1080-3b250850156d899583d9ebbcbe6a5cf2_Snapshot.jpg",
+      "md5": "a4562da0b95f06a15d7e8215359f944b",
+      "size": 9339,
+      "uploadedDate": "2021-11-02T11:13:09.241Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 76-1920x1080-d06f284e29397b3b8dece5d6b5ae2aed_Snapshot.jpg",
+      "md5": "8d40e6b1f42367193d24e09ac2ee9fa5",
+      "size": 7950,
+      "uploadedDate": "2021-11-02T11:13:09.624Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 77-1920x1080-310573514c5f601cf58573e9f8e7e39d_Snapshot.jpg",
+      "md5": "4ef9abc16bce24f5f497a0d71f521eee",
+      "size": 8099,
+      "uploadedDate": "2021-11-02T11:13:10.000Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 75-1920x1080-ab9fb3a8bef5d0db48cb0963077d3417_Snapshot.jpg",
+      "md5": "1cf6d71317b668ceac5c6091c8c53225",
+      "size": 7424,
+      "uploadedDate": "2021-11-02T11:13:10.340Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 60-1920x1080-5d3647896ca1ad0d564f3dcf07e20462_Snapshot.jpg",
+      "md5": "4527cf124c54ddbb6187a29903960685",
+      "size": 4782,
+      "uploadedDate": "2021-11-02T11:13:10.667Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 62-1920x1080-0200a59eda2d3682718fca6d57efdab8_Snapshot.jpg",
+      "md5": "0c4b0804e3bc22e6b6de9d9bfa468221",
+      "size": 5232,
+      "uploadedDate": "2021-11-02T11:13:10.999Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ca01bb42ee6144c8a6e2c7a49e05b04c"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,344 @@
+{
+  "id": "96c08c47d4b14ee1a00c5d4aeee7d054",
+  "namespace": "ue",
+  "title": "Cyclopse warrior",
+  "description": "Low-poly model of the character Cyclopse warrior",
+  "longDescription": "<p>Low-poly model of the character Cyclopse warrior Suitable for games of different genres RPG, strategy, shooter etc.</p><p>upd change to epic skeleton </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cyclopse-warrior",
+  "creationDate": "2021-04-15T13:24:27.653Z",
+  "lastModifiedDate": "2024-09-29T14:58:43.488Z",
+  "effectiveDate": "2021-04-15T13:24:27.511Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5jkveq4v4dukuegc66xw4utj8wk468",
+    "name": "A.SHARIPOV"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (yes)</p><p>If rigged to the Epic skeleton, IK bones are included: (yes)</p><p>Animated: (no) demo animations</p><p>Number of Animations: </p><p>Animation types (Root Motion 2/In-place 2):</p><p>Number of characters: 1</p><p>Vertex counts of characters: 12474</p><p>Number of Materials and Material Instances:2</p><p>Number of Textures:6</p><ul><li>Albedo</li><li>Gloss</li><li>AO</li><li>Normal</li><li>Alpha</li><li>Metallic</li></ul><p><br /></p><p>Texture Resolutions:</p><p>Body_and_cloth (4096x4096)</p><p>Armor (4096x4096)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: no</p><p>Important/Additional Notes:no</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7b075f21-6e2e-4ae2-bb7f-e373da55f233"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 1-1920x1080-9a7016344294b9ae2dea974c5627ae13.jpg",
+      "md5": "9a7016344294b9ae2dea974c5627ae13",
+      "size": 64124,
+      "uploadedDate": "2021-04-07T09:12:11.586Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 2-1920x1080-09b439b2880356140fe7f6154d0aad18.jpg",
+      "md5": "09b439b2880356140fe7f6154d0aad18",
+      "size": 54584,
+      "uploadedDate": "2021-04-07T09:12:11.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 3-1920x1080-a88724b091cc8bb81dfa33c4bb6a586b.jpg",
+      "md5": "a88724b091cc8bb81dfa33c4bb6a586b",
+      "size": 56257,
+      "uploadedDate": "2021-04-07T09:12:12.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 4-1920x1080-b5a1e6de1ba12a60216a95eb80f6056c.jpg",
+      "md5": "b5a1e6de1ba12a60216a95eb80f6056c",
+      "size": 54122,
+      "uploadedDate": "2021-04-07T09:12:12.563Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 5-1920x1080-f1656812a266adcaca55482d98642f98.jpg",
+      "md5": "f1656812a266adcaca55482d98642f98",
+      "size": 68339,
+      "uploadedDate": "2021-04-07T09:12:12.889Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 6-1920x1080-34d4dd4e1920f664263e19b54b8c7770.jpg",
+      "md5": "34d4dd4e1920f664263e19b54b8c7770",
+      "size": 187763,
+      "uploadedDate": "2021-04-07T09:12:13.243Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 7-1920x1080-2ce3367ec0a1cf68f2153cb60cd6bc94.jpg",
+      "md5": "2ce3367ec0a1cf68f2153cb60cd6bc94",
+      "size": 159241,
+      "uploadedDate": "2021-04-07T09:12:13.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset-1920x1080-f87382db91fecc756227d6c65717fd60.jpg",
+      "md5": "f87382db91fecc756227d6c65717fd60",
+      "size": 67090,
+      "uploadedDate": "2021-04-07T09:12:13.948Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/cyclopwarrior_thumb-284x284-a79739ceab61b1aca0308a607a2d97b4.png",
+      "md5": "a79739ceab61b1aca0308a607a2d97b4",
+      "size": 103036,
+      "uploadedDate": "2021-04-07T09:12:14.266Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/cyclopwarrior_featured-894x488-0dfea265855daafdc077adebb4a69a1d.png",
+      "md5": "0dfea265855daafdc077adebb4a69a1d",
+      "size": 152170,
+      "uploadedDate": "2021-04-07T09:12:14.435Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 1-1920x1080-9a7016344294b9ae2dea974c5627ae13_Snapshot.jpg",
+      "md5": "2de46ba9f6ec3f0aee8f92b21dc5d81e",
+      "size": 2294,
+      "uploadedDate": "2021-04-07T09:12:11.809Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 2-1920x1080-09b439b2880356140fe7f6154d0aad18_Snapshot.jpg",
+      "md5": "c03f141f5e99bbb4bfb70d612ab1fce4",
+      "size": 2087,
+      "uploadedDate": "2021-04-07T09:12:12.134Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 3-1920x1080-a88724b091cc8bb81dfa33c4bb6a586b_Snapshot.jpg",
+      "md5": "24b6033113d6d419907f7b7c833e8fdf",
+      "size": 2239,
+      "uploadedDate": "2021-04-07T09:12:12.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 4-1920x1080-b5a1e6de1ba12a60216a95eb80f6056c_Snapshot.jpg",
+      "md5": "de13848648b8a43a70ad8f873675bb53",
+      "size": 2147,
+      "uploadedDate": "2021-04-07T09:12:12.783Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 5-1920x1080-f1656812a266adcaca55482d98642f98_Snapshot.jpg",
+      "md5": "763457a465de0762823d7621f44f0016",
+      "size": 2373,
+      "uploadedDate": "2021-04-07T09:12:13.125Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 6-1920x1080-34d4dd4e1920f664263e19b54b8c7770_Snapshot.jpg",
+      "md5": "01f583d8bdac0a469244a6f4df7e932e",
+      "size": 5581,
+      "uploadedDate": "2021-04-07T09:12:13.490Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset 7-1920x1080-2ce3367ec0a1cf68f2153cb60cd6bc94_Snapshot.jpg",
+      "md5": "7bc4c206bfe1c44bd7a6e970fa70114f",
+      "size": 4724,
+      "uploadedDate": "2021-04-07T09:12:13.885Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cyclops-monster-giant-3d-model-low-poly-animated-rigged-max-obj-fbx-ma-unitypackage-uasset-1920x1080-f87382db91fecc756227d6c65717fd60_Snapshot.jpg",
+      "md5": "3abf4d1ff09661660386d4405bdbfea6",
+      "size": 2323,
+      "uploadedDate": "2021-04-07T09:12:14.182Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4b765a5870f042689e89687805d2fa09"
+    }
+  ],
+  "catalogNs": null
+}

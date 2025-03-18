@@ -1,0 +1,260 @@
+{
+  "id": "38226a795ed74e2d978ff4b51a471741",
+  "namespace": "ue",
+  "title": "Realistic Floor Decals Collection Vol. 1",
+  "description": "Floor decals of foot steps, vegetation, cracks and much more.",
+  "longDescription": "<p>Elevate your game environments with our &#34;Ultimate Floor Decals Pack.&#34; This collection features a diverse range of high-quality, realistic floor decals designed to add detail and authenticity to any scene. Whether you&#39;re creating urban settings, interior spaces, or outdoor environments, these floor decals will enhance the visual appeal of your projects effortlessly.</p><p>112 Floor decals.</p><p><a href=\"https://youtu.be/_pEFlrNEfjQ\" rel=\"nofollow\">(DEMO VIDEO)</a></p><p><br /></p><p>More Decals:</p><p><br /></p><p>DOORS:</p><ul><li><a href=\"https://publish.unrealengine.com/v3/edit-product/e95cc363646c4c7dacc946f1f5dcf9e4\" rel=\"nofollow\">Cemetery Doors and Windows Decals Vol. 1</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/97fe742564f34f59aa14b133fc936a3d\" rel=\"nofollow\">Vintage Doors &amp; Windows Decals Vol. 3</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/a3db63fe6c104de48e82353ad4433aab\" rel=\"nofollow\">Vintage Doors &amp; Windows Decals Vol. 2</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/a7be08f8fd06446dacc37dc288873af8\" rel=\"nofollow\">Vintage Doors &amp; Windows Decals Vol. 4</a></li></ul><p><br /></p><p>METAL RUSTY</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/5c31c7fbff1c45c5a658810e15cd4893\" rel=\"nofollow\">Metal rust decals Vol. 2</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/717a5a7981404170b63ece44fc85aa00\" rel=\"nofollow\">Metal rust decals Vol. 1</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/038feaa95a3a4316aca7fb1f3ca3d387\" rel=\"nofollow\">Decals Walls and Paint Vol. 1</a></li></ul><p>PAPERS</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/slug/9a797e0d97dc4672b18fc5c6d633d76d\" rel=\"nofollow\">Papers decals Vol. 1</a></li></ul><p>WALLS</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/498c1fc514b04f498a964c74d3409979\" rel=\"nofollow\">Decals Walls and Paint Vol. 2</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/523c2b6543304b1e9c60fde966b9211c\" rel=\"nofollow\">Decals Walls and Paint Vol. 3</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "realistic-floor-decals-collection-vol-1",
+  "creationDate": "2024-06-05T12:04:20.051Z",
+  "lastModifiedDate": "2024-09-27T20:37:31.809Z",
+  "effectiveDate": "2024-06-05T12:04:20.025Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vns2f3dxd2bhbvzx4pw8gr9gg3bb9b",
+    "name": "FullDecals"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>High-Resolution Decals: Each decal is created in high resolution, ensuring your walls look detailed and realistic, even up close.</li><li>Variety of Styles: Includes a range of burnt, scorched, and destroyed wall textures to suit different settings and scenarios.</li><li>PBR Materials: Physically Based Rendering (PBR) materials for accurate lighting and shadows.</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances:</p><ul><li>2 Master material</li><li>112 Material Instances</li></ul><p><br /></p><p>Number of Textures:</p><ul><li>334 Textures</li></ul><p><br /></p><p>Texture Resolutions:</p><ul><li>2048 x 2048 (334)</li></ul><p><br /></p><p>Supported Development Platforms:</p><ul><li>Windows</li><li>Mac</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1355",
+      "name": "MOTORBIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:14.696Z",
+      "updated": "2019-06-20T12:01:14.696Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cadab4c2-4385-4c5b-901d-0dd04090fa93"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Floor15-1920x1080-38603b5432a3fc4199fcdf5edc680f56.jpg",
+      "md5": "38603b5432a3fc4199fcdf5edc680f56",
+      "size": 2520984,
+      "uploadedDate": "2024-05-30T10:23:32.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Floor11-1920x1080-2af266e520505489600200e057ccf3c1.jpg",
+      "md5": "2af266e520505489600200e057ccf3c1",
+      "size": 2648858,
+      "uploadedDate": "2024-05-30T10:23:33.344Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Floor12-1920x1080-3710aac5a41e92c6b5c23b035c24b241.jpg",
+      "md5": "3710aac5a41e92c6b5c23b035c24b241",
+      "size": 1195487,
+      "uploadedDate": "2024-05-30T10:23:34.094Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Floor14-1920x1080-3499a7baf9a8ee7856018d3a95e18b3a.jpg",
+      "md5": "3499a7baf9a8ee7856018d3a95e18b3a",
+      "size": 2341036,
+      "uploadedDate": "2024-05-30T10:23:34.703Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealisticFloorDecalsCollectionVol1_thumb-284x284-c926cbcb8be418ee0d5013e4769d5d09.png",
+      "md5": "c926cbcb8be418ee0d5013e4769d5d09",
+      "size": 212217,
+      "uploadedDate": "2024-05-30T10:23:35.364Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealisticFloorDecalsCollectionVol1_featured-894x488-36cda92cd60f1763903581316add1e01.png",
+      "md5": "36cda92cd60f1763903581316add1e01",
+      "size": 1119471,
+      "uploadedDate": "2024-05-30T10:23:35.519Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Floor15-1920x1080-38603b5432a3fc4199fcdf5edc680f56_Snapshot.jpg",
+      "md5": "0219d1543b9553dad0090a2a6130943f",
+      "size": 8785,
+      "uploadedDate": "2024-05-30T10:23:32.663Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Floor11-1920x1080-2af266e520505489600200e057ccf3c1_Snapshot.jpg",
+      "md5": "036fb04ff7db15f51e23719d53ae942e",
+      "size": 10015,
+      "uploadedDate": "2024-05-30T10:23:33.772Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Floor12-1920x1080-3710aac5a41e92c6b5c23b035c24b241_Snapshot.jpg",
+      "md5": "09f5f8469996a200d1bad4952ecffbaa",
+      "size": 10866,
+      "uploadedDate": "2024-05-30T10:23:34.497Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Floor14-1920x1080-3499a7baf9a8ee7856018d3a95e18b3a_Snapshot.jpg",
+      "md5": "48183b648630c535466e3366f25120c5",
+      "size": 9108,
+      "uploadedDate": "2024-05-30T10:23:35.156Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "306d60c2594446419937481378860104"
+    }
+  ],
+  "catalogNs": null
+}

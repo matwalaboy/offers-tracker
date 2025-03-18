@@ -1,0 +1,272 @@
+{
+  "id": "248b081a7df748bd9a633c95d55677d5",
+  "namespace": "ue",
+  "title": "Dodge animation pack",
+  "description": "Dodge animation pack",
+  "longDescription": "<p>Set of dodge animations for Epic skeleton</p><p>you have a choice of different types of dodges for your unique project</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dodge-animation-pack",
+  "creationDate": "2023-12-18T03:51:15.009Z",
+  "lastModifiedDate": "2024-09-27T17:21:38.915Z",
+  "effectiveDate": "2023-12-18T03:51:14.974Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-l7u43webanffrrec2qqxtnmrud2bdx",
+    "name": "CometStore"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><ul><li> 8-way direction root-motion animations</li><li> Inplace animations</li><li> 5 different types of dodges</li></ul><p>Rigged to Epic skeleton: Yes</p><p>Number of Animations: 64</p><p>Animation types (Root Motion/In-place): 43 root-motion, 21 Inplace</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Documentation:   https://youtu.be/HCNrAt5roRw</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/animations"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "97ed5b40-2430-421d-aa0e-577c8c9b4902"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3pbv8fIwWsQ-1920x1080-e3187d19fb6ed6923fc30708e3c46d45.jpg",
+      "md5": "e3187d19fb6ed6923fc30708e3c46d45",
+      "size": 359266,
+      "uploadedDate": "2023-12-11T12:33:44.922Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/21T57qtoS88-1920x1080-d497b84562dd1f8b7148d7b9d594c80f.jpg",
+      "md5": "d497b84562dd1f8b7148d7b9d594c80f",
+      "size": 366757,
+      "uploadedDate": "2023-12-11T12:33:45.325Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bsT1yHXy8A-1920x1080-9fbd86a9188ddf2b1f7fac58b7437593.jpg",
+      "md5": "9fbd86a9188ddf2b1f7fac58b7437593",
+      "size": 374571,
+      "uploadedDate": "2023-12-11T12:33:45.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/yFSJ-DyGSyk-1920x1080-f901455cdaf7e89ddf0091ff3a14fbf6.jpg",
+      "md5": "f901455cdaf7e89ddf0091ff3a14fbf6",
+      "size": 364805,
+      "uploadedDate": "2023-12-11T12:33:46.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Z1YJVl3zFWQ-1920x1080-5e04f017599c6930056ab5fcce4c4f14.jpg",
+      "md5": "5e04f017599c6930056ab5fcce4c4f14",
+      "size": 361038,
+      "uploadedDate": "2023-12-11T12:33:46.594Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zsk9mGeUbtg-1920x1080-7a6c5ca7af8d8af25829e6989002c7d2.jpg",
+      "md5": "7a6c5ca7af8d8af25829e6989002c7d2",
+      "size": 344108,
+      "uploadedDate": "2023-12-11T12:33:47.048Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Dodgeanimationpack_thumb-284x284-abf50e0c13015ab18973924ff779291a.png",
+      "md5": "abf50e0c13015ab18973924ff779291a",
+      "size": 92003,
+      "uploadedDate": "2023-12-11T12:33:47.343Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Dodgeanimationpack_featured-894x488-1bf7b230fc78167f9b964bd372c6eb8a.png",
+      "md5": "1bf7b230fc78167f9b964bd372c6eb8a",
+      "size": 478219,
+      "uploadedDate": "2023-12-11T12:33:47.483Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3pbv8fIwWsQ-1920x1080-e3187d19fb6ed6923fc30708e3c46d45_Snapshot.jpg",
+      "md5": "58ad49e8cc958093281a908805247c7c",
+      "size": 5751,
+      "uploadedDate": "2023-12-11T12:33:45.199Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/21T57qtoS88-1920x1080-d497b84562dd1f8b7148d7b9d594c80f_Snapshot.jpg",
+      "md5": "cf6cd9fe693670c654b0ed60b9259157",
+      "size": 6055,
+      "uploadedDate": "2023-12-11T12:33:45.585Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bsT1yHXy8A-1920x1080-9fbd86a9188ddf2b1f7fac58b7437593_Snapshot.jpg",
+      "md5": "792eab8c142d9683fb9a6ce7925de3d4",
+      "size": 6291,
+      "uploadedDate": "2023-12-11T12:33:46.021Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/yFSJ-DyGSyk-1920x1080-f901455cdaf7e89ddf0091ff3a14fbf6_Snapshot.jpg",
+      "md5": "2142f773b49e9290863d75f4250afa82",
+      "size": 5520,
+      "uploadedDate": "2023-12-11T12:33:46.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Z1YJVl3zFWQ-1920x1080-5e04f017599c6930056ab5fcce4c4f14_Snapshot.jpg",
+      "md5": "acd1ebbdc4863ac3645176ad037ff368",
+      "size": 5889,
+      "uploadedDate": "2023-12-11T12:33:46.849Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zsk9mGeUbtg-1920x1080-7a6c5ca7af8d8af25829e6989002c7d2_Snapshot.jpg",
+      "md5": "afaf86733fbc658dd52d59ca405cfe5c",
+      "size": 5553,
+      "uploadedDate": "2023-12-11T12:33:47.294Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a0265f455d674a57b7f5f2642e7795a4"
+    }
+  ],
+  "catalogNs": null
+}

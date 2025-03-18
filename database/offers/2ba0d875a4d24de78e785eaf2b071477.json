@@ -1,0 +1,251 @@
+{
+  "id": "2ba0d875a4d24de78e785eaf2b071477",
+  "namespace": "ue",
+  "title": "Universal Interaction System",
+  "description": "Universal Interaction System (UIS) is a replicated Interaction System that you can implement in anything you want in a simple way.",
+  "longDescription": "<p><a href=\"https://discord.gg/KrYbHJZRWP\" rel=\"nofollow\">Discord Community</a> | <a href=\"https://frytinhass-organization.gitbook.io/universal-interaction-system\" rel=\"nofollow\">Documentation</a> | <a href=\"https://youtu.be/AVqHg35Tfuo?si&#61;FHCFRJc_DBrZcISO\" rel=\"nofollow\">Example Video</a> | <a href=\"https://github.com/frytinhas/Universal-Systems\" rel=\"nofollow\">Example Project</a></p><p>The Universal Interaction System plugin will bring a complete Interaction system that is fully replicated, fully documented, and can be implemented in an extremely simple way. You also have great support on our Discord server to answer any questions or recommend updates to the plugin.</p><p>Created entirely in C&#43;&#43; and all functions exposed to Blueprint!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "universal-interaction-system",
+  "creationDate": "2024-07-22T04:01:59.996Z",
+  "lastModifiedDate": "2024-09-30T06:41:09.808Z",
+  "effectiveDate": "2024-07-22T04:01:59.952Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bk5k9tyk5ccmpjxaysg3gbg9l8uhb5",
+    "name": "Frytinhas Marketplace"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Very Easy to Add - You just need to add two components and you&#39;re done!</li><li>Many detection modes - Detects from the center of the screen or close to the character. (You can add other modes using Gameplay Tags)</li><li>Everything is replicated - All plugin features are ready for replication (In the future ported to work on Dedicated Server&#39;s)</li><li>Easy Integration with Third-Party - You can integrate UIS with any other plugin easily, it was designed to integrate easily with other systems, such as <a href=\"https://www.unrealengine.com/marketplace/en-US/product/universal-inventory-system\" rel=\"nofollow\">UIVS</a> and <a href=\"https://www.unrealengine.com/marketplace/en-US/product/316bcdb7886e4799925c079f9bdac036\" rel=\"nofollow\">UES</a>.</li></ul><p><sub>Some features listed here or in the images may be under review by Epic Games and may take a while to update here on the Marketplace!</sub></p><p><br /></p><p>Code Modules:</p><ul><li>UniversalInteractionSystem (Runtime)</li></ul><p><br /></p><p>Number of Blueprints: 6 (Only example content)</p><p>Number of C&#43;&#43; Classes: 6</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: All</p><p><br /></p><p>Important/Additional Notes: This plugin can be frequently updated and change the way it works. Only update if you are aware of the risks, I recommend creating a new project with the updated version and checking the changes, if it&#39;s okay do the upgrade on the projects you want.</p><p><strong>(Expect price changes in the future)</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a313d8db-56b1-4a05-b8fa-1afbf89297ee"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-4ae4dcfd88d74ece943ab0d9bd490836.png",
+      "md5": "4ae4dcfd88d74ece943ab0d9bd490836",
+      "size": 2738371,
+      "uploadedDate": "2024-07-18T15:00:24.786Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-4443d4228c7a5f1aa5a6838ca951a482.png",
+      "md5": "4443d4228c7a5f1aa5a6838ca951a482",
+      "size": 515823,
+      "uploadedDate": "2024-07-12T20:27:14.581Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-3b41b20f23e8490cba9f27f76f54d530.png",
+      "md5": "3b41b20f23e8490cba9f27f76f54d530",
+      "size": 1876967,
+      "uploadedDate": "2024-07-18T15:30:10.053Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-d5643e243f530f6b215a97f4f5f5e911.png",
+      "md5": "d5643e243f530f6b215a97f4f5f5e911",
+      "size": 301262,
+      "uploadedDate": "2024-07-18T15:30:10.543Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-add22023fcaa5c79b4dcb04620471775.png",
+      "md5": "add22023fcaa5c79b4dcb04620471775",
+      "size": 224857,
+      "uploadedDate": "2024-07-18T15:30:10.900Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UniversalInteractionSystem_thumb-284x284-438d44072c249024580206024dc0ab6d.png",
+      "md5": "438d44072c249024580206024dc0ab6d",
+      "size": 111243,
+      "uploadedDate": "2024-09-10T03:18:10.454Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UniversalInteractionSystem_featured-894x488-6ffd4cc12cfae05642a8756e5c725a93.png",
+      "md5": "6ffd4cc12cfae05642a8756e5c725a93",
+      "size": 520747,
+      "uploadedDate": "2024-07-18T15:30:11.392Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-3b41b20f23e8490cba9f27f76f54d530_Snapshot.png",
+      "md5": "dcc1be733ff148c4e03a8c1835f225c5",
+      "size": 5793,
+      "uploadedDate": "2024-07-18T15:30:10.345Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-d5643e243f530f6b215a97f4f5f5e911_Snapshot.png",
+      "md5": "2ccb6962dd6e4d99660332db16561d35",
+      "size": 4605,
+      "uploadedDate": "2024-07-18T15:30:10.764Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-add22023fcaa5c79b4dcb04620471775_Snapshot.png",
+      "md5": "b91288fd81947a127dae0205314a2ec5",
+      "size": 3276,
+      "uploadedDate": "2024-07-18T15:30:11.158Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-4ae4dcfd88d74ece943ab0d9bd490836_Snapshot.png",
+      "md5": "b2877878e26574b20f6a902a45a515eb",
+      "size": 5050,
+      "uploadedDate": "2024-07-18T15:00:25.148Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-19cc5a49b0d25e265c0b786e2399ea48_Snapshot.png",
+      "md5": "5570bedb25d1dd3c29374c24a1799a4a",
+      "size": 6228,
+      "uploadedDate": "2024-07-12T20:27:14.449Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-4443d4228c7a5f1aa5a6838ca951a482_Snapshot.png",
+      "md5": "767dcc3058be52258cd62a20e633d459",
+      "size": 4064,
+      "uploadedDate": "2024-07-12T20:27:14.879Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "035f351459f94dbd97ee18fa88ecf469"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,332 @@
+{
+  "id": "04087c089f464faf95b30bdeb5a2daf2",
+  "namespace": "ue",
+  "title": "Retro Style: Japanese People Vol.01",
+  "description": "A pack of Japanese people in the retro style",
+  "longDescription": "<p><a href=\"https://youtu.be/FmNvL_n7d2I\" rel=\"nofollow\">Feature video</a></p><p><br /></p><p>This is a Retro style character pack.</p><p>Every character has 2 variety of textures, with a total amount of 20 unique characters.</p><p>This is a pack containing a variety of meshes, blueprints, materials, textures.</p><p>Basic animations are included.</p><p><br /></p><p>An asset zoo map is included with the pack to show all models and materials included in the pack.</p><p><br /></p><p>The character&#39;s is rigged to the Epic skeleton.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "retro-japanese-people-pack-vol-01",
+  "creationDate": "2024-08-20T13:31:52.156Z",
+  "lastModifiedDate": "2024-09-28T17:45:46.669Z",
+  "effectiveDate": "2024-08-20T13:31:52.120Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bbepx482na7cyhyt6xnx7lsnmufkla",
+    "name": "VOYAGER 3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features include:</p><p>-6 Male meshes</p><p>-4 Female meshes</p><p>-2 Bike meshes</p><p>-1 Traffic stick</p><p>-2 Office bags</p><p>-Asset zoo scene</p><p><br /></p><p>Number of Blueprints: 1</p><p>Number of Unique Meshes: 15 (Not including flipped or combined meshes)</p><p>Nanite meshes: No</p><p>Collision: Simple Collisions and Physics assets for Characters</p><p>LODs: Yes</p><p>Number of Materials and Material Instances: 27</p><p>Number of Textures: 29</p><p>Texture Resolutions: 256x256</p><p>Supported Development Platforms: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1195",
+      "name": "SKIING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:55.245Z",
+      "updated": "2019-06-20T11:59:55.245Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "43c68b7e-501f-49ff-8931-bed4ba8d8d2f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-94ce15a57f72073a61f094b286d3799a.jpg",
+      "md5": "94ce15a57f72073a61f094b286d3799a",
+      "size": 2111443,
+      "uploadedDate": "2024-08-14T10:02:28.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-aec26d88de5792aa1412b54c2c6acce8.jpg",
+      "md5": "aec26d88de5792aa1412b54c2c6acce8",
+      "size": 1985909,
+      "uploadedDate": "2024-08-14T10:02:29.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-2ca8a2855374acdede4006892a51cd06.jpg",
+      "md5": "2ca8a2855374acdede4006892a51cd06",
+      "size": 2181019,
+      "uploadedDate": "2024-08-14T10:02:32.262Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-bf33e67fdc939e9ad8105b11b51d6da1.jpg",
+      "md5": "bf33e67fdc939e9ad8105b11b51d6da1",
+      "size": 2253991,
+      "uploadedDate": "2024-08-14T10:02:33.198Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-075d8ce8f8d33db9a29a58cc8a70a7d3.jpg",
+      "md5": "075d8ce8f8d33db9a29a58cc8a70a7d3",
+      "size": 2186834,
+      "uploadedDate": "2024-08-14T10:02:31.292Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-e4ed016006b8300fecbe2bf96b595c73.jpg",
+      "md5": "e4ed016006b8300fecbe2bf96b595c73",
+      "size": 2117357,
+      "uploadedDate": "2024-08-14T10:02:30.348Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-87e60c544fd2cc7b1026a83553f191a9.jpg",
+      "md5": "87e60c544fd2cc7b1026a83553f191a9",
+      "size": 2120415,
+      "uploadedDate": "2024-08-19T17:51:10.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08-1920x1080-cf19a46f44127b97d6f67f0f1ef45745.jpg",
+      "md5": "cf19a46f44127b97d6f67f0f1ef45745",
+      "size": 2124534,
+      "uploadedDate": "2024-08-19T17:51:11.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VoyagerAdvert16-9108001-1920x1080-98b47ddb0a06e778efd7380ff975244d.jpg",
+      "md5": "98b47ddb0a06e778efd7380ff975244d",
+      "size": 1743879,
+      "uploadedDate": "2024-08-19T17:51:12.758Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VoyagerAdvert16-9108002-1920x1080-ee547a7dd762cb8ca73b74b27721753c.jpg",
+      "md5": "ee547a7dd762cb8ca73b74b27721753c",
+      "size": 1536368,
+      "uploadedDate": "2024-08-19T17:51:13.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RetroJapanesePeoplePackVol01_thumb-284x284-08e618897a34600657c6655afc3535f2.png",
+      "md5": "08e618897a34600657c6655afc3535f2",
+      "size": 179380,
+      "uploadedDate": "2024-08-23T09:16:10.794Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RetroJapanesePeoplePackVol01_featured-894x488-e60d69409573eb3fa93820bbb17e5dc7.png",
+      "md5": "e60d69409573eb3fa93820bbb17e5dc7",
+      "size": 968320,
+      "uploadedDate": "2024-08-23T09:16:10.941Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-87e60c544fd2cc7b1026a83553f191a9_Snapshot.jpg",
+      "md5": "751e3535891cc547b537a961df27382c",
+      "size": 6210,
+      "uploadedDate": "2024-08-19T17:51:11.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-1920x1080-cf19a46f44127b97d6f67f0f1ef45745_Snapshot.jpg",
+      "md5": "fb57bbb0e0ae763aa33bb76fe5eec67f",
+      "size": 6034,
+      "uploadedDate": "2024-08-19T17:51:12.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VoyagerAdvert16-9108001-1920x1080-98b47ddb0a06e778efd7380ff975244d_Snapshot.jpg",
+      "md5": "5fcdc8e454b665a7252a3eeba02cb909",
+      "size": 7846,
+      "uploadedDate": "2024-08-19T17:51:13.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VoyagerAdvert16-9108002-1920x1080-ee547a7dd762cb8ca73b74b27721753c_Snapshot.jpg",
+      "md5": "14837de032310bd27fba94c639768d14",
+      "size": 8765,
+      "uploadedDate": "2024-08-19T17:51:13.549Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-94ce15a57f72073a61f094b286d3799a_Snapshot.jpg",
+      "md5": "2733421fcce4953d254f389bbe03ad2d",
+      "size": 4978,
+      "uploadedDate": "2024-08-14T10:02:29.073Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-aec26d88de5792aa1412b54c2c6acce8_Snapshot.jpg",
+      "md5": "07860b6eacda1f43f18fd7e3fb1419e4",
+      "size": 4367,
+      "uploadedDate": "2024-08-14T10:02:30.015Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-e4ed016006b8300fecbe2bf96b595c73_Snapshot.jpg",
+      "md5": "d5c0b08523d038425464f54f3ab58253",
+      "size": 5329,
+      "uploadedDate": "2024-08-14T10:02:30.997Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-075d8ce8f8d33db9a29a58cc8a70a7d3_Snapshot.jpg",
+      "md5": "1aabd034811b88012ed252ae735d613c",
+      "size": 5406,
+      "uploadedDate": "2024-08-14T10:02:31.922Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-2ca8a2855374acdede4006892a51cd06_Snapshot.jpg",
+      "md5": "04b6fa085e03c4c0ec27a19ce7017620",
+      "size": 6088,
+      "uploadedDate": "2024-08-14T10:02:32.879Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-bf33e67fdc939e9ad8105b11b51d6da1_Snapshot.jpg",
+      "md5": "52ef05cea1541477c73844980bdf0e85",
+      "size": 5966,
+      "uploadedDate": "2024-08-14T10:02:33.834Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f01a2fca4f9448088ef5fd688cc70462"
+    }
+  ],
+  "catalogNs": null
+}

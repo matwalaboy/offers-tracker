@@ -1,0 +1,326 @@
+{
+  "id": "6337683af5c8414da8d49111d591a6fa",
+  "namespace": "ue",
+  "title": "Coding Scrolling Materials",
+  "description": "Use a material to achieve code scrolling effect!",
+  "longDescription": "<p>Sometimes we need to use an effect similar to code scrolling in a 3D scene or 2D Ul interface. Now, using this material can help you easily achieve a fully automatic code scrolling effect!</p><ul><li><a href=\"https://youtu.be/YLOFfPUNlS4\" rel=\"nofollow\">YouTube</a></li><li><a href=\"https://www.bilibili.com/video/BV1fu411u7WP/?share_source&#61;copy_web&amp;vd_source&#61;59427e6b858b11e951c2b800e8e110fa\" rel=\"nofollow\">bilibili</a></li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "coding-scrolling-materials",
+  "creationDate": "2023-10-04T03:00:30.651Z",
+  "lastModifiedDate": "2024-09-30T16:29:36.736Z",
+  "effectiveDate": "2023-10-04T03:00:30.598Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ac65hpy28kcxmaz8ryq55kmgqz35yz",
+    "name": "ViK"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://1drv.ms/b/s!As-_uvvSUxHAlDy8f_h0OIEOJ9EP?e&#61;fW4cd5\" rel=\"nofollow\"><strong>Coding Scrolling Materials Documentation</strong></a></p><p>-----------------------------------------------------------------------------------</p><p>Features:</p><ul><li> Use a material to achieve code scrolling effect!</li><li> Parameter control as you wish!</li><li> The material can be used in 3D scenes and UI interfaces.</li></ul><p>Number of Unique Materials and Material Instances: 24</p><p>Number of Textures: 8</p><p>Texture Resolutions: 8*8, 128*128, 256*256, 512*128, 512*512, 616*380</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2023-08-08T14:01:47.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 67,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "62c64b82-e5e2-4a71-88d2-8fc1ed328feb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-9d84ef65b9b7243c80719b282916c4ed.png",
+      "md5": "9d84ef65b9b7243c80719b282916c4ed",
+      "size": 1316462,
+      "uploadedDate": "2023-10-03T04:40:04.872Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01.PNG-1920x1080-36ae9a7728f7bb137664f1d7f7c1629b.jpg",
+      "md5": "36ae9a7728f7bb137664f1d7f7c1629b",
+      "size": 1718261,
+      "uploadedDate": "2023-10-03T04:40:05.573Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02.PNG-1920x1080-e15eb1b8436a2ea8495a47e6ab8f64a8.jpg",
+      "md5": "e15eb1b8436a2ea8495a47e6ab8f64a8",
+      "size": 1790294,
+      "uploadedDate": "2023-10-03T04:40:06.181Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03.PNG-1920x1080-58250ab220e13521b6b42c65566c050a.jpg",
+      "md5": "58250ab220e13521b6b42c65566c050a",
+      "size": 1738957,
+      "uploadedDate": "2023-10-03T04:40:06.863Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04.PNG-1920x1080-25743c3775c7fe69cbe7fe56db8985bd.jpg",
+      "md5": "25743c3775c7fe69cbe7fe56db8985bd",
+      "size": 515330,
+      "uploadedDate": "2023-10-03T04:40:07.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05.PNG-1920x1080-8f5663f68972ffff83fb556b5d4c43a5.jpg",
+      "md5": "8f5663f68972ffff83fb556b5d4c43a5",
+      "size": 364895,
+      "uploadedDate": "2023-10-03T04:40:08.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06.PNG-1920x1080-03395b3d7255a4bef4ed2fe3e9323040.jpg",
+      "md5": "03395b3d7255a4bef4ed2fe3e9323040",
+      "size": 184943,
+      "uploadedDate": "2023-10-03T04:40:08.519Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CodingScrollingMaterials_thumb-284x284-e9468a70f3673765201374eeccc108d0.png",
+      "md5": "e9468a70f3673765201374eeccc108d0",
+      "size": 48402,
+      "uploadedDate": "2023-10-03T04:40:08.957Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CodingScrollingMaterials_featured-894x488-4925f8f477e645f57f2c7d7dbe2d4346.png",
+      "md5": "4925f8f477e645f57f2c7d7dbe2d4346",
+      "size": 525341,
+      "uploadedDate": "2023-10-03T04:40:09.123Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-9d84ef65b9b7243c80719b282916c4ed_Snapshot.png",
+      "md5": "84b0fb8b31e6ea63e7f68ac83d07a5dd",
+      "size": 6842,
+      "uploadedDate": "2023-10-03T04:40:05.265Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01.PNG-1920x1080-36ae9a7728f7bb137664f1d7f7c1629b_Snapshot.jpg",
+      "md5": "4bc9925d156a91caa7e040ffecd30aaf",
+      "size": 6235,
+      "uploadedDate": "2023-10-03T04:40:05.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02.PNG-1920x1080-e15eb1b8436a2ea8495a47e6ab8f64a8_Snapshot.jpg",
+      "md5": "1e0bb238731348b1230853eccfbe7887",
+      "size": 5996,
+      "uploadedDate": "2023-10-03T04:40:06.603Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03.PNG-1920x1080-58250ab220e13521b6b42c65566c050a_Snapshot.jpg",
+      "md5": "897d37fe306078e3114361d31665b914",
+      "size": 6343,
+      "uploadedDate": "2023-10-03T04:40:07.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04.PNG-1920x1080-25743c3775c7fe69cbe7fe56db8985bd_Snapshot.jpg",
+      "md5": "a2d9cd5a6a141b7033ae24c37d62d239",
+      "size": 4022,
+      "uploadedDate": "2023-10-03T04:40:07.766Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05.PNG-1920x1080-8f5663f68972ffff83fb556b5d4c43a5_Snapshot.jpg",
+      "md5": "c88e7283e0ae7db9d55788e7cafca712",
+      "size": 4886,
+      "uploadedDate": "2023-10-03T04:40:08.434Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06.PNG-1920x1080-03395b3d7255a4bef4ed2fe3e9323040_Snapshot.jpg",
+      "md5": "a93e0a0d15f61d56d84e14fce9d86ee1",
+      "size": 3403,
+      "uploadedDate": "2023-10-03T04:40:08.779Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "46224ed0ecec4b6bb435fdc5a937f333"
+    }
+  ],
+  "catalogNs": null
+}

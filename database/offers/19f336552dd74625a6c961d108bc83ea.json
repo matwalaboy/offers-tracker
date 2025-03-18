@@ -1,0 +1,338 @@
+{
+  "id": "19f336552dd74625a6c961d108bc83ea",
+  "namespace": "ue",
+  "title": "Battle troll",
+  "description": "Battle troll for fantasy projects",
+  "longDescription": "<p>Low-poly model of armored battle troll.</p><p>Suitable for games of different genre: RPG, strategy, first-person etc.</p><p>Contains three different skins: grey, dark and white (separately for armored version and disarmed).</p><p>I recommend to use a shader with a two-sided display of polygons.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "battle-troll",
+  "creationDate": "2020-09-03T02:36:18.419Z",
+  "lastModifiedDate": "2024-09-27T11:14:58.608Z",
+  "effectiveDate": "2020-09-03T02:36:16.389Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8n4xd4s5hmqabwdyavtt6zndv5k5d5",
+    "name": "SAN 3D Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>In-engine video on YouTube: https://www.youtube.com/watch?v&#61;2ZN_6uu49eU</p><p>Trailer on YouTube: https://www.youtube.com/watch?v&#61;AoId1rbqtDA&amp;t</p><p>ArtStation: https://www.artstation.com/artwork/5XWrQA</p><p><br /></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (No)</p><p>Animated: (Yes)</p><p>Number of Animations: 21 (separately for armed and disarmed versions - totally 42)</p><p>Animation types (In-place):</p><p>Number of characters: 1</p><p>Vertex counts of characters: 12639 (with armor) 5573 (without armor)</p><p>Number of Materials and Material Instances: 6 (3 skins for body and 3 skins for armor)</p><p>Number of Textures: 24</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Linux: (Yes)</p><p>Documentation: No link</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "06e9f9f4-47e8-403e-a48a-043d9a219a3f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-1920x1080-d6815ef9bdbf8440b1eef24435c15294.png",
+      "md5": "d6815ef9bdbf8440b1eef24435c15294",
+      "size": 1766217,
+      "uploadedDate": "2020-08-31T06:58:29.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 1-1920x1080-a3a452bcd2e710dafac4532c73d90af7.jpg",
+      "md5": "a3a452bcd2e710dafac4532c73d90af7",
+      "size": 519725,
+      "uploadedDate": "2020-08-31T06:58:30.440Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 2-1920x1080-a6291614f85f80ce7d22e1c22c8e2163.jpg",
+      "md5": "a6291614f85f80ce7d22e1c22c8e2163",
+      "size": 362692,
+      "uploadedDate": "2020-08-31T06:58:30.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 3-1920x1080-c3b3993191c17cb0f9531d3bcfa3c644.jpg",
+      "md5": "c3b3993191c17cb0f9531d3bcfa3c644",
+      "size": 672739,
+      "uploadedDate": "2020-08-31T06:58:31.884Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 4-1920x1080-6d5ac9df003209cf033b415c43be18fe.jpg",
+      "md5": "6d5ac9df003209cf033b415c43be18fe",
+      "size": 433096,
+      "uploadedDate": "2020-08-31T06:58:32.704Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 5-1920x1080-ebb1e0311b82b50d2eb173fed68247e1.jpg",
+      "md5": "ebb1e0311b82b50d2eb173fed68247e1",
+      "size": 420457,
+      "uploadedDate": "2020-08-31T06:58:33.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screen 6-1920x1080-55237f2be8e8acb764e8c0a30b4746d7.jpg",
+      "md5": "55237f2be8e8acb764e8c0a30b4746d7",
+      "size": 329195,
+      "uploadedDate": "2020-08-31T06:58:34.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Battletroll_thumb-284x284-6dfa81c700c970b4d538621a567e6a2b.png",
+      "md5": "6dfa81c700c970b4d538621a567e6a2b",
+      "size": 119518,
+      "uploadedDate": "2020-08-31T06:58:35.093Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Battletroll_featured-894x488-0e66c785449ce5629ef8071b7cc34620.png",
+      "md5": "0e66c785449ce5629ef8071b7cc34620",
+      "size": 537530,
+      "uploadedDate": "2020-08-31T06:58:35.314Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-1920x1080-d6815ef9bdbf8440b1eef24435c15294_Snapshot.png",
+      "md5": "63591e0316d0fdbff72defbb2f9d134d",
+      "size": 5669,
+      "uploadedDate": "2020-08-31T06:58:29.967Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 1-1920x1080-a3a452bcd2e710dafac4532c73d90af7_Snapshot.jpg",
+      "md5": "4ca3b28965e38c1027bd4667a376bf7e",
+      "size": 7193,
+      "uploadedDate": "2020-08-31T06:58:30.773Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 2-1920x1080-a6291614f85f80ce7d22e1c22c8e2163_Snapshot.jpg",
+      "md5": "7cb1494069117d623778e6e137731ac7",
+      "size": 6006,
+      "uploadedDate": "2020-08-31T06:58:31.318Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 3-1920x1080-c3b3993191c17cb0f9531d3bcfa3c644_Snapshot.jpg",
+      "md5": "a997ee9d28272d8a49065ee3f6c4a6a4",
+      "size": 7562,
+      "uploadedDate": "2020-08-31T06:58:32.445Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 4-1920x1080-6d5ac9df003209cf033b415c43be18fe_Snapshot.jpg",
+      "md5": "300f6f12277305117f9fd5c3e26250b6",
+      "size": 7091,
+      "uploadedDate": "2020-08-31T06:58:33.190Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 5-1920x1080-ebb1e0311b82b50d2eb173fed68247e1_Snapshot.jpg",
+      "md5": "3a22f8e25db93143128170876b9a79ff",
+      "size": 6156,
+      "uploadedDate": "2020-08-31T06:58:34.057Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen 6-1920x1080-55237f2be8e8acb764e8c0a30b4746d7_Snapshot.jpg",
+      "md5": "6764cc4d3da2c8347ebff1cffaab0165",
+      "size": 6114,
+      "uploadedDate": "2020-08-31T06:58:34.784Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "73d9a1070cfe423d89ea4c920b444d34"
+    }
+  ],
+  "catalogNs": null
+}

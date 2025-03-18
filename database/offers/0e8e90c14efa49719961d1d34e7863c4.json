@@ -1,0 +1,170 @@
+{
+  "id": "0e8e90c14efa49719961d1d34e7863c4",
+  "namespace": "ue",
+  "title": "Computer Noises",
+  "description": "A library with recorded noise emissions of various computers and their components.",
+  "longDescription": "Preview: <a href=\"https://soundcloud.com/refills-by-detunized/computer-noises\" rel=\"nofollow\">https://soundcloud.com/refills-by-detunized/computer-noises</a><br /><br />Computer Noises is based on a wide palette of noises that computers of the past decades emit during operation. <br />The library provides sounds of booting computers, blower fans, read/write access of floppy discs, CD-ROMs or hard drives. <br />Ten computers were recorded. This encompasses an old PC2, several desktop computers of the nineties and a selection of laptop computers. <br />Each machine is featured with full boot sequences, as well as separate hard disk and fan noises recorded from different positions within the computer casings.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "computer-noises",
+  "creationDate": "2016-09-13T18:07:52.185Z",
+  "lastModifiedDate": "2024-09-27T11:13:50.906Z",
+  "effectiveDate": "2016-09-28T00:00:00.000Z",
+  "viewableDate": "2016-09-28T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 75 <br />Number of Audio Cues: 75 <br />Resolution: 44.1 kHz, 16bit mono/stereo <br />Sound File Descriptions: included as pdf, ods, csv, xls <br />Individual Sound File Length: 10 to 104 seconds <br />Total playing time: 1h 6min",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "847ffc23-c432-45ac-8804-40f6e837f9eb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ComputerNoises_Screenshot-1920x1080-2c66bfcd467104b7fe95b0fc553ac3c0.png",
+      "md5": "2c66bfcd467104b7fe95b0fc553ac3c0",
+      "size": 609944,
+      "uploadedDate": "2016-09-13T18:06:01.761Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ComputerNoises_Thumb-284x284-7a65fa18e194ffb2ed842edf960424f2.png",
+      "md5": "7a65fa18e194ffb2ed842edf960424f2",
+      "size": 40157,
+      "uploadedDate": "2016-09-13T18:05:59.765Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ComputerNoises_Featured-476x246-7c7448f36445fe505a9ad3769c265d0c.png",
+      "md5": "7c7448f36445fe505a9ad3769c265d0c",
+      "size": 56947,
+      "uploadedDate": "2016-09-13T18:05:55.887Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/ComputerNoises_FeaturedNew-894x488-7b90aafe4aada9ae7f82ebb345a0337b.png",
+      "md5": "7b90aafe4aada9ae7f82ebb345a0337b",
+      "size": 174157,
+      "uploadedDate": "2016-09-13T18:05:57.763Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "527c72220a174eccb6d09a6b776e1761"
+    }
+  ],
+  "catalogNs": null
+}

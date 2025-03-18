@@ -1,0 +1,374 @@
+{
+  "id": "71f14d7eb9d84f4b8d8db8862c8255f3",
+  "namespace": "ue",
+  "title": "Fantasy Book Icons Set",
+  "description": "A set of 160 Fantasy Books icons on transparent background",
+  "longDescription": "<p>This set includes 160 2D books icons on transparent background.</p><p>This pack is perfect for using as items for characters, adding various game features and stats, medieval rpg games, icons.</p><p>Each image is 2000x2000 pixels on transparent background.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-book-icons-set",
+  "creationDate": "2024-03-30T21:32:19.563Z",
+  "lastModifiedDate": "2024-09-29T12:42:46.963Z",
+  "effectiveDate": "2024-03-30T21:32:19.494Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2rxhppg7mzhrxuxtegucekfhwaf6zs",
+    "name": "morgansovka"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p><br /></p><ul><li>Resolutions 2000x2000 pixels</li><li>Number of Icons: 160</li><li>Transparent background: yes</li><li>Supported Development Platforms:</li><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "50aef76c-6d16-4089-85c3-25106b8e643c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1920x1080-d369b4266c045d71b820d03a13a704fe.jpg",
+      "md5": "d369b4266c045d71b820d03a13a704fe",
+      "size": 814902,
+      "uploadedDate": "2024-03-29T19:27:15.880Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1920x1080-84b411d8f7ebeca3ab73257107b4b9df.jpg",
+      "md5": "84b411d8f7ebeca3ab73257107b4b9df",
+      "size": 1006377,
+      "uploadedDate": "2024-03-29T19:27:16.505Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-2d4d4b7bd99646932c208c9d08446614.jpg",
+      "md5": "2d4d4b7bd99646932c208c9d08446614",
+      "size": 843435,
+      "uploadedDate": "2024-03-29T19:27:17.104Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-7003660a59be750b00096685149703d9.jpg",
+      "md5": "7003660a59be750b00096685149703d9",
+      "size": 979535,
+      "uploadedDate": "2024-03-29T19:27:17.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-d00ba71283e8ff8b3bd0515f8f1cc71f.jpg",
+      "md5": "d00ba71283e8ff8b3bd0515f8f1cc71f",
+      "size": 1032876,
+      "uploadedDate": "2024-03-29T19:27:18.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-0814cb9968e50c75a8de9362dffba1be.jpg",
+      "md5": "0814cb9968e50c75a8de9362dffba1be",
+      "size": 972144,
+      "uploadedDate": "2024-03-29T19:27:19.030Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-5bbe49aad7a76a2c922b5d80c606a5ed.jpg",
+      "md5": "5bbe49aad7a76a2c922b5d80c606a5ed",
+      "size": 1058846,
+      "uploadedDate": "2024-03-29T19:27:19.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyBookIconsSet_thumb-284x284-4434540fc0c0c43dea271f09998724e1.png",
+      "md5": "4434540fc0c0c43dea271f09998724e1",
+      "size": 164062,
+      "uploadedDate": "2024-03-29T19:27:20.152Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyBookIconsSet_featured-894x488-bb69f7c276b4a0680fe4deedf6c514f5.png",
+      "md5": "bb69f7c276b4a0680fe4deedf6c514f5",
+      "size": 395968,
+      "uploadedDate": "2024-03-29T19:27:20.233Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1920x1080-d369b4266c045d71b820d03a13a704fe_Snapshot.jpg",
+      "md5": "0a0f390076aa566c489ab95ab0f4fb68",
+      "size": 6709,
+      "uploadedDate": "2024-03-29T19:27:16.261Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1920x1080-84b411d8f7ebeca3ab73257107b4b9df_Snapshot.jpg",
+      "md5": "fe07249f4859a848bfa903dc85c8eb5a",
+      "size": 7982,
+      "uploadedDate": "2024-03-29T19:27:16.870Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-2d4d4b7bd99646932c208c9d08446614_Snapshot.jpg",
+      "md5": "679c02efa20a4c5f54032d9e6b89fc97",
+      "size": 5955,
+      "uploadedDate": "2024-03-29T19:27:17.494Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-7003660a59be750b00096685149703d9_Snapshot.jpg",
+      "md5": "475d84e932696bb10094d35c9e4a964f",
+      "size": 5788,
+      "uploadedDate": "2024-03-29T19:27:18.132Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-d00ba71283e8ff8b3bd0515f8f1cc71f_Snapshot.jpg",
+      "md5": "7249fd1a5b560e2bfbc97214c06f3a4a",
+      "size": 6896,
+      "uploadedDate": "2024-03-29T19:27:18.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-0814cb9968e50c75a8de9362dffba1be_Snapshot.jpg",
+      "md5": "129c27576c7c5aeb6685cc7609b65930",
+      "size": 6299,
+      "uploadedDate": "2024-03-29T19:27:19.415Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-5bbe49aad7a76a2c922b5d80c606a5ed_Snapshot.jpg",
+      "md5": "69f756f6c3d652eeac828dbbf10acc37",
+      "size": 6395,
+      "uploadedDate": "2024-03-29T19:27:19.968Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5d2068848fd6487db2b0242497087d36"
+    }
+  ],
+  "catalogNs": null
+}

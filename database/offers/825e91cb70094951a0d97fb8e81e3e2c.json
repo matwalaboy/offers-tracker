@@ -1,0 +1,191 @@
+{
+  "id": "825e91cb70094951a0d97fb8e81e3e2c",
+  "namespace": "ue",
+  "title": "Did it hit - Trace Detection Plugin",
+  "description": "A detection system that determines if a collision should have happened.",
+  "longDescription": "<p>When using the default overlapping detection methods, even with colliders, if the speed or the animation is too fast, the intended collision can be skipped entirely.</p><p>This is the case for small bullets against thin targets or weapon swinging animations that are too fast or scattered.</p><p>This system allows you to trace between positions and determine if something was hit.</p><p><strong><u>The difference between this and the free plugin is that this actually comes with a complete set of parameters to use with cross-linking tracing methods. This means you will have less chances of missing the target.</u></strong></p><p><strong><u>The difference between this and the blueprint plugin is performance. This can be used extensively on multiple objects whereas with blueprints, it&#39;s way more costly and limited.</u></strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "did-it-hit-plugin",
+  "creationDate": "2021-08-22T15:39:46.168Z",
+  "lastModifiedDate": "2024-09-26T17:37:22.395Z",
+  "effectiveDate": "2021-08-22T15:39:46.139Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ux5ul79mncz6kb4t9hbl2su8rtsbsr",
+    "name": "ProjectZero"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/1wlCJPNflgo\" rel=\"nofollow\">Preview Video</a></p><p>Features:</p><ul><li> An actor component with simple setup</li><li>Works with both static meshes and skeletal meshes</li><li> 3 methods of detection</li><li>high modularity by the user: can trace by objects, channels, use lines, boxes, etc.</li><li>can skip frames if needed to improve performance.</li><li>An OnItemAdded event that can be called when items are detected immediately.</li><li>A socket filter to exclude/include sockets by strings</li></ul><p>Code Modules:</p><ul><li>A Detection Actor Component (Runtime)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No - the detection itself does not need to be replicated.</p><p>Supported Development Platforms: Win32, Win64</p><p>Supported Target Build Platforms: Win32, Win64</p><p>Documentation: <a href=\"https://docs.google.com/document/d/11qllbL25E--GNrVZTFZzNHgfl2_0svmC/edit?usp&#61;sharing&amp;ouid&#61;110347600781409880846&amp;rtpof&#61;true&amp;sd&#61;true\" rel=\"nofollow\">Link </a> &lt;&lt;&lt; contains all previous example projects for 4.26 and 5.0</p><p>Example Project: <a href=\"https://mega.nz/file/waAlgLrS#-lA2DnKpR5h0Ug5OrEHWUEGorfPijp7Sd5sQnOvdXpg\" rel=\"nofollow\">5.1 Link</a> : use key: -lA2DnKpR5h0Ug5OrEHWUEGorfPijp7Sd5sQnOvdXpg</p><p>Discord channel: <a href=\"https://discord.gg/VmFXeq7J9F\" rel=\"nofollow\">https://discord.gg/VmFXeq7J9F</a></p><p>Important notes: Starting with 5.1, the actor component is &#34;AC_Di<strong><u>d</u></strong>ItHit&#34;; all previous versions are &#34;AC_Di<strong><u>t</u></strong>ItHit&#34;. See the documentation.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1199",
+      "name": "STEAMPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.224Z",
+      "updated": "2019-06-20T11:59:57.224Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2c6d8470-b6b9-43c8-b607-b9fce26d7df4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diha0-1920x1080-aa42d880fd65252bf543c089ddbb455f.png",
+      "md5": "aa42d880fd65252bf543c089ddbb455f",
+      "size": 1513189,
+      "uploadedDate": "2021-08-17T21:11:47.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diha2-1920x1080-5a000d85391c72a0746455302064c2c5.png",
+      "md5": "5a000d85391c72a0746455302064c2c5",
+      "size": 291506,
+      "uploadedDate": "2021-08-17T21:11:48.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/diha1-1920x1080-929a2ccf4bd66f294477030ca4bf9c72.png",
+      "md5": "929a2ccf4bd66f294477030ca4bf9c72",
+      "size": 1345798,
+      "uploadedDate": "2021-08-17T21:11:48.900Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DidithitPlugin_thumb-284x284-7534927641086c166b6d209238f71ace.png",
+      "md5": "7534927641086c166b6d209238f71ace",
+      "size": 112101,
+      "uploadedDate": "2021-08-17T21:11:49.260Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DidithitPlugin_featured-894x488-4a864f08b6f8ab802fd3403c7136aad0.png",
+      "md5": "4a864f08b6f8ab802fd3403c7136aad0",
+      "size": 412095,
+      "uploadedDate": "2021-08-17T21:11:49.374Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diha0-1920x1080-aa42d880fd65252bf543c089ddbb455f_Snapshot.png",
+      "md5": "6535b12987f0d29b5ac5b0ef27fd49db",
+      "size": 5613,
+      "uploadedDate": "2021-08-17T21:11:48.301Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diha2-1920x1080-5a000d85391c72a0746455302064c2c5_Snapshot.png",
+      "md5": "ee6507ef6b335506680800a10e3273db",
+      "size": 6134,
+      "uploadedDate": "2021-08-17T21:11:48.716Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/diha1-1920x1080-929a2ccf4bd66f294477030ca4bf9c72_Snapshot.png",
+      "md5": "76de284c99840ffc84ed7adaf2d6291e",
+      "size": 5886,
+      "uploadedDate": "2021-08-17T21:11:49.206Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/all swords.PNG-1920x1080-5c53241898e09cc181512e3a7480b8dd_Snapshot.jpg",
+      "md5": "b7cd4b25228b92ce32a68d05f2ef122c",
+      "size": 4648,
+      "uploadedDate": "2021-08-14T19:51:57.143Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b164bba3bc374cc5ae8dfd0e68373278"
+    }
+  ],
+  "catalogNs": null
+}

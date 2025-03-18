@@ -1,0 +1,308 @@
+{
+  "id": "acd29fb4509b4ca79b43c642ba649bf5",
+  "namespace": "ue",
+  "title": "Generic Trees and Bushes",
+  "description": "This asset pack consists of two forest scene including 10 highly detailed trees, 4 bushes, 6 rocks and many smaller plants.",
+  "longDescription": "<p>An asset pack for your wonderful nature scenes. The pack includes generic trees and bushes for filling up your scenes and they are optimised with seamless LODs and Imposters for creating dense scenes. Included are some smaller plants, grass and rocks for populating your scene, and a rain particle system and thunder blueprints as bonus.</p><p><br /></p><p>New trees will be added later without any additional price increase.</p><p>For any other queries please contact me through mail. </p><p><br /></p><h2>Playable Demos -</h2><h2>\t\t\t\t\t\tUE5: <a href=\"https://drive.google.com/file/d/1DLsKhFedFaH73yHTqTSVzLbRGDIdOaf6/view?usp&#61;sharing\" rel=\"nofollow\">Link</a>  - Is very intensive due to lumen being kept on for better visuals</h2><h2>\t\t\t\t\t\tUE4: <a href=\"https://drive.google.com/file/d/1Pym9-AxOiOCMpQc4AWKE7y7Wu-NrcX-O/view?usp&#61;sharing\" rel=\"nofollow\">Link</a></h2>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "generic-trees-and-bushes",
+  "creationDate": "2022-05-26T17:58:17.911Z",
+  "lastModifiedDate": "2024-09-26T19:08:32.966Z",
+  "effectiveDate": "2022-05-26T17:58:17.836Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fm9yvzxqyvwa7gneay9usjnfcne7tm",
+    "name": "RK-Solutions"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Main Features:</p><ul><li> 5 Generic trees (large), 2 (small) trees, 3 dead trees</li><li> 6 rock meshes with adjustable moss layer on top</li><li> 4 bushes</li><li>3 Fern models, 3 small plants and 7 Grass&#43;Weed models</li><li>4 Twig models</li><li>5 Taro plant meshes</li><li>1 rain particle system and 1 thunder blueprint for that moody night scene</li></ul><p>Number of Unique Meshes: 42</p><p>Collision: Yes (Mostly simple collision with complex collision for the rock meshes)</p><p>Vertex Count: NA (Different for different meshes)</p><p>LODs: Yes</p><p>Number of Materials and Material Instances: 16 Materials and 32 Material Instances</p><p>Number of Textures: 88</p><p>Texture Resolutions: 4096x4096, 2048x2048, 1024x1024, 512x512, 256x256, 512x1024, 1024x2048, 1024x512, 512x256</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: NA</p><p>Important/Additional Notes: NA</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cc87eb89-2fb5-4e73-947e-a9dcb8bd5cf4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 729-1920x1080-78772b7861644e106ce93acdabde7952.jpg",
+      "md5": "78772b7861644e106ce93acdabde7952",
+      "size": 926024,
+      "uploadedDate": "2022-05-22T12:38:09.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000-1920x1080-f05432fe6e8fa2d6a295210727ee21d5.jpg",
+      "md5": "f05432fe6e8fa2d6a295210727ee21d5",
+      "size": 880479,
+      "uploadedDate": "2022-05-22T12:38:10.259Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 730-1920x1080-37fed051f274547baa35c12b987999c3.jpg",
+      "md5": "37fed051f274547baa35c12b987999c3",
+      "size": 860586,
+      "uploadedDate": "2022-05-22T12:38:10.637Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-c69ea35412266101504ee1792cdd71a3.jpg",
+      "md5": "c69ea35412266101504ee1792cdd71a3",
+      "size": 519951,
+      "uploadedDate": "2022-05-22T12:38:11.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-cb669f7bd6e9f4d59f36512d369e0552.jpg",
+      "md5": "cb669f7bd6e9f4d59f36512d369e0552",
+      "size": 591695,
+      "uploadedDate": "2022-05-22T12:38:11.385Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-04be6d9cdf20f8dfdb05f724478d787f.jpg",
+      "md5": "04be6d9cdf20f8dfdb05f724478d787f",
+      "size": 1148534,
+      "uploadedDate": "2022-05-22T12:38:11.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GenericTreesandBushes_thumb-284x284-ed77edbe3725acba7ec3c9016c2f7d37.png",
+      "md5": "ed77edbe3725acba7ec3c9016c2f7d37",
+      "size": 213620,
+      "uploadedDate": "2022-05-22T12:38:12.185Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GenericTreesandBushes_featured-894x488-d5256e3ae63a5396ef5e2911643ed471.png",
+      "md5": "d5256e3ae63a5396ef5e2911643ed471",
+      "size": 1141515,
+      "uploadedDate": "2022-05-22T12:38:12.291Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 729-1920x1080-78772b7861644e106ce93acdabde7952_Snapshot.jpg",
+      "md5": "1ac3e1063737b5b8a952546437d0c60c",
+      "size": 7697,
+      "uploadedDate": "2022-05-22T12:38:10.068Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000-1920x1080-f05432fe6e8fa2d6a295210727ee21d5_Snapshot.jpg",
+      "md5": "a5d5786ec0ce823ea69345a6a1ad3dc3",
+      "size": 7686,
+      "uploadedDate": "2022-05-22T12:38:10.501Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 730-1920x1080-37fed051f274547baa35c12b987999c3_Snapshot.jpg",
+      "md5": "a7e6c11ba390c2e7637bf9e5f1610ba8",
+      "size": 7464,
+      "uploadedDate": "2022-05-22T12:38:10.886Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-c69ea35412266101504ee1792cdd71a3_Snapshot.jpg",
+      "md5": "f5dc90bbc445b0605f1942b90032942e",
+      "size": 5923,
+      "uploadedDate": "2022-05-22T12:38:11.245Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-cb669f7bd6e9f4d59f36512d369e0552_Snapshot.jpg",
+      "md5": "56e12dd343a07f255344ba6627fff387",
+      "size": 5260,
+      "uploadedDate": "2022-05-22T12:38:11.615Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-04be6d9cdf20f8dfdb05f724478d787f_Snapshot.jpg",
+      "md5": "51cf035d3ba337e026bda813f1e87345",
+      "size": 7581,
+      "uploadedDate": "2022-05-22T12:38:12.054Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "56aca594c3844e9895ee041210acc270"
+    }
+  ],
+  "catalogNs": null
+}

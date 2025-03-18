@@ -1,0 +1,296 @@
+{
+  "id": "fa4b16cf2f574e70b09f13a693490daf",
+  "namespace": "ue",
+  "title": "Forest Creature Backgrounds",
+  "description": "Forest Creature Backgrounds pack with 140 images to enrich your game’s environments with mystical forest scenes.",
+  "longDescription": "<p>Immerse your players in the enchanting world of the forest with the Forest Creature Backgrounds pack, featuring 140 high-resolution images (1456x816). These backgrounds depict mystical and nature-inspired landscapes, perfect for fantasy, adventure, and RPG games. Whether used for in-game scenes, menus, or storytelling, this collection provides detailed and atmospheric visuals to bring a magical forest setting to life.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "forest-creature-backgrounds",
+  "creationDate": "2024-09-17T06:37:41.943Z",
+  "lastModifiedDate": "2024-09-30T20:25:38.448Z",
+  "effectiveDate": "2024-09-17T06:37:41.913Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolution:</strong> 1456 x 816 pixels</li><li><strong>Total Images:</strong> 140</li><li><strong>File Format:</strong> PNG</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ab73f1f9-6206-466e-8fb3-49aab75d8fa3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview000-1920x1080-d5cab683520da3a91884fbb012f729d5.jpeg",
+      "md5": "d5cab683520da3a91884fbb012f729d5",
+      "size": 162755,
+      "uploadedDate": "2024-09-16T15:57:27.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview000-1920x1080-d5cab683520da3a91884fbb012f729d5_Snapshot.jpeg",
+      "md5": "917fd7558cab139c9e5293928a224912",
+      "size": 5075,
+      "uploadedDate": "2024-09-16T15:57:28.228Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-c177c68dfcc592f5da1fb5f9cccc58c2.jpeg",
+      "md5": "c177c68dfcc592f5da1fb5f9cccc58c2",
+      "size": 190716,
+      "uploadedDate": "2024-09-16T15:57:28.364Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-c177c68dfcc592f5da1fb5f9cccc58c2_Snapshot.jpeg",
+      "md5": "939d1c1b2380da1c1c08a2b24beb8156",
+      "size": 6213,
+      "uploadedDate": "2024-09-16T15:57:28.616Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-8f29e14a78468d1f62adc653b9881b84.jpeg",
+      "md5": "8f29e14a78468d1f62adc653b9881b84",
+      "size": 201386,
+      "uploadedDate": "2024-09-16T15:57:28.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-8f29e14a78468d1f62adc653b9881b84_Snapshot.jpeg",
+      "md5": "90b68ef52e973cc9cdc49359f45771e6",
+      "size": 6211,
+      "uploadedDate": "2024-09-16T15:57:29.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm006-1920x1080-a2e8fed97cf63344540cda94abc6975c.jpeg",
+      "md5": "a2e8fed97cf63344540cda94abc6975c",
+      "size": 214045,
+      "uploadedDate": "2024-09-16T15:57:29.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm006-1920x1080-a2e8fed97cf63344540cda94abc6975c_Snapshot.jpeg",
+      "md5": "2ec94b0df34108c52ac84920ea1762fc",
+      "size": 6626,
+      "uploadedDate": "2024-09-16T15:57:29.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm008-1920x1080-d804ca0c470bbaf427043b0496c5eb72.jpeg",
+      "md5": "d804ca0c470bbaf427043b0496c5eb72",
+      "size": 210849,
+      "uploadedDate": "2024-09-16T15:57:29.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm008-1920x1080-d804ca0c470bbaf427043b0496c5eb72_Snapshot.jpeg",
+      "md5": "9c68665c572b0250b9438e0caf75bebd",
+      "size": 6373,
+      "uploadedDate": "2024-09-16T15:57:29.728Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm009-1920x1080-b1324e6f9e0011b475cb4ad58c73bdc2.jpeg",
+      "md5": "b1324e6f9e0011b475cb4ad58c73bdc2",
+      "size": 200227,
+      "uploadedDate": "2024-09-16T15:57:29.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm009-1920x1080-b1324e6f9e0011b475cb4ad58c73bdc2_Snapshot.jpeg",
+      "md5": "9327d9eb7a9a50459695ac47a9bd0dac",
+      "size": 6053,
+      "uploadedDate": "2024-09-16T15:57:30.059Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ForestCreatureBackgrounds_thumb-284x284-f049b220d27bff41a753a936070705a9.png",
+      "md5": "f049b220d27bff41a753a936070705a9",
+      "size": 167835,
+      "uploadedDate": "2024-09-16T15:57:30.230Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ForestCreatureBackgrounds_featured-894x488-10de8814f11938e7e3c06306f471f315.png",
+      "md5": "10de8814f11938e7e3c06306f471f315",
+      "size": 573698,
+      "uploadedDate": "2024-09-16T15:57:30.500Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "30b9f27eac364bc1a71a45acfb053225"
+    }
+  ],
+  "catalogNs": null
+}

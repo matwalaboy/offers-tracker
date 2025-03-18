@@ -1,0 +1,194 @@
+{
+  "id": "fc8751298d1f4af99ebd21f528eb20f3",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Modular Dungeon",
+  "description": "Assets pack that suits all the required parts for create a large array of Modular Dungeons with lowpoly style.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;B8EvDqb8dLE&amp;t&#61;0\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;B8EvDqb8dLE&amp;t&#61;0</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>Combine the modules for create dungeons, and put the details using the props. Very useful for procedural dungeons generators thanks to its simplicity.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-modular-dungeon",
+  "creationDate": "2017-04-27T17:10:36.658Z",
+  "lastModifiedDate": "2024-09-29T23:53:24.583Z",
+  "effectiveDate": "2017-05-02T00:00:00.000Z",
+  "viewableDate": "2017-05-02T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> (44) Dungeon Parts </li><li> (17) Props </li></ul><p>Texture Size: -</p><p>Number of Textures: 0</p><p>Collision: Yes, Per-Poly Collisions</p><p>Vertex Count: 40 to 810</p><p>LODs: 0</p><p>Number of Meshes: 61</p><p>Number of Materials and Material Instances: 1 Master Materials, 14 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "70dd7e69-63f8-4a7f-b49a-085f2923715d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_01-1920x1080-907443e52a0421128ddf19186e8361f0.png",
+      "md5": "907443e52a0421128ddf19186e8361f0",
+      "size": 655757,
+      "uploadedDate": "2017-04-27T17:03:53.058Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_02-1920x1080-704a0179ae396caef1292e5aa9283ddc.png",
+      "md5": "704a0179ae396caef1292e5aa9283ddc",
+      "size": 595404,
+      "uploadedDate": "2017-04-27T17:03:50.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_03-1920x1080-f3c93beb1c25aa7d9c2384b44ac213cd.png",
+      "md5": "f3c93beb1c25aa7d9c2384b44ac213cd",
+      "size": 536987,
+      "uploadedDate": "2017-04-27T17:03:47.027Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_04-1920x1080-86aafa6aa073722a8e22cc61ee7d54c6.png",
+      "md5": "86aafa6aa073722a8e22cc61ee7d54c6",
+      "size": 545209,
+      "uploadedDate": "2017-04-27T17:03:44.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_05-1920x1080-6b498557f7b4f6de343df4683cd6f94d.png",
+      "md5": "6b498557f7b4f6de343df4683cd6f94d",
+      "size": 590343,
+      "uploadedDate": "2017-04-27T17:03:41.543Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_screenshot_06-1920x1080-09e468fea04f033ef83d742032b46776.png",
+      "md5": "09e468fea04f033ef83d742032b46776",
+      "size": 512642,
+      "uploadedDate": "2017-04-27T17:03:38.730Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_Thumb-284x284-e1bb4d61ad415b70ed3ad0252353354a.png",
+      "md5": "e1bb4d61ad415b70ed3ad0252353354a",
+      "size": 242022,
+      "uploadedDate": "2017-04-27T17:03:55.889Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyModularDungeon_FeaturedNew-894x488-0b6101b99c36ce5ad01fb220ed440901.png",
+      "md5": "0b6101b99c36ce5ad01fb220ed440901",
+      "size": 503615,
+      "uploadedDate": "2017-04-27T17:03:59.274Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "b271298bedc94bc3be8bb7246c59b746"
+    }
+  ],
+  "catalogNs": null
+}

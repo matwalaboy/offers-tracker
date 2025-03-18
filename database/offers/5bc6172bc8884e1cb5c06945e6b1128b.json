@@ -1,0 +1,149 @@
+{
+  "id": "5bc6172bc8884e1cb5c06945e6b1128b",
+  "namespace": "ue",
+  "title": "Room Tones Industry Building",
+  "description": "A 4-channel IRT surround library of room tones.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/XV4fBtrbE90\" rel=\"nofollow\">youtu.be/XV4fBtrbE90</a><br /><br />RT Industrial Building delivers ambience recordings gathered in an 80&#39;s Industrial Building. <br />The recordings took place on a stormy and rainy Sunday. Due to the blank surfaces along the walls, thin single-glass windows and large airshafts, the weather elements got massively reflected throughout the buildings floors. Also the rain water pipes are placed inside the building which caused a constant sound of flowing water.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "room-tones-industry-building",
+  "creationDate": "2017-01-03T16:02:18.527Z",
+  "lastModifiedDate": "2024-09-27T11:14:50.958Z",
+  "effectiveDate": "2017-01-11T00:00:00.000Z",
+  "viewableDate": "2017-01-11T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 38 <br />Number of Audio Cues: 38 <br />Resolution: 44.1 kHz, 16 bit, 2&#43;2 stereo <br />Total playing time: 2x60 min",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "66cc5d6a-3d23-495b-af69-2b9e3094da2e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/IB_Room_Tones_Screenshot_1920x1080-1920x1080-83ff443610e4611c280694fe55f48d38.png",
+      "md5": "83ff443610e4611c280694fe55f48d38",
+      "size": 681769,
+      "uploadedDate": "2017-01-03T16:01:34.510Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/IB_Room_Tones_Thumbnail_284x284-284x284-71a9f5498d106c6d0332773066f3f130.png",
+      "md5": "71a9f5498d106c6d0332773066f3f130",
+      "size": 40752,
+      "uploadedDate": "2017-01-03T16:01:32.671Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/IB_Room_Tones_FeaturedNew_894x488-894x488-1c17237218840f399f13333e6f22ac80.png",
+      "md5": "1c17237218840f399f13333e6f22ac80",
+      "size": 157418,
+      "uploadedDate": "2017-01-03T16:01:30.933Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "7948bfc51d724713aba0eb0b61916467"
+    }
+  ],
+  "catalogNs": null
+}

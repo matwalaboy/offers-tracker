@@ -1,0 +1,224 @@
+{
+  "id": "2e41515ed1b047ca86e7763e7a6d1cb4",
+  "namespace": "ue",
+  "title": "Stylized Scrolls - Icons Pack",
+  "description": "100 stylized scroll pictures without backgrounds",
+  "longDescription": "<p>This collection features 100 stylized scroll artworks. Includes a variety of different appearances, outfits, expressions, and poses. Ideal for Visual Novels, Character Profiles, Themed Stories, Storytelling, Store Listings, Role-Playing Games (RPG), Adventure Games, Main Characters, Loading Screens, Dialogue Pages, Trading Card Games (TCG), User Interfaces (UI), and more.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-scrolls",
+  "creationDate": "2024-05-31T08:50:31.857Z",
+  "lastModifiedDate": "2024-09-30T20:49:36.045Z",
+  "effectiveDate": "2024-05-31T08:50:31.824Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>100 high-quality stylized rings picture</li><li>Diverse designs with different seasons, colors, outfits, and expressions</li><li>Various character poses and interactions</li></ul><p>Number of all textures: 300</p><p>256*256 - 100 png images</p><p>515*512 - 100 png images</p><p>1024*1024 - 100 png images</p><p><br /></p><p>Texture Resolutions: 1024*1024</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1072244b-5f02-4f37-bfef-1e95ae233ca7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/s 1-1920x1080-b006e87c66a91b6168a75e71202f2e32.jpg",
+      "md5": "b006e87c66a91b6168a75e71202f2e32",
+      "size": 124167,
+      "uploadedDate": "2024-05-27T19:18:12.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/s 1-1920x1080-605d9ed1ba3df49e481dba87068883d7.jpg",
+      "md5": "605d9ed1ba3df49e481dba87068883d7",
+      "size": 173993,
+      "uploadedDate": "2024-05-27T19:18:13.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedScrolls_thumb-284x284-a14d45c1bf3c8c0f86a02497898f2a38.png",
+      "md5": "a14d45c1bf3c8c0f86a02497898f2a38",
+      "size": 80659,
+      "uploadedDate": "2024-05-27T19:18:13.638Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedScrolls_featured-894x488-54d602b1a5a877876639017cfe905311.png",
+      "md5": "54d602b1a5a877876639017cfe905311",
+      "size": 278265,
+      "uploadedDate": "2024-05-27T19:18:13.694Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/s 1-1920x1080-b006e87c66a91b6168a75e71202f2e32_Snapshot.jpg",
+      "md5": "2362b5ca77d0848c8bd930d4f354f121",
+      "size": 4209,
+      "uploadedDate": "2024-05-27T19:18:13.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/s 1-1920x1080-605d9ed1ba3df49e481dba87068883d7_Snapshot.jpg",
+      "md5": "a905ec7515004fa6b1e0588e1570a5cc",
+      "size": 7042,
+      "uploadedDate": "2024-05-27T19:18:13.508Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bcaf73e8117c4f69afad76dd6797795e"
+    }
+  ],
+  "catalogNs": null
+}

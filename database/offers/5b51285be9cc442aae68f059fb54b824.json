@@ -1,0 +1,173 @@
+{
+  "id": "5b51285be9cc442aae68f059fb54b824",
+  "namespace": "ue",
+  "title": "Fireplace and Hearths",
+  "description": "Fireplace and hearths - 8 separate meshes",
+  "longDescription": "<p>Fireplace and hearths - 8 separate meshes, fireplace, big hearth, small hearth, and 3 burning logs. All textures are 2048x2048, total triangle count around 20000 tris.</p><p><a href=\"https://discord.gg/jgBNSMP4bb\" rel=\"nofollow\">My Discord group</a> </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fireplace-and-hearths",
+  "creationDate": "2018-05-21T15:25:39.753Z",
+  "lastModifiedDate": "2024-09-30T20:24:25.746Z",
+  "effectiveDate": "2018-05-21T15:25:39.719Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-93wt2wz4uvaryh5tl8kjlpu9wzd3ne",
+    "name": "DmitriyDryzhak"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Texture Size : 2048x2048 each</p><p>Collision: Yes</p><p>Vertex Count: ~15000 for all</p><p>LODs: no</p><p>Number of Meshes: 8</p><p>Number of Materials and Material Instances: 6</p><p>Number of Textures: 22</p><p>Supported Development Platforms: Windows, Mac</p><p>Supported Target Build Platforms: Windows, Mac</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fd7f7d93-8e61-4ddb-a872-571ea2ddb525"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201-1920x1080-84fbb1bab9c1a74c9f0678196ff7c801.jpg",
+      "md5": "84fbb1bab9c1a74c9f0678196ff7c801",
+      "size": 1591083,
+      "uploadedDate": "2018-04-09T18:13:23.684Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19202-1920x1080-3c691bf15df9fe6acc8931ed7fc7ec3c.jpg",
+      "md5": "3c691bf15df9fe6acc8931ed7fc7ec3c",
+      "size": 1439632,
+      "uploadedDate": "2018-04-09T18:13:24.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19203-1920x1080-70af77f7876dee50020190e779acf629.jpg",
+      "md5": "70af77f7876dee50020190e779acf629",
+      "size": 1415472,
+      "uploadedDate": "2018-04-09T18:13:24.854Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19204-1920x1080-4325b7724c2f1467c2fde3c3cef907f2.jpg",
+      "md5": "4325b7724c2f1467c2fde3c3cef907f2",
+      "size": 1371685,
+      "uploadedDate": "2018-04-09T18:13:26.411Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19205-1920x1080-a638fd482a0396e56a8ed20c86111ca3.jpg",
+      "md5": "a638fd482a0396e56a8ed20c86111ca3",
+      "size": 1157037,
+      "uploadedDate": "2018-04-09T18:13:26.911Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Fireplaceandhearths_thumb-284x284-320843df836145e37ede44527d987936.png",
+      "md5": "320843df836145e37ede44527d987936",
+      "size": 176510,
+      "uploadedDate": "2018-04-09T18:13:26.972Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Fireplaceandhearths_featured-894x488-4af38ef72d9d7c1c8637235ed02d65e3.png",
+      "md5": "4af38ef72d9d7c1c8637235ed02d65e3",
+      "size": 802161,
+      "uploadedDate": "2018-04-09T18:13:27.097Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "859bf6f1da834f0592b26dd50113132d"
+    }
+  ],
+  "catalogNs": null
+}

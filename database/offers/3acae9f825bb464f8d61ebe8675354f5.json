@@ -1,0 +1,395 @@
+{
+  "id": "3acae9f825bb464f8d61ebe8675354f5",
+  "namespace": "ue",
+  "title": "Claws Attack VFX",
+  "description": "Do your characters have deadly and sharp claws? Make it known with impressive VFX.",
+  "longDescription": "<p><a href=\"https://youtu.be/yl72cxsuDH4\" rel=\"nofollow\">Preview video</a></p><p>A unique VFX pack for slashing claw attacks.</p><p>Comprising claws from 1 to 5, with several elementary types. Materials are available to <strong>easily modify</strong> the texture of claws.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "claws-attack-vfx",
+  "creationDate": "2024-01-19T19:55:11.594Z",
+  "lastModifiedDate": "2024-09-26T18:00:14.271Z",
+  "effectiveDate": "2024-01-19T19:55:11.555Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qqeqtmyfhqlv5y6979ejunusw7uhgr",
+    "name": "Niinko"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>This VFX pack contains <strong>1 to 5 claws </strong>(Niagara emitter), with <strong>6 claw effect</strong> types for each:</p><ul><li> Electricity</li><li> Fire</li><li> Light</li><li>Nature</li><li>Poisson</li><li>Water</li></ul><p>Material:</p><ul><li>Claw</li><li>Electric Streak</li><li>Fire</li><li>Sprite</li></ul><p>Material Instance:</p><ul><li>1 &amp; 3 Claw</li><li>2 &amp; 5 Claw</li><li>4 Claw</li><li>Flare</li><li>Leaf</li><li>Water bubble</li></ul><p>Niagara Emitter:</p><ul><li>Claw Particle</li></ul><p>Niagara Dynamic Input Script</p><ul><li>ShapeLocationCustom</li></ul><p>Type of Emitters: CPU</p><p>Number of Unique Effects: 30</p><p>LODs: No</p><p>Number of Materials: 4</p><p>Number of Textures: 5</p><p>Number of Unique Meshes: 2</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1425584c-5aed-4ff5-ac81-faa6153501f0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FeatureImage-1920x1080-33fa507d38dbfb681207c17711a83f0a.jpg",
+      "md5": "33fa507d38dbfb681207c17711a83f0a",
+      "size": 269693,
+      "uploadedDate": "2024-01-15T18:34:00.498Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/lighting-1920x1080-8f6100a7b4d9312cd08d8db31f18f993.jpg",
+      "md5": "8f6100a7b4d9312cd08d8db31f18f993",
+      "size": 178836,
+      "uploadedDate": "2024-01-16T19:16:18.670Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/nature-1920x1080-9637c5cd60d79c16e8c4114963bd3719.jpg",
+      "md5": "9637c5cd60d79c16e8c4114963bd3719",
+      "size": 150830,
+      "uploadedDate": "2024-01-16T19:16:19.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Light-1920x1080-706ca78dd31295d3d6556c7f3ff77d46.jpg",
+      "md5": "706ca78dd31295d3d6556c7f3ff77d46",
+      "size": 140336,
+      "uploadedDate": "2024-01-16T19:16:19.563Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fire-1920x1080-b71eebf40fc01f63562e61760cd74d67.jpg",
+      "md5": "b71eebf40fc01f63562e61760cd74d67",
+      "size": 154246,
+      "uploadedDate": "2024-01-16T19:16:20.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/poisson-1920x1080-4a0097cb641b5b153a32532c2f9924a8.jpg",
+      "md5": "4a0097cb641b5b153a32532c2f9924a8",
+      "size": 149515,
+      "uploadedDate": "2024-01-16T19:16:20.545Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/water-1920x1080-e370368a3dec6dc43d4bb9376221fcbf.jpg",
+      "md5": "e370368a3dec6dc43d4bb9376221fcbf",
+      "size": 137636,
+      "uploadedDate": "2024-01-16T19:16:20.962Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ClawsAttackVFX_thumb-284x284-99549412b8428cce4078b0c5f57df567.png",
+      "md5": "99549412b8428cce4078b0c5f57df567",
+      "size": 131502,
+      "uploadedDate": "2024-01-15T18:11:40.686Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ClawsAttackVFX_featured-894x488-c211b051fa77c8af590a511b439e6040.png",
+      "md5": "c211b051fa77c8af590a511b439e6040",
+      "size": 663502,
+      "uploadedDate": "2024-01-15T18:33:05.075Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/lighting-1920x1080-8f6100a7b4d9312cd08d8db31f18f993_Snapshot.jpg",
+      "md5": "cc6fc2a31db58e16c006804cd839f81d",
+      "size": 5417,
+      "uploadedDate": "2024-01-16T19:16:18.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/nature-1920x1080-9637c5cd60d79c16e8c4114963bd3719_Snapshot.jpg",
+      "md5": "6665e94127959d9881124502b793c2a0",
+      "size": 5077,
+      "uploadedDate": "2024-01-16T19:16:19.429Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Light-1920x1080-706ca78dd31295d3d6556c7f3ff77d46_Snapshot.jpg",
+      "md5": "c0aa6c9f002c90d0ef60d4e73bb27611",
+      "size": 4596,
+      "uploadedDate": "2024-01-16T19:16:19.858Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fire-1920x1080-b71eebf40fc01f63562e61760cd74d67_Snapshot.jpg",
+      "md5": "2cfc73d2df11e62e087cecb4188fb8d4",
+      "size": 5058,
+      "uploadedDate": "2024-01-16T19:16:20.409Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/poisson-1920x1080-4a0097cb641b5b153a32532c2f9924a8_Snapshot.jpg",
+      "md5": "24252b4e6609d700ee40379e3bdbe4af",
+      "size": 4975,
+      "uploadedDate": "2024-01-16T19:16:20.860Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/water-1920x1080-e370368a3dec6dc43d4bb9376221fcbf_Snapshot.jpg",
+      "md5": "8cff5aff551ae73908ace18bd07d1770",
+      "size": 4495,
+      "uploadedDate": "2024-01-16T19:16:21.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FeatureImage-1920x1080-33fa507d38dbfb681207c17711a83f0a_Snapshot.jpg",
+      "md5": "f146a85367ca84aac46ea716aea5b5f0",
+      "size": 8675,
+      "uploadedDate": "2024-01-15T18:34:00.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot00003-1920x1080-2a4570c7752bf44e5e22d24632e64eff_Snapshot.jpg",
+      "md5": "35610a4638983dae6b99639f8e6bbc90",
+      "size": 5792,
+      "uploadedDate": "2024-01-15T17:18:28.283Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "03f684841d9d4f14b74c5eefd37e3086"
+    }
+  ],
+  "catalogNs": null
+}

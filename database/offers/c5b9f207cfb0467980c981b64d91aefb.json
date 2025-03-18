@@ -1,0 +1,998 @@
+{
+  "id": "c5b9f207cfb0467980c981b64d91aefb",
+  "namespace": "ue",
+  "title": "464 Comprehensive Building Materials Pack for UE5",
+  "description": "SMA's - 464 Comprehensive Building Materials Pack for UE5",
+  "longDescription": "<h2>464 Comprehensive Building Materials Pack for UE5</h2><h3>Description:</h3><p>Here I present you with a comprehensive building materials libray.</p><p><br /></p><p>This comprehensive library will give you <strong>464</strong> master materials and <strong>502</strong> material instances for use in your architectural visualisation projects. The textures used (included) are custom made since 2012 hence have different resolutions. I have updated the textures recently and the newer ones are 4K Res. Main Resolutions are given in the description below.</p><p>Materials and Instances are divided into categories and sub-categories within the project folder for better categorisation and management. Lighting has been successfully built for preview maps. </p><p>I would be uploading newer materials and assets, so please do check my other asset packs as well. Finally, I hope you find my work on UE marketplace useful in your own architectural visualisation and/or Other Projects.</p><p><br /></p><p><strong>Bonus:</strong> I am including material test preview map with a custom made object and the unreal object.</p><p><strong>Material Category</strong>: Building</p><p><strong>Materials Type:</strong> Standard</p><p><strong>Plugins Required:</strong> No</p><p><strong>Number of Materials:</strong> 464</p><p><strong>Number of Instances:</strong> 502</p><p><strong>Tested in</strong>: UE5</p><h4><strong>Material Details:</strong></h4><p><br /></p><p><strong>Sub-Categories:</strong></p><ul><li><strong>Bricks (4K):</strong> 20 Materials &#43; 20 Instances</li><li><strong>Concrete (4K): Blocks: </strong>6 Materials &#43; 6 Instances</li><li><strong>Patterned: </strong>6 Materials &#43; 6 Instances</li><li><strong>Plain: </strong>8 Materials &#43; 8 Instances</li><li><strong>Tiles: </strong>10 Materials &#43; 10 Instances</li><li><strong>Fences (1K): </strong>25 Materials &#43; 25 Instances</li></ul><p><br /></p><ul><li><strong>Floor (Mixed Res):</strong></li><li><strong>Bricks (1K): </strong>14 Materials &#43; 14 Instances</li><li><strong>Carpet (4K, 2K): </strong>10 Materials &#43; 10 Instances</li><li><strong>Lino (1K): </strong>10 Materials &#43; 10 Instances</li><li><strong>Wood (4K, 2K): </strong>16 Materials &#43; 16 Instances</li></ul><p><br /></p><ul><li><strong>Glass (Mixed Res):</strong></li><li><strong>Frosted (4K):</strong> 13 Materials &#43; 13 Instances</li><li><strong>Patterned (2K):</strong> 22 Materials &#43; 22 Instances</li><li><strong>Plain : </strong>1 Material &#43; 6 Instances</li><li><strong>Stained (4K): </strong>35 Materials &#43; 35 Instances</li></ul><p><br /></p><ul><li><strong>Marble (4K):</strong></li><li><strong>Plain:</strong> 12 Materials &#43; 12 Instances</li><li><strong>Tiles:</strong> 15 Materials &#43; 15 Instances</li><li><strong>Plaster (4K):</strong> 20 Materials &#43; 20 Instances</li><li><strong>Roof (4K):</strong> 15 Materials &#43; 15 Instances</li></ul><p><br /></p><ul><li><strong>Tiles (2K):</strong></li><li><strong>Concrete:</strong> 8 Materials &#43; 8 Instances</li><li><strong>Design:</strong> 12 Materials &#43; 12 Instances</li><li><strong>Marble: </strong> 20 Materials &#43; 20 Instances</li><li><strong>Mosaic: </strong> 10 Materials &#43; 10 Instances</li><li><strong>Stone: </strong> 25 Materials &#43; 25 Instances</li></ul><p><br /></p><ul><li><strong>Walls (Mixed Res):Concrete (4K, 2K):</strong> 8 Materials &#43; 8 Instances</li><li><strong>Misc (2K):</strong> 5 Materials &#43; 5 Instances</li><li><strong>Paint (4K): </strong> 1 Material &#43; 32 Instances</li><li><strong>SciFi (2K): </strong> 15 Materials &#43; 15 Instances</li><li><strong>Stone (4K, 2K):</strong> 15 Materials &#43; 15 Instances</li><li><strong>Urban (4K, 2K):</strong> 8 Materials &#43; 8 Instances</li><li><strong>Wallpaper (4K): </strong>12 Materials &#43; 12 Instances</li></ul><p><br /></p><ul><li><strong>Wood (Mixed Res):</strong></li><li><strong>Boxes-Crates (2K):</strong> 6 Materials &#43; 6 Instances</li><li><strong>Floor (4K):</strong> 18 Materials &#43; 18 Instances</li><li><strong>Parquet (4K): </strong>15 Materials &#43; 15 Instances</li><li><strong>Surfaces (4K, 2K): </strong>12 Materials &#43; 12 Instances</li><li><strong>Wood-Dark (2K): </strong>8 Materials &#43; 8 Instances</li><li><strong>Wood-Light (4K, 2K): </strong>8 Materials &#43; 8 Instances</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "464-comprehensive-building-materials-pack-for-ue5",
+  "creationDate": "2022-05-22T20:03:46.731Z",
+  "lastModifiedDate": "2024-09-26T12:36:45.656Z",
+  "effectiveDate": "2022-05-22T20:03:46.675Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-shkqlymh6ykaa3ufg7lavcubclnz52",
+    "name": "DreamerArtist"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Material Category</strong>: Building</p><p><strong>Materials Type:</strong> Standard</p><p><strong>Plugins Required:</strong> No</p><p><strong>Number of Materials:</strong> 464</p><p><strong>Number of Instances:</strong> 502</p><ul><li><strong>Tested in</strong>: UE5,</li><li><strong>Compatible With</strong>: UE5, UE5.1, UE5.2, UE5.3&#43;</li></ul><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Drag and Drop Operation</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1355",
+      "name": "MOTORBIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:14.696Z",
+      "updated": "2019-06-20T12:01:14.696Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8c621b82-faa8-49f1-99cc-9755dbde75b0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/00-MainPreview-1920x1080-c8be1bf906809d1219cb5af7335a8cd8.jpg",
+      "md5": "c8be1bf906809d1219cb5af7335a8cd8",
+      "size": 1276128,
+      "uploadedDate": "2022-05-21T04:16:31.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03StillRenderMainCamHouse-1920x1080-ebefb232e127901287683f9e4edd94c5.png",
+      "md5": "ebefb232e127901287683f9e4edd94c5",
+      "size": 2112610,
+      "uploadedDate": "2022-05-21T04:16:32.295Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01Bricks04-1920x1080-578b5c77a288484813d1fb879d62e6a5.jpg",
+      "md5": "578b5c77a288484813d1fb879d62e6a5",
+      "size": 762217,
+      "uploadedDate": "2022-05-21T04:16:33.008Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01ConcTiles10-1920x1080-d1bf11e4cf2cd2e3844b200104e6aefd.jpg",
+      "md5": "d1bf11e4cf2cd2e3844b200104e6aefd",
+      "size": 714590,
+      "uploadedDate": "2022-05-21T04:16:33.560Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01Fence12-1920x1080-6d51ff28cd21b2edf9c893714562f451.jpg",
+      "md5": "6d51ff28cd21b2edf9c893714562f451",
+      "size": 906672,
+      "uploadedDate": "2022-05-21T04:16:34.167Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01FloorBrick14-1920x1080-ea60d58a907c91b172ee0b6542dc812c.jpg",
+      "md5": "ea60d58a907c91b172ee0b6542dc812c",
+      "size": 708550,
+      "uploadedDate": "2022-05-21T04:16:34.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01FloorWood03-1920x1080-4dcf51a7a5906efa64f3068205fe067e.jpg",
+      "md5": "4dcf51a7a5906efa64f3068205fe067e",
+      "size": 666480,
+      "uploadedDate": "2022-05-21T04:16:35.245Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01GlassFrosted01Alt-1920x1080-70aad60c2c25a832ca696f4b1b9980f2.jpg",
+      "md5": "70aad60c2c25a832ca696f4b1b9980f2",
+      "size": 739220,
+      "uploadedDate": "2022-05-21T04:16:35.807Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01GlassPat10-1920x1080-0b0872069f54e82d24c4b357b67a3660.jpg",
+      "md5": "0b0872069f54e82d24c4b357b67a3660",
+      "size": 1397882,
+      "uploadedDate": "2022-05-21T04:16:36.409Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01MarblePlain07-1920x1080-7166d491aef94d061122fd5ccc81df04.jpg",
+      "md5": "7166d491aef94d061122fd5ccc81df04",
+      "size": 605174,
+      "uploadedDate": "2022-05-21T04:16:37.002Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01Plaster10-1920x1080-9acab5beac8426fa48eb95a70663893c.jpg",
+      "md5": "9acab5beac8426fa48eb95a70663893c",
+      "size": 604735,
+      "uploadedDate": "2022-05-21T04:16:37.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01Roof07-1920x1080-69851ce3d31b9d6b50a6f4bd6b5392d4.jpg",
+      "md5": "69851ce3d31b9d6b50a6f4bd6b5392d4",
+      "size": 553789,
+      "uploadedDate": "2022-05-21T04:16:38.106Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01TilesDesign05-1920x1080-a779917c1394e52bf85dee1cb9fe17bd.jpg",
+      "md5": "a779917c1394e52bf85dee1cb9fe17bd",
+      "size": 713875,
+      "uploadedDate": "2022-05-21T04:16:38.704Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01TilesMarble20-1920x1080-ff441173a0389dd98204af163514269a.jpg",
+      "md5": "ff441173a0389dd98204af163514269a",
+      "size": 684382,
+      "uploadedDate": "2022-05-21T04:16:39.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01TilesMosaic08-1920x1080-417c8dcf43cbca7be0837fc7ad164bae.jpg",
+      "md5": "417c8dcf43cbca7be0837fc7ad164bae",
+      "size": 829514,
+      "uploadedDate": "2022-05-21T04:16:39.814Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WallsMisc04-1920x1080-1a602aec8153cebf0abb2e3a34bfff95.jpg",
+      "md5": "1a602aec8153cebf0abb2e3a34bfff95",
+      "size": 660163,
+      "uploadedDate": "2022-05-21T04:16:40.387Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WallsSciFi030914-1920x1080-e10fef8d2b810cf7484610556b3526e0.jpg",
+      "md5": "e10fef8d2b810cf7484610556b3526e0",
+      "size": 1016002,
+      "uploadedDate": "2022-05-21T04:16:40.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WallsStone01-05-13-1920x1080-ae73be1a50046c23d6791cb292699ae1.jpg",
+      "md5": "ae73be1a50046c23d6791cb292699ae1",
+      "size": 765822,
+      "uploadedDate": "2022-05-21T04:16:41.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WallsUrban02-04-08-1920x1080-4b970f45aab02991e409ade657e6a85c.jpg",
+      "md5": "4b970f45aab02991e409ade657e6a85c",
+      "size": 734165,
+      "uploadedDate": "2022-05-21T04:16:42.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WallsWallpaper02-06-11-1920x1080-f74f5d1d70a362b994d584531af33c18.jpg",
+      "md5": "f74f5d1d70a362b994d584531af33c18",
+      "size": 784588,
+      "uploadedDate": "2022-05-21T04:16:42.734Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WoodFloor10-1920x1080-894c1a0294af08a9314793ae7dc4f624.jpg",
+      "md5": "894c1a0294af08a9314793ae7dc4f624",
+      "size": 610312,
+      "uploadedDate": "2022-05-21T04:16:43.277Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WoodLight01-1920x1080-6653ad14eb7142aa8dfefb8c03e4c914.jpg",
+      "md5": "6653ad14eb7142aa8dfefb8c03e4c914",
+      "size": 748661,
+      "uploadedDate": "2022-05-21T04:16:43.828Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MBLDGS01WoodParquet11-1920x1080-3cc2ded31bce9f4c3657090b2e6eec06.jpg",
+      "md5": "3cc2ded31bce9f4c3657090b2e6eec06",
+      "size": 713376,
+      "uploadedDate": "2022-05-21T04:16:44.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/464ComprehensiveBuildingMaterialsPackforUE5_thumb-284x284-bbbff11933e0ff12eacc2fe85ab54235.png",
+      "md5": "bbbff11933e0ff12eacc2fe85ab54235",
+      "size": 85887,
+      "uploadedDate": "2022-05-21T04:57:36.267Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/464ComprehensiveBuildingMaterialsPackforUE5_featured-894x488-c328eee9bf5503c5c6446bbcb2bb7df4.png",
+      "md5": "c328eee9bf5503c5c6446bbcb2bb7df4",
+      "size": 662724,
+      "uploadedDate": "2022-05-21T04:57:36.428Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/00-MainPreview-1920x1080-c8be1bf906809d1219cb5af7335a8cd8_Snapshot.jpg",
+      "md5": "3f4be6995f8d2afd80bed275a811fa94",
+      "size": 7314,
+      "uploadedDate": "2022-05-21T04:16:32.015Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03StillRenderMainCamHouse-1920x1080-ebefb232e127901287683f9e4edd94c5_Snapshot.png",
+      "md5": "59694e0a8138e4334d105c7e66fb735c",
+      "size": 4727,
+      "uploadedDate": "2022-05-21T04:16:32.781Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Bricks04-1920x1080-578b5c77a288484813d1fb879d62e6a5_Snapshot.jpg",
+      "md5": "29051d7bc8edb66bdbb71f90c99b60c7",
+      "size": 5227,
+      "uploadedDate": "2022-05-21T04:16:33.346Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01ConcTiles10-1920x1080-d1bf11e4cf2cd2e3844b200104e6aefd_Snapshot.jpg",
+      "md5": "079f97d526bc35aa703ceccd88bdf4d6",
+      "size": 4859,
+      "uploadedDate": "2022-05-21T04:16:33.942Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Fence12-1920x1080-6d51ff28cd21b2edf9c893714562f451_Snapshot.jpg",
+      "md5": "bb1051abb8498ae758d946714313eaaf",
+      "size": 5133,
+      "uploadedDate": "2022-05-21T04:16:34.508Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01FloorBrick14-1920x1080-ea60d58a907c91b172ee0b6542dc812c_Snapshot.jpg",
+      "md5": "dd70ff83cfb62d9c55e4af790d8f9c17",
+      "size": 4941,
+      "uploadedDate": "2022-05-21T04:16:35.098Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01FloorWood03-1920x1080-4dcf51a7a5906efa64f3068205fe067e_Snapshot.jpg",
+      "md5": "04a9a41185e135ff687b76be866e6728",
+      "size": 5212,
+      "uploadedDate": "2022-05-21T04:16:35.582Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01GlassFrosted01Alt-1920x1080-70aad60c2c25a832ca696f4b1b9980f2_Snapshot.jpg",
+      "md5": "46860b1cd0ef1249ea57776999034374",
+      "size": 4963,
+      "uploadedDate": "2022-05-21T04:16:36.157Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01GlassPat10-1920x1080-0b0872069f54e82d24c4b357b67a3660_Snapshot.jpg",
+      "md5": "5ce8577f528f5764871520853e38b5a5",
+      "size": 5196,
+      "uploadedDate": "2022-05-21T04:16:36.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01MarblePlain07-1920x1080-7166d491aef94d061122fd5ccc81df04_Snapshot.jpg",
+      "md5": "19b3f02df02953f0d7f1ac595cbd1073",
+      "size": 5057,
+      "uploadedDate": "2022-05-21T04:16:37.329Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Plaster10-1920x1080-9acab5beac8426fa48eb95a70663893c_Snapshot.jpg",
+      "md5": "b48b9e37ef624f65daa4b79dea42b023",
+      "size": 5170,
+      "uploadedDate": "2022-05-21T04:16:37.916Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Roof07-1920x1080-69851ce3d31b9d6b50a6f4bd6b5392d4_Snapshot.jpg",
+      "md5": "cc0e8475dd2594d91a35aeac1699bf25",
+      "size": 4034,
+      "uploadedDate": "2022-05-21T04:16:38.441Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesDesign05-1920x1080-a779917c1394e52bf85dee1cb9fe17bd_Snapshot.jpg",
+      "md5": "6f0502f8d38eb46ea3b28b3426fbc5c6",
+      "size": 5305,
+      "uploadedDate": "2022-05-21T04:16:39.040Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesMarble20-1920x1080-ff441173a0389dd98204af163514269a_Snapshot.jpg",
+      "md5": "3db6155c0628bb0f92feeaf6e8b38128",
+      "size": 4582,
+      "uploadedDate": "2022-05-21T04:16:39.607Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesMosaic08-1920x1080-417c8dcf43cbca7be0837fc7ad164bae_Snapshot.jpg",
+      "md5": "6c083c449c806e847d67239dfd82fbba",
+      "size": 5280,
+      "uploadedDate": "2022-05-21T04:16:40.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsMisc04-1920x1080-1a602aec8153cebf0abb2e3a34bfff95_Snapshot.jpg",
+      "md5": "3345b7bbad6fad52bc22a873255cb0e9",
+      "size": 4898,
+      "uploadedDate": "2022-05-21T04:16:40.721Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsSciFi030914-1920x1080-e10fef8d2b810cf7484610556b3526e0_Snapshot.jpg",
+      "md5": "31d6988d4bdd831cca787586763573e4",
+      "size": 5712,
+      "uploadedDate": "2022-05-21T04:16:41.319Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsStone01-05-13-1920x1080-ae73be1a50046c23d6791cb292699ae1_Snapshot.jpg",
+      "md5": "72a3076a9837af28b0e49f75a25b88d3",
+      "size": 5145,
+      "uploadedDate": "2022-05-21T04:16:41.940Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsUrban02-04-08-1920x1080-4b970f45aab02991e409ade657e6a85c_Snapshot.jpg",
+      "md5": "9ca11a92ef0c9d268ff420f6068e999d",
+      "size": 5234,
+      "uploadedDate": "2022-05-21T04:16:42.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsWallpaper02-06-11-1920x1080-f74f5d1d70a362b994d584531af33c18_Snapshot.jpg",
+      "md5": "3a985dc87ee5f1a3a71f1b6534282c20",
+      "size": 5167,
+      "uploadedDate": "2022-05-21T04:16:43.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodFloor10-1920x1080-894c1a0294af08a9314793ae7dc4f624_Snapshot.jpg",
+      "md5": "1facf1798ddd5e16bbfca429c75715fd",
+      "size": 4202,
+      "uploadedDate": "2022-05-21T04:16:43.634Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodLight01-1920x1080-6653ad14eb7142aa8dfefb8c03e4c914_Snapshot.jpg",
+      "md5": "aedab3ef6e735f998bf033f5f0a9f7a9",
+      "size": 5334,
+      "uploadedDate": "2022-05-21T04:16:44.190Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodParquet11-1920x1080-3cc2ded31bce9f4c3657090b2e6eec06_Snapshot.jpg",
+      "md5": "46f23ac3d5a538d0fbe68559237bc7ab",
+      "size": 5286,
+      "uploadedDate": "2022-05-21T04:16:44.745Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/00-MainPreview-1920x1080-c8be1bf906809d1219cb5af7335a8cd8_Snapshot.jpg",
+      "md5": "3f4be6995f8d2afd80bed275a811fa94",
+      "size": 7314,
+      "uploadedDate": "2022-05-21T04:14:29.493Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03StillRenderMainCamHouse-1920x1080-ebefb232e127901287683f9e4edd94c5_Snapshot.png",
+      "md5": "59694e0a8138e4334d105c7e66fb735c",
+      "size": 4727,
+      "uploadedDate": "2022-05-21T04:14:30.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Bricks04-1920x1080-578b5c77a288484813d1fb879d62e6a5_Snapshot.jpg",
+      "md5": "29051d7bc8edb66bdbb71f90c99b60c7",
+      "size": 5227,
+      "uploadedDate": "2022-05-21T04:14:30.714Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01ConcTiles10-1920x1080-d1bf11e4cf2cd2e3844b200104e6aefd_Snapshot.jpg",
+      "md5": "079f97d526bc35aa703ceccd88bdf4d6",
+      "size": 4859,
+      "uploadedDate": "2022-05-21T04:14:31.234Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Fence12-1920x1080-6d51ff28cd21b2edf9c893714562f451_Snapshot.jpg",
+      "md5": "bb1051abb8498ae758d946714313eaaf",
+      "size": 5133,
+      "uploadedDate": "2022-05-21T04:14:31.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01FloorBrick14-1920x1080-ea60d58a907c91b172ee0b6542dc812c_Snapshot.jpg",
+      "md5": "dd70ff83cfb62d9c55e4af790d8f9c17",
+      "size": 4941,
+      "uploadedDate": "2022-05-21T04:14:32.283Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01FloorWood03-1920x1080-4dcf51a7a5906efa64f3068205fe067e_Snapshot.jpg",
+      "md5": "04a9a41185e135ff687b76be866e6728",
+      "size": 5212,
+      "uploadedDate": "2022-05-21T04:14:32.830Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01GlassFrosted01Alt-1920x1080-70aad60c2c25a832ca696f4b1b9980f2_Snapshot.jpg",
+      "md5": "46860b1cd0ef1249ea57776999034374",
+      "size": 4963,
+      "uploadedDate": "2022-05-21T04:14:33.361Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01GlassPat10-1920x1080-0b0872069f54e82d24c4b357b67a3660_Snapshot.jpg",
+      "md5": "5ce8577f528f5764871520853e38b5a5",
+      "size": 5196,
+      "uploadedDate": "2022-05-21T04:14:33.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01MarblePlain07-1920x1080-7166d491aef94d061122fd5ccc81df04_Snapshot.jpg",
+      "md5": "19b3f02df02953f0d7f1ac595cbd1073",
+      "size": 5057,
+      "uploadedDate": "2022-05-21T04:14:34.487Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Plaster10-1920x1080-9acab5beac8426fa48eb95a70663893c_Snapshot.jpg",
+      "md5": "b48b9e37ef624f65daa4b79dea42b023",
+      "size": 5170,
+      "uploadedDate": "2022-05-21T04:14:34.997Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01Roof07-1920x1080-69851ce3d31b9d6b50a6f4bd6b5392d4_Snapshot.jpg",
+      "md5": "cc0e8475dd2594d91a35aeac1699bf25",
+      "size": 4034,
+      "uploadedDate": "2022-05-21T04:14:35.486Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesDesign05-1920x1080-a779917c1394e52bf85dee1cb9fe17bd_Snapshot.jpg",
+      "md5": "6f0502f8d38eb46ea3b28b3426fbc5c6",
+      "size": 5305,
+      "uploadedDate": "2022-05-21T04:14:36.023Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesMarble20-1920x1080-ff441173a0389dd98204af163514269a_Snapshot.jpg",
+      "md5": "3db6155c0628bb0f92feeaf6e8b38128",
+      "size": 4582,
+      "uploadedDate": "2022-05-21T04:14:36.551Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01TilesMosaic08-1920x1080-417c8dcf43cbca7be0837fc7ad164bae_Snapshot.jpg",
+      "md5": "6c083c449c806e847d67239dfd82fbba",
+      "size": 5280,
+      "uploadedDate": "2022-05-21T04:14:37.088Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsMisc04-1920x1080-1a602aec8153cebf0abb2e3a34bfff95_Snapshot.jpg",
+      "md5": "3345b7bbad6fad52bc22a873255cb0e9",
+      "size": 4898,
+      "uploadedDate": "2022-05-21T04:14:37.633Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsSciFi030914-1920x1080-e10fef8d2b810cf7484610556b3526e0_Snapshot.jpg",
+      "md5": "31d6988d4bdd831cca787586763573e4",
+      "size": 5712,
+      "uploadedDate": "2022-05-21T04:14:38.183Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsStone01-05-13-1920x1080-ae73be1a50046c23d6791cb292699ae1_Snapshot.jpg",
+      "md5": "72a3076a9837af28b0e49f75a25b88d3",
+      "size": 5145,
+      "uploadedDate": "2022-05-21T04:14:38.727Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsUrban02-04-08-1920x1080-4b970f45aab02991e409ade657e6a85c_Snapshot.jpg",
+      "md5": "9ca11a92ef0c9d268ff420f6068e999d",
+      "size": 5234,
+      "uploadedDate": "2022-05-21T04:14:39.248Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WallsWallpaper02-06-11-1920x1080-f74f5d1d70a362b994d584531af33c18_Snapshot.jpg",
+      "md5": "3a985dc87ee5f1a3a71f1b6534282c20",
+      "size": 5167,
+      "uploadedDate": "2022-05-21T04:14:39.800Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodFloor10-1920x1080-894c1a0294af08a9314793ae7dc4f624_Snapshot.jpg",
+      "md5": "1facf1798ddd5e16bbfca429c75715fd",
+      "size": 4202,
+      "uploadedDate": "2022-05-21T04:14:40.324Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodLight01-1920x1080-6653ad14eb7142aa8dfefb8c03e4c914_Snapshot.jpg",
+      "md5": "aedab3ef6e735f998bf033f5f0a9f7a9",
+      "size": 5334,
+      "uploadedDate": "2022-05-21T04:14:40.861Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01WoodParquet11-1920x1080-3cc2ded31bce9f4c3657090b2e6eec06_Snapshot.jpg",
+      "md5": "46f23ac3d5a538d0fbe68559237bc7ab",
+      "size": 5286,
+      "uploadedDate": "2022-05-21T04:14:41.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/00-MainPreview-1920x1080-48771c40c387ecb70307788c3ddc3a18_Snapshot.jpg",
+      "md5": "86e055bc9a1bd5d046f2f38554d425dd",
+      "size": 7533,
+      "uploadedDate": "2022-05-12T21:30:35.386Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01BLDGS01FloorBrick14-1920x1080-91cc46b22440455956a184ef0ceeabcc_Snapshot.png",
+      "md5": "c5687413b7bbd8ae820c1212ce3e5c5c",
+      "size": 4406,
+      "uploadedDate": "2022-05-12T21:30:35.830Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02StillRenderMainCam-1920x1080-31b6664dd43eba1a6f3cd89c91622b3f_Snapshot.png",
+      "md5": "36c3613fafde940388cb4f64e2e2c690",
+      "size": 6540,
+      "uploadedDate": "2022-05-12T21:30:36.395Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03StillRenderMainCamHouse-1920x1080-ebefb232e127901287683f9e4edd94c5_Snapshot.png",
+      "md5": "59694e0a8138e4334d105c7e66fb735c",
+      "size": 4727,
+      "uploadedDate": "2022-05-12T21:30:36.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesConc01-1920x1080-e6bb9b88d40a07b552a22937d4064f2d_Snapshot.png",
+      "md5": "711effc99dca70ab28c62830b9128871",
+      "size": 7751,
+      "uploadedDate": "2022-05-12T21:30:37.433Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesConc08-1920x1080-87ced6ffb4c9bde2ad7afcecb4277c46_Snapshot.png",
+      "md5": "650531869c02d01f706d8f81bf3fcc65",
+      "size": 7731,
+      "uploadedDate": "2022-05-12T21:30:37.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesDesign03-1920x1080-e923ee9e602ddd1a3eb1ba9a25fc7be1_Snapshot.png",
+      "md5": "ee857d7a55767a4c0c1388504748747f",
+      "size": 7989,
+      "uploadedDate": "2022-05-12T21:30:38.477Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesDesign12-1920x1080-c278865cfb6520c046e2b08fae5cc9d4_Snapshot.png",
+      "md5": "53a4d69c8722f0d48460bd7c9716778c",
+      "size": 8110,
+      "uploadedDate": "2022-05-12T21:30:38.984Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesMarble04-1920x1080-8ac1c62af88b7968c6c294c88e3c02ac_Snapshot.png",
+      "md5": "6f3f9f4e6aefdc504b7dd1413244c852",
+      "size": 8265,
+      "uploadedDate": "2022-05-12T21:30:39.430Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01TilesMosaic10-1920x1080-e733720f10fe828b2903c2adc01ea3ba_Snapshot.png",
+      "md5": "c14556deb6a187f7f05bb2e10d47638e",
+      "size": 8471,
+      "uploadedDate": "2022-05-12T21:30:39.829Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01WallsSciFi-1920x1080-ece29e321184bca11e031e47e2b4fafb_Snapshot.png",
+      "md5": "83dd5c6f818d9c817364cb1677570d76",
+      "size": 8300,
+      "uploadedDate": "2022-05-12T21:30:40.307Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BLDGS01WoodBoxes06-1920x1080-0a16ab22b7ac7d1a55c38a2aeaf5de22_Snapshot.png",
+      "md5": "998e39504769184e86a503e04079f1ba",
+      "size": 5780,
+      "uploadedDate": "2022-05-12T21:30:40.788Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MBLDGS01GlassPat08-1920x1080-5b95494eb83bc6d0a7bfc23ae6652d83_Snapshot.png",
+      "md5": "3a1a7149e0db960ad639c368e1f3e9db",
+      "size": 5619,
+      "uploadedDate": "2022-05-12T21:30:41.282Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a3438e1aa02f46708d424a029ecb2180"
+    }
+  ],
+  "catalogNs": null
+}

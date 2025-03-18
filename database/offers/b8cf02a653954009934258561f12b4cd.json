@@ -1,0 +1,320 @@
+{
+  "id": "b8cf02a653954009934258561f12b4cd",
+  "namespace": "ue",
+  "title": "Texture Fractalizer",
+  "description": "Turn a seamless tilable texture into a fractal texture.",
+  "longDescription": "<p>With Texture Fractalizer you will be able to turn seamless tilable texture into fractal textures, which mean in a simple manner: When your camera will get closer to the mesh, you won&#39;t lose detail on the texture quality because a new layer with lower UV tiling will be blended.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "texture-fractalizer",
+  "creationDate": "2023-12-25T22:21:02.056Z",
+  "lastModifiedDate": "2024-09-27T18:42:51.976Z",
+  "effectiveDate": "2023-12-25T22:24:11.407Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-aerx3ug8fnkzdpglnb5sq732sf4zqj",
+    "name": "Pimeine"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/yFa1OcRlwRA\" rel=\"nofollow\">Showcase Video</a></p><p><u>Features</u></p><p><strong>⚠️Not all texture can be fractalized, texture with strong asperities won&#39;t blend well together <em>(e.g. Bricks, Planck, Tiles, etc.) </em>⚠️</strong></p><p><strong>Materials:</strong></p><ol><li>Two master material, one for normal base color rendering and the other with a triplanar projection for better result on non-plane meshes.</li><li>The fractalizer is in a custom HLSL node and for the triplanar material, a material function has been made (that also include the fractalizer).</li></ol><p><br /></p><p><strong>Overview Scene:</strong></p><p>In this scene you will find 3 Primitive shapes that display a marble texture and 5 big block that display 5 demo textures affected by the fractalizer shader.</p><p><br /></p><p><u>Data</u></p><p><strong>Number of Unique Meshes:</strong> 3 (Primitives Shapes for demo purposes)</p><p><strong>LODs:</strong> No</p><p><strong>Number of Materials and Material Instances:</strong> 2 <em>(&#43;1 for demo purposes)</em> and 7 Instances</p><p><strong>Number of Textures:</strong> 5 (<a href=\"https://ambientcg.com/\" rel=\"nofollow\">CC0 Textures</a>)</p><p><strong>Texture Resolutions:</strong> 1024x1024</p><p><strong>Supported Development Platforms:</strong> Windows</p><p><br /></p><p><strong>Documentation:</strong> <a href=\"https://drive.google.com/file/d/1J4KSNilttB48lN6cdubfboai7LcC1eF-/view?usp&#61;sharing\" rel=\"nofollow\">PDF</a></p><p><br /></p><p><strong>Warning:</strong> The HLSL used to fractalize the texture doesn&#39;t handle the Normal textures and other, which makes PBR not possible right now. This makes the fractalizer <strong>perfects for unlit</strong> projects even though it works for lit scenes.</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1155",
+      "name": "SOKOBAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:35.675Z",
+      "updated": "2019-06-20T11:59:35.675Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1a2226d0-8447-44c5-b9a6-9075084d2d9b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal01-1920x1080-a5e32a3cb210b2579e1f39dc581a39cd.png",
+      "md5": "a5e32a3cb210b2579e1f39dc581a39cd",
+      "size": 1939703,
+      "uploadedDate": "2023-12-24T19:06:33.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal02-1920x1080-7032514ddc20b6c4f42fd4a4ea624f29.png",
+      "md5": "7032514ddc20b6c4f42fd4a4ea624f29",
+      "size": 2388588,
+      "uploadedDate": "2023-12-24T19:06:33.951Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal03-1920x1080-d2afd7998b9d487695fa84af52b56467.png",
+      "md5": "d2afd7998b9d487695fa84af52b56467",
+      "size": 2165527,
+      "uploadedDate": "2023-12-24T19:06:34.669Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal04-1920x1080-07a2e582f563540feb0eb92ba3ecea44.png",
+      "md5": "07a2e582f563540feb0eb92ba3ecea44",
+      "size": 2679384,
+      "uploadedDate": "2023-12-24T19:06:35.354Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal05-1920x1080-0263ca56f9acf1711830be43bc103f21.png",
+      "md5": "0263ca56f9acf1711830be43bc103f21",
+      "size": 2126455,
+      "uploadedDate": "2023-12-24T19:06:36.082Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal06-1920x1080-1f9da12f54c0f60e1391736b8a3d7bb3.png",
+      "md5": "1f9da12f54c0f60e1391736b8a3d7bb3",
+      "size": 1994298,
+      "uploadedDate": "2023-12-24T19:06:36.786Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal07-1920x1080-1d829191048b5a87658a97f42eaab577.png",
+      "md5": "1d829191048b5a87658a97f42eaab577",
+      "size": 2045009,
+      "uploadedDate": "2023-12-24T19:06:37.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal08-1920x1080-b9b673ee3294493b030cd831e67d8a30.png",
+      "md5": "b9b673ee3294493b030cd831e67d8a30",
+      "size": 2625498,
+      "uploadedDate": "2023-12-24T19:06:38.211Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal09-1920x1080-9cfe4a31a1827806ed7940addaa7d53a.png",
+      "md5": "9cfe4a31a1827806ed7940addaa7d53a",
+      "size": 1327944,
+      "uploadedDate": "2023-12-24T19:06:38.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gal10-1920x1080-b9e2e2273b8efb0bddfe4bee28bdcc82.png",
+      "md5": "b9e2e2273b8efb0bddfe4bee28bdcc82",
+      "size": 1247859,
+      "uploadedDate": "2023-12-24T19:06:39.575Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TextureFractalizer_thumb-284x284-7177982f657d006551685775418f39ff.png",
+      "md5": "7177982f657d006551685775418f39ff",
+      "size": 68658,
+      "uploadedDate": "2023-12-24T19:06:40.003Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TextureFractalizer_featured-894x488-f3240e4d8f14cd0089e0923631fd6997.png",
+      "md5": "f3240e4d8f14cd0089e0923631fd6997",
+      "size": 191207,
+      "uploadedDate": "2023-12-24T19:06:40.098Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal01-1920x1080-a5e32a3cb210b2579e1f39dc581a39cd_Snapshot.png",
+      "md5": "9e2d90147edfb3c3dcde577811686a67",
+      "size": 5059,
+      "uploadedDate": "2023-12-24T19:06:33.710Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal02-1920x1080-7032514ddc20b6c4f42fd4a4ea624f29_Snapshot.png",
+      "md5": "d777be15bbe842ba4ab49801cfa7b682",
+      "size": 6031,
+      "uploadedDate": "2023-12-24T19:06:34.418Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal03-1920x1080-d2afd7998b9d487695fa84af52b56467_Snapshot.png",
+      "md5": "fb699e8910125b2d0ef5a3b4d6153b9d",
+      "size": 4848,
+      "uploadedDate": "2023-12-24T19:06:35.112Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal04-1920x1080-07a2e582f563540feb0eb92ba3ecea44_Snapshot.png",
+      "md5": "95c49e32219bd487e4711c13d9d028a0",
+      "size": 5547,
+      "uploadedDate": "2023-12-24T19:06:35.876Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal05-1920x1080-0263ca56f9acf1711830be43bc103f21_Snapshot.png",
+      "md5": "1818351919e478535413a9a6f969aef8",
+      "size": 5686,
+      "uploadedDate": "2023-12-24T19:06:36.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal06-1920x1080-1f9da12f54c0f60e1391736b8a3d7bb3_Snapshot.png",
+      "md5": "b902e3575e2d53d6b0af2e621a7db079",
+      "size": 4959,
+      "uploadedDate": "2023-12-24T19:06:37.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal07-1920x1080-1d829191048b5a87658a97f42eaab577_Snapshot.png",
+      "md5": "39f9d087f0278ed830f071e68ec05ecb",
+      "size": 5440,
+      "uploadedDate": "2023-12-24T19:06:37.915Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal08-1920x1080-b9b673ee3294493b030cd831e67d8a30_Snapshot.png",
+      "md5": "7476b0fd56fd061ead1f0d9544a52052",
+      "size": 6352,
+      "uploadedDate": "2023-12-24T19:06:38.701Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal09-1920x1080-9cfe4a31a1827806ed7940addaa7d53a_Snapshot.png",
+      "md5": "289d6d592102e27387ea5c3de6133bac",
+      "size": 3408,
+      "uploadedDate": "2023-12-24T19:06:39.300Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gal10-1920x1080-b9e2e2273b8efb0bddfe4bee28bdcc82_Snapshot.png",
+      "md5": "f357327e1208b60c3b087fab0add0fd6",
+      "size": 3383,
+      "uploadedDate": "2023-12-24T19:06:39.934Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cd2f709b18844f47b79306b03e1f09e7"
+    }
+  ],
+  "catalogNs": null
+}

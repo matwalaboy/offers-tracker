@@ -1,0 +1,275 @@
+{
+  "id": "948574c3865b4431b0b05a48c77d1d00",
+  "namespace": "ue",
+  "title": "Civilian Footsteps Sound FX Collection",
+  "description": "Collection includes civilian footstep sounds on different surfaces: footsteps on concrete (asphalt or stone), wood, water, metal, ground, grass, gravel, snow, carpet, mud, forest, leaves, sand.",
+  "longDescription": "<p><strong>195 stereo sound fx files included.</strong></p><p><br /></p><p><a href=\"https://youtu.be/EW3g2g7GFOA\" rel=\"nofollow\"><strong>AUDIO DEMO</strong></a></p><p><br /></p><p>This is full collection of footstep sounds fx of Civilian male character movement in casual wear and sounds do not contain weapon or ammo packs rattle.</p><p><br /></p><p>Collection includes civilian footstep sounds on different surfaces: footsteps on concrete (asphalt or stone), wood, water, metal, ground, grass, gravel, snow.</p><p><strong>Also, Carpet, mud, forest, leaves and sand. (added on 4.26 update)</strong></p><p><br /></p><p>3 type footsteps for each surfaces: stealthy crouched movement, walk and run. Each type contains 5 different stereo and mono sounds.</p><p><br /></p><p>All sound files were cleaned and prepared for use inside the UE or other engines. Especially good in UE. You can use random, modulation(pitch and volume) and attenuation nodes in sound cue to achieve various footstep sound effect for game character. Also, you can use reverb volumes to easily achieve interior and exterior sound effects. Ideal for FPS and TPS shooters, or any type of games.</p><p><br /></p><p><em>Thanks for purchasing!</em></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "civilian-footsteps-sound-fx-collection",
+  "creationDate": "2014-11-03T15:11:12.077Z",
+  "lastModifiedDate": "2024-09-26T12:57:00.186Z",
+  "effectiveDate": "2014-11-04T00:00:00.000Z",
+  "viewableDate": "2014-11-04T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-83b9954cb94af99c15cc5c1c448252",
+    "name": "Medartimus"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>All files are in wav. format: 44.100 Hz, 16 bit, stereo, PCM,</p><p>Number of Waves: 195 stereo wav</p><p>13 packs: Concrete, Grass, Gravel, Ground, Metal, Snow, Water, Wood, Sand, Mud, Leaves, Forest, Carpet.</p><p>Each pack contains:</p><p>1. stealthy crouched movement - 5 sound fx</p><p>2. Walk - 5 sound fx</p><p>3. Run - 5 sound fx</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1130",
+      "name": "PSYCHOLOGICAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.072Z",
+      "updated": "2019-06-20T11:59:23.072Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1100",
+      "name": "MINIGAMES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:08.293Z",
+      "updated": "2019-06-20T11:59:08.293Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5e32d16c-2450-4a97-862e-b739497c101c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_Civilian_Footsteps_Sound_FX_Collection_screenshot_01-1920x1080-a28a23248ec3a87290681cfbd60d66de.png",
+      "md5": "a28a23248ec3a87290681cfbd60d66de",
+      "size": 4067783,
+      "uploadedDate": "2014-11-06T22:16:35.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/store_Civilian_Footsteps_Sound_FX_Collection_thumbnail-284x284-a3eb98d911a004ceb1f91beadf07e25b.jpg",
+      "md5": "a3eb98d911a004ceb1f91beadf07e25b",
+      "size": 38109,
+      "uploadedDate": "2015-03-16T18:44:15.161Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/store_Civilian_Footsteps_Sound_FX_Collection_featured-476x246-7286017a00c4b13205fa4ac2e4df6a1a.png",
+      "md5": "7286017a00c4b13205fa4ac2e4df6a1a",
+      "size": 251186,
+      "uploadedDate": "2014-11-06T22:15:50.614Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/store_Civilian_Footsteps_Sound_FX_Collection_comingsoon_small-145x208-ea386d5721df1aaeaa065d61531a71b7.png",
+      "md5": "ea386d5721df1aaeaa065d61531a71b7",
+      "size": 70899,
+      "uploadedDate": "2014-11-06T22:16:12.710Z",
+      "width": 145,
+      "height": 208
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/store_Civilian_Footsteps_Sound_FX_Collection_comingsoon-394x208-322e21b502069cb12398c504038b5612.png",
+      "md5": "322e21b502069cb12398c504038b5612",
+      "size": 180703,
+      "uploadedDate": "2014-11-06T22:16:00.804Z",
+      "width": 394,
+      "height": 208
+    }
+  ],
+  "items": [
+    {
+      "id": "b58924205250476aae6a56964078de07"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,521 @@
+{
+  "id": "e0d052a234f84aaca77e8864d6191ff6",
+  "namespace": "ue",
+  "title": "HG - Playing Cards",
+  "description": "4 Full Decks of playing cards plus 37 Card Backs",
+  "longDescription": "<p>&#x1f514; <strong>HOTGATES ANNOUNCEMENT - </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/product/hg-poly-catacombs\" rel=\"nofollow\"><strong>HG POLY - Catacombs</strong></a><strong> OUT NOW!</strong></p><p>&#x1f514; <strong>Joker Update</strong> - Added Joker Cards to the decks.</p><p><a href=\"https://discord.gg/7exvNuR\" rel=\"nofollow\"><strong>Join</strong></a> our discord server.</p><p><br /></p><p>A low poly asset pack of playing cards.</p><p><br /></p><p><strong>Main Features:</strong></p><p>4 Full decks of cards &#43; Jokers</p><p>37 Card backs</p><p>Mobile friendly</p><p>4 Flip animations</p><p>Auto Rotation functionality</p><p>Easy and organized blueprints</p><p><br /></p><p>Suitable for card games like: Solitaire, Poker, Blackjack, etc.</p><p><br /></p><p><strong>Check out our other Assets:</strong></p><p><a href=\"https://unrealengine.com/marketplace/en-US/product/hg-sci-fi-elements\" rel=\"nofollow\">HG: Sci-Fi Elements</a></p><p><a href=\"https://unrealengine.com/marketplace/en-US/product/hg-woody-trains\" rel=\"nofollow\">HG: Woody Trains</a></p><p><a href=\"https://unrealengine.com/marketplace/en-US/product/hg-sacred-geometry-decals-bundle\" rel=\"nofollow\">HG: Sacred Geometry Decals Bundle</a></p><p><br /></p><p>All other assets shown in the screenshots besides those found in <strong>HG: Playing Cards </strong>are for demonstration purposes only and are not included in this asset pack.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hg-playing-cards",
+  "creationDate": "2019-02-16T10:29:11.269Z",
+  "lastModifiedDate": "2024-09-30T15:35:07.057Z",
+  "effectiveDate": "2019-02-16T10:29:11.219Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-35af68e92341588272e59c863982e8",
+    "name": "Hotgates"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p><strong>Texture Resolutions:</strong></p><ul><li>256 x 256</li><li>512 x 512</li><li>1024 x 1024</li><li>2048 x 2048</li><li>3072 x 3072</li><li>4096 x 4096</li></ul><p><br /></p><p>Number of triangles: 144</p><p>No LODs</p><p><br /></p><p>Master Materials: 2</p><p>Material Instances: 249</p><p>Textures: 1496</p><p>Meshes: 1</p><p>Blueprints: 5</p><p><br /></p><p>Supported Development Platforms: Windows, macOS, Mobile</p><p>Intended Development Platforms: Windows, macOS, Linux, PS4, XBox One, Switch, Mobile, HTML5, VR</p><p>Tested Platforms: Windows, macOS, Mobile</p><p><br /></p><p><strong>UPDATE 1:</strong> Flip function added. Choose from 4 different flip directions. Plus auto flip functionality.</p><p><strong>UPDATE 2:</strong> Added a function in the blueprint BP_Playing_Card to change the value and style of the cards during run-time.</p><p><br /></p><p><strong>If you purchase the asset pack please rate it and leave a comment.</strong></p><p><br /></p><p><a href=\"https://forums.unrealengine.com/t/support-hotgates-products/250462\" rel=\"nofollow\">Support page</a></p><p><a href=\"mailto:support&#64;hotgates.eu\" rel=\"nofollow\">Support email</a></p><p><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1575630-hotgates-wip-what-to-expect-in-2019\" rel=\"nofollow\">WIP page</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7e15907b-2f15-4fe9-9253-d607dd2d1378"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsUpdate2-1920x1080-390acab5deb7ff8fe3d7493b3d4f35e2.jpg",
+      "md5": "390acab5deb7ff8fe3d7493b3d4f35e2",
+      "size": 1337967,
+      "uploadedDate": "2021-03-03T13:16:16.141Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HG-PLaying-CarsJokers-Screenshot001-1920x1080-cd81c3f13712446c0db4d87cfca0a9e9.jpg",
+      "md5": "cd81c3f13712446c0db4d87cfca0a9e9",
+      "size": 1138068,
+      "uploadedDate": "2021-03-03T13:25:47.109Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsScreenshot005-1920x1080-24b48dcc7d9c987cfe31d570f7aaf4a5.jpg",
+      "md5": "24b48dcc7d9c987cfe31d570f7aaf4a5",
+      "size": 632974,
+      "uploadedDate": "2019-02-20T13:41:12.547Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsScreenshot002-1920x1080-946144613edcec6cac3fb373d8ac1457.jpg",
+      "md5": "946144613edcec6cac3fb373d8ac1457",
+      "size": 1247735,
+      "uploadedDate": "2019-02-21T17:53:03.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsScreenshot001-1920x1080-7d58f85a2fc7b90de84269ace46d3686.jpg",
+      "md5": "7d58f85a2fc7b90de84269ace46d3686",
+      "size": 288875,
+      "uploadedDate": "2019-02-08T09:05:15.542Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsScreenshot003-1920x1080-0f7408d7088e20c5a6c14ba02be6fbd8.jpg",
+      "md5": "0f7408d7088e20c5a6c14ba02be6fbd8",
+      "size": 363434,
+      "uploadedDate": "2019-02-08T09:05:16.033Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsScreenshot004-1920x1080-655639d8b5cd0366a474ee0ae99a78eb.jpg",
+      "md5": "655639d8b5cd0366a474ee0ae99a78eb",
+      "size": 575151,
+      "uploadedDate": "2019-02-08T09:05:16.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsOverview001-1920x1080-3131a2f3f7cce78a2b114a6a1ba89012.jpg",
+      "md5": "3131a2f3f7cce78a2b114a6a1ba89012",
+      "size": 263974,
+      "uploadedDate": "2019-02-05T23:46:38.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsOverview003-1920x1080-fbbe7c06b1d6bab92402e39d5194a84d.jpg",
+      "md5": "fbbe7c06b1d6bab92402e39d5194a84d",
+      "size": 246859,
+      "uploadedDate": "2019-02-05T23:46:38.766Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsOverview004-1920x1080-6ecd46ac39262161d98e9ee9d8439ee1.jpg",
+      "md5": "6ecd46ac39262161d98e9ee9d8439ee1",
+      "size": 254127,
+      "uploadedDate": "2019-02-05T23:46:39.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsOverview002-1920x1080-d58cde925e85da7fdcd0601aaa8e6911.jpg",
+      "md5": "d58cde925e85da7fdcd0601aaa8e6911",
+      "size": 238335,
+      "uploadedDate": "2019-02-06T13:58:11.869Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HGPlayingCardsOverview005-1920x1080-0de36b486af7c1f2e7d03a824c39a814.jpg",
+      "md5": "0de36b486af7c1f2e7d03a824c39a814",
+      "size": 757773,
+      "uploadedDate": "2019-02-07T09:43:43.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HGPlayingCards_thumb-284x284-2b4f4c9f9bb0bb0c7390e840f1d0b8cf.png",
+      "md5": "2b4f4c9f9bb0bb0c7390e840f1d0b8cf",
+      "size": 150870,
+      "uploadedDate": "2019-02-06T11:48:07.637Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HGPlayingCards_featured-894x488-69c529606553f3d5bf2562e7cec75f98.png",
+      "md5": "69c529606553f3d5bf2562e7cec75f98",
+      "size": 783385,
+      "uploadedDate": "2019-02-06T11:48:07.749Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HG-PLaying-CarsJokers-Screenshot001-1920x1080-cd81c3f13712446c0db4d87cfca0a9e9_Snapshot.jpg",
+      "md5": "61a3d2a07e48265b8b9a750b318c0efa",
+      "size": 7343,
+      "uploadedDate": "2021-03-03T13:25:47.375Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsUpdate2-1920x1080-390acab5deb7ff8fe3d7493b3d4f35e2_Snapshot.jpg",
+      "md5": "8b3c28c288a4a50625438dc66c950c74",
+      "size": 5637,
+      "uploadedDate": "2021-03-03T13:16:16.424Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsUpdate01-1920x1080-bf90039abc0266c75a315b2ed1e97d3c_Snapshot.png",
+      "md5": "87112639757207e711bcf8ecf2182b7d",
+      "size": 14794,
+      "uploadedDate": "2019-04-09T00:10:31.282Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsUpdate01-1920x1080-139ddb49577856fda4fba87553f01354_Snapshot.png",
+      "md5": "97983982ae5202ae24f6f1256759527c",
+      "size": 14803,
+      "uploadedDate": "2019-04-09T00:04:02.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsUpdate01-1920x1080-ae123a237e77150ad0d20d462de6e1aa_Snapshot.png",
+      "md5": "a7e45c0c76a295a6ad467def31eb1a5f",
+      "size": 14674,
+      "uploadedDate": "2019-04-08T23:55:42.378Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot002-1920x1080-946144613edcec6cac3fb373d8ac1457_Snapshot.jpg",
+      "md5": "68b36e3fd4308119ffe8affb89a15c4b",
+      "size": 4674,
+      "uploadedDate": "2019-02-21T17:53:04.394Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot005-1920x1080-24b48dcc7d9c987cfe31d570f7aaf4a5_Snapshot.jpg",
+      "md5": "33b94a861db9a3f962d4764657581356",
+      "size": 3829,
+      "uploadedDate": "2019-02-20T13:41:12.697Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot001-1920x1080-7d58f85a2fc7b90de84269ace46d3686_Snapshot.jpg",
+      "md5": "be629222c00486c6f64ecc65a0b20bdc",
+      "size": 3704,
+      "uploadedDate": "2019-02-08T09:05:15.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot002-1920x1080-3dbb542bb71ca768c2fbe64f44f5d811_Snapshot.jpg",
+      "md5": "034f1bafb2a1439ab0f5d7222ce73c5c",
+      "size": 4522,
+      "uploadedDate": "2019-02-08T09:05:15.932Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot003-1920x1080-0f7408d7088e20c5a6c14ba02be6fbd8_Snapshot.jpg",
+      "md5": "cd12f0cc8875aa55e8a8cbe995f8fcb6",
+      "size": 3798,
+      "uploadedDate": "2019-02-08T09:05:16.164Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsScreenshot004-1920x1080-655639d8b5cd0366a474ee0ae99a78eb_Snapshot.jpg",
+      "md5": "7505e1eb4169afa2b38b90bf474326d9",
+      "size": 4488,
+      "uploadedDate": "2019-02-08T09:05:16.458Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview005-1920x1080-0de36b486af7c1f2e7d03a824c39a814_Snapshot.jpg",
+      "md5": "f9287a05800180b4724c2b1be8c242c2",
+      "size": 3850,
+      "uploadedDate": "2019-02-07T09:43:44.044Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview002-1920x1080-d58cde925e85da7fdcd0601aaa8e6911_Snapshot.jpg",
+      "md5": "c176afeb13d86dbcd57725e4fc80ee8f",
+      "size": 4405,
+      "uploadedDate": "2019-02-06T13:58:11.975Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview001-1920x1080-3131a2f3f7cce78a2b114a6a1ba89012_Snapshot.jpg",
+      "md5": "19cc8bd71f367bad9dbb63c68755831c",
+      "size": 4745,
+      "uploadedDate": "2019-02-05T23:46:38.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview002-1920x1080-589f908dcafbdec3e5bff0c0d65a4f0e_Snapshot.jpg",
+      "md5": "99ba2f2f34266d42df001beaa5fcb0f7",
+      "size": 4554,
+      "uploadedDate": "2019-02-05T23:46:38.659Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview003-1920x1080-fbbe7c06b1d6bab92402e39d5194a84d_Snapshot.jpg",
+      "md5": "bcc62414aca56328d9f60a8cdd6cfa45",
+      "size": 4492,
+      "uploadedDate": "2019-02-05T23:46:38.968Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview004-1920x1080-6ecd46ac39262161d98e9ee9d8439ee1_Snapshot.jpg",
+      "md5": "720afe4239ad818da7f685a700cec667",
+      "size": 4381,
+      "uploadedDate": "2019-02-05T23:46:39.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview005-1920x1080-e636e6ec5843b317c1d23f2b88549aa9_Snapshot.jpg",
+      "md5": "367d2e4d7d4956feb1dfb4b2a256ce16",
+      "size": 3647,
+      "uploadedDate": "2019-02-05T23:46:39.401Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview001-1920x1080-47d6293e1422410af5546c2ebc904804_Snapshot.png",
+      "md5": "f6b6e38a88221aeee3754da1b6295631",
+      "size": 6493,
+      "uploadedDate": "2018-12-19T21:31:57.775Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview002-1920x1080-89a5b2e7fb10638ffa42dd95dc021446_Snapshot.png",
+      "md5": "7c057a6986aef79ea8d990b55fdbcf38",
+      "size": 7684,
+      "uploadedDate": "2018-12-19T21:31:57.939Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview003-1920x1080-b55c0d6c9c6d34e4f0a8305cfbb31643_Snapshot.png",
+      "md5": "b4c753ba49520088d9685bd51fafb903",
+      "size": 6573,
+      "uploadedDate": "2018-12-19T21:31:58.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview004-1920x1080-6f1fae731837203dce794a1ea6e1a008_Snapshot.png",
+      "md5": "12b3b0c53a209d493ffff0a220e8540e",
+      "size": 7596,
+      "uploadedDate": "2018-12-19T21:31:58.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview005-1920x1080-4d4304619dbebda3054c342f26d3fb52_Snapshot.png",
+      "md5": "ccfa9380e581ae557d7d83f7bdd52b73",
+      "size": 6337,
+      "uploadedDate": "2018-12-19T21:31:58.566Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview006-1920x1080-1197a3c955cb2862556a90f3bab690b6_Snapshot.png",
+      "md5": "e452ba28a1bfc43f1698082a78ac8740",
+      "size": 7251,
+      "uploadedDate": "2018-12-19T21:31:58.858Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HGPlayingCardsOverview007-1920x1080-a4206735f71007039e9889aafc167a29_Snapshot.png",
+      "md5": "5f4a7152d1bb4b59b487cb1c09a4c9fb",
+      "size": 6676,
+      "uploadedDate": "2018-12-19T21:31:59.059Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fa0bb3c673f34e9a93955d7790593088"
+    }
+  ],
+  "catalogNs": null
+}

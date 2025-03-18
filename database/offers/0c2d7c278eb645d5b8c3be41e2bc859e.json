@@ -1,0 +1,242 @@
+{
+  "id": "0c2d7c278eb645d5b8c3be41e2bc859e",
+  "namespace": "ue",
+  "title": "Particle Text",
+  "description": "Emit particles (using Cascade) from user-defined text. Text can be specified directly on the emitter module, or customized in the class defaults and at runtime in blueprints via a special ParticleTextParamComponent.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/3yomiM4JOEU\" rel=\"nofollow\">youtu.be/3yomiM4JOEU</a></p><p><br /></p><p>Emit CASCADE particles from user-defined text. Text can be specified directly on the emitter module, or customized in the class defaults and at runtime in Blueprints via a special ParticleTextParamComponent.</p><p>(Niagara not supported)</p><p><br /></p><p><strong>** NEW! NOW SUPPORTS ANDROID FOR 4.23 AND UP **</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "particle-text",
+  "creationDate": "2017-03-08T14:32:09.310Z",
+  "lastModifiedDate": "2024-09-28T04:07:41.035Z",
+  "effectiveDate": "2017-05-25T00:00:00.000Z",
+  "viewableDate": "2017-05-25T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-4f1479bafe42138158115a7f5c3c4c",
+    "name": "Killer Refresh Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>New Particle Emitter Module: UParticleModuleLocationText (Supported on GPU)</p><p>Parameters:</p><p>Text</p><p>Font</p><p>Scale</p><p>HorizontalAlignment</p><p>VerticalAlignment</p><p>MaskValue</p><p>CanvasSize</p><p>TexelDensity</p><p>HorizontalAnchor</p><p>VerticalAnchor</p><p>ShuffleParticlesOnNewText *(not supported on GPU)</p><p>ShuffleLocationType</p><p>ShuffleEasingFunc</p><p>ShuffleDurationMax</p><p>ShuffleDurationMin</p><p><br /></p><p>New SceneComponent: UParticleTextParamComponent</p><p>Parameters:</p><p>Text</p><p>Font</p><p>Scale</p><p>Horizontal Alignment</p><p>Vertical Alignment</p><p>Mask Value</p><p>Canvas Size</p><p>Texel Density</p><p>Horizontal Anchor</p><p>Vertical Anchor</p><p><br /></p><p>Network Replicated: No</p><p>Supported Development Platforms: win64/win32</p><p>Supported Target Build Platforms: win64/win32</p><p>Documentation: <a href=\"http://killerrefresh.com/Particle-Text-Plugin/\" rel=\"nofollow\">killerrefresh.com/Particle-Text-Plugin/</a></p><p>Tutorial Project: <a href=\"https://drive.google.com/file/d/1QoCdzSH2YX0q8OKho3SciB2u6Zr8juEE/view?usp&#61;sharing\" rel=\"nofollow\">Download</a></p><p>Support Thread: <a href=\"https://forums.unrealengine.com/showthread.php?147703-Particle-Text-Plugin&amp;p&#61;724217#post724217\" rel=\"nofollow\">here</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1359",
+      "name": "ISOMETRIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:16.679Z",
+      "updated": "2019-06-20T12:01:16.679Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "591dfc0a-860e-44c4-a68c-0787f16f8045"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText0-1920x1080-3b9b55046e5029643b2698af6285c6c0.png",
+      "md5": "3b9b55046e5029643b2698af6285c6c0",
+      "size": 853016,
+      "uploadedDate": "2017-05-04T16:58:55.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ParticleTextKanji-1920x1080-76e4930b29ef7b2a7be2ed5020c6ded4.png",
+      "md5": "76e4930b29ef7b2a7be2ed5020c6ded4",
+      "size": 2821685,
+      "uploadedDate": "2018-08-04T20:41:30.762Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText1-1920x1080-25e8479568f0a396479710f29bc7cbd4.png",
+      "md5": "25e8479568f0a396479710f29bc7cbd4",
+      "size": 451804,
+      "uploadedDate": "2017-05-04T16:58:45.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText2-1920x1080-b2e377f9fc9db9203ae22c4d45f45775.png",
+      "md5": "b2e377f9fc9db9203ae22c4d45f45775",
+      "size": 687728,
+      "uploadedDate": "2017-05-04T16:58:41.975Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText3-1920x1080-7e3a742eb03273994174e29cbdba6f32.png",
+      "md5": "7e3a742eb03273994174e29cbdba6f32",
+      "size": 638592,
+      "uploadedDate": "2017-05-04T16:58:40.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText4-1920x1080-23fcdf2b02692c3ab4558664ad29f5d2.png",
+      "md5": "23fcdf2b02692c3ab4558664ad29f5d2",
+      "size": 140948,
+      "uploadedDate": "2017-05-04T16:58:37.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText5-1920x1080-38a05d98ce3cad0497670a3d82e4e0c5.png",
+      "md5": "38a05d98ce3cad0497670a3d82e4e0c5",
+      "size": 123233,
+      "uploadedDate": "2017-05-04T16:58:35.081Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BlueprintCap-1920x1080-cfe007ddccf27e616841dd7567ef9e6a.PNG",
+      "md5": "cfe007ddccf27e616841dd7567ef9e6a",
+      "size": 161759,
+      "uploadedDate": "2018-07-31T19:42:00.741Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ParticleText_Thumb-284x284-179b95141e4e4f3ff7e2ec241a6813a8.png",
+      "md5": "179b95141e4e4f3ff7e2ec241a6813a8",
+      "size": 239233,
+      "uploadedDate": "2017-05-04T16:58:28.200Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ParticleText_featured-894x488-2e561630378ec0d65f4fdf4319668bd3.png",
+      "md5": "2e561630378ec0d65f4fdf4319668bd3",
+      "size": 885301,
+      "uploadedDate": "2018-08-04T19:42:24.560Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ParticleTextKanji-1920x1080-76e4930b29ef7b2a7be2ed5020c6ded4_Snapshot.png",
+      "md5": "8abbbc7643abe1c383386364f875aab2",
+      "size": 29529,
+      "uploadedDate": "2018-08-04T20:41:31.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BlueprintCap-1920x1080-cfe007ddccf27e616841dd7567ef9e6a_Snapshot.PNG",
+      "md5": "ad65b09ae8ae594ca9c435862c024370",
+      "size": 6193,
+      "uploadedDate": "2018-07-31T19:42:00.909Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "288d2f2125fc4cc1879db9292f32c5db"
+    }
+  ],
+  "catalogNs": null
+}

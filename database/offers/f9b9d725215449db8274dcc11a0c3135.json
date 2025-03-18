@@ -1,0 +1,320 @@
+{
+  "id": "f9b9d725215449db8274dcc11a0c3135",
+  "namespace": "ue",
+  "title": "Video Ambient Lighting",
+  "description": "Light your Game or Architectural environments dynamically by video content!",
+  "longDescription": "<p><strong>• Generates Dynamic Lighting from Videos</strong></p><p><strong>• Supports Baked Shadows with Stationary Lights</strong></p><p><strong>• Highly performant implementation</strong></p><p><strong>• Can be shipped with Game &amp; Architectural Visualization Projects</strong></p><p><strong>• Easy to connect with existing Media content</strong></p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;lbUPprdIxwc\" rel=\"nofollow\"><strong><u>Watch Introduction Video</u></strong></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;EtZQ3TK292A\" rel=\"nofollow\"><strong><u>Watch Showcase Video</u></strong></a></p><p><br /></p><p><strong>How to use</strong></p><ol><li>Place a &#34;Video Ambient Rect Light&#34; from the &#34;Place Actor&#34; editor panel under the &#34;Lights&#34; tab</li><li>Assign the Media Texture from your Media Player to the &#34;Source Media Texture&#34; input (if you don&#39;t have a Media Player yet, follow <a href=\"https://docs.unrealengine.com/en-us/Engine/MediaFramework/HowTo/FileMediaSource\" rel=\"nofollow\"><u>this official tutorial</u></a> to set that up)</li><li>Press Play!</li></ol><p><br /></p><p><strong>Alternative setup for lower platforms</strong></p><ol><li>Add a &#34;Video Ambient Light&#34; component and any number of lights to an Actor or Blueprint (if you followed the tutorial linked above, this would be the plane you created in step 10)</li><li>Configure lighting functionality by enabling the desired features in the details panel, typing in the names of lights the plugin should connect to (they have to be <u>part of same Actor or Blueprint</u>), and assigning the video material to &#34;Source Material&#34; (if you followed the tutorial, the video material is created in step 11)</li><li>Press Play!</li></ol><p><br /></p><p>Connected lights will pick up the colors of the video <u>when you press play</u>.</p><p>Make sure to read the tooltips on all of the properties in the details panel!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "video-ambient-lighting",
+  "creationDate": "2018-11-01T11:59:06.069Z",
+  "lastModifiedDate": "2024-09-29T18:01:39.793Z",
+  "effectiveDate": "2018-11-01T11:59:05.976Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qu8fj9kf2qpsam5xk967u2p4wea4ex",
+    "name": "DecalPortal"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Supported LightComponents:</strong></p><p>PointLights, SpotLights, RectLights and DirectionalLights are supported, with <u>Stationary or Movable mobility</u>.</p><p>Stationary lights still <u>support baked shadows</u> while working with this plugin.</p><p>The LightComponents are identified by their name and <u>must be part of the same Actor as the VideoAmbientLightComponent.</u></p><p><br /></p><p><strong>Material compatibility:</strong></p><p>The simplest possible material would just contain the MediaTexture of your MediaPlayer connected to the emissive color output of an unlit material.</p><p>The plugin calculates the light colors based on the <u>emissive color output</u> of the assigned SourceMaterial. This allows for any effects added in the material to be taken into account for determining the output colors.</p><p><br /></p><p><strong>Performance</strong></p><p>The performance cost of this solution is generally small and scalable so it is suitable for games with tight performance constraints. The plugin is also built to support the DetailMode system, so if your project supports different graphics quality settings, you could disable the ambient lighting completely on low settings.</p><p><br /></p><p><strong>Feedback</strong></p><p>Feel free to contact me at <a href=\"mailto:decal_portal459&#64;simplelogin.com\" rel=\"nofollow\">decal_portal459&#64;simplelogin.com</a> if you run into any issues or have any feature requests.</p><p><br /></p><p>Code Modules:</p><ul><li> VideoAmbientLighting (Runtime) - Provides the VideoAmbientRectLight Actor and the VideoAmbientLight Component that can be used in any Actor or Blueprint and handles sampling of colors from video and communicating with connected LightComponents.</li><li> VideoAmbientLightingEditor (Editor) - Module to support the presentation of the new classes in the editor.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1329",
+      "name": "RUNNER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:02.030Z",
+      "updated": "2019-06-20T12:01:02.030Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b6c97c36-dc04-465f-b06f-4b97439f4f9f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VAL200-1920x1080-83851ddaf5a4f7e0aca42916868dcb2f.png",
+      "md5": "83851ddaf5a4f7e0aca42916868dcb2f",
+      "size": 1821834,
+      "uploadedDate": "2020-08-03T18:53:22.962Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VAL201-1920x1080-fad541ca32369ee9164332b3a9d7359d.png",
+      "md5": "fad541ca32369ee9164332b3a9d7359d",
+      "size": 2069313,
+      "uploadedDate": "2020-08-03T18:53:23.511Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VAL02-1920x1080-d3f64e1502db75f373ff2b26fd948083.png",
+      "md5": "d3f64e1502db75f373ff2b26fd948083",
+      "size": 1514585,
+      "uploadedDate": "2018-10-03T20:37:01.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VAL03-1920x1080-2a5006442aa9f9dee845a31c4dca75e1.png",
+      "md5": "2a5006442aa9f9dee845a31c4dca75e1",
+      "size": 1030000,
+      "uploadedDate": "2018-10-03T20:37:02.287Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VAL04-1920x1080-2e6c2b2b89705ff48414fdeadbf54688.png",
+      "md5": "2e6c2b2b89705ff48414fdeadbf54688",
+      "size": 1902468,
+      "uploadedDate": "2018-10-03T20:37:02.803Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VideoAmbientLighting_thumb-284x284-315194aba0773cb57c38e11736ee1e7d.png",
+      "md5": "315194aba0773cb57c38e11736ee1e7d",
+      "size": 135909,
+      "uploadedDate": "2021-07-20T18:02:14.173Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VideoAmbientLighting_featured-894x488-140cbbeff87763c7c47000ebfc025115.png",
+      "md5": "140cbbeff87763c7c47000ebfc025115",
+      "size": 689672,
+      "uploadedDate": "2021-07-20T18:02:14.299Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL200-1920x1080-83851ddaf5a4f7e0aca42916868dcb2f_Snapshot.png",
+      "md5": "29ba919db076c5ebef0390c50694fd0f",
+      "size": 4631,
+      "uploadedDate": "2020-08-03T18:53:23.306Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL201-1920x1080-fad541ca32369ee9164332b3a9d7359d_Snapshot.png",
+      "md5": "4451d449f02ae2b202c39c810dc8ebd8",
+      "size": 5379,
+      "uploadedDate": "2020-08-03T18:53:23.870Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL00-1920x1080-f7157b0aaf69fbf7caa25c523b6e41d9_Snapshot.png",
+      "md5": "c98a2daa1e10f832333936278be67392",
+      "size": 18122,
+      "uploadedDate": "2018-10-03T20:37:00.949Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL01-1920x1080-bc9a66139ef6403eb0565deaacd1898b_Snapshot.png",
+      "md5": "55f49c5bebc2dcb0ef0f1908e17e14e9",
+      "size": 12861,
+      "uploadedDate": "2018-10-03T20:37:01.500Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL02-1920x1080-d3f64e1502db75f373ff2b26fd948083_Snapshot.png",
+      "md5": "30a55dc081a45f708ebf7eedb8c82a3d",
+      "size": 16723,
+      "uploadedDate": "2018-10-03T20:37:02.101Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL03-1920x1080-2a5006442aa9f9dee845a31c4dca75e1_Snapshot.png",
+      "md5": "9b9209eca249a8cefede537f4171e558",
+      "size": 10154,
+      "uploadedDate": "2018-10-03T20:37:02.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VAL04-1920x1080-2e6c2b2b89705ff48414fdeadbf54688_Snapshot.png",
+      "md5": "51d783dad3ea39a1f19f9cb98bd13eec",
+      "size": 19393,
+      "uploadedDate": "2018-10-03T20:37:03.176Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "546bf6ece79a47828aea986035401d41"
+    }
+  ],
+  "catalogNs": null
+}

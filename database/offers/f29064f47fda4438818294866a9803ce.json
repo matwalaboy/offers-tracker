@@ -1,0 +1,428 @@
+{
+  "id": "f29064f47fda4438818294866a9803ce",
+  "namespace": "ue",
+  "title": "\"Veranda Ghost\" Character",
+  "description": "Modular Horror Character",
+  "longDescription": "<p>The Veranda Ghost is entirely hand-sculpted and textured. This horror figure haunts the darkest corners of homes and abandoned places. Whether she&#39;s walking, running or floating through the air with sinister jerks, she makes a formidable foe with multiple attacks. Unreal Engine 4 and 5 compatible, it&#39;s rigged with the UE4 Epic Skeleton.</p><p><br /></p><p>Link to animations video:</p><p><a href=\"https://youtu.be/HA33TdxvwVQ\" rel=\"nofollow\">https://youtu.be/HA33TdxvwVQ</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "veranda-ghost-character",
+  "creationDate": "2024-08-11T03:01:26.320Z",
+  "lastModifiedDate": "2024-09-30T06:35:23.879Z",
+  "effectiveDate": "2024-08-11T03:03:32.835Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k5d6uwmuv76bs24tbf5d9kzz2mt7z4",
+    "name": "ALB Characters"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Modular character with 3 different dresses</li><li> Character Blueprint with character configurator</li><li> Rigged to the UE4 Skeleton Mannequin with additional bones for face and chest</li><li>Modular colors for dresses, skin, eyes and hair</li><li>8 facial morph targets included</li><li>22 walking, running, flying, attack and death animations included</li><li>Clothes Physics configured</li></ul><p><br /></p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: Yes with extra bones (base_l_ribstwist, base_r_ribstwist, facialbone, jawroot, teeth02, tongue01, tongue02, tongue03, left_eye, right_eye, upperjaw, teeth01)</p><p>Animated: Yes</p><p>Number of Animations: 44 (22 for UE4 skeleton, 22 for native skeleton)</p><p>Animation types (Root Motion/In-place): In-place</p><p>Number of characters: 1</p><p>Vertex counts of characters: 36k-58k </p><p>Number of Materials and Material Instances: 14</p><p>Number of Textures: 45</p><p>Texture Resolutions: 2048-4096</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "Adventure",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2023-08-23T02:16:39.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 1473,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "652249ea-ece4-4b71-8933-4e517642c28f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage1-1920x1080-e3d0dabf17a32c8935eb5e3c1d71d4eb.jpg",
+      "md5": "e3d0dabf17a32c8935eb5e3c1d71d4eb",
+      "size": 1639216,
+      "uploadedDate": "2024-08-04T13:49:29.596Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage2-1920x1080-787ae204eb08277628919d72c36267db.jpg",
+      "md5": "787ae204eb08277628919d72c36267db",
+      "size": 831288,
+      "uploadedDate": "2024-08-04T13:49:30.134Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage3-1920x1080-47645c98150cc87385d337409e21ad2e.jpg",
+      "md5": "47645c98150cc87385d337409e21ad2e",
+      "size": 903877,
+      "uploadedDate": "2024-08-04T13:49:30.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage4-1920x1080-ceae9b9ae89f387b3c7292876a13b3d2.jpg",
+      "md5": "ceae9b9ae89f387b3c7292876a13b3d2",
+      "size": 1010026,
+      "uploadedDate": "2024-08-04T13:49:31.037Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage5-1920x1080-46adc29b601f2933bb5b22f2f6e2a262.jpg",
+      "md5": "46adc29b601f2933bb5b22f2f6e2a262",
+      "size": 914359,
+      "uploadedDate": "2024-08-04T13:49:31.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage6-1920x1080-d50149978be2d68622da4cd395ca996d.jpg",
+      "md5": "d50149978be2d68622da4cd395ca996d",
+      "size": 852599,
+      "uploadedDate": "2024-08-04T13:49:31.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage7-1920x1080-038871633ba93f115cd5cba31ae314a4.jpg",
+      "md5": "038871633ba93f115cd5cba31ae314a4",
+      "size": 924957,
+      "uploadedDate": "2024-08-04T13:49:32.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage8-1920x1080-12ad9daec442dee00b090370ba54993b.jpg",
+      "md5": "12ad9daec442dee00b090370ba54993b",
+      "size": 1071780,
+      "uploadedDate": "2024-08-04T13:49:32.777Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage9-1920x1080-210745fffecedfcedd49a8cf82846e0b.jpg",
+      "md5": "210745fffecedfcedd49a8cf82846e0b",
+      "size": 1062422,
+      "uploadedDate": "2024-08-04T13:49:33.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VGGalleryImage10-1920x1080-aae03b74edd4c8ec73efdefcdc8fbfe1.jpg",
+      "md5": "aae03b74edd4c8ec73efdefcdc8fbfe1",
+      "size": 793166,
+      "uploadedDate": "2024-08-04T13:49:33.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VerandaGhostCharacter_thumb-284x284-8dbc1f70f8645d2fd8da2c87f24e5edc.png",
+      "md5": "8dbc1f70f8645d2fd8da2c87f24e5edc",
+      "size": 85799,
+      "uploadedDate": "2024-08-11T12:49:40.935Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VerandaGhostCharacter_featured-894x488-a78b133cb83ee3a9a6d637777687fbb3.png",
+      "md5": "a78b133cb83ee3a9a6d637777687fbb3",
+      "size": 394837,
+      "uploadedDate": "2024-08-06T14:06:26.308Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage1-1920x1080-e3d0dabf17a32c8935eb5e3c1d71d4eb_Snapshot.jpg",
+      "md5": "79687f105c8e27ba1725fa0d89297fe8",
+      "size": 8594,
+      "uploadedDate": "2024-08-04T13:49:29.953Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage2-1920x1080-787ae204eb08277628919d72c36267db_Snapshot.jpg",
+      "md5": "0e5427f99a6c186e30e5759f674a5cda",
+      "size": 5498,
+      "uploadedDate": "2024-08-04T13:49:30.394Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage3-1920x1080-47645c98150cc87385d337409e21ad2e_Snapshot.jpg",
+      "md5": "bc7559b623bdacb9df14b7d7e8646dc4",
+      "size": 5662,
+      "uploadedDate": "2024-08-04T13:49:30.862Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage4-1920x1080-ceae9b9ae89f387b3c7292876a13b3d2_Snapshot.jpg",
+      "md5": "89ef76188a6a55ef40f025ad634c911b",
+      "size": 5639,
+      "uploadedDate": "2024-08-04T13:49:31.304Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage5-1920x1080-46adc29b601f2933bb5b22f2f6e2a262_Snapshot.jpg",
+      "md5": "f0f4c32d2e8989b8aa212d5a3e859cc9",
+      "size": 5591,
+      "uploadedDate": "2024-08-04T13:49:31.759Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage6-1920x1080-d50149978be2d68622da4cd395ca996d_Snapshot.jpg",
+      "md5": "5d22e9d47c195a9e983d2192a2308914",
+      "size": 5469,
+      "uploadedDate": "2024-08-04T13:49:32.176Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage7-1920x1080-038871633ba93f115cd5cba31ae314a4_Snapshot.jpg",
+      "md5": "891c098330871d712b74df9e3decacef",
+      "size": 6281,
+      "uploadedDate": "2024-08-04T13:49:32.592Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage8-1920x1080-12ad9daec442dee00b090370ba54993b_Snapshot.jpg",
+      "md5": "ed6d1160bfb2b805725920b0b50ba15c",
+      "size": 5398,
+      "uploadedDate": "2024-08-04T13:49:33.048Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage9-1920x1080-210745fffecedfcedd49a8cf82846e0b_Snapshot.jpg",
+      "md5": "1c605e28fe78e9fba9a48f89e17562df",
+      "size": 5423,
+      "uploadedDate": "2024-08-04T13:49:33.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VGGalleryImage10-1920x1080-aae03b74edd4c8ec73efdefcdc8fbfe1_Snapshot.jpg",
+      "md5": "b6e2ebdf45baddb78832eefd94b2429b",
+      "size": 5504,
+      "uploadedDate": "2024-08-04T13:49:34.080Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "750e326d09564244a1369b9ff294ff24"
+    }
+  ],
+  "catalogNs": null
+}

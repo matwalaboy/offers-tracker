@@ -1,0 +1,368 @@
+{
+  "id": "21ec9f187ac2484698f04bb7252a3072",
+  "namespace": "ue",
+  "title": "Pumpkin Costume",
+  "description": "Lowpoly Game Ready Animated Character of Pumpkin Costume",
+  "longDescription": "<p>The model contains 10 animation</p><p><br /></p><ul><li>idle (x2)</li><li>run (x3)</li><li>attack (x3)</li><li>fly (x1)</li><li>stun (x1)</li></ul><p><br /></p><p>PBR textures: Body &amp; Cloth - 4096x4096; Other - 2048x2048</p><p><br /></p><ul><li>Normal</li><li>Diffuse</li><li>Metallic</li><li>Rough/Gloss</li><li>Emissive</li><li>AO</li></ul><p><br /></p><p>Faces - 6267</p><p>Verts - 6225</p><p>Tris - 12249</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pumpkin-costume",
+  "creationDate": "2023-04-09T03:41:12.097Z",
+  "lastModifiedDate": "2024-09-30T18:59:47.187Z",
+  "effectiveDate": "2023-04-09T03:41:12.040Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mcrxh7ku8fp398yy6xjf597nbk6asp",
+    "name": "botastock"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/Qtwo8s1mvvw\" rel=\"nofollow\">video preview</a></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>\tIf rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (Yes)</p><p>Number of Animations: 10</p><p>Animation types (Root Motion 0/In-place 10):</p><p>Number of characters: 4</p><p>Vertex counts of characters: 6225</p><p>Number of Materials and Material Instances: 10</p><p>Number of Textures: 27</p><p>Texture Resolutions: Body &amp; Cloth - 4096x4096; Other - 2048x2048</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: No</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "38b27130-ba24-4b44-8d2a-aadad501001b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unity 1920x1080-1920x1080-8e241e4221d2ad5b8b3498e91c76d4d5.jpg",
+      "md5": "8e241e4221d2ad5b8b3498e91c76d4d5",
+      "size": 593175,
+      "uploadedDate": "2023-03-30T15:24:39.495Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-75ccf4ec931677d826dde5183fcf9500.png",
+      "md5": "75ccf4ec931677d826dde5183fcf9500",
+      "size": 2559891,
+      "uploadedDate": "2023-03-30T15:24:40.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-e59bc2f54555e60aeaa107a7cd2201d3.png",
+      "md5": "e59bc2f54555e60aeaa107a7cd2201d3",
+      "size": 2513941,
+      "uploadedDate": "2023-03-30T15:24:41.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-c6220e53bc095d59bcf31d81977e0ad2.png",
+      "md5": "c6220e53bc095d59bcf31d81977e0ad2",
+      "size": 2507392,
+      "uploadedDate": "2023-03-30T15:24:41.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-56b4154754cd8d9891a109b5fd101e2c.png",
+      "md5": "56b4154754cd8d9891a109b5fd101e2c",
+      "size": 2540600,
+      "uploadedDate": "2023-03-30T15:24:42.457Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-536c87300208d675d5174ad176f1a54e.png",
+      "md5": "536c87300208d675d5174ad176f1a54e",
+      "size": 2225194,
+      "uploadedDate": "2023-03-30T15:24:43.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PumpkinCostume_thumb-284x284-3e1efae61fe33c43dee687e1b00d0d62.png",
+      "md5": "3e1efae61fe33c43dee687e1b00d0d62",
+      "size": 113381,
+      "uploadedDate": "2023-03-30T15:24:43.570Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PumpkinCostume_featured-894x488-42283c75df8f60a676217407b01650f2.png",
+      "md5": "42283c75df8f60a676217407b01650f2",
+      "size": 487175,
+      "uploadedDate": "2023-03-30T15:24:43.840Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unity 1920x1080-1920x1080-8e241e4221d2ad5b8b3498e91c76d4d5_Snapshot.jpg",
+      "md5": "f12c43db68b847a0cbf210af3957e940",
+      "size": 4670,
+      "uploadedDate": "2023-03-30T15:24:40.015Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-75ccf4ec931677d826dde5183fcf9500_Snapshot.png",
+      "md5": "be7108b9d74b148796f6df3f58cbf0c6",
+      "size": 6369,
+      "uploadedDate": "2023-03-30T15:24:40.752Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-e59bc2f54555e60aeaa107a7cd2201d3_Snapshot.png",
+      "md5": "0d7a3b62504b892f4a3961a10daa173d",
+      "size": 5974,
+      "uploadedDate": "2023-03-30T15:24:41.488Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-c6220e53bc095d59bcf31d81977e0ad2_Snapshot.png",
+      "md5": "b4ae2035ba8cf22fba6679bad739d2c5",
+      "size": 5913,
+      "uploadedDate": "2023-03-30T15:24:42.171Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-56b4154754cd8d9891a109b5fd101e2c_Snapshot.png",
+      "md5": "59bafa3e3b0d743492640af170b67674",
+      "size": 5818,
+      "uploadedDate": "2023-03-30T15:24:42.901Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-536c87300208d675d5174ad176f1a54e_Snapshot.png",
+      "md5": "8dd0fb98861f9991649e0d6cbc09b4eb",
+      "size": 4770,
+      "uploadedDate": "2023-03-30T15:24:43.493Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cd8d381ebe5e4539ab933250432badb8"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,347 @@
+{
+  "id": "44935228baad48ee9fd9179c9a32623b",
+  "namespace": "ue",
+  "title": "Mini-Graph - God HUD",
+  "description": "Data Collection and Visualization Framework",
+  "longDescription": "<h2><strong> </strong>\t<strong> Mini-Graph - God HUD</strong></h2><p><br /></p><p>A general and lightweight data-tracker with extensive analysis and graph-plot. Quick point-n-click Editor Integration &#43; Fully featured Data Collection, Processing and Visualization Framework in Blueprint.</p><p><br /></p><p><strong>Presentation</strong></p><p><a href=\"https://i.imgur.com/DX23UwU.gif\" rel=\"nofollow\">Editor Graph Gif 1</a></p><p><a href=\"https://i.imgur.com/G9KvXeN.gif\" rel=\"nofollow\">Editor Graph Gif 2</a></p><p><a href=\"https://youtu.be/wzD4X5wmUjY\" rel=\"nofollow\">Example Level Video</a></p><p><br /></p><p><strong>Outline</strong></p><ul><li>Collect Float values with timestamp</li><li>Frequently or Event-driven tracking using by Blueprint or editor context-menu</li><li>Real-time analytical properties: Mean, Median, Variance, Odds, Slope, Error, etc.</li><li>Customizable Graph Visualizations: Signal-Graph, Slope, Gauss-Curve, Histogram</li><li>Import and Export Data-Sets as CSV-files</li><li>2D Widgets (e.g. for UI)</li><li>3D Widgets (e.g. for interactive spaceship displays)</li><li>Built-in DataTracker UI and God HUD to display data in-editor and in-game</li></ul><p><br /></p><p><strong>Contact</strong></p><p>Our <a href=\"https://forums.unrealengine.com/showthread.php?122048-DataTracker-for-Unreal-Engine-4-interactive-In-Game-Displays\" rel=\"nofollow\">Official Forum Thread</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "datatracker-plugin",
+  "creationDate": "2016-09-08T19:00:05.498Z",
+  "lastModifiedDate": "2024-09-27T08:57:18.436Z",
+  "effectiveDate": "2016-10-27T00:00:00.000Z",
+  "viewableDate": "2016-10-27T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-68f055fe2b4a3da47385ece4981771",
+    "name": "Thauros-Development"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong></p><ul><li>Editor Integration</li><li>3D/VR Displays</li><li>Blueprint /or C&#43;&#43;</li><li>Stats</li><li>Data Import/Export (csv)</li><li>High-performance</li><li>Well commented</li></ul><p><br /></p><p><strong>Contact</strong></p><p>Our <a href=\"https://forums.unrealengine.com/showthread.php?122048-DataTracker-for-Unreal-Engine-4-interactive-In-Game-Displays\" rel=\"nofollow\">Official Forum Thread</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1286",
+      "name": "BIKES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:40.678Z",
+      "updated": "2019-06-20T12:00:40.678Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1360",
+      "name": "SPELLING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:17.163Z",
+      "updated": "2019-06-20T12:01:17.163Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1335",
+      "name": "ATMOSPHERIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:04.954Z",
+      "updated": "2019-06-20T12:01:04.954Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7daa3500-c2e8-4e4f-880f-a8bc0a259025"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiniGraph1920-1920x1080-33a9a692711972f0858baa8e3e90c60d.png",
+      "md5": "33a9a692711972f0858baa8e3e90c60d",
+      "size": 2184596,
+      "uploadedDate": "2020-08-11T12:38:02.329Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiniGraph21920-1920x1080-f0f55937727ec8f5f2833f9cfa3c673a.png",
+      "md5": "f0f55937727ec8f5f2833f9cfa3c673a",
+      "size": 1231109,
+      "uploadedDate": "2020-08-11T12:38:02.750Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MiniGraph31920-1920x1080-c3d64a64206218c672f49b187b0dba5c.png",
+      "md5": "c3d64a64206218c672f49b187b0dba5c",
+      "size": 1032153,
+      "uploadedDate": "2020-08-11T12:38:03.156Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_DataTrackerPlugin_screenshot_2-1920x1080-921a45cbad201e7fd8e307d198cdaf7d.png",
+      "md5": "921a45cbad201e7fd8e307d198cdaf7d",
+      "size": 717232,
+      "uploadedDate": "2016-09-08T18:58:21.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_DataTrackerPlugin_screenshot_3-1920x1080-e79c4eb961009183f35d351599b4ef3b.png",
+      "md5": "e79c4eb961009183f35d351599b4ef3b",
+      "size": 469660,
+      "uploadedDate": "2016-09-08T18:58:20.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_DataTrackerPlugin_screenshot_4-1920x1080-5e985f47ea3fe7ee4450f605c529d4ca.png",
+      "md5": "5e985f47ea3fe7ee4450f605c529d4ca",
+      "size": 573521,
+      "uploadedDate": "2016-09-08T18:58:12.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_DataTrackerPlugin_screenshot_5-1920x1080-b0da349d82644b0473b43fe7276f25c2.png",
+      "md5": "b0da349d82644b0473b43fe7276f25c2",
+      "size": 138226,
+      "uploadedDate": "2016-09-08T18:58:11.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MiniGraphGodHUD_thumb-284x284-a3ebf5362af8794d29700ccebdb5085e.png",
+      "md5": "a3ebf5362af8794d29700ccebdb5085e",
+      "size": 24539,
+      "uploadedDate": "2020-08-11T12:38:03.456Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MiniGraphGodHUD_featured-894x488-6f968342349d1abfaf310020359c6d71.png",
+      "md5": "6f968342349d1abfaf310020359c6d71",
+      "size": 74411,
+      "uploadedDate": "2020-08-11T12:38:03.530Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiniGraph1920-1920x1080-33a9a692711972f0858baa8e3e90c60d_Snapshot.png",
+      "md5": "11189bdd13d0c6440f50440fb6b149a8",
+      "size": 6176,
+      "uploadedDate": "2020-08-11T12:38:02.614Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiniGraph21920-1920x1080-f0f55937727ec8f5f2833f9cfa3c673a_Snapshot.png",
+      "md5": "241553977cb2f9dd05f7761f5dba56eb",
+      "size": 6205,
+      "uploadedDate": "2020-08-11T12:38:03.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MiniGraph31920-1920x1080-c3d64a64206218c672f49b187b0dba5c_Snapshot.png",
+      "md5": "18b3ab5efeff0fd133f1ed4c014848c5",
+      "size": 6438,
+      "uploadedDate": "2020-08-11T12:38:03.401Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/Store_DataTrackerPlugin_FeaturedNew-894x488-f087400796f7308542989998df30fc84.png",
+      "md5": "f087400796f7308542989998df30fc84",
+      "size": 69715,
+      "uploadedDate": "2016-09-08T18:58:24.434Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "e0d0f68e95064b44ad2064558835281a"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,296 @@
+{
+  "id": "3e0a5b13d3004f06819a825e4068bd75",
+  "namespace": "ue",
+  "title": "CCTV Camera System",
+  "description": "A collection of CCTV Cameras and monitors with a live feed in an Office.",
+  "longDescription": "<p>This is a collection on both CCTV Cameras, monitors and office interiors. The cameras, when using the included Blueprint, can display on the monitors in real-time.</p><p><br /></p><p>This collection includes:</p><ul><li>Blueprint for displaying camera feed to monitors</li><li>9 different camera models</li><li>7 different sized monitors</li><li>Different camera mounting brackets</li><li>Office interior</li><li>Desks</li><li>Tables</li><li>Chair</li><li>Books</li><li>Cubicles</li><li>and more!</li></ul><p><br /></p><p>YouTube Video for how to configure: <a href=\"https://youtu.be/hlGzwEdsYfM\" rel=\"nofollow\">https://youtu.be/hlGzwEdsYfM</a></p><p><br /></p><p>If you have any questions, comments or ideas please let me know at Alan&#64;AlanOToole.com</p><p>https://AlanOToole.com</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cctv-camera-system",
+  "creationDate": "2023-06-27T15:28:51.795Z",
+  "lastModifiedDate": "2024-09-26T21:01:31.782Z",
+  "effectiveDate": "2023-06-27T15:29:50.708Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-cz9b5cqd2cgavueqe2wtprbhvvgq2a",
+    "name": "OToole Software"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>This collection includes:</p><ul><li>Blueprint for displaying camera feed to monitors</li><li>9 different camera models</li><li>7 different sized monitors</li><li>Different camera mounting brackets</li><li>Office interior</li><li>Desks</li><li>Tables</li><li>Chair</li><li>Books</li><li>Cubicles</li><li>and more!</li></ul><p><br /></p><p>YouTube Video for how to configure: https://youtu.be/hlGzwEdsYfM</p><p><br /></p><p>Number of Unique Meshes: 56</p><p>Collision: Yes, automatic.</p><p>LODs: No</p><p>Number of Materials and Material Instances: 80</p><p>Number of Textures: 77</p><p>Texture Resolutions: 2048</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://alanotoole.com/unreal/cctv-camera-system-unreal-engine/\" rel=\"nofollow\">https://alanotoole.com/unreal/cctv-camera-system-unreal-engine/</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7ea36463-f1a5-4fcb-b4b4-7ef0bea072cc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 11-1920x1080-7b8b6e070bf60b8ef91c1bd1f0d1b326.png",
+      "md5": "7b8b6e070bf60b8ef91c1bd1f0d1b326",
+      "size": 2867686,
+      "uploadedDate": "2023-06-19T17:04:40.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 10-1920x1080-2d1809e26a2d784405a8315480fa55aa.png",
+      "md5": "2d1809e26a2d784405a8315480fa55aa",
+      "size": 2934455,
+      "uploadedDate": "2023-06-19T17:04:41.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 9-1920x1080-9873cd6cab428dbbc96bc34803f75ebb.png",
+      "md5": "9873cd6cab428dbbc96bc34803f75ebb",
+      "size": 3062148,
+      "uploadedDate": "2023-06-19T17:04:42.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 8-1920x1080-a12183c7c273c67c9da1d581d9b7c5b1.png",
+      "md5": "a12183c7c273c67c9da1d581d9b7c5b1",
+      "size": 3054697,
+      "uploadedDate": "2023-06-19T17:04:42.741Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 7-1920x1080-1a1373c974ce5ad0038b14440293aca7.png",
+      "md5": "1a1373c974ce5ad0038b14440293aca7",
+      "size": 3074475,
+      "uploadedDate": "2023-06-19T17:04:43.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 6-1920x1080-c4de289077fc7d44c8456d52defec1db.png",
+      "md5": "c4de289077fc7d44c8456d52defec1db",
+      "size": 3134893,
+      "uploadedDate": "2023-06-19T17:04:44.253Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 4-1920x1080-03cfe2193d718a50ff530392fd58617d.png",
+      "md5": "03cfe2193d718a50ff530392fd58617d",
+      "size": 3009078,
+      "uploadedDate": "2023-06-19T17:04:45.172Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Layer 3-1920x1080-a7a3467b3426eaa17042de847287ff3a.png",
+      "md5": "a7a3467b3426eaa17042de847287ff3a",
+      "size": 3096901,
+      "uploadedDate": "2023-06-19T17:04:45.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CCTVCameraSystem_thumb-284x284-f2fbc81ca7524bef74c867523883a99e.png",
+      "md5": "f2fbc81ca7524bef74c867523883a99e",
+      "size": 145618,
+      "uploadedDate": "2023-06-19T17:04:46.517Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CCTVCameraSystem_featured-894x488-2b895f8391e2f7098da73582fe98adc1.png",
+      "md5": "2b895f8391e2f7098da73582fe98adc1",
+      "size": 721489,
+      "uploadedDate": "2023-06-19T17:04:46.655Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 11-1920x1080-7b8b6e070bf60b8ef91c1bd1f0d1b326_Snapshot.png",
+      "md5": "4729960266677ab4a0258e040c80b53b",
+      "size": 7322,
+      "uploadedDate": "2023-06-19T17:04:41.041Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 10-1920x1080-2d1809e26a2d784405a8315480fa55aa_Snapshot.png",
+      "md5": "4b0eaa6f52251e3b93aa786506921c6c",
+      "size": 7067,
+      "uploadedDate": "2023-06-19T17:04:41.748Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 9-1920x1080-9873cd6cab428dbbc96bc34803f75ebb_Snapshot.png",
+      "md5": "aeaa039aae6b4bb75b66bed556218c60",
+      "size": 6716,
+      "uploadedDate": "2023-06-19T17:04:42.508Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 8-1920x1080-a12183c7c273c67c9da1d581d9b7c5b1_Snapshot.png",
+      "md5": "817fcdd471a468acd1b98b53ceb0661a",
+      "size": 6349,
+      "uploadedDate": "2023-06-19T17:04:43.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 7-1920x1080-1a1373c974ce5ad0038b14440293aca7_Snapshot.png",
+      "md5": "27e0b152bcc20daea0c3d85090b7158b",
+      "size": 6705,
+      "uploadedDate": "2023-06-19T17:04:43.900Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 6-1920x1080-c4de289077fc7d44c8456d52defec1db_Snapshot.png",
+      "md5": "e6255740ed7e288e7d1f4c68abfea65e",
+      "size": 6940,
+      "uploadedDate": "2023-06-19T17:04:44.742Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 4-1920x1080-03cfe2193d718a50ff530392fd58617d_Snapshot.png",
+      "md5": "0a903f1f1f6d239e4cca38df0240cc36",
+      "size": 7910,
+      "uploadedDate": "2023-06-19T17:04:45.633Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Layer 3-1920x1080-a7a3467b3426eaa17042de847287ff3a_Snapshot.png",
+      "md5": "a9c8d43d4b98d987a723516af8915f45",
+      "size": 7111,
+      "uploadedDate": "2023-06-19T17:04:46.396Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0fdfd578110d4914b5e2ac92c9cc833c"
+    }
+  ],
+  "catalogNs": null
+}

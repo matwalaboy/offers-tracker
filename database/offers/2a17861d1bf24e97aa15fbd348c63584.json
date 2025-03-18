@@ -1,0 +1,239 @@
+{
+  "id": "2a17861d1bf24e97aa15fbd348c63584",
+  "namespace": "ue",
+  "title": "Not Yet: Lightmap Tools",
+  "description": "Allows you to quickly bake lights for only a part of your level",
+  "longDescription": "<p>LightMap Tools will be helpful for you if you use baked lights but you don&#39;t have a render farm to build. It allows you to build lights only for the selected level part you are working on. </p><p><br /></p><p>By setting other actors&#39; Lightmap Resolution to 1 it drastically decreases build time. This way you can quickly iterate and see the result without the need to rebake the entire level.</p><p><br /></p><p><strong>Video Demonstration</strong>:</p><ul><li>Quick Bake - <a href=\"https://youtu.be/-ukS_d4ilRs\" rel=\"nofollow\">https://youtu.be/-ukS_d4ilRs</a></li><li>Optimize - <a href=\"https://youtu.be/FkAKhYiblMQ\" rel=\"nofollow\">https://youtu.be/FkAKhYiblMQ</a></li></ul><p><br /></p><p><strong>Features</strong>:</p><ul><li> Quick light bake for a part of your level</li><li> Tools for editing Lightmap Resolution on your level actors</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "not-yet-lightmap-tools",
+  "creationDate": "2018-11-19T16:16:27.488Z",
+  "lastModifiedDate": "2024-09-29T16:28:00.135Z",
+  "effectiveDate": "2018-11-19T16:17:21.684Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bf784eefn92xnmvwl5qp7esuzz242l",
+    "name": "Not Yet"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Code Modules</strong>: NotYetEditorMode - [Editor]</p><p><strong>Supported Development Platforms</strong>: Windows, Mac, Linux</p><p><strong>Supported Target Build Platforms</strong>: Windows, Mac, Linux</p><p><strong>Documentation</strong>: <a href=\"https://bit.ly/NYEditorModeWiki\" rel=\"nofollow\">CLICK HERE</a></p><p><strong>Example Project</strong>: <a href=\"https://www.dropbox.com/scl/fi/2w776o2xf11ilecabcnu3/NotYetEditorModeExample-5.3.zip?rlkey&#61;6etxgi1wf13qr2l9nf56pdg39&amp;dl&#61;1\" rel=\"nofollow\">5.3 version</a> or <a href=\"https://www.dropbox.com/s/bu93n8fjlf4n6eu/NotYetEditorModeExample-5.2.zip?dl&#61;1\" rel=\"nofollow\">5.2 version</a> or <a href=\"https://www.dropbox.com/s/gconulj2vusst3f/NotYetEditorModeExample-5.1.zip?dl&#61;1\" rel=\"nofollow\">5.1 version</a> (<strong>must own the plugin to make it work</strong>)</p><p><strong>Contact</strong>: <a href=\"https://bit.ly/NYDiscord\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "de61e99c-d201-4e23-9729-dcdb80073039"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/second-1920x1080-a7f6a1d6cfa23dd052d44d3efdc262d9.png",
+      "md5": "a7f6a1d6cfa23dd052d44d3efdc262d9",
+      "size": 1057496,
+      "uploadedDate": "2018-12-12T17:15:51.494Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/first-1920x1080-a7771b393576f5e9339aa3b9d3142aea.png",
+      "md5": "a7771b393576f5e9339aa3b9d3142aea",
+      "size": 629424,
+      "uploadedDate": "2018-12-12T17:15:51.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NotYetLightmapTools_thumb-284x284-6e0a2d7dc3139403c021e8105ae5f287.png",
+      "md5": "6e0a2d7dc3139403c021e8105ae5f287",
+      "size": 55717,
+      "uploadedDate": "2018-11-08T19:04:28.384Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NotYetLightmapTools_featured-894x488-43b6021b4500cf4188018ba20b0f8676.png",
+      "md5": "43b6021b4500cf4188018ba20b0f8676",
+      "size": 543654,
+      "uploadedDate": "2018-12-12T17:15:52.013Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/second-1920x1080-a7f6a1d6cfa23dd052d44d3efdc262d9_Snapshot.png",
+      "md5": "61f24e1123d8b6e4eeda6bf84be95384",
+      "size": 11627,
+      "uploadedDate": "2018-12-12T17:15:51.716Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/first-1920x1080-a7771b393576f5e9339aa3b9d3142aea_Snapshot.png",
+      "md5": "6da74a761aef4f08910c083466148124",
+      "size": 11378,
+      "uploadedDate": "2018-12-12T17:15:51.923Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LightMapToolsShot1-1920x1080-6678dcd944e6de2d3a888300a74da980_Snapshot.JPG",
+      "md5": "d55308505d3b1e7ebae3286693abba85",
+      "size": 2637,
+      "uploadedDate": "2018-11-09T08:39:06.440Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/LightMapToolsShot2-1920x1080-88dd8479a0c2716df0c75270708fef4b_Snapshot.JPG",
+      "md5": "e1ece7d08b8c4b389b0cf2001550297b",
+      "size": 2920,
+      "uploadedDate": "2018-11-09T08:39:06.709Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/vlcsnap-2018-11-08-21h00m28s152-1920x1080-fefc95806df0bc2300a88f28b53b5b44_Snapshot.png",
+      "md5": "25f828ac7c8389ee55b4dd1c7908549e",
+      "size": 21281,
+      "uploadedDate": "2018-11-08T19:03:28.997Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "429d37a623ef4e5eb0e76d443e0061c2"
+    }
+  ],
+  "catalogNs": null
+}

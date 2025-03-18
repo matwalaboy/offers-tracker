@@ -1,0 +1,191 @@
+{
+  "id": "51db442381cc45369a7cbf5144f9c44c",
+  "namespace": "ue",
+  "title": "Adventure Kit",
+  "description": "The Adventure Kit is a C++ plugin that includes gameplay elements which can be used as a basis for a variety of games. !! 5.3+ Users read waring below!!",
+  "longDescription": "<h1>!! I have been made aware of several issues with UE 5.3&#43; also this plugin still uses the UE4 Mannequin and animations have not been updated !!</h1><h2><br /></h2><p><a href=\"https://forums.unrealengine.com/community/released-projects/72140-plugin-adventure-kit?p&#61;1417754#post1417754\" rel=\"nofollow\"><strong>Legacy Support Only! Click here for info</strong></a></p><p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;GjGaaPIigvs\" rel=\"nofollow\">youtube.com/watch?v&#61;GjGaaPIigvs</a></p><p>Demo Game: <a href=\"http://freetimestudio.github.io/Adventure-Kit/\" rel=\"nofollow\">freetimestudio.github.io/Adventure-Kit</a></p><p><br /></p><p>Features:</p><p>• Flexible Movement System:</p><p>The movement system of the kit includes everything a good adventure needs: Ledges, Ladders, Walls, Ceilings, Tight Spaces, Balancing Beams and Ziplines! All these movement zones can be configured to work with different types of characters and the underlying base classes allow for an easy implementation of custom behaviors.</p><p>• Item and Inventory System:</p><p>Augment your character with an inventory that can hold items, weapons and equip them on the character. You</p><p>can also use key items to open locks or combine them to craft something different!</p><p>• Over 70 New Animations</p><p>• Weapons:</p><p>The kit&#39;s item system includes weapon functionality and has implementations for Pistol, Machine Gun, Minigun, Bow, Sword, Boomerang, Overheating Gun and Grappling Hook.</p><p>• Game Templates:</p><p>The templates include starter levels for a variety of games such as Zelda, Darksiders, Outlast, Mirror&#39;s Edge, Splinter</p><p>Cell and Point and Click Adventures!</p><p>• Wall Walking:</p><p>Create characters that move on the ceiling or around planetoids! Set a gravity direction and the character will orient</p><p>itself accordingly.</p><p>• No C&#43;&#43; required:</p><p>The plugin is written in C&#43;&#43; but everything you need is exposed to Blueprints!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "adventure-kit",
+  "creationDate": "2016-05-06T19:39:57.547Z",
+  "lastModifiedDate": "2024-09-30T16:52:25.216Z",
+  "effectiveDate": "2016-06-16T00:00:00.000Z",
+  "viewableDate": "2016-06-16T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-65a00aa6f24abdaada9af791923e5f",
+    "name": "FreetimeStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><a href=\"https://forums.unrealengine.com/community/released-projects/72140-plugin-adventure-kit?p&#61;1417754#post1417754\" rel=\"nofollow\"><strong>No longer in development! Legacy Support Only! Click here for info</strong></a></h2><p><br /></p><p>Modules:</p><p>• AdvKitRuntime (Runtime)</p><p>• AdvKitEditor (Editor)</p><p><br /></p><p>Intended Platform: Desktop</p><p>Platforms Tested: Windows, Mac, Linux</p><p>Documentation: <a href=\"https://github.com/FreetimeStudio/Adventure-Kit-Public/wiki\" rel=\"nofollow\">github.com/FreetimeStudio/Adventure-Kit-Public/wiki</a></p><p>Important\\Additional Notes: Since the kit is a plugin for UE4 it should run on all engine supported platforms, however some post fx is not compatible with the HTML5 renderer. iOS and Android should work as well, however it is not tested nor have touch controls been implemented.</p><p><br /></p><p>All the mechanics only work in <strong>single player</strong>.</p><p><br /></p><p>The kit contains sample assets, some of which were created by third parties. It uses starter content from Epic Games as well as sound files. All included sounds are released under the Public Domain license.</p><p><br /></p><p>If you downloaded / updated the plugin for 4.13 or later after the 12th of October 2016 all content is included in the download, please follow <a href=\"https://github.com/FreetimeStudio/Adventure-Kit-Public/wiki/Setup#latest\" rel=\"nofollow\">these instructions</a> to install it.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c78ce093-009e-4ced-a962-f7500ff77571"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_01-1920x1080-ca87f2c3757e165d5dc9125b7205ce02.png",
+      "md5": "ca87f2c3757e165d5dc9125b7205ce02",
+      "size": 433047,
+      "uploadedDate": "2016-05-06T19:36:27.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_02-1920x1080-77225c69cbd0a1b2e1bbeb88d285e9fe.png",
+      "md5": "77225c69cbd0a1b2e1bbeb88d285e9fe",
+      "size": 437429,
+      "uploadedDate": "2016-05-06T19:36:24.521Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_03-1920x1080-a1a051d9bdc686ebbbf6a5eb26694a6d.png",
+      "md5": "a1a051d9bdc686ebbbf6a5eb26694a6d",
+      "size": 334691,
+      "uploadedDate": "2016-05-06T19:36:23.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_04-1920x1080-3721f277f2658904fd08ac9dcc9c7b60.png",
+      "md5": "3721f277f2658904fd08ac9dcc9c7b60",
+      "size": 722824,
+      "uploadedDate": "2016-05-06T19:36:20.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_05-1920x1080-5d6053f1907bbf759b939d098c5526ca.jpg",
+      "md5": "5d6053f1907bbf759b939d098c5526ca",
+      "size": 476736,
+      "uploadedDate": "2016-05-06T19:36:19.036Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_06-1920x1080-2464dd4a137890261043f903fbc29c7f.png",
+      "md5": "2464dd4a137890261043f903fbc29c7f",
+      "size": 318104,
+      "uploadedDate": "2016-05-06T19:36:16.885Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_07-1920x1080-ef59756a35972fb394057a6dbad2431e.png",
+      "md5": "ef59756a35972fb394057a6dbad2431e",
+      "size": 427683,
+      "uploadedDate": "2016-05-06T19:36:14.251Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_08-1920x1080-71c948039493f8d490c8127d960c431f.png",
+      "md5": "71c948039493f8d490c8127d960c431f",
+      "size": 561959,
+      "uploadedDate": "2016-05-06T19:36:12.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_09-1920x1080-1266d89f1aa374ca864c0f7969232a2a.png",
+      "md5": "1266d89f1aa374ca864c0f7969232a2a",
+      "size": 499941,
+      "uploadedDate": "2016-05-06T19:36:10.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_screenshot_10-1920x1080-35b65b088f194dea35c2e5e40a0ba543.png",
+      "md5": "35b65b088f194dea35c2e5e40a0ba543",
+      "size": 518169,
+      "uploadedDate": "2016-05-06T19:36:08.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_Thumb-284x284-9dca2193c45aeb9b301680153e99acde.png",
+      "md5": "9dca2193c45aeb9b301680153e99acde",
+      "size": 81703,
+      "uploadedDate": "2016-05-06T19:36:06.244Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_Featured-476x246-1331714993ab57942e036a9878f259b4.png",
+      "md5": "1331714993ab57942e036a9878f259b4",
+      "size": 138381,
+      "uploadedDate": "2016-05-06T19:36:30.589Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/AdventureKit_FeaturedNew-894x488-d9f9c507c92dcf1dc36ffb2b3bfc6b35.png",
+      "md5": "d9f9c507c92dcf1dc36ffb2b3bfc6b35",
+      "size": 389520,
+      "uploadedDate": "2016-05-06T19:36:28.818Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "5c297ea4e856480dafc0b56db1e4e576"
+    }
+  ],
+  "catalogNs": null
+}

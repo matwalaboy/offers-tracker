@@ -1,0 +1,230 @@
+{
+  "id": "6d6bb40bd5a6452f9473b8b13bdf3fd3",
+  "namespace": "ue",
+  "title": "Google TextToSpeech",
+  "description": "Plugin for Google's TextToSpeech API, play synthetic voices inside your games.",
+  "longDescription": "<p>This plugin integrates with Google&#39;s TextToSpeech API, letting you play synthetic voices inside your games using groundbreaking research in speech synthesis and Google&#39;s powerful neural networks to deliver high-fidelity audio. You basically just type in the text you want (with or without SSML) and the API will create the voice data for you.</p><p><br /></p><p><strong>Example Project</strong>:</p><p><a href=\"https://stefanlundmark-my.sharepoint.com/:u:/p/mail/ETeIQLpagtxAldxZTO3yXK8BiVXumokWXzjXuQCYvuOaFg?e&#61;WTmYho\" rel=\"nofollow\">Click here</a></p><p><strong>Example Project (Demo)</strong>:</p><p><a href=\"https://stefanlundmark-my.sharepoint.com/:u:/p/mail/EW0CxppjaSNLuIzbUxKCV6IBE6M4p9OFxHxA1HgWfkcH8w?e&#61;REYMl4\" rel=\"nofollow\">Click here</a></p><p><strong>Example Project (Video):</strong></p><p><a href=\"https://www.youtube.com/watch?v&#61;0f-95OAgiEk\" rel=\"nofollow\">Click here</a></p><p><br /></p><p><strong>Support:</strong></p><p>If you need support you have two choices:</p><ul><li>Forum thread: <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1660819-google-texttospeech-wavenet-plugin\" rel=\"nofollow\">https://forums.unrealengine.com/unreal-engine/marketplace/1660819-google-texttospeech-wavenet-plugin</a></li><li>Discord channel: <a href=\"https://discord.gg/4xvefsJY9c\" rel=\"nofollow\">https://discord.gg/4xvefsJY9c</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "google-texttospeech",
+  "creationDate": "2019-09-04T20:30:58.243Z",
+  "lastModifiedDate": "2024-09-30T20:37:17.655Z",
+  "effectiveDate": "2019-09-04T21:53:44.886Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-v5r2fymkzjlyy9whzl2g55chnpfqus",
+    "name": "GameInProgress"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>Create TextToSpeech files. You specify the text (with or without SSML) and the properties of the voice in the editor, and then you can play this synthetic voice just like a regular sound wave. Perfect for prototyping characters and interactions!</li><li> Make Blueprint calls to the API, playing voices dynamically. NOTE: This type of playback requires the API key to be present in the build, and the client has to be online. I recommend against using this feature for public builds, for safety reasons. If your game is online and you control the servers, then you could theoretically use the plugin on the server only and send the voices to the clients. But this use case is not supported out of the box in the plugin.</li></ul><p><strong>Code Modules</strong>:</p><ul><li>GoogleTextToSpeechAssetModule (Runtime)</li><li>GoogleTextToSpeechAssetEditorModule (Editor)</li></ul><p><strong>Number of Blueprints</strong>: 2</p><p><strong>Number of C&#43;&#43; Classes</strong>: 7</p><p><strong>Network Replicated</strong>: No, but anywhere you can use a SoundWave you can use this</p><p><strong>Supported Development Platforms</strong>: Windows, Linux and Mac.</p><p><strong>Supported Target Build Platforms</strong>: Windows, Linux, Android, Mac and iOS.</p><p><strong>Documentation</strong>: <a href=\"https://stefanlundmark-my.sharepoint.com/:b:/p/mail/EdY7LnR_BBxHn5qCCUtWNWIB4-NwNjmrxuMT6pC-IL21pQ?e&#61;CVDKwq\" rel=\"nofollow\">Here</a></p><p><strong>Important/Additional Notes</strong>: You need to subscribe to Google&#39;s TextToSpeech API&#39;s to use this plugin. You can do that here: <a href=\"https://cloud.google.com/text-to-speech/\" rel=\"nofollow\">https://cloud.google.com/text-to-speech/</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f285a667-514b-4a2a-b507-3e0d74525cbb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GoogleTextToSpeechScreenshot-1920x1080-3af89809872f81ef26587a9447f10f82.jpg",
+      "md5": "3af89809872f81ef26587a9447f10f82",
+      "size": 927196,
+      "uploadedDate": "2019-08-08T20:09:43.304Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GoogleTextToSpeech_thumb-284x284-e3c76511412902a8f1f1db4c4c829edc.png",
+      "md5": "e3c76511412902a8f1f1db4c4c829edc",
+      "size": 149905,
+      "uploadedDate": "2019-08-08T20:09:43.703Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GoogleTextToSpeech_featured-894x488-baa8b4c880e5084ef390796d680e7459.png",
+      "md5": "baa8b4c880e5084ef390796d680e7459",
+      "size": 407960,
+      "uploadedDate": "2019-08-08T20:09:43.899Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GoogleTextToSpeechScreenshot-1920x1080-3af89809872f81ef26587a9447f10f82_Snapshot.jpg",
+      "md5": "4eb2e73ab8c2f6f6bc218602a03cc8c3",
+      "size": 7354,
+      "uploadedDate": "2019-08-08T20:09:43.615Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1428508f927449548a4b931d691b4c83"
+    }
+  ],
+  "catalogNs": null
+}

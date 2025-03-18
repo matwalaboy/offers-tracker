@@ -1,0 +1,374 @@
+{
+  "id": "83e5202838f84cf0a3310eee815ce5cd",
+  "namespace": "ue",
+  "title": "Crypto Helper Blueprint Library",
+  "description": "Plugin exposing easy to use cryptographic algorithms for security purposes",
+  "longDescription": "<h2><strong><u>About</u></strong></h2><p><br /></p><p>This plugin exposes blueprint functions to improve security in your project, you can use them everywhere</p><p>Various functions to <strong>handle cryptographic algorithms to secure your application</strong></p><p>You can <strong>encrypt, decrypt, hash, sign and verify data using digest, symmetric and asymmetric algorithms</strong></p><p>If you <strong>found this plugin helpful</strong>, <strong>leave a rate or comment</strong> for others</p><p>Keep it running and secure !</p><p><br /></p><p>&gt; If you wish to <strong>handle files on your systems</strong>, checkout my other plugin for files handling available <a href=\"https://www.unrealengine.com/marketplace/en-US/product/bec5be3d587f4ff49a61d45d0e81e4c0\" rel=\"nofollow\">here </a>on the marketplace</p><p><br /></p><h2><strong><u>Features</u></strong></h2><p><br /></p><ul><li>Various use cases (Hash / Digest, HMAC, Salt, Symmetric encryption, Asymmetric encryption, Sign, Verify)</li><li>Large range of recent algorithms available (MD5, SHA, KECCAK, AES, BLOWFISH, RSA, ...)</li><li>Handles byte / text / file data in an efficient way (buffering) when the input is too long to be loaded in memory</li><li>Utility functions to manipulate and convert data (hexadecimal, base64, UTF-8)</li></ul><p><br /></p><p>For the full list of supported algorithms, checkout the documentation</p><p><br /></p><h2><strong><u>Details</u></strong></h2><p><br /></p><p>Code Modules:</p><ul><li> CryptoHelper (Runtime)</li></ul><p>Number of Blueprints nodes : 40&#43;</p><p>Number of C&#43;&#43; Classes: 8</p><p>Network Replicated: No</p><p>Supported Development Platforms: Win32, Win64, Android, Linux, IOS, MacOS</p><p>Supported Target Build Platforms: Win32, Win64, Android, Linux, IOS, MacOS</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "crypto-helper-bp-library",
+  "creationDate": "2021-12-03T20:35:34.305Z",
+  "lastModifiedDate": "2024-09-29T20:22:54.668Z",
+  "effectiveDate": "2021-12-03T20:35:34.253Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y23zdbg2kltd7nejyw8rlw78vy7hfv",
+    "name": "RLoris"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong><u>Instructions</u></strong></h2><p><br /></p><p><strong>Setup </strong>can be found <a href=\"https://github.com/RLoris/CryptoHelperDoc/blob/master/README.md#Setup\" rel=\"nofollow\">here</a></p><p><strong>Documentation </strong>can be found <a href=\"https://github.com/RLoris/CryptoHelperDoc/blob/master/README.md#Documentation\" rel=\"nofollow\">here</a></p><p><strong>Support</strong> can be found <a href=\"https://github.com/RLoris/CryptoHelperDoc/blob/master/README.md#Support\" rel=\"nofollow\">here</a></p><p><br /></p><h2><strong><u>Bugs</u></strong></h2><p><br /></p><p>You can <strong>ask question</strong> before buying, <strong>check the documentation/question sections</strong> as it may contain the answer you are looking for !</p><p>Keep in mind that <strong>I don&#39;t do your work for you</strong>, I only provide the right tools to help your development process !</p><p><strong>If you find a bug, please fill in </strong><a href=\"https://forms.gle/CpekZfTewGZrUVen7\" rel=\"nofollow\"><strong>this form</strong></a><strong>, I will investigate and fix it if you provide the relevant details to reproduce it !</strong></p><p><br /></p><h2><strong><u>Feature requests</u></strong></h2><p><br /></p><p>If you want a new feature related with this plugin use case, ask a question here with the feature description and what you have in mind, I will implement it eventually.</p><p>For any other reason, you can contact me by clicking on my markeplace name (RLoris) under plugin name and using my support email.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6e967326-393e-449a-bf6a-dadc645da6f0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/nodeshd-1920x1080-0ce4b4711badb10c17c10c879af720a2.png",
+      "md5": "0ce4b4711badb10c17c10c879af720a2",
+      "size": 630905,
+      "uploadedDate": "2021-11-27T20:05:04.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node2hd-1920x1080-273c711ca637437b02018f0912dfddc2.png",
+      "md5": "273c711ca637437b02018f0912dfddc2",
+      "size": 235693,
+      "uploadedDate": "2021-11-27T20:05:05.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node3hd-1920x1080-895be99ab80b62b9a2d51322c192d529.png",
+      "md5": "895be99ab80b62b9a2d51322c192d529",
+      "size": 236421,
+      "uploadedDate": "2021-11-27T20:05:06.181Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node4hd-1920x1080-da2f8a0b52899f30d8cb1547f7127aba.png",
+      "md5": "da2f8a0b52899f30d8cb1547f7127aba",
+      "size": 233982,
+      "uploadedDate": "2021-11-27T20:05:06.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node5hd-1920x1080-000d7b12c0062e09b28d20c3b3fc3a20.png",
+      "md5": "000d7b12c0062e09b28d20c3b3fc3a20",
+      "size": 416962,
+      "uploadedDate": "2021-11-27T20:05:06.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node6hd-1920x1080-9a81d0c0bc2cb32e97f081d86013cb4a.png",
+      "md5": "9a81d0c0bc2cb32e97f081d86013cb4a",
+      "size": 323835,
+      "uploadedDate": "2021-11-27T20:05:07.414Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/node1hd-1920x1080-8ba3c8f6d0357fbc64155863266050eb.png",
+      "md5": "8ba3c8f6d0357fbc64155863266050eb",
+      "size": 321254,
+      "uploadedDate": "2021-11-27T20:05:05.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CryptoHelperBPLibrary_thumb-284x284-22d44d6f06f97ccf514bad60da5b40e7.png",
+      "md5": "22d44d6f06f97ccf514bad60da5b40e7",
+      "size": 13607,
+      "uploadedDate": "2021-11-27T20:05:07.724Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CryptoHelperBPLibrary_featured-894x488-443a7ff901f488dbc917b0ef05b4d76e.png",
+      "md5": "443a7ff901f488dbc917b0ef05b4d76e",
+      "size": 319808,
+      "uploadedDate": "2021-11-27T20:05:07.827Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/nodeshd-1920x1080-0ce4b4711badb10c17c10c879af720a2_Snapshot.png",
+      "md5": "0c9fd0229c2a0611cffa7378eddda729",
+      "size": 6445,
+      "uploadedDate": "2021-11-27T20:05:05.256Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node1hd-1920x1080-8ba3c8f6d0357fbc64155863266050eb_Snapshot.png",
+      "md5": "e66e63c11e9910362b12be96264267d7",
+      "size": 4676,
+      "uploadedDate": "2021-11-27T20:05:05.681Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node2hd-1920x1080-273c711ca637437b02018f0912dfddc2_Snapshot.png",
+      "md5": "1c61c25cf269ce764b0b6462a13c82d1",
+      "size": 3970,
+      "uploadedDate": "2021-11-27T20:05:06.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node3hd-1920x1080-895be99ab80b62b9a2d51322c192d529_Snapshot.png",
+      "md5": "d35ca84732555509e0d1670d517379a7",
+      "size": 3934,
+      "uploadedDate": "2021-11-27T20:05:06.429Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node4hd-1920x1080-da2f8a0b52899f30d8cb1547f7127aba_Snapshot.png",
+      "md5": "024fc3734cf913c3bb234e162d09cb58",
+      "size": 3971,
+      "uploadedDate": "2021-11-27T20:05:06.801Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node5hd-1920x1080-000d7b12c0062e09b28d20c3b3fc3a20_Snapshot.png",
+      "md5": "1e49d7df8ceca2317f30e713a36c3d69",
+      "size": 5028,
+      "uploadedDate": "2021-11-27T20:05:07.261Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/node6hd-1920x1080-9a81d0c0bc2cb32e97f081d86013cb4a_Snapshot.png",
+      "md5": "a81f4ee7ccf4e4325fbd7812b552c8ed",
+      "size": 4609,
+      "uploadedDate": "2021-11-27T20:05:07.670Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "17c1279337c144059df3c8a3fca4b24a"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,176 @@
+{
+  "id": "87e058c91e504459995baf9acb6fd6d8",
+  "namespace": "ue",
+  "title": "Hierarchical Splines",
+  "description": "Hierarchical Splines which natively support multiple spline connections.",
+  "longDescription": "<p><strong>Description:</strong></p><p>Hierarchical Splines is a plugin extending the base splines found in Unreal Engine.</p><p>It provides capabilities for creating hierarchical networks, allowing creation for much complex structures such as race tracks, road networks, AI paths, etc.</p><p><br /></p><p><strong>Usage:</strong></p><p>Usage is simple. Create empty blueprint and then add Hierarchical Spline. Then attach more splines. Rest is automated and tool will ensure that the splines are properly attached and aligned.</p><p><br /></p><p><strong>Blueprint support: </strong></p><p>You can use hierarchical splines in blueprints. No knowledge of c&#43;&#43; needed.</p><p><br /></p><p><a href=\"https://docs.google.com/document/d/1pDHOITzKpJyUt8Yh96U8Ee1a0FmZI3TGHVmVz2IV8_o/edit?usp&#61;sharing\" rel=\"nofollow\"><strong>Documentation</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hierarchical-splines",
+  "creationDate": "2024-03-07T10:25:44.172Z",
+  "lastModifiedDate": "2024-09-27T19:04:12.608Z",
+  "effectiveDate": "2024-03-07T10:25:44.129Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x8a8qm9dhj9jvp6rf83eu4nblmzmq2",
+    "name": "Cr0wst0rm"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Node connections (translation, rotation, scale)</li><li> Custom Hierarchical Spline editor for easier usage</li></ul><p>Code Modules:</p><ul><li> HierarchicalSplines (Runtime)</li><li> HierarchicalSplinesEditor (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: (Yes)</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0629d4f4-3137-45e9-9550-a3544e80c9f7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image1-1920x1080-35e00e8553f44ecdb7e511d2d8bddc72.png",
+      "md5": "35e00e8553f44ecdb7e511d2d8bddc72",
+      "size": 2238872,
+      "uploadedDate": "2024-03-03T08:03:25.791Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image2-1920x1080-54dc92957523048b352b7e9e6ce74ef3.png",
+      "md5": "54dc92957523048b352b7e9e6ce74ef3",
+      "size": 2321969,
+      "uploadedDate": "2024-03-03T08:03:26.212Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HierarchicalSplines_thumb-284x284-b2b19fe184b90bb680cbfb2ae0a7610e.png",
+      "md5": "b2b19fe184b90bb680cbfb2ae0a7610e",
+      "size": 27136,
+      "uploadedDate": "2024-03-03T08:03:26.548Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HierarchicalSplines_featured-894x488-44e5512393e18dffa0c33c6c7799e4a2.png",
+      "md5": "44e5512393e18dffa0c33c6c7799e4a2",
+      "size": 474358,
+      "uploadedDate": "2024-03-03T08:03:26.683Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image1-1920x1080-35e00e8553f44ecdb7e511d2d8bddc72_Snapshot.png",
+      "md5": "998f1a7fd286666c46b12df1e165518c",
+      "size": 4264,
+      "uploadedDate": "2024-03-03T08:03:26.091Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image2-1920x1080-54dc92957523048b352b7e9e6ce74ef3_Snapshot.png",
+      "md5": "68169657ee4289033c71a7f5881ccb0f",
+      "size": 4148,
+      "uploadedDate": "2024-03-03T08:03:26.485Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "58c450ecbc9a4e3793a78d37dbb93edf"
+    }
+  ],
+  "catalogNs": null
+}

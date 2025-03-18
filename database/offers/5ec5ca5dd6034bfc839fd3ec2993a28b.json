@@ -1,0 +1,326 @@
+{
+  "id": "5ec5ca5dd6034bfc839fd3ec2993a28b",
+  "namespace": "ue",
+  "title": "Dissolve Effect Pack",
+  "description": "Dissolve effect pack to use for teleporting, death animations, and destroying objects.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;TDdkwLXdNiw&amp;list&#61;PL1l_UzrtnWlC911RDUehxQdMzffm_rznb&amp;index&#61;1\" rel=\"nofollow\">Dissolve Effect Pack For Unreal Marketplace With How To Use - YouTube</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;CbFDGXUtyCU&amp;list&#61;PL1l_UzrtnWlC911RDUehxQdMzffm_rznb&amp;index&#61;1&amp;t&#61;2s\" rel=\"nofollow\">Dissolve Effect Pack How To Use With Audio - YouTube</a></p><p><br /></p><p>We have good news. The Dissolve Effect Pack works on UE5.</p><p><br /></p><p>Dissolve effect pack to use for teleporting, death animations, and destroying objects. This pack is easy to adjust for your project needs. Each material has an instance created for you to add your own textures, normal maps, and adjust the other settings to meet your needs.</p><p><br /></p><p>A 2D Box mask, 3D Box Mask, and Sphere Mask were included to more options on how you can dissolve each mesh in your game projects. In each mask material, you can dissolve the mesh by the actor&#39;s location, or you can use the blueprint actors that are included to use a custom dissolve location instead. You can also change how the texture looks for each dissolve effect by going to the material instance.</p><p><br /></p><p>As seen in the link, I have included a Material Parameter Collection that was used to add an animation in the cinematic sequence. This allows you to adjust the dissolve amount to be animated when the game plays. The character used is for testing purposes to show you how this can be used on humans.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dissolve-effect-pack",
+  "creationDate": "2020-12-08T14:40:12.702Z",
+  "lastModifiedDate": "2024-09-27T15:17:51.681Z",
+  "effectiveDate": "2020-12-08T14:40:10.306Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ajvyfpryk28acefvq232dpkw7v2sld",
+    "name": "Tommy-Renecade"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> Easy to use and adjust.</li><li>Custom textures that I made are included.</li><li>Each material can be used on any mesh type.</li><li> One Material Parameter Collection to animate the dissolve amount.</li><li>A Sphere Mask is included.</li><li>A 2D Box Mask is included.</li><li>A 3D Box Mask is included.</li><li>As seen in the video, three blueprint actors dissolve each mask by their location.</li><li>Gradient materials included to dissolve upwards, downwards, left, or right.</li><li>The materials with textures included can be adjusted to change how the dissolve effect looks for your projects.</li><li>The YouTube video demonstrates how to use the mask materials and how to use the blueprint actors.</li></ul><p> </p><p>Number of Unique Materials and Material Instances: 60</p><p>Number of Material Functions: 3</p><p>Number of Material Parameter Collections: 3</p><p>Number of Blueprints: 3</p><p>Number of Textures: 30</p><p>Number of Maps: 1</p><p>Number of Level Sequencers: 1</p><p>Texture Resolutions: (Please list all various texture resolutions) 2048x2048</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Not tested)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "23c8ee03-fb75-472e-b6c1-db8805ef8282"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 263-1920x1080-311a84e5eac7709772ec5ff29facd770.png",
+      "md5": "311a84e5eac7709772ec5ff29facd770",
+      "size": 651401,
+      "uploadedDate": "2020-12-03T20:47:54.636Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 265-1920x1080-95a81ad99e553453d79bf6ae5e091be7.png",
+      "md5": "95a81ad99e553453d79bf6ae5e091be7",
+      "size": 995896,
+      "uploadedDate": "2020-12-03T20:47:55.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 266-1920x1080-8a5b14188509200c23459d9cbba88393.png",
+      "md5": "8a5b14188509200c23459d9cbba88393",
+      "size": 1175840,
+      "uploadedDate": "2020-12-03T20:47:55.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 270-1920x1080-9f18f7a3ca4f28dcbdcd4e1cfc0fd6c5.png",
+      "md5": "9f18f7a3ca4f28dcbdcd4e1cfc0fd6c5",
+      "size": 966160,
+      "uploadedDate": "2020-12-03T20:47:56.032Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 267-1920x1080-61a42a956ee0b7d3656adf35f4127bf9.png",
+      "md5": "61a42a956ee0b7d3656adf35f4127bf9",
+      "size": 1751279,
+      "uploadedDate": "2020-12-03T20:47:56.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 268-1920x1080-09200ffb864019984455912676e2f984.png",
+      "md5": "09200ffb864019984455912676e2f984",
+      "size": 1013016,
+      "uploadedDate": "2020-12-03T20:47:57.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 269-1920x1080-d3349cc27d5741734508e7db8a090c93.png",
+      "md5": "d3349cc27d5741734508e7db8a090c93",
+      "size": 1515812,
+      "uploadedDate": "2020-12-03T20:47:58.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 275-1920x1080-f9c93b795b783d31b2466a5dfc1526a1.png",
+      "md5": "f9c93b795b783d31b2466a5dfc1526a1",
+      "size": 1208547,
+      "uploadedDate": "2020-12-03T20:47:59.287Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2DBoxMask-1920x1080-fb8bc019580d958d5bd7ab488ac4c52d.png",
+      "md5": "fb8bc019580d958d5bd7ab488ac4c52d",
+      "size": 1398932,
+      "uploadedDate": "2020-12-03T20:48:00.025Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BoxMask-1920x1080-505c83c1e6e24d81f020c121ae1df883.png",
+      "md5": "505c83c1e6e24d81f020c121ae1df883",
+      "size": 1188355,
+      "uploadedDate": "2020-12-03T20:48:00.588Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SphereMask-1920x1080-0a074f7d7e3aca49c4721d871d860867.png",
+      "md5": "0a074f7d7e3aca49c4721d871d860867",
+      "size": 1498319,
+      "uploadedDate": "2020-12-03T20:48:01.435Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DissolveEffectPack_thumb-284x284-b45ca813b67528e0d1948f574abdc2ee.png",
+      "md5": "b45ca813b67528e0d1948f574abdc2ee",
+      "size": 78474,
+      "uploadedDate": "2020-12-03T20:48:01.882Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DissolveEffectPack_featured-894x488-74c6d486e2fe1f34e038cb106606917e.png",
+      "md5": "74c6d486e2fe1f34e038cb106606917e",
+      "size": 264137,
+      "uploadedDate": "2020-12-03T20:48:01.981Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 263-1920x1080-311a84e5eac7709772ec5ff29facd770_Snapshot.png",
+      "md5": "ea018ad22231fc9eac95e7d5c3130972",
+      "size": 3881,
+      "uploadedDate": "2020-12-03T20:47:54.890Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 265-1920x1080-95a81ad99e553453d79bf6ae5e091be7_Snapshot.png",
+      "md5": "f53fe3e56d798a276341bb097b91b450",
+      "size": 4297,
+      "uploadedDate": "2020-12-03T20:47:55.383Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 266-1920x1080-8a5b14188509200c23459d9cbba88393_Snapshot.png",
+      "md5": "1f6f00c660ce81c7847bc9ec9e6586de",
+      "size": 4685,
+      "uploadedDate": "2020-12-03T20:47:55.858Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 270-1920x1080-9f18f7a3ca4f28dcbdcd4e1cfc0fd6c5_Snapshot.png",
+      "md5": "860a31ef3e40f5919c6b1e18093a82f4",
+      "size": 4186,
+      "uploadedDate": "2020-12-03T20:47:56.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 267-1920x1080-61a42a956ee0b7d3656adf35f4127bf9_Snapshot.png",
+      "md5": "e25d36eebda26a3d863cd68b7601a3b1",
+      "size": 6333,
+      "uploadedDate": "2020-12-03T20:47:57.142Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 268-1920x1080-09200ffb864019984455912676e2f984_Snapshot.png",
+      "md5": "bd92c04317330c32c0d850875786db3b",
+      "size": 4493,
+      "uploadedDate": "2020-12-03T20:47:58.017Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 269-1920x1080-d3349cc27d5741734508e7db8a090c93_Snapshot.png",
+      "md5": "d15ec19b8e8277f75215c8c46d22e416",
+      "size": 5765,
+      "uploadedDate": "2020-12-03T20:47:58.734Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 275-1920x1080-f9c93b795b783d31b2466a5dfc1526a1_Snapshot.png",
+      "md5": "e4f0941ad2405ae7b7bfa29ff1868d2c",
+      "size": 5378,
+      "uploadedDate": "2020-12-03T20:47:59.563Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2DBoxMask-1920x1080-fb8bc019580d958d5bd7ab488ac4c52d_Snapshot.png",
+      "md5": "fcf2701720aa476dd52183d3bbcfb621",
+      "size": 3683,
+      "uploadedDate": "2020-12-03T20:48:00.352Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BoxMask-1920x1080-505c83c1e6e24d81f020c121ae1df883_Snapshot.png",
+      "md5": "6b6415e0a1cc24c97c2adad502508563",
+      "size": 4699,
+      "uploadedDate": "2020-12-03T20:48:01.141Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SphereMask-1920x1080-0a074f7d7e3aca49c4721d871d860867_Snapshot.png",
+      "md5": "c147815cab64ac15d5b3849599123a5c",
+      "size": 5246,
+      "uploadedDate": "2020-12-03T20:48:01.807Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "563d27a01b134f4db3f1666e4fda9cf1"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,590 @@
+{
+  "id": "a96701a268ad4dd582e2661a442c5c42",
+  "namespace": "ue",
+  "title": "Shack Constructor PBR",
+  "description": "You can use this asset to build houses, shacks, huts, cabins, barns, sheds, shelters. This is modular, optimized, LowPoly package contains 42 PBR parts with LOD's.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;3Hc_Z8UnBDM&amp;ab_channel&#61;RuslanSelivanov\" rel=\"nofollow\">Video Overview</a></p><p><br /></p><p>Shack constructor. 42 unique meshes with handmade LODs.</p><p><br /></p><p>Texture Sizes:</p><ul><li>ShackConstructor_Planks - 4096x4096 (Texel density - 10.24)</li><li>ShackConstructor_Plywood - 4096x4096 (Texel density - 10.24)</li><li>ShackConstructor_Nails - 512x512 (Texel density - 10.24)</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shack-constructor-pbr",
+  "creationDate": "2021-04-04T05:06:15.315Z",
+  "lastModifiedDate": "2024-09-30T11:36:22.332Z",
+  "effectiveDate": "2021-04-04T05:23:34.188Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-r7yeykjf7f64r6jcz2vrp2ghafrxzm",
+    "name": "RuslanSelivanov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Prepared LODs</li><li>Constructor (42 unique parts)</li><li>Real-world scale measurements</li><li>PBR textures</li><li>Invisible triangles removed</li><li>Texture format: .TGA</li><li>Texel density 10.24 and high</li></ul><p><br /></p><p>Number of Unique Meshes: 42</p><p>Collision:Yes, Automatically generated</p><p>Vertex Count: 8 - 1928</p><p>LODs:  Yes, Handmade</p><p>Number of Materials and Material Instances: 4</p><p>Number of Textures: 9</p><p>Texture Resolutions: 512x512 (1) - 4096x4096 (2)</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a029751a-9ad6-4900-9294-c907314e68f9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-21-28-613-1920x1080-adb7e7d5c1dee7184cd788d315de4bac.jpg",
+      "md5": "adb7e7d5c1dee7184cd788d315de4bac",
+      "size": 307623,
+      "uploadedDate": "2021-04-03T18:35:24.170Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-21-52-676-1920x1080-f19d59d537916555178440683e0e5065.jpg",
+      "md5": "f19d59d537916555178440683e0e5065",
+      "size": 308161,
+      "uploadedDate": "2021-04-03T18:35:24.583Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-22-04-364-1920x1080-9129e876e5f1b4eb3993d9157b32c940.jpg",
+      "md5": "9129e876e5f1b4eb3993d9157b32c940",
+      "size": 253872,
+      "uploadedDate": "2021-04-03T18:35:24.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-22-22-783-1920x1080-f4abe4ed3577a0807220b9445803677d.jpg",
+      "md5": "f4abe4ed3577a0807220b9445803677d",
+      "size": 409489,
+      "uploadedDate": "2021-04-03T18:35:25.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-22-29-751-1920x1080-9742fad30336dcf9444e265a201b2825.jpg",
+      "md5": "9742fad30336dcf9444e265a201b2825",
+      "size": 556361,
+      "uploadedDate": "2021-04-03T18:35:25.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-22-50-442-1920x1080-dbf3af0bb86c4c8e535acdbc22436599.jpg",
+      "md5": "dbf3af0bb86c4c8e535acdbc22436599",
+      "size": 515105,
+      "uploadedDate": "2021-04-03T18:35:26.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-23-52-057-1920x1080-54c0731c781376b37de39971bfa051e3.jpg",
+      "md5": "54c0731c781376b37de39971bfa051e3",
+      "size": 369046,
+      "uploadedDate": "2021-04-03T18:35:26.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-24-00-343-1920x1080-b0ab7a28a2fc4e1c93564f4e7372d9d1.jpg",
+      "md5": "b0ab7a28a2fc4e1c93564f4e7372d9d1",
+      "size": 392066,
+      "uploadedDate": "2021-04-03T18:35:26.894Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-24-07-732-1920x1080-e3f6bada8b030a56444a1822a4fa81c3.jpg",
+      "md5": "e3f6bada8b030a56444a1822a4fa81c3",
+      "size": 465630,
+      "uploadedDate": "2021-04-03T18:35:27.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-24-21-043-1920x1080-84c6a7b4b191d7ec76981a1580f43398.jpg",
+      "md5": "84c6a7b4b191d7ec76981a1580f43398",
+      "size": 284161,
+      "uploadedDate": "2021-04-03T18:35:27.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-25-01-403-1920x1080-e404e784dc2767405462e11956194ef1.jpg",
+      "md5": "e404e784dc2767405462e11956194ef1",
+      "size": 234869,
+      "uploadedDate": "2021-04-03T18:35:28.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-25-08-453-1920x1080-736275d256ff8c8037cf637a487e8511.jpg",
+      "md5": "736275d256ff8c8037cf637a487e8511",
+      "size": 200851,
+      "uploadedDate": "2021-04-03T18:35:28.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bandicam 2021-04-03 19-25-17-859-1920x1080-d7b3e4c14f707829f4f4e76924b56d84.jpg",
+      "md5": "d7b3e4c14f707829f4f4e76924b56d84",
+      "size": 205539,
+      "uploadedDate": "2021-04-03T18:35:28.806Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01 ShackConstructorWallV1-1920x1080-f2c10502edc888f4fa6476ea8a586cbe.jpg",
+      "md5": "f2c10502edc888f4fa6476ea8a586cbe",
+      "size": 417707,
+      "uploadedDate": "2021-04-03T18:35:29.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02 ShackConstructorDoorV1-1920x1080-86e0319a017eae014ff988fb59966c5c.jpg",
+      "md5": "86e0319a017eae014ff988fb59966c5c",
+      "size": 302367,
+      "uploadedDate": "2021-04-03T18:35:29.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03 ShackConstructorRoofTriangleV1-1920x1080-a10ee9a66e71ca99e3784bd63704a3a4.jpg",
+      "md5": "a10ee9a66e71ca99e3784bd63704a3a4",
+      "size": 241825,
+      "uploadedDate": "2021-04-03T18:35:29.969Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04 ShackConstructorFloorV1-1920x1080-a098adbf7445581f94917c250b147f11.jpg",
+      "md5": "a098adbf7445581f94917c250b147f11",
+      "size": 354866,
+      "uploadedDate": "2021-04-03T18:35:30.317Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05 ShackConstructorStairsV1-1920x1080-e4321bb0baa6644330508fad16c90d88.jpg",
+      "md5": "e4321bb0baa6644330508fad16c90d88",
+      "size": 262824,
+      "uploadedDate": "2021-04-03T18:35:30.685Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06 ShackConstructorFenceV1-1920x1080-41d757c8cfd6a70b03cf407fdb4838b2.jpg",
+      "md5": "41d757c8cfd6a70b03cf407fdb4838b2",
+      "size": 157018,
+      "uploadedDate": "2021-04-03T18:35:31.007Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShackConstructorPBR_thumb-284x284-44ba0667c6d4aad40bfac0767792bf27.png",
+      "md5": "44ba0667c6d4aad40bfac0767792bf27",
+      "size": 122047,
+      "uploadedDate": "2021-04-03T18:35:31.294Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShackConstructorPBR_featured-894x488-62583b458bdca7afa7263c8b7571fc2e.png",
+      "md5": "62583b458bdca7afa7263c8b7571fc2e",
+      "size": 502930,
+      "uploadedDate": "2021-04-03T18:35:31.357Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-21-28-613-1920x1080-adb7e7d5c1dee7184cd788d315de4bac_Snapshot.jpg",
+      "md5": "9e0de44118e3f8fca4311ef662d42775",
+      "size": 4798,
+      "uploadedDate": "2021-04-03T18:35:24.442Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-21-52-676-1920x1080-f19d59d537916555178440683e0e5065_Snapshot.jpg",
+      "md5": "ad2301c3b1d56aa58332ae4f2b911a0b",
+      "size": 4639,
+      "uploadedDate": "2021-04-03T18:35:24.813Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-22-04-364-1920x1080-9129e876e5f1b4eb3993d9157b32c940_Snapshot.jpg",
+      "md5": "93fcb7372a587adf279e3c17db5d6df6",
+      "size": 3900,
+      "uploadedDate": "2021-04-03T18:35:25.196Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-22-22-783-1920x1080-f4abe4ed3577a0807220b9445803677d_Snapshot.jpg",
+      "md5": "f7df4035d68a91edf862220be475d03c",
+      "size": 5901,
+      "uploadedDate": "2021-04-03T18:35:25.535Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-22-29-751-1920x1080-9742fad30336dcf9444e265a201b2825_Snapshot.jpg",
+      "md5": "43c0265b7fb3ff4d29fee0e2d19bf0af",
+      "size": 6123,
+      "uploadedDate": "2021-04-03T18:35:25.939Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-22-50-442-1920x1080-dbf3af0bb86c4c8e535acdbc22436599_Snapshot.jpg",
+      "md5": "80b9e446c3a313a5e32e3973ebc8d789",
+      "size": 6620,
+      "uploadedDate": "2021-04-03T18:35:26.366Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-23-52-057-1920x1080-54c0731c781376b37de39971bfa051e3_Snapshot.jpg",
+      "md5": "e8b0c40bca4c8aa450b275f822cf946d",
+      "size": 5129,
+      "uploadedDate": "2021-04-03T18:35:26.801Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-24-00-343-1920x1080-b0ab7a28a2fc4e1c93564f4e7372d9d1_Snapshot.jpg",
+      "md5": "fe9167ac5d03ca0230126065defc8e6f",
+      "size": 5070,
+      "uploadedDate": "2021-04-03T18:35:27.132Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-24-07-732-1920x1080-e3f6bada8b030a56444a1822a4fa81c3_Snapshot.jpg",
+      "md5": "1f58720b454878996479049e0053d6da",
+      "size": 5485,
+      "uploadedDate": "2021-04-03T18:35:27.599Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-24-21-043-1920x1080-84c6a7b4b191d7ec76981a1580f43398_Snapshot.jpg",
+      "md5": "0ec673aa6f8f2f5ec8e39e987bae3456",
+      "size": 4273,
+      "uploadedDate": "2021-04-03T18:35:28.000Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-25-01-403-1920x1080-e404e784dc2767405462e11956194ef1_Snapshot.jpg",
+      "md5": "fa996cb9dcff29b4fe26af1ce4660f30",
+      "size": 3879,
+      "uploadedDate": "2021-04-03T18:35:28.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-25-08-453-1920x1080-736275d256ff8c8037cf637a487e8511_Snapshot.jpg",
+      "md5": "326b8d4d8d278fc124e40fa4feedc41d",
+      "size": 3050,
+      "uploadedDate": "2021-04-03T18:35:28.732Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bandicam 2021-04-03 19-25-17-859-1920x1080-d7b3e4c14f707829f4f4e76924b56d84_Snapshot.jpg",
+      "md5": "d76c24dedf1020ac598b2054a4fe9aa1",
+      "size": 3385,
+      "uploadedDate": "2021-04-03T18:35:29.120Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01 ShackConstructorWallV1-1920x1080-f2c10502edc888f4fa6476ea8a586cbe_Snapshot.jpg",
+      "md5": "2c9731d20440e1251bc3c38c3a557627",
+      "size": 4666,
+      "uploadedDate": "2021-04-03T18:35:29.491Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02 ShackConstructorDoorV1-1920x1080-86e0319a017eae014ff988fb59966c5c_Snapshot.jpg",
+      "md5": "f00ff4efc5a66495bbc03c1ba6cd0c18",
+      "size": 3117,
+      "uploadedDate": "2021-04-03T18:35:29.824Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03 ShackConstructorRoofTriangleV1-1920x1080-a10ee9a66e71ca99e3784bd63704a3a4_Snapshot.jpg",
+      "md5": "019cce48a686a28905c906e6ca8ccc15",
+      "size": 2885,
+      "uploadedDate": "2021-04-03T18:35:30.209Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04 ShackConstructorFloorV1-1920x1080-a098adbf7445581f94917c250b147f11_Snapshot.jpg",
+      "md5": "03e46a33d51f71c945b0c963e9806c57",
+      "size": 2967,
+      "uploadedDate": "2021-04-03T18:35:30.541Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05 ShackConstructorStairsV1-1920x1080-e4321bb0baa6644330508fad16c90d88_Snapshot.jpg",
+      "md5": "cbbbdd4e76385ed6272d6286fea85d87",
+      "size": 3438,
+      "uploadedDate": "2021-04-03T18:35:30.902Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06 ShackConstructorFenceV1-1920x1080-41d757c8cfd6a70b03cf407fdb4838b2_Snapshot.jpg",
+      "md5": "0879cdcb4c65f098388773f6dea2c57f",
+      "size": 2423,
+      "uploadedDate": "2021-04-03T18:35:31.216Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fef380285bbf4438a12b7acaeaf50846"
+    }
+  ],
+  "catalogNs": null
+}

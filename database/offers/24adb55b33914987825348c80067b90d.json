@@ -1,0 +1,446 @@
+{
+  "id": "24adb55b33914987825348c80067b90d",
+  "namespace": "ue",
+  "title": "Metal Panel Generator",
+  "description": "You can make many building skins with this generator.",
+  "longDescription": "<h1>Metal Panel Generator</h1><p>You can make many building skins with this generator.</p><p>It is prepared to produce panel materials with different patterns.</p><p>4 different seam types</p><p>Adjustable panel color</p><p>Random reflection setting</p><p>Adjustable rust</p><p>Adjustable wrinkle</p><p>Adjustable texture resolution (from 128x128 to 4096x4096)</p><p>Adjustable wrinkle</p><p>8 preset materials</p><p><a href=\"https://youtu.be/Dz3W6jZi384\" rel=\"nofollow\">Click here for a sample working video</a></p><p>REQUIRES THE SUBSTANCE PLUGIN</p><p><a href=\"https://redirect.epicgames.com/?redirectTo&#61;http://www.unrealengine.com/marketplace/substance-plugin\" rel=\"nofollow\">www.unrealengine.com/marketplace/substance-plugin</a></p><p><br /></p><p><br /></p><p>This generator was produced by me using substance.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "metal-panel-generator",
+  "creationDate": "2023-01-18T22:01:23.588Z",
+  "lastModifiedDate": "2024-09-27T04:31:48.223Z",
+  "effectiveDate": "2023-01-18T22:01:23.510Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-56k7f6khm2fqfgmbpfy8nwe7vasulg",
+    "name": "Samur Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>4 different seam types</li><li>Adjustable panel color</li><li>Random reflection setting</li><li>Adjustable rust</li><li>Adjustable wrinkle</li><li>Adjustable texture resolution (from 128x128 to 4096x4096)</li><li>Adjustable wrinkle</li><li>8 preset materials </li></ul><p>Number of Unique Materials and Material Instances:8</p><p>Number of Textures:40</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: Link</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "Dungeon Crawler",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2023-08-23T02:59:53.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 775,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "818b0ed4-ec8c-4259-b0fc-ce3eb242bce6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/kapakana-1920x1080-aca081e40c2994c2e0e23b3cdaf91f8b.jpg",
+      "md5": "aca081e40c2994c2e0e23b3cdaf91f8b",
+      "size": 146909,
+      "uploadedDate": "2023-01-25T12:32:27.411Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-71eedd14cbcd5fa065c001cbda5a5b18.jpg",
+      "md5": "71eedd14cbcd5fa065c001cbda5a5b18",
+      "size": 99783,
+      "uploadedDate": "2023-01-18T12:36:29.928Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-6c8ab633945f469a449f993563450871.jpg",
+      "md5": "6c8ab633945f469a449f993563450871",
+      "size": 69380,
+      "uploadedDate": "2023-01-18T12:36:30.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-3ee63485c82ea57fdea9971226d17c4f.jpg",
+      "md5": "3ee63485c82ea57fdea9971226d17c4f",
+      "size": 106505,
+      "uploadedDate": "2023-01-18T12:36:30.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-762a00697459e9d973e892cb6de50e99.jpg",
+      "md5": "762a00697459e9d973e892cb6de50e99",
+      "size": 86503,
+      "uploadedDate": "2023-01-18T12:36:31.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-3aaa11df416b6ab59c3e28cd3181126a.jpg",
+      "md5": "3aaa11df416b6ab59c3e28cd3181126a",
+      "size": 100696,
+      "uploadedDate": "2023-01-18T12:36:27.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-9b3401044c48336e27f023237e509170.jpg",
+      "md5": "9b3401044c48336e27f023237e509170",
+      "size": 125964,
+      "uploadedDate": "2023-01-18T12:36:28.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-42ff4789d9923b91e26bf6e3261fdeda.jpg",
+      "md5": "42ff4789d9923b91e26bf6e3261fdeda",
+      "size": 96804,
+      "uploadedDate": "2023-01-18T12:36:28.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-48bac7f06ff0df1e97677bf5ad0f96fb.jpg",
+      "md5": "48bac7f06ff0df1e97677bf5ad0f96fb",
+      "size": 115004,
+      "uploadedDate": "2023-01-18T12:36:29.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-7916a01221aa6967bfcfbdd9a9577816.jpg",
+      "md5": "7916a01221aa6967bfcfbdd9a9577816",
+      "size": 178637,
+      "uploadedDate": "2023-01-18T12:36:31.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-cdd88788fbbb61a7b384e6c96d03892d.jpg",
+      "md5": "cdd88788fbbb61a7b384e6c96d03892d",
+      "size": 99467,
+      "uploadedDate": "2023-01-18T12:36:29.527Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MetalPanelGenerator_thumb-284x284-5c3aece58a73270ee9f7ea25a65cfc73.png",
+      "md5": "5c3aece58a73270ee9f7ea25a65cfc73",
+      "size": 156833,
+      "uploadedDate": "2023-01-25T12:32:27.813Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MetalPanelGenerator_featured-894x488-679f2235f3e8c7635f85f38a02f852be.png",
+      "md5": "679f2235f3e8c7635f85f38a02f852be",
+      "size": 528639,
+      "uploadedDate": "2023-01-25T12:32:28.036Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/kapakana-1920x1080-aca081e40c2994c2e0e23b3cdaf91f8b_Snapshot.jpg",
+      "md5": "53d4c4c052523eb7aa5415befbe287a2",
+      "size": 6505,
+      "uploadedDate": "2023-01-25T12:32:27.698Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-3aaa11df416b6ab59c3e28cd3181126a_Snapshot.jpg",
+      "md5": "851d7b2fc727c1bc2716c11865442923",
+      "size": 4355,
+      "uploadedDate": "2023-01-18T12:36:28.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-9b3401044c48336e27f023237e509170_Snapshot.jpg",
+      "md5": "08f311635f90013ee5c55a59414e9ff1",
+      "size": 6082,
+      "uploadedDate": "2023-01-18T12:36:28.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-42ff4789d9923b91e26bf6e3261fdeda_Snapshot.jpg",
+      "md5": "bf4c64c9d03ec68c7aca583b8bac8017",
+      "size": 4702,
+      "uploadedDate": "2023-01-18T12:36:29.006Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-48bac7f06ff0df1e97677bf5ad0f96fb_Snapshot.jpg",
+      "md5": "ee777394ca80af4c74ab40ae7d7d6a43",
+      "size": 6295,
+      "uploadedDate": "2023-01-18T12:36:29.402Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-cdd88788fbbb61a7b384e6c96d03892d_Snapshot.jpg",
+      "md5": "f75665d56908e05664eec6be52860bc9",
+      "size": 5237,
+      "uploadedDate": "2023-01-18T12:36:29.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-71eedd14cbcd5fa065c001cbda5a5b18_Snapshot.jpg",
+      "md5": "848b88fac50ade1a50ceeb3a9595fb2a",
+      "size": 4910,
+      "uploadedDate": "2023-01-18T12:36:30.206Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-6c8ab633945f469a449f993563450871_Snapshot.jpg",
+      "md5": "a845746ef892e5163668104df94789c0",
+      "size": 3044,
+      "uploadedDate": "2023-01-18T12:36:30.628Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-3ee63485c82ea57fdea9971226d17c4f_Snapshot.jpg",
+      "md5": "0eec77e7a581142396cba4d524a9e2ea",
+      "size": 4413,
+      "uploadedDate": "2023-01-18T12:36:31.058Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-762a00697459e9d973e892cb6de50e99_Snapshot.jpg",
+      "md5": "6b72566d706af23f60ddeea2d45e3f9d",
+      "size": 4030,
+      "uploadedDate": "2023-01-18T12:36:31.462Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-7916a01221aa6967bfcfbdd9a9577816_Snapshot.jpg",
+      "md5": "d9b570c5b2b4be5f08c9d6be4d015b5d",
+      "size": 6024,
+      "uploadedDate": "2023-01-18T12:36:31.902Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7cf23430200d4ea188bbf3d5c8722368"
+    }
+  ],
+  "catalogNs": null
+}

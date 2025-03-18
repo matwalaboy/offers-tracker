@@ -1,0 +1,320 @@
+{
+  "id": "e3dfcf32d1a44adb94c8d8c4e7ff4ebe",
+  "namespace": "ue",
+  "title": "Mechanical Power Kit",
+  "description": "An optimised toolkit to enable mechanical power in your project with a single component.",
+  "longDescription": "<p><strong>The Mechanical Power Kit is an asset to easily implement mechanical power into your project.</strong></p><p><br /></p><p>Within the project, there are two ways of transferring mechanical (or rotational) power:</p><ul><li>Using axles</li><li>Using gears</li></ul><p>For transfers using axles, you will simply need to add a component to any actor and configure it in less than two minutes.</p><p>To use gears, simply crease an actor of base gear and configure it extremely rapidly.</p><p><br /></p><p>The system is programmed for large contraptions and is therefore made to be optimized.</p><p>No events run on tick and all performance-heavy operations are spread over several frames to maximize performance.</p><p><br /></p><p>Rotation and power consumption are both calculated efficiently and effectively, with the rotation being visually displayed using a material function to maximize performance.</p><p><br /></p><p><a href=\"https://github.com/Theuntextured/Mechanical-Power-Kit/wiki\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;tjVjWYA25_o\" rel=\"nofollow\">Trailer</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mechanical-power-kit",
+  "creationDate": "2023-04-21T20:03:31.845Z",
+  "lastModifiedDate": "2024-09-26T14:08:40.606Z",
+  "effectiveDate": "2023-04-21T20:03:31.773Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3b2nu4h99dvz4qu887f6a82syfh6uz",
+    "name": "The untextured Dev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Simple implementation of axle connections using a simple component</li><li> Gears</li><li>Management of mechanical contraptions completely automatically</li><li> Power generation and consumption</li><li>RPM realistically propagated</li></ul><p><br /></p><p>Number of Blueprints: 11</p><p>Input: Keyboard</p><p>Network Replicated: No</p><p><br /></p><p><strong>Supported Development Platforms:</strong></p><p>Windows: Yes</p><p>Mac: Untested</p><p>Documentation: https://github.com/Theuntextured/Mechanical-Power-Kit/wiki</p><p><br /></p><p><strong>Important/Additional Notes:</strong></p><p>Please leave any bug reports or requests in the issues page of the GitHub Page!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1350",
+      "name": "MINIMALIST",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:12.249Z",
+      "updated": "2019-06-20T12:01:12.249Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c37cebee-80d4-44e6-a6b3-ea9160d7adc5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Contraption-1920x1080-0238b507571ca6c0be5e1be2713e4d9b.png",
+      "md5": "0238b507571ca6c0be5e1be2713e4d9b",
+      "size": 2041073,
+      "uploadedDate": "2023-04-20T16:15:45.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Engine-1920x1080-f91ef3a8e6e4091dfbfd29796a0dee5e.png",
+      "md5": "f91ef3a8e6e4091dfbfd29796a0dee5e",
+      "size": 1995593,
+      "uploadedDate": "2023-04-20T16:15:46.529Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gears-1920x1080-97c6bd028b0204fde58435494b470540.png",
+      "md5": "97c6bd028b0204fde58435494b470540",
+      "size": 2079771,
+      "uploadedDate": "2023-04-20T16:15:47.246Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Blueprints-1920x1080-5e29c4845053d18f0a541c8bf0637fdb.png",
+      "md5": "5e29c4845053d18f0a541c8bf0637fdb",
+      "size": 275262,
+      "uploadedDate": "2023-04-20T16:15:47.924Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MechanicalPowerKit_thumb-284x284-693e16e76cf96ebc57fdcfd711790f12.png",
+      "md5": "693e16e76cf96ebc57fdcfd711790f12",
+      "size": 23640,
+      "uploadedDate": "2023-04-20T16:15:48.270Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MechanicalPowerKit_featured-894x488-5b982c169dcc97e0faa3912f2ca2ea57.png",
+      "md5": "5b982c169dcc97e0faa3912f2ca2ea57",
+      "size": 571806,
+      "uploadedDate": "2023-04-20T16:15:48.466Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Contraption-1920x1080-0238b507571ca6c0be5e1be2713e4d9b_Snapshot.png",
+      "md5": "a3a5281324458d5af6f6c01d1c763c4e",
+      "size": 7143,
+      "uploadedDate": "2023-04-20T16:15:46.284Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Engine-1920x1080-f91ef3a8e6e4091dfbfd29796a0dee5e_Snapshot.png",
+      "md5": "9079b3da080fcc7947e4b71ab8744f24",
+      "size": 6601,
+      "uploadedDate": "2023-04-20T16:15:46.990Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gears-1920x1080-97c6bd028b0204fde58435494b470540_Snapshot.png",
+      "md5": "152ff87c97a727e10bf9b2d6c725651a",
+      "size": 6417,
+      "uploadedDate": "2023-04-20T16:15:47.692Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Blueprints-1920x1080-5e29c4845053d18f0a541c8bf0637fdb_Snapshot.png",
+      "md5": "059ed4a0bdfaa099a8d47c19b1315364",
+      "size": 6998,
+      "uploadedDate": "2023-04-20T16:15:48.232Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "43b95b9ee21c40458ba01761bf4752ad"
+    }
+  ],
+  "catalogNs": null
+}

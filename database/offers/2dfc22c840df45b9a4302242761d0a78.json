@@ -1,0 +1,494 @@
+{
+  "id": "2dfc22c840df45b9a4302242761d0a78",
+  "namespace": "ue",
+  "title": "Card Parts Mega Pack",
+  "description": "Want to make your own card game but don't want to design the cards? Then this pack is for you!",
+  "longDescription": "<p>Thinking of making the next great card game? The Card Parts Mega Pack will help jump start with designing, prototyping, and building cards for your game!</p><p><br /></p><p>Quickly build your own cards or customize them with the included PSD files to better fit the theme of your game! Just add in the card image, put in some text, and you have a card!</p><p><br /></p><p><strong>Set 1 Includes:</strong></p><p>All parts come in a variety of different colors</p><ul><li>2 different card base shapes</li><li>4 different types of accent parts</li><li>4 different types of title bars</li><li>2 different types of text boxes for gameplay text</li></ul><p><br /></p><p><strong>Set 2 Includes:</strong></p><p>All parts come in a variety of 11 different colors</p><ul><li>4 Different Card Bases (2048x2048px)</li><li>45 Unique parts</li><li>496 card parts in total</li></ul><p><br /></p><p><strong>Set 3 Includes:</strong></p><ul><li>3 different 3d background card backs</li><li>Each design has 2 different looks</li><li>Blank and white version included of each design</li></ul><p><br /></p><p><br /></p><p><strong>Other Asset Packages Used In Previews</strong></p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/eec72293d77b4c559d7ff323049d4c59\" rel=\"nofollow\">Runestone Pack</a></li></ul><p><br /></p><p><br /></p><p>This is part of the Gamertose <em>Plug Collection</em> that is designed to help fill in the gaps that you might have forgotten about or to help fill out a scene more. These packs are designed to help fill out your asset pack collection so you have more time designing your game!</p><p><br /></p><p><strong><em>Note:</em></strong><em> Once you have purchased the Card Parts Mega Pack, if you wish to edit any of the files in the editing software of your choice. Please email me or message me on Discord and I will send you the PSDs</em></p><p><br /></p><p>------------------------------------------------</p><p><a href=\"https://discord.gg/XbKmYHZ\" rel=\"nofollow\">Join my Discord</a> to get help with my assets or to talk about game design!</p><p><br /></p><p>Looking for other assets to help save you time and money on designing your games? Check out my <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Gamertose\" rel=\"nofollow\">Publisher page</a> to see everything that&#39;s available!</p><p>------------------------------------------------</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "card-parts-mega-pack",
+  "creationDate": "2021-05-13T18:50:47.651Z",
+  "lastModifiedDate": "2024-09-30T18:35:05.375Z",
+  "effectiveDate": "2021-05-13T18:50:47.562Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6bef1c00c24ff1a825c4a1d6ba7425",
+    "name": "Gamertose"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 61 Paper2d Tilesets</li><li> 630 card parts in total</li></ul><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1121",
+      "name": "Space",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:18.640Z",
+      "updated": "2023-08-22T13:37:48.750Z",
+      "status": "ACTIVE",
+      "referenceCount": 67,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9d61b24c-1f12-42e3-8f65-b69eed0fd81d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsMegaPack2021bpreviews01-1920x1080-ea4053925a08bbd550f2a1c036bc5e61.png",
+      "md5": "ea4053925a08bbd550f2a1c036bc5e61",
+      "size": 1002121,
+      "uploadedDate": "2021-08-05T05:44:27.397Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews01-1920x1080-fc86f98133906ed8c75f4e1aa262fd9d.png",
+      "md5": "fc86f98133906ed8c75f4e1aa262fd9d",
+      "size": 1014094,
+      "uploadedDate": "2021-08-05T05:44:27.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack012021bpreviews01-1920x1080-99041b52fb8fec435ccc860675683112.png",
+      "md5": "99041b52fb8fec435ccc860675683112",
+      "size": 800614,
+      "uploadedDate": "2021-08-05T05:44:28.291Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack012021bpreviews02-1920x1080-6fc1bf7f38336b3d34a1921df2b329fe.png",
+      "md5": "6fc1bf7f38336b3d34a1921df2b329fe",
+      "size": 1036759,
+      "uploadedDate": "2021-08-05T05:44:28.720Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews02-1920x1080-e97e47b810f7cdb187216ed543dcfb52.png",
+      "md5": "e97e47b810f7cdb187216ed543dcfb52",
+      "size": 766782,
+      "uploadedDate": "2021-08-05T05:44:29.142Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews03-1920x1080-21b972094ce6905395559ce9116a5e50.png",
+      "md5": "21b972094ce6905395559ce9116a5e50",
+      "size": 616893,
+      "uploadedDate": "2021-08-05T05:44:29.571Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews04-1920x1080-4bbfdf14f17b8208fb1fe00602bc09af.png",
+      "md5": "4bbfdf14f17b8208fb1fe00602bc09af",
+      "size": 636224,
+      "uploadedDate": "2021-08-05T05:44:29.970Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews05-1920x1080-0240c91c8bc2e530068325b4a3f7dea7.png",
+      "md5": "0240c91c8bc2e530068325b4a3f7dea7",
+      "size": 253013,
+      "uploadedDate": "2021-08-05T05:44:30.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CardPartsPack022021bpreviews06-1920x1080-3ee279a844b6e7cc0f7fd6ed3ed366f0.png",
+      "md5": "3ee279a844b6e7cc0f7fd6ed3ed366f0",
+      "size": 154324,
+      "uploadedDate": "2021-08-05T05:44:30.714Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CardPartsMegaPack_thumb-284x284-d5e053890981b6c5a8f197290d6fc37f.png",
+      "md5": "d5e053890981b6c5a8f197290d6fc37f",
+      "size": 107638,
+      "uploadedDate": "2022-08-02T06:15:49.043Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CardPartsMegaPack_featured-894x488-635fca4aa722ee97eda77017d419064c.png",
+      "md5": "635fca4aa722ee97eda77017d419064c",
+      "size": 486074,
+      "uploadedDate": "2022-08-02T06:15:49.188Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsMegaPack2021bpreviews01-1920x1080-ea4053925a08bbd550f2a1c036bc5e61_Snapshot.png",
+      "md5": "586d0f2ddc2d877e2a59354e7844b7b9",
+      "size": 5331,
+      "uploadedDate": "2021-08-05T05:44:27.658Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews01-1920x1080-fc86f98133906ed8c75f4e1aa262fd9d_Snapshot.png",
+      "md5": "08aab3a329b42b5542193746edf71ce7",
+      "size": 7120,
+      "uploadedDate": "2021-08-05T05:44:28.142Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack012021bpreviews01-1920x1080-99041b52fb8fec435ccc860675683112_Snapshot.png",
+      "md5": "a1fe089db0735a1239dcf7336d37195c",
+      "size": 6107,
+      "uploadedDate": "2021-08-05T05:44:28.551Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack012021bpreviews02-1920x1080-6fc1bf7f38336b3d34a1921df2b329fe_Snapshot.png",
+      "md5": "b27cf76829832fc5396a8caf7b0abcc7",
+      "size": 8109,
+      "uploadedDate": "2021-08-05T05:44:28.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews02-1920x1080-e97e47b810f7cdb187216ed543dcfb52_Snapshot.png",
+      "md5": "3a9021fffce080f6aff8269b6b711d5b",
+      "size": 9540,
+      "uploadedDate": "2021-08-05T05:44:29.436Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews03-1920x1080-21b972094ce6905395559ce9116a5e50_Snapshot.png",
+      "md5": "879547bf2ba0e3bbed556e14ecd5b144",
+      "size": 8290,
+      "uploadedDate": "2021-08-05T05:44:29.806Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews04-1920x1080-4bbfdf14f17b8208fb1fe00602bc09af_Snapshot.png",
+      "md5": "13930909a8e7bc726749a6a9a4594a78",
+      "size": 8113,
+      "uploadedDate": "2021-08-05T05:44:30.193Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews05-1920x1080-0240c91c8bc2e530068325b4a3f7dea7_Snapshot.png",
+      "md5": "202e28166512262aa520dda327e31e84",
+      "size": 5200,
+      "uploadedDate": "2021-08-05T05:44:30.620Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CardPartsPack022021bpreviews06-1920x1080-3ee279a844b6e7cc0f7fd6ed3ed366f0_Snapshot.png",
+      "md5": "8d86ce6c82f67c97d8c016de88f83c29",
+      "size": 4903,
+      "uploadedDate": "2021-08-05T05:44:30.914Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP00-1920x1080-1aa66d7765e4e111791311430030dcd4_Snapshot.png",
+      "md5": "c527b30e5fe45223a3e5139674c9501b",
+      "size": 6298,
+      "uploadedDate": "2021-05-12T06:36:45.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP01-1920x1080-41f6b16e26d10a2e7c04eb776eeb1b18_Snapshot.png",
+      "md5": "7affe891248fe3a2432eb926a6ef4543",
+      "size": 4773,
+      "uploadedDate": "2021-05-12T06:36:46.258Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP02-1920x1080-d1fce8f21a81e145dc2c0a21c6fa8d1c_Snapshot.png",
+      "md5": "3fe201278575150cb47df6cc5b9e8c05",
+      "size": 7752,
+      "uploadedDate": "2021-05-12T06:36:46.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP03-1920x1080-d6677a12781c3373c993e026202e14d0_Snapshot.png",
+      "md5": "20448682db1497b74dfd0bd2bcfbc576",
+      "size": 8987,
+      "uploadedDate": "2021-05-12T06:36:47.285Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP04-1920x1080-224ba04509c55b2b24a65215f2630bb5_Snapshot.png",
+      "md5": "759441c93396bd89d9e5a886097c91fa",
+      "size": 7864,
+      "uploadedDate": "2021-05-12T06:36:47.974Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP05-1920x1080-d8c7323f37933567971b045b96c7821e_Snapshot.png",
+      "md5": "224613fd060fd81d6bbb4623481f14a3",
+      "size": 7578,
+      "uploadedDate": "2021-05-12T06:36:48.431Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP06-1920x1080-5f9a53d82c77a4b2f1a38800f986bb4e_Snapshot.png",
+      "md5": "df7ce3faed97c00a9d5212d3b5fd41f9",
+      "size": 4488,
+      "uploadedDate": "2021-05-12T06:36:48.812Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CPMP07-1920x1080-a09fd4ffb7ef600cf2c19ff2753a343b_Snapshot.png",
+      "md5": "2037be5cb37760322d21eaaf78e74350",
+      "size": 4156,
+      "uploadedDate": "2021-05-12T06:36:49.238Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7acb275f4f694dc18b378319cc0b52cd"
+    }
+  ],
+  "catalogNs": null
+}

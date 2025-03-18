@@ -1,0 +1,293 @@
+{
+  "id": "7bf397ee16d4438989e64858bdebeafe",
+  "namespace": "ue",
+  "title": "Stat And Leveling System",
+  "description": "RBP Stat and leveling system is a easy to use plug and play system. It can be integrated with any system as this uses a single actor component that can be added to any character.",
+  "longDescription": "<p>RBP Stat and leveling system is an easy-to-use plug-and-play system. It can be integrated with any system as this uses a single actor component that can be added to any character. RBP Stat and leveling system are Fully done on a blueprint Component so it can be modified as you need. This actor component allows for any new or current project to easily have access to stats like Health, Mana, Stamina, etc. Has integrated instructions through the code to add to any ongoing project easily. Add to any project to have a character with stats available instantly! Create any stat you need quickly and what is needed to set up Add, Subtract, regen, or drain for Health, Mana, and Stamina through any means like Items, Abilities, and Environments!</p><p><br /></p><p>Changelog 1.0.2</p><ul><li>UI Update</li><li>Bug fix</li></ul><p><br /></p><p>Please feel free to leave a review, comment, question, or suggestion!</p><p>Integration Doc: <a href=\"https://drive.google.com/file/d/1YZKyt8uLcuGf0XI1Eoj9q7Di2LfCE_fN/view?usp&#61;share_link\" rel=\"nofollow\">Documantation</a></p><p>Join Discord link: <a href=\"https://discord.gg/TSaUcv8gN9\" rel=\"nofollow\">Discord</a> &lt;&#61; <strong>Suggestion</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vrs-stat-and-leveling-system",
+  "creationDate": "2023-02-01T03:50:33.750Z",
+  "lastModifiedDate": "2024-09-30T17:25:21.740Z",
+  "effectiveDate": "2023-02-01T04:24:50.269Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vud33arj3sgjyg92znth57gbd9bt4k",
+    "name": "Red Blue Pixel Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Stats Management</li><li> Configurable Stats generation logic</li><li>Level Up Logic</li><li>Sample UI and HUD bars</li><li> Highly Modular</li></ul><p>Font Source: https://www.dafont.com/search.php?q&#61;enchanted&#43;land</p><p>Number of Blueprints: 3</p><p>Number of Components: 1</p><p>Network Replicated: (No)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1335",
+      "name": "ATMOSPHERIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:04.954Z",
+      "updated": "2019-06-20T12:01:04.954Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "357a0869-819b-4272-a196-d45025dffd20"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRS stat 1920x1080-1920x1080-d55c1afba4f468fa57be0a1a34ba69b7.png",
+      "md5": "d55c1afba4f468fa57be0a1a34ba69b7",
+      "size": 114349,
+      "uploadedDate": "2024-05-18T08:43:16.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRS Stat and leveling System p4-1920x1080-2cb26637f57b81a965073a0e982c8a54.png",
+      "md5": "2cb26637f57b81a965073a0e982c8a54",
+      "size": 352063,
+      "uploadedDate": "2023-01-30T00:20:20.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VRS Stat and leveling System p3-1920x1080-ac073f5f1d1feb65d5245ff54cf3418b.png",
+      "md5": "ac073f5f1d1feb65d5245ff54cf3418b",
+      "size": 70849,
+      "uploadedDate": "2023-01-30T00:20:21.138Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-e3653bbdb48b0a5909152e1960795876.png",
+      "md5": "e3653bbdb48b0a5909152e1960795876",
+      "size": 1582589,
+      "uploadedDate": "2023-03-28T00:00:36.102Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-50c58b3270230fd13642e4f504ea16a3.png",
+      "md5": "50c58b3270230fd13642e4f504ea16a3",
+      "size": 588022,
+      "uploadedDate": "2023-03-28T00:00:36.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StatAndLevelingSystem_thumb-284x284-74b0a8361a82ef965a5421050496ce60.png",
+      "md5": "74b0a8361a82ef965a5421050496ce60",
+      "size": 109835,
+      "uploadedDate": "2024-08-24T08:27:00.815Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RBPStatAndLevelingSystem_featured-894x488-da1f4d2ae97d12319a90e482202800ac.png",
+      "md5": "da1f4d2ae97d12319a90e482202800ac",
+      "size": 67489,
+      "uploadedDate": "2024-05-18T08:43:16.639Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS stat 1920x1080-1920x1080-d55c1afba4f468fa57be0a1a34ba69b7_Snapshot.png",
+      "md5": "f2bef358895eb6b21f72c7b069125bee",
+      "size": 5382,
+      "uploadedDate": "2024-05-18T08:43:16.501Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-e3653bbdb48b0a5909152e1960795876_Snapshot.png",
+      "md5": "2361f77c959faa50ea6e57015b08fe32",
+      "size": 5260,
+      "uploadedDate": "2023-03-28T00:00:36.455Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-50c58b3270230fd13642e4f504ea16a3_Snapshot.png",
+      "md5": "dcada6862495ffc4b8bfe6caf2648811",
+      "size": 5374,
+      "uploadedDate": "2023-03-28T00:00:36.916Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS Stat and leveling System 1-1920x1080-a66e9f25606c71d0618e2aa39e7aaa1d_Snapshot.png",
+      "md5": "f37b388b1ef9aa12a2104e115fedae99",
+      "size": 4586,
+      "uploadedDate": "2023-01-30T20:46:47.338Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS Stat and leveling System-1920x1080-97e89d457c2cebf9f45f99bd7f1845b7_Snapshot.png",
+      "md5": "31a77edf519e54e8e543bbf0e261a455",
+      "size": 5179,
+      "uploadedDate": "2023-01-30T00:20:20.333Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS Stat and leveling System p2-1920x1080-5e486c900a0e5b95f2d9e6b2e2e86f77_Snapshot.png",
+      "md5": "125756d1f835ab535140b2dd50622662",
+      "size": 4886,
+      "uploadedDate": "2023-01-30T00:20:20.745Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS Stat and leveling System p4-1920x1080-2cb26637f57b81a965073a0e982c8a54_Snapshot.png",
+      "md5": "4cc5fead2e065802c815f792733c08ec",
+      "size": 5621,
+      "uploadedDate": "2023-01-30T00:20:21.063Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VRS Stat and leveling System p3-1920x1080-ac073f5f1d1feb65d5245ff54cf3418b_Snapshot.png",
+      "md5": "457e62490bb46cf8dc917d8efef3be57",
+      "size": 2316,
+      "uploadedDate": "2023-01-30T00:20:21.339Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9d674b25bd7b470ba06daed449e4a9d3"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,146 @@
+{
+  "id": "19e867ccaf1d4ce994f09804c7c6a235",
+  "namespace": "ue",
+  "title": "Music - Background - Night Vol1",
+  "description": "Discover the night in your games with 20 Night tracks. Bring the essence of nightlife with these immersive soundtracks!",
+  "longDescription": "<p>&#x1f319; <strong>Night Music Pack for Games</strong> &#x1f319;</p><p><br /></p><p>Youtube Demo: <a href=\"https://youtu.be/63TrXC8P7Lk\" rel=\"nofollow\">here</a></p><p><br /></p><p>Immerse your games in the mysterious vibe of the night with the Night Music Pack. This pack features 20 tracks that capture the essence of nightlife, perfect for urban-themed games or moonlit adventures.</p><p><br /></p><p>Each track is meticulously produced to reflect the tranquility and vibrancy of dusk, creating a soundtrack that enhances every game moment.</p><p><br /></p><p>The tracks are ideal for exploration games, engaging narratives, and any genre that benefits from an immersive nocturnal mood. Easy to integrate and fully compatible with Unreal Engine.</p><p><br /></p><p>With this pack, your games will gain a new dimension of depth and emotion. Let our Night Music Pack transform your players&#39; nighttime experience!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "music-background-night-vol1",
+  "creationDate": "2024-04-20T15:02:50.157Z",
+  "lastModifiedDate": "2024-09-27T12:48:45.793Z",
+  "effectiveDate": "2024-04-20T15:46:39.357Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vm3mwunu72wfwmbvhwzyw7sttp8yyp",
+    "name": "Captain Thatch"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><strong>Channel: </strong>2 channels</li><li><strong>Additional: </strong>Stereo</li><li><strong>Encoding:</strong> PCM</li></ul><p>Number of Audio Wavs: 20</p><p>Number of Audio Cues: 20</p><p>Sample rate / bit rate: 44,100 Hz/16 bit</p><p>Does music loop: No</p><p>Minutes of audio provided: 40:46</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: https://captainthatch.forgedream.com</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ceeaa087-e9ab-48dd-ae35-9ef27a9dfe2d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY Music - Background BG - Night Vol1-1920x1080-c3fedf9d149c9df8f663f7c85669581b.png",
+      "md5": "c3fedf9d149c9df8f663f7c85669581b",
+      "size": 1470086,
+      "uploadedDate": "2024-04-07T15:38:23.416Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MusicBackgroundBGNightVol1_thumb-284x284-90878f4155d7be592c87d09a5b80664b.png",
+      "md5": "90878f4155d7be592c87d09a5b80664b",
+      "size": 148193,
+      "uploadedDate": "2024-04-07T15:38:23.780Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MusicBackgroundBGNightVol1_featured-894x488-68a32a1534e548d2b639387b15d45c30.png",
+      "md5": "68a32a1534e548d2b639387b15d45c30",
+      "size": 582516,
+      "uploadedDate": "2024-04-07T15:38:23.961Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY Music - Background BG - Night Vol1-1920x1080-c3fedf9d149c9df8f663f7c85669581b_Snapshot.png",
+      "md5": "824666759a27278be4c0ab7ddd553508",
+      "size": 7349,
+      "uploadedDate": "2024-04-07T15:38:23.741Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c642a5ef538d4737b4f7e754b43050c0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,260 @@
+{
+  "id": "8e76277a881a4ec0931abc4e70b8837a",
+  "namespace": "ue",
+  "title": "Shadow elemental",
+  "description": "Low-poly animated shadow elemental",
+  "longDescription": "<p>The Shadow Elemental has 11 animations. Material is fully customizable. Suitable for games of different genre: RPG, strategy, first-person etc. A detailed overview of customization features is presented in the video.</p><p>(The environment with forest in the images is demo and is not included in the project).</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shadow-elemental",
+  "creationDate": "2022-06-18T17:02:53.132Z",
+  "lastModifiedDate": "2024-09-27T12:19:32.367Z",
+  "effectiveDate": "2022-06-18T17:02:53.066Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8n4xd4s5hmqabwdyavtt6zndv5k5d5",
+    "name": "SAN 3D Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://www.youtube.com/watch?v&#61;mPcAL5XZsHI\" rel=\"nofollow\"><strong>Unreal project demonstration</strong></a></p><p><br /></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (No)</p><p>Animated: (Yes)</p><p>Number of characters: 1</p><p>Vertex counts of characters:</p><p>Elemental: verts 15044, tris  30084</p><p><br /></p><p>Number of Materials: 1</p><p>Number of Material Instances: 1</p><p>Texture Resolutions: 1K</p><p>Number of animations: 11</p><p><br /></p><p>Animations:</p><p>1) - Idle 1</p><p>2) - Idle 2</p><p>3) - Idle 3</p><p>4) - Walk</p><p>5) - Run</p><p>6) - Attack 1</p><p>7) - Attack 2</p><p>8) - Cast</p><p>9) - Death</p><p>10) - Get Hit 1</p><p>11) - Get Hit 2</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Linux: (Yes)</p><p>Documentation: No link</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "194a437c-ee52-40b0-8911-1bc60d3b569d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1Redacted-1920x1080-f9cfda98b4b8649a89058f9c8fc3be96.jpg",
+      "md5": "f9cfda98b4b8649a89058f9c8fc3be96",
+      "size": 408903,
+      "uploadedDate": "2022-06-16T08:59:30.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-02df2f3ccfdec3c0158ca0c8dd95e9cb.jpg",
+      "md5": "02df2f3ccfdec3c0158ca0c8dd95e9cb",
+      "size": 139220,
+      "uploadedDate": "2022-06-16T08:59:30.768Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-5b839910e1ad9a0c976333978d7519ac.jpg",
+      "md5": "5b839910e1ad9a0c976333978d7519ac",
+      "size": 368285,
+      "uploadedDate": "2022-06-16T08:59:31.138Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-7193ed26cbeb52efd3d743085b94ad17.jpg",
+      "md5": "7193ed26cbeb52efd3d743085b94ad17",
+      "size": 186498,
+      "uploadedDate": "2022-06-16T08:59:31.516Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-f75d6d3d8067a40cefcb37255bd64a09.jpg",
+      "md5": "f75d6d3d8067a40cefcb37255bd64a09",
+      "size": 439313,
+      "uploadedDate": "2022-06-16T08:59:31.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-5978bc85eb79e89a5dc15d7839a87763.jpg",
+      "md5": "5978bc85eb79e89a5dc15d7839a87763",
+      "size": 474544,
+      "uploadedDate": "2022-06-16T08:59:32.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Shadowelemental_thumb-284x284-75189a6f90a57b266557d6966ed799ab.png",
+      "md5": "75189a6f90a57b266557d6966ed799ab",
+      "size": 92247,
+      "uploadedDate": "2022-06-16T08:59:32.627Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Shadowelemental_featured-894x488-317c87962a77149f645b0a76e950703f.png",
+      "md5": "317c87962a77149f645b0a76e950703f",
+      "size": 518874,
+      "uploadedDate": "2022-06-16T08:59:32.709Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1Redacted-1920x1080-f9cfda98b4b8649a89058f9c8fc3be96_Snapshot.jpg",
+      "md5": "6927851474204bdada73a2786d80b766",
+      "size": 5488,
+      "uploadedDate": "2022-06-16T08:59:30.650Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-02df2f3ccfdec3c0158ca0c8dd95e9cb_Snapshot.jpg",
+      "md5": "26ca8842e2a95d133a3bd1f06dac6936",
+      "size": 4538,
+      "uploadedDate": "2022-06-16T08:59:31.008Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-5b839910e1ad9a0c976333978d7519ac_Snapshot.jpg",
+      "md5": "2950a876b0276e256c1dee3f0dc700c3",
+      "size": 7059,
+      "uploadedDate": "2022-06-16T08:59:31.370Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-7193ed26cbeb52efd3d743085b94ad17_Snapshot.jpg",
+      "md5": "13221940798f4effdc05304c6bca4c1a",
+      "size": 5041,
+      "uploadedDate": "2022-06-16T08:59:31.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-f75d6d3d8067a40cefcb37255bd64a09_Snapshot.jpg",
+      "md5": "1a10442e80b3ffc30f6011c1de5b144a",
+      "size": 7150,
+      "uploadedDate": "2022-06-16T08:59:32.092Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-5978bc85eb79e89a5dc15d7839a87763_Snapshot.jpg",
+      "md5": "db600cc6ef116932f42801058a2e62bd",
+      "size": 5248,
+      "uploadedDate": "2022-06-16T08:59:32.469Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d486a93802d74dfcacef96e79959cac3"
+    }
+  ],
+  "catalogNs": null
+}

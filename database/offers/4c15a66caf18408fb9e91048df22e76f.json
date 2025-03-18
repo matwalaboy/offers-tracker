@@ -1,0 +1,332 @@
+{
+  "id": "4c15a66caf18408fb9e91048df22e76f",
+  "namespace": "ue",
+  "title": "Knight Set",
+  "description": "This amazing Knight Set will help make your dreams of creating a memorable game come true!",
+  "longDescription": "<p>The set includes images of weapons and armor that can be used as inventory or UI items. An excellent choice when creating an RPG!</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "knight-set-01",
+  "creationDate": "2024-06-30T18:46:44.467Z",
+  "lastModifiedDate": "2024-09-27T15:28:48.530Z",
+  "effectiveDate": "2024-06-30T18:46:44.414Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The set includes: </p><p>18 images of armor; </p><p>11 images of axes; </p><p>8 images of hammers; </p><p>9 images of helmets; </p><p>21 images of shields; </p><p>17 images of spears; </p><p>20 images of staves; </p><p>22 images of swords.</p><p>Number of Textures: 126.</p><p>Texture Resolutions: 1024 x 1024 px.</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Playground AI.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c5277a6b-916b-4808-a1c9-ff0505601b26"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo-1920x1080-f714ce0b00b66553882c18df0e09b720.jpg",
+      "md5": "f714ce0b00b66553882c18df0e09b720",
+      "size": 1269312,
+      "uploadedDate": "2024-06-30T08:47:19.488Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo2-1920x1080-749b4682e46d1007a13ec47543ed5f80.jpg",
+      "md5": "749b4682e46d1007a13ec47543ed5f80",
+      "size": 714532,
+      "uploadedDate": "2024-06-30T08:47:20.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo3-1920x1080-bd8ecaa4e76c98844da52c15a6ecf99c.jpg",
+      "md5": "bd8ecaa4e76c98844da52c15a6ecf99c",
+      "size": 850049,
+      "uploadedDate": "2024-06-30T08:47:21.155Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo4-1920x1080-4e4565cf5e3329abe55c98bc39431f70.jpg",
+      "md5": "4e4565cf5e3329abe55c98bc39431f70",
+      "size": 438131,
+      "uploadedDate": "2024-06-30T08:47:21.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo5-1920x1080-a58134f9ae69879c384e68d0398062da.jpg",
+      "md5": "a58134f9ae69879c384e68d0398062da",
+      "size": 439000,
+      "uploadedDate": "2024-06-30T08:47:22.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo6-1920x1080-088bb19d5ef481f5ba2350698be40baf.jpg",
+      "md5": "088bb19d5ef481f5ba2350698be40baf",
+      "size": 689549,
+      "uploadedDate": "2024-06-30T08:47:23.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo7-1920x1080-faa7386a6299dee5c0f467fd548163f1.jpg",
+      "md5": "faa7386a6299dee5c0f467fd548163f1",
+      "size": 587578,
+      "uploadedDate": "2024-06-30T08:47:24.423Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mainlogo8-1920x1080-dcfd9b646dcca8f440a7182d2ea07a1a.jpg",
+      "md5": "dcfd9b646dcca8f440a7182d2ea07a1a",
+      "size": 549255,
+      "uploadedDate": "2024-06-30T08:47:25.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/KnightSet_thumb-284x284-bee8fb408b54715f0684f5f16757483b.png",
+      "md5": "bee8fb408b54715f0684f5f16757483b",
+      "size": 100918,
+      "uploadedDate": "2024-06-30T08:47:25.801Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/KnightSet_featured-894x488-1f8d51bdad2001a6f2427a0c6eac7abc.png",
+      "md5": "1f8d51bdad2001a6f2427a0c6eac7abc",
+      "size": 482612,
+      "uploadedDate": "2024-06-30T08:47:25.891Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo-1920x1080-f714ce0b00b66553882c18df0e09b720_Snapshot.jpg",
+      "md5": "eca21d49d4a1e7c19b2365e694d91cf6",
+      "size": 10337,
+      "uploadedDate": "2024-06-30T08:47:20.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo2-1920x1080-749b4682e46d1007a13ec47543ed5f80_Snapshot.jpg",
+      "md5": "e015266c9eb1e98487b65daa70e23057",
+      "size": 7584,
+      "uploadedDate": "2024-06-30T08:47:20.804Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo3-1920x1080-bd8ecaa4e76c98844da52c15a6ecf99c_Snapshot.jpg",
+      "md5": "4bcfb57a969117a5f8c1b0a00a4dac2c",
+      "size": 7509,
+      "uploadedDate": "2024-06-30T08:47:21.693Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo4-1920x1080-4e4565cf5e3329abe55c98bc39431f70_Snapshot.jpg",
+      "md5": "0b42734809b80c792a68be75c8934994",
+      "size": 4843,
+      "uploadedDate": "2024-06-30T08:47:22.476Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo5-1920x1080-a58134f9ae69879c384e68d0398062da_Snapshot.jpg",
+      "md5": "910e41d91045ad5741f11f870cc84e06",
+      "size": 5209,
+      "uploadedDate": "2024-06-30T08:47:23.297Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo6-1920x1080-088bb19d5ef481f5ba2350698be40baf_Snapshot.jpg",
+      "md5": "61371db532d44cdc4d4c78b39289a100",
+      "size": 5604,
+      "uploadedDate": "2024-06-30T08:47:24.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo7-1920x1080-faa7386a6299dee5c0f467fd548163f1_Snapshot.jpg",
+      "md5": "5fcd3e2bf6ef57c772cd585b5ac92b93",
+      "size": 5664,
+      "uploadedDate": "2024-06-30T08:47:24.956Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainlogo8-1920x1080-dcfd9b646dcca8f440a7182d2ea07a1a_Snapshot.jpg",
+      "md5": "c8003160e79c1dbfb7c8d8c19dbe52ff",
+      "size": 4707,
+      "uploadedDate": "2024-06-30T08:47:25.746Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "aea953c1f52e4e8ebe192ea6b3ca336b"
+    }
+  ],
+  "catalogNs": null
+}

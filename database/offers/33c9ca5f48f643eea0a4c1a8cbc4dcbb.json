@@ -1,0 +1,404 @@
+{
+  "id": "33c9ca5f48f643eea0a4c1a8cbc4dcbb",
+  "namespace": "ue",
+  "title": "Fat Demon",
+  "description": "Low Poly Demon Character",
+  "longDescription": "<p><strong>Demon completely low-poly ready-made model for any of your games</strong></p><p><br /></p><p><strong>Render in Unreal 4.26</strong></p><p><br /></p><p><br /></p><h2>Rigged to Epic Skeleton</h2><p><br /></p><p><br /></p><h1>Video: <a href=\"https://youtu.be/lXWSgHM42z4\" rel=\"nofollow\"><strong>https://youtu.be/lXWSgHM42z4</strong></a></h1><p>3 UV &#43; Eye set 4096x4096</p><p><br /></p><p>Characters:</p><p>Faces: 8446</p><p>Vertex: 8604</p><p>Tris: 16893</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fat-demon-01",
+  "creationDate": "2022-09-04T13:26:07.386Z",
+  "lastModifiedDate": "2024-09-30T10:53:46.392Z",
+  "effectiveDate": "2022-09-04T13:26:07.347Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x7eke7mdq3zlquplr3rnk826ajfhsu",
+    "name": "AizenHarribel"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>If rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Extra bones: Jaw, Eye_Belly_Top, Eye_Belly_Bot, Belly_Right, Belly_Left, Belly_Front, Belly_Front_Center, Belly_Hand_R, thumb_R1, thumb_R2, thumb_R3, index_R1, index_R2, index_R3, middle_R1, middle_R2, middle_R3, ring_R1, ring_R2, ring_R3, pinky_R1, pinky_R2, pinky_R3, Belly_Hand_L, thumb_L1, thumb_L2, thumb_L3, index_L1, index_L2, index_L3, middle_L1, middle_L2, middle_L3, ring_L1, ring_L2, ring_L3, pinky_L1, pinky_L2, pinky_L3,</p><p>Animated: (No)</p><p>Number of Animations: 1 (Idle)</p><p>Animation types ( No ):</p><p>Number of characters: 1</p><p>Vertex counts of characters: 8604</p><p>Number of Materials and Material Instances: 3 (Material), 5 (Material instance), 1 (Material Function)</p><p>Number of Textures: 9 &#43; 11 Textures Eye</p><p>Texture Resolutions: 4096x4096 - 512x512 (Eye Iris)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: no</p><p>Important/Additional Notes: There are no animations. All provided animations in the scene are just a demonstration of the character and are taken from free Epic Game assets</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0812222d-df8e-472e-aecf-e147d8ce700d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00002-1920x1080-4392f6d8d7c64b80f6f7f4ada4064e96.png",
+      "md5": "4392f6d8d7c64b80f6f7f4ada4064e96",
+      "size": 2822426,
+      "uploadedDate": "2022-09-03T15:27:42.978Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.0000-1920x1080-42654b86daddf5cc6503052ec9fbd41c.png",
+      "md5": "42654b86daddf5cc6503052ec9fbd41c",
+      "size": 2788487,
+      "uploadedDate": "2022-09-03T15:27:43.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00003-1920x1080-402c1e4c9afb085dcc6a68d118c226d9.png",
+      "md5": "402c1e4c9afb085dcc6a68d118c226d9",
+      "size": 2607465,
+      "uploadedDate": "2022-09-03T15:27:44.321Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00004-1920x1080-cf7337b838515c7c7e0403fbcc54396c.png",
+      "md5": "cf7337b838515c7c7e0403fbcc54396c",
+      "size": 2365763,
+      "uploadedDate": "2022-09-03T15:27:44.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00005-1920x1080-a3e423c61455588f13e991a286531843.png",
+      "md5": "a3e423c61455588f13e991a286531843",
+      "size": 2206498,
+      "uploadedDate": "2022-09-03T15:27:45.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00006-1920x1080-ee1f10e9a997a24f5ae414958e730bd4.png",
+      "md5": "ee1f10e9a997a24f5ae414958e730bd4",
+      "size": 2156515,
+      "uploadedDate": "2022-09-03T15:27:46.140Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00007-1920x1080-a79d38d0cf8a14b2be0161f31aa16033.png",
+      "md5": "a79d38d0cf8a14b2be0161f31aa16033",
+      "size": 2286116,
+      "uploadedDate": "2022-09-03T15:27:46.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00008-1920x1080-73fa0903273d6bb9ced7ac567fb2a317.png",
+      "md5": "73fa0903273d6bb9ced7ac567fb2a317",
+      "size": 2178535,
+      "uploadedDate": "2022-09-03T15:27:47.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Doom.00009-1920x1080-a8cf84cb69d24922f1ac4a6611fa276a.png",
+      "md5": "a8cf84cb69d24922f1ac4a6611fa276a",
+      "size": 2445967,
+      "uploadedDate": "2022-09-03T15:27:47.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-f848fab6d24577c73acf288162875522.jpg",
+      "md5": "f848fab6d24577c73acf288162875522",
+      "size": 723031,
+      "uploadedDate": "2022-09-03T15:27:48.414Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-4ed3ba8c11a5398392eb9acb6118d33f.jpg",
+      "md5": "4ed3ba8c11a5398392eb9acb6118d33f",
+      "size": 673547,
+      "uploadedDate": "2022-09-03T15:27:48.785Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-58486825b0ee19f9797256fdc99d31fc.jpg",
+      "md5": "58486825b0ee19f9797256fdc99d31fc",
+      "size": 750608,
+      "uploadedDate": "2022-09-03T15:27:49.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FatDemon_thumb-284x284-f32e7f34c6bb94ac0107a1483bb7eea0.png",
+      "md5": "f32e7f34c6bb94ac0107a1483bb7eea0",
+      "size": 141615,
+      "uploadedDate": "2022-09-03T15:27:49.466Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FatDemon_featured-894x488-0619cdce1322130e734f63d3748159c6.png",
+      "md5": "0619cdce1322130e734f63d3748159c6",
+      "size": 516250,
+      "uploadedDate": "2022-09-03T15:27:49.533Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00002-1920x1080-4392f6d8d7c64b80f6f7f4ada4064e96_Snapshot.png",
+      "md5": "c336f695c875ab7886d222368f65a217",
+      "size": 5150,
+      "uploadedDate": "2022-09-03T15:27:43.463Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.0000-1920x1080-42654b86daddf5cc6503052ec9fbd41c_Snapshot.png",
+      "md5": "aadc0a1a9ddd87f93c1ffd73ea6bc18b",
+      "size": 5086,
+      "uploadedDate": "2022-09-03T15:27:44.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00003-1920x1080-402c1e4c9afb085dcc6a68d118c226d9_Snapshot.png",
+      "md5": "0ec89c0812db54851456aa9b54a9a16b",
+      "size": 4357,
+      "uploadedDate": "2022-09-03T15:27:44.741Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00004-1920x1080-cf7337b838515c7c7e0403fbcc54396c_Snapshot.png",
+      "md5": "2f4896da4f587950dcea10566514f0b1",
+      "size": 3474,
+      "uploadedDate": "2022-09-03T15:27:45.418Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00005-1920x1080-a3e423c61455588f13e991a286531843_Snapshot.png",
+      "md5": "88b6d3aac68d232facdce7d0a96c8a77",
+      "size": 2840,
+      "uploadedDate": "2022-09-03T15:27:45.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00006-1920x1080-ee1f10e9a997a24f5ae414958e730bd4_Snapshot.png",
+      "md5": "1b19276b8b9acf0911d3556152f2ea7e",
+      "size": 2767,
+      "uploadedDate": "2022-09-03T15:27:46.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00007-1920x1080-a79d38d0cf8a14b2be0161f31aa16033_Snapshot.png",
+      "md5": "c9091f3a7a5e1f21eba6f08ed904c396",
+      "size": 3149,
+      "uploadedDate": "2022-09-03T15:27:47.114Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00008-1920x1080-73fa0903273d6bb9ced7ac567fb2a317_Snapshot.png",
+      "md5": "7c79c8786285fdd83b50a52260cc4279",
+      "size": 2986,
+      "uploadedDate": "2022-09-03T15:27:47.705Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Doom.00009-1920x1080-a8cf84cb69d24922f1ac4a6611fa276a_Snapshot.png",
+      "md5": "d6b6bd4b486d78f21ea3eb056bfa9c15",
+      "size": 3812,
+      "uploadedDate": "2022-09-03T15:27:48.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-f848fab6d24577c73acf288162875522_Snapshot.jpg",
+      "md5": "94dcd13cd21828d993918c2ae9191239",
+      "size": 5766,
+      "uploadedDate": "2022-09-03T15:27:48.692Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-4ed3ba8c11a5398392eb9acb6118d33f_Snapshot.jpg",
+      "md5": "c8d5acbb58f0f3fbf512b0de5423a19c",
+      "size": 4674,
+      "uploadedDate": "2022-09-03T15:27:49.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-58486825b0ee19f9797256fdc99d31fc_Snapshot.jpg",
+      "md5": "33920da323db77cdea798429c0f48999",
+      "size": 5688,
+      "uploadedDate": "2022-09-03T15:27:49.417Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "35740e9781b743ba813d003fc1d1b2ba"
+    }
+  ],
+  "catalogNs": null
+}

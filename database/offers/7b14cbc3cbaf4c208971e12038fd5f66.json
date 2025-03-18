@@ -1,0 +1,332 @@
+{
+  "id": "7b14cbc3cbaf4c208971e12038fd5f66",
+  "namespace": "ue",
+  "title": "Wild Egypt Badges",
+  "description": "Wild Egypt Badges pack with 100 images to enhance your game’s UI with vibrant and detailed Egyptian-themed badge icons.",
+  "longDescription": "<p>Enrich your game’s user interface with the Wild Egypt Badges pack, featuring 100 meticulously designed images in three different resolutions: 256x256, 512x512, and 1024x1024. This collection captures the essence of Egyptian culture with various badge designs that are perfect for fantasy, RPG, or historical-themed games. Whether you&#39;re creating collectibles, achievements, or decorative UI elements, this pack provides vibrant and detailed visuals to enhance your game&#39;s Egyptian atmosphere.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wild-egypt-badges",
+  "creationDate": "2024-09-16T11:01:27.259Z",
+  "lastModifiedDate": "2024-09-30T20:27:07.642Z",
+  "effectiveDate": "2024-09-16T11:01:27.199Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Total Unique Images:</strong> 100</li><li><strong>Resolutions:</strong></li><li>256x256 - 100 PNG images</li><li>512x512 - 100 PNG images</li><li>1024x1024 - 100 PNG images</li><li><strong>Total Images Across Resolutions:</strong> 300</li><li><strong>File Format:</strong> PNG</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8075549c-2ad2-48da-8c07-e025334b076a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview000-1920x1080-e55ab0ecd226e275ebfb7dbe0f5cc2fe.jpeg",
+      "md5": "e55ab0ecd226e275ebfb7dbe0f5cc2fe",
+      "size": 119778,
+      "uploadedDate": "2024-09-06T11:42:10.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-c5d0ca35062c93877c4eeadaedff64f5.jpeg",
+      "md5": "c5d0ca35062c93877c4eeadaedff64f5",
+      "size": 231546,
+      "uploadedDate": "2024-09-06T11:42:10.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-90f6f6739f21ced01720e07e3358bfa5.jpeg",
+      "md5": "90f6f6739f21ced01720e07e3358bfa5",
+      "size": 247659,
+      "uploadedDate": "2024-09-06T11:42:11.098Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-364064ff7e4a45c69e1f36c62d99605e.jpeg",
+      "md5": "364064ff7e4a45c69e1f36c62d99605e",
+      "size": 239709,
+      "uploadedDate": "2024-09-06T11:42:11.505Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-0127561fb41b3fcbfa30db160a2441aa.jpeg",
+      "md5": "0127561fb41b3fcbfa30db160a2441aa",
+      "size": 242762,
+      "uploadedDate": "2024-09-06T11:42:11.893Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm005-1920x1080-6f96b76d141d9f222dc4e8baa06dea39.jpeg",
+      "md5": "6f96b76d141d9f222dc4e8baa06dea39",
+      "size": 197743,
+      "uploadedDate": "2024-09-06T11:42:12.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WildEgyptBadges_thumb-284x284-b030e0bcdc1d7d416ec4e54f0f7be91b.png",
+      "md5": "b030e0bcdc1d7d416ec4e54f0f7be91b",
+      "size": 112586,
+      "uploadedDate": "2024-09-06T11:42:12.627Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WildEgyptBadges_featured-894x488-74c2eabe8d7705ca66180b27fc632729.png",
+      "md5": "74c2eabe8d7705ca66180b27fc632729",
+      "size": 227930,
+      "uploadedDate": "2024-09-06T11:42:12.686Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview000-1920x1080-e55ab0ecd226e275ebfb7dbe0f5cc2fe_Snapshot.jpeg",
+      "md5": "660106ead61d9cf05967213e485b2d80",
+      "size": 3169,
+      "uploadedDate": "2024-09-06T11:42:10.446Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-c5d0ca35062c93877c4eeadaedff64f5_Snapshot.jpeg",
+      "md5": "708d20dace79215be99559436beab0e9",
+      "size": 6622,
+      "uploadedDate": "2024-09-06T11:42:10.960Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-90f6f6739f21ced01720e07e3358bfa5_Snapshot.jpeg",
+      "md5": "bc31f1d6f6a1f70a683457a9b0044e26",
+      "size": 6963,
+      "uploadedDate": "2024-09-06T11:42:11.355Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-364064ff7e4a45c69e1f36c62d99605e_Snapshot.jpeg",
+      "md5": "1c18a2001f3d83192ffb5def333f9f8d",
+      "size": 6785,
+      "uploadedDate": "2024-09-06T11:42:11.791Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-0127561fb41b3fcbfa30db160a2441aa_Snapshot.jpeg",
+      "md5": "ef7f337314b66b7dd4779ab35adb4a4b",
+      "size": 7004,
+      "uploadedDate": "2024-09-06T11:42:12.144Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm005-1920x1080-6f96b76d141d9f222dc4e8baa06dea39_Snapshot.jpeg",
+      "md5": "38073e4682b25111db2ac083a9ef9e63",
+      "size": 5541,
+      "uploadedDate": "2024-09-06T11:42:12.432Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dad30e300d1241a78ae777b8276ece21"
+    }
+  ],
+  "catalogNs": null
+}

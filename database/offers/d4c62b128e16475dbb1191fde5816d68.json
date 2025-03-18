@@ -1,0 +1,186 @@
+{
+  "id": "d4c62b128e16475dbb1191fde5816d68",
+  "namespace": "ue",
+  "title": "Machine Sound FX",
+  "description": "Machine Sound FX includes 392 sound effects for machines, hydraulics, and metal. The background noises are loopable.",
+  "longDescription": "<p>Machine Sound FX includes an extensive collection of 392 high-quality sound effects specifically designed for machines, hydraulics, and metal. The meticulously crafted background noises are loopable, ensuring seamless integration into your projects. These files are a specialized spin-off from the acclaimed Robot Sound FX collection, offering a focused selection of mechanical sounds to enhance your creative endeavors.</p><p><br /></p><p><a href=\"https://cplomedia.at/machine-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;9FVLI465uow&amp;ab_channel&#61;ChristophPlohovich\" rel=\"nofollow\">DEMO on Youtube</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "machine-sound-fx",
+  "creationDate": "2024-07-06T19:20:50.872Z",
+  "lastModifiedDate": "2024-09-28T06:33:04.479Z",
+  "effectiveDate": "2024-07-06T19:20:50.842Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s97cdrwwmgf3h6usnee3rq3ypn7a97",
+    "name": "cplomedia"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Background Atmos - loopable</li><li> Bootup</li><li> Hydraulic SFX</li><li> Turn off</li><li>Metal SFX</li></ul><p>Number of Audio Waves: 392</p><p>Number of Audio Cues: 392</p><p>Sample rate / bit rate: 44,100 Hz / 16 bit</p><p>Do Sound FX loop: Some are loopable</p><p>Minutes of audio provided: 60 minutes</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: <a href=\"https://cplomedia.at/machine-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p>Important/Additional Notes: Have fun with it!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "f76ee88e-170e-4b18-97b5-5ad3c6afcf3c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery-1920x1080-c453b9db427e8df2309cf5b0e25bd624.jpg",
+      "md5": "c453b9db427e8df2309cf5b0e25bd624",
+      "size": 351853,
+      "uploadedDate": "2024-07-05T09:43:29.437Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MachineSoundFX_thumb-284x284-b1b42bfd38c117f7ed87b204c955a162.png",
+      "md5": "b1b42bfd38c117f7ed87b204c955a162",
+      "size": 137846,
+      "uploadedDate": "2024-07-05T09:43:30.017Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MachineSoundFX_featured-894x488-5408b5ef039d80a3a8902b18117db976.png",
+      "md5": "5408b5ef039d80a3a8902b18117db976",
+      "size": 574908,
+      "uploadedDate": "2024-07-05T09:43:30.136Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery-1920x1080-c453b9db427e8df2309cf5b0e25bd624_Snapshot.jpg",
+      "md5": "b2189d401d117c20b17fe93c5c1d2c5b",
+      "size": 5886,
+      "uploadedDate": "2024-07-05T09:43:29.966Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d182de09550c4015b91167ac8ecde54e"
+    }
+  ],
+  "catalogNs": null
+}

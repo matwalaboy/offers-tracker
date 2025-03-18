@@ -1,0 +1,374 @@
+{
+  "id": "680b06eb208f4793989f648d1ccec25d",
+  "namespace": "ue",
+  "title": "Fantasy Goblet Icons Set",
+  "description": "A set of 100 Fantasy Goblets icons on transparent background",
+  "longDescription": "<p>This set includes 100&#43; 2D goblets icons on transparent background.</p><p>This pack is perfect for using as clothing items for characters, adding various game features and stats, medieval rpg games, icons.</p><p>Each image is 2000x2000 pixels on transparent background.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-goblet-icons-set",
+  "creationDate": "2023-09-29T18:15:48.318Z",
+  "lastModifiedDate": "2024-09-30T09:40:45.829Z",
+  "effectiveDate": "2023-09-29T18:15:48.248Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2rxhppg7mzhrxuxtegucekfhwaf6zs",
+    "name": "morgansovka"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p><br /></p><ul><li>Resolutions 2000x2000 pixels</li><li>Number of Icons: 107</li><li>Transparent background: yes</li><li>Supported Development Platforms:</li><li>Windows: Yes</li><li>Mac: Yes</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3eb1c2d3-addb-4b96-889e-ea890eec4d3f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1920x1080-b9fe014d85c180d583c1c5f14d4d49f8.jpg",
+      "md5": "b9fe014d85c180d583c1c5f14d4d49f8",
+      "size": 671562,
+      "uploadedDate": "2023-09-27T18:02:45.551Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1920x1080-0942c3144b1a159100d05ab478db5852.jpg",
+      "md5": "0942c3144b1a159100d05ab478db5852",
+      "size": 841596,
+      "uploadedDate": "2023-09-27T18:02:46.090Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/121 -1920x1080-af31b94476314fc7c2ed5b6e12652f45.jpg",
+      "md5": "af31b94476314fc7c2ed5b6e12652f45",
+      "size": 586584,
+      "uploadedDate": "2023-09-27T18:02:46.638Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1111 -1920x1080-b75f519ab7f1de4e6e19b4a125d9ec71.jpg",
+      "md5": "b75f519ab7f1de4e6e19b4a125d9ec71",
+      "size": 686400,
+      "uploadedDate": "2023-09-27T18:02:47.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rr5656 -1920x1080-bb4c56b5355c316b3c243312a8f17723.jpg",
+      "md5": "bb4c56b5355c316b3c243312a8f17723",
+      "size": 807775,
+      "uploadedDate": "2023-09-27T18:02:47.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bhhuh -1920x1080-af3af522a323c880f345318cc23129c9.jpg",
+      "md5": "af3af522a323c880f345318cc23129c9",
+      "size": 627822,
+      "uploadedDate": "2023-09-27T18:02:48.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/jhiiu  -1920x1080-06d249d848e9cb7737ef6c8f94673488.jpg",
+      "md5": "06d249d848e9cb7737ef6c8f94673488",
+      "size": 752400,
+      "uploadedDate": "2023-09-27T18:02:49.030Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyGobletIconsSet_thumb-284x284-a83d36357adbbf36b82a3981140a0f04.png",
+      "md5": "a83d36357adbbf36b82a3981140a0f04",
+      "size": 111366,
+      "uploadedDate": "2023-09-27T18:02:49.469Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyGobletIconsSet_featured-894x488-6a4646f18c0f4f76bf8f04722a4b7c06.png",
+      "md5": "6a4646f18c0f4f76bf8f04722a4b7c06",
+      "size": 309529,
+      "uploadedDate": "2023-09-27T18:02:49.604Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1920x1080-b9fe014d85c180d583c1c5f14d4d49f8_Snapshot.jpg",
+      "md5": "b2b994ea80f9614e080c6d4c652a28c4",
+      "size": 6216,
+      "uploadedDate": "2023-09-27T18:02:45.877Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1920x1080-0942c3144b1a159100d05ab478db5852_Snapshot.jpg",
+      "md5": "c1f615c12a284c1fd078fceb3a515a6f",
+      "size": 7231,
+      "uploadedDate": "2023-09-27T18:02:46.429Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/121 -1920x1080-af31b94476314fc7c2ed5b6e12652f45_Snapshot.jpg",
+      "md5": "71bce69e9d949cccd3af61ffe3ea8884",
+      "size": 4471,
+      "uploadedDate": "2023-09-27T18:02:47.019Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1111 -1920x1080-b75f519ab7f1de4e6e19b4a125d9ec71_Snapshot.jpg",
+      "md5": "dff0ae5e8966cc46b1b223a0059786f2",
+      "size": 5143,
+      "uploadedDate": "2023-09-27T18:02:47.617Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rr5656 -1920x1080-bb4c56b5355c316b3c243312a8f17723_Snapshot.jpg",
+      "md5": "c84a677cc5327f4ce57cf71a74d274d7",
+      "size": 6323,
+      "uploadedDate": "2023-09-27T18:02:48.231Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bhhuh -1920x1080-af3af522a323c880f345318cc23129c9_Snapshot.jpg",
+      "md5": "1c541e7b62993dd1984a850a3de440fa",
+      "size": 5013,
+      "uploadedDate": "2023-09-27T18:02:48.767Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/jhiiu  -1920x1080-06d249d848e9cb7737ef6c8f94673488_Snapshot.jpg",
+      "md5": "96e3e4e41f311d0c9c327b1e569b28f6",
+      "size": 5752,
+      "uploadedDate": "2023-09-27T18:02:49.369Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "96fc8bdd6ff544d4b3ad5eb7eae0b208"
+    }
+  ],
+  "catalogNs": null
+}

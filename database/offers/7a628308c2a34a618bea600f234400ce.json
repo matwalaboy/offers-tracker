@@ -1,0 +1,212 @@
+{
+  "id": "7a628308c2a34a618bea600f234400ce",
+  "namespace": "ue",
+  "title": "Fabric Material Pack4",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p>10 Materials</p><p><br /></p><p>MASTER FABRIC MATERIAL</p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p><br /></p><p>YOU CAN CHECK OUT OUR OTHER PROJECTS IF YOU WISH.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fabric-material-pack4",
+  "creationDate": "2024-09-17T00:54:06.265Z",
+  "lastModifiedDate": "2024-09-30T14:11:18.652Z",
+  "effectiveDate": "2024-09-17T00:54:06.230Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features:</li></ul><p>Number of Unique Materials and Material Instances:10 Instance Material and 1 Material</p><p>Number of Textures:41</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: Link (or a description of where users can find) the documentation</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "Trivia",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2023-07-29T14:59:59.710Z",
+      "status": "ACTIVE",
+      "referenceCount": 96,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8716daa5-2fc6-4e75-8c28-28cf17d96418"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0000-1920x1080-60c250293fdb765e58dba8d28cebaa0b.jpeg",
+      "md5": "60c250293fdb765e58dba8d28cebaa0b",
+      "size": 2049953,
+      "uploadedDate": "2024-09-15T21:07:08.498Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0001-1920x1080-f07dd2a753dd395ea882af93220a2874.jpeg",
+      "md5": "f07dd2a753dd395ea882af93220a2874",
+      "size": 2041518,
+      "uploadedDate": "2024-09-15T21:07:08.948Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FabricMaterialPack4_thumb-284x284-64a3bb8957f0fbfce5ec4879ca0180c9.png",
+      "md5": "64a3bb8957f0fbfce5ec4879ca0180c9",
+      "size": 183081,
+      "uploadedDate": "2024-09-15T21:07:09.255Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FabricMaterialPack4_featured-894x488-d5361fee0eb7ceb86f8544e493174950.png",
+      "md5": "d5361fee0eb7ceb86f8544e493174950",
+      "size": 1104137,
+      "uploadedDate": "2024-09-15T21:07:09.380Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0000-1920x1080-60c250293fdb765e58dba8d28cebaa0b_Snapshot.jpeg",
+      "md5": "eb6b8c48d52394a8d621bcd014b209ee",
+      "size": 8481,
+      "uploadedDate": "2024-09-15T21:07:08.742Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0001-1920x1080-f07dd2a753dd395ea882af93220a2874_Snapshot.jpeg",
+      "md5": "acba15b9a2d9b667131580ee4d53fa7a",
+      "size": 9305,
+      "uploadedDate": "2024-09-15T21:07:09.192Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f4c8adad7466489caf577906bd1eb7a6"
+    }
+  ],
+  "catalogNs": null
+}

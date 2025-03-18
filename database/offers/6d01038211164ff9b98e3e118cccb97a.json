@@ -1,0 +1,149 @@
+{
+  "id": "6d01038211164ff9b98e3e118cccb97a",
+  "namespace": "ue",
+  "title": "Office Building Sound FXs",
+  "description": "Room Tones, Elevators, Doors and more.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/gTR7fYusb0o\" rel=\"nofollow\">youtu.be/gTR7fYusb0o</a><br /><br />Office Building features the ambiences one can hear sometimes around midnight or in the early morning hours. During these times employees are usually at home and only service staffs are around so that the building can unfold its own sounds of ventilations, elevators and wind that blows through tilted windows. Automatic switches occasionally ignite neon lights along the floors or elevator doors open from out of nowhere.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "office-building",
+  "creationDate": "2016-12-29T22:49:17.731Z",
+  "lastModifiedDate": "2024-09-27T11:12:50.523Z",
+  "effectiveDate": "2017-01-04T00:00:00.000Z",
+  "viewableDate": "2017-01-04T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 79 <br />Number of Audio Cues: 79 <br />Resolution: 44.1 kHz, 16bit stereo <br />Total playing time: 160 min",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1358",
+      "name": "BEAT 'EM UP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:16.190Z",
+      "updated": "2019-06-20T12:01:16.190Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8746cb4f-c8dc-4b9c-a2bf-ceb0949cc903"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Office_Building_Screenshot_1920x1080-1920x1080-929be83614f8d4fddffcd40726948cee.jpg",
+      "md5": "929be83614f8d4fddffcd40726948cee",
+      "size": 616215,
+      "uploadedDate": "2016-12-29T22:41:34.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Office_Building_Thumbnail_284x284-284x284-6ca467223dcade11328bb0af4394a4c5.jpg",
+      "md5": "6ca467223dcade11328bb0af4394a4c5",
+      "size": 58082,
+      "uploadedDate": "2016-12-29T22:41:29.062Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Office_Building_FeaturedNew_894x488-894x488-cf55daada690beed02b634902bafaeef.jpg",
+      "md5": "cf55daada690beed02b634902bafaeef",
+      "size": 241432,
+      "uploadedDate": "2016-12-29T22:41:35.167Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c8fccc7e2aaa4d72a7477752cbb00dc0"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,248 @@
+{
+  "id": "8218840347104848945a19131fc062da",
+  "namespace": "ue",
+  "title": "Magic Orbs",
+  "description": "Magic Orbs: create a fantasy, horror or fairy tale atmosphere in your game!",
+  "longDescription": "<p>If you feel the need for high-quality and visually memorable content to create your game, we advise you to pay attention to our set of Magic Orbs. Images of orbs are ideal for creating game inventory or quest items.</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "magic-orbs",
+  "creationDate": "2024-07-08T16:02:05.709Z",
+  "lastModifiedDate": "2024-09-27T15:39:46.825Z",
+  "effectiveDate": "2024-07-08T16:02:05.680Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Textures: 308</p><p>Texture Resolutions: 512 x 512 pixels</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>AI Software: Playground AI</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f80e884b-92d7-4865-ab8f-d79cbc7c8bfd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo-1920x1080-28dc2109fd795c3aacfcd3942244f1ab.jpg",
+      "md5": "28dc2109fd795c3aacfcd3942244f1ab",
+      "size": 825515,
+      "uploadedDate": "2024-07-07T08:51:28.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo2-1920x1080-08a7235f64e219d0084d87fa0cf50386.jpg",
+      "md5": "08a7235f64e219d0084d87fa0cf50386",
+      "size": 975645,
+      "uploadedDate": "2024-07-07T08:51:29.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo3-1920x1080-c212802d4656f5807f5ba9fce2d2d483.jpg",
+      "md5": "c212802d4656f5807f5ba9fce2d2d483",
+      "size": 773181,
+      "uploadedDate": "2024-07-07T08:51:30.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo4-1920x1080-a095e2dee8dd391417965ba1099e8f73.jpg",
+      "md5": "a095e2dee8dd391417965ba1099e8f73",
+      "size": 821988,
+      "uploadedDate": "2024-07-07T08:51:31.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo5-1920x1080-f8e8ff29906fc552450da10e40048e63.jpg",
+      "md5": "f8e8ff29906fc552450da10e40048e63",
+      "size": 786801,
+      "uploadedDate": "2024-07-07T08:51:32.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo6-1920x1080-59d60032f943bd2890fd9ad8f1c48332.jpg",
+      "md5": "59d60032f943bd2890fd9ad8f1c48332",
+      "size": 842358,
+      "uploadedDate": "2024-07-07T08:51:33.138Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MagicOrbs_thumb-284x284-fae895e6ebeff6258f4800737c72bf15.png",
+      "md5": "fae895e6ebeff6258f4800737c72bf15",
+      "size": 105334,
+      "uploadedDate": "2024-07-07T08:51:33.752Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MagicOrbs_featured-894x488-75c9d089d4dfc48d23934c3e620aec62.png",
+      "md5": "75c9d089d4dfc48d23934c3e620aec62",
+      "size": 675868,
+      "uploadedDate": "2024-07-07T08:51:33.920Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo-1920x1080-28dc2109fd795c3aacfcd3942244f1ab_Snapshot.jpg",
+      "md5": "41095025dbd31cc54a6432adf4c09362",
+      "size": 7056,
+      "uploadedDate": "2024-07-07T08:51:29.550Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo2-1920x1080-08a7235f64e219d0084d87fa0cf50386_Snapshot.jpg",
+      "md5": "6282117c45f6b251838ba680693aa9c9",
+      "size": 6880,
+      "uploadedDate": "2024-07-07T08:51:30.399Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo3-1920x1080-c212802d4656f5807f5ba9fce2d2d483_Snapshot.jpg",
+      "md5": "fef359f3bd891765d5cdb7877b2a90f6",
+      "size": 6550,
+      "uploadedDate": "2024-07-07T08:51:31.189Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo4-1920x1080-a095e2dee8dd391417965ba1099e8f73_Snapshot.jpg",
+      "md5": "2b662f7b4867cdbe70a0b9fe2378b3bf",
+      "size": 6538,
+      "uploadedDate": "2024-07-07T08:51:32.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo5-1920x1080-f8e8ff29906fc552450da10e40048e63_Snapshot.jpg",
+      "md5": "530b47ae9309becc792de6edb360c923",
+      "size": 6360,
+      "uploadedDate": "2024-07-07T08:51:32.836Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo6-1920x1080-59d60032f943bd2890fd9ad8f1c48332_Snapshot.jpg",
+      "md5": "a1eaca2afb31f45e38deef5880d03b04",
+      "size": 6612,
+      "uploadedDate": "2024-07-07T08:51:33.665Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "203b72a9994c491d81fbcabedb1e52d0"
+    }
+  ],
+  "catalogNs": null
+}

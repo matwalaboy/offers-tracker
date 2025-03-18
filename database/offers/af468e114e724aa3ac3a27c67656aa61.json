@@ -1,0 +1,290 @@
+{
+  "id": "af468e114e724aa3ac3a27c67656aa61",
+  "namespace": "ue",
+  "title": "Graveyard Model Pack",
+  "description": "Collection of low poly objects found at graveyards perfect for horror or zombie environments.",
+  "longDescription": "<p>This pack contains everything you need to create an old graveyard for a horror or zombie game (but not limited to these kind of games). Once added to your project, you have 6 graves, 5 gravestones, 1 monumental cross, a stone bench, and 4 wall parts at your disposal. Also included are 2 terrain textures for a nice integration of the models with the terrain and a skybox to create a nice ambiance.</p><p><br /></p><p>Disclaimer: Due to a known engine bug with vertex painting, a warning may be displayed about spending 0.0s repairing painted vertex colors. This warning can be removed by manually resaving the level.</p><p><br /></p><p>Works out of the box with Early Access engine version 5.0.0.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "graveyard-model-pack",
+  "creationDate": "2018-11-29T18:51:45.546Z",
+  "lastModifiedDate": "2024-09-26T18:51:46.998Z",
+  "effectiveDate": "2018-11-29T18:54:42.526Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-b40a4efb68417c8450b37dc97f42de",
+    "name": "R.G.S. - Richards Game Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>7 types of graves</li><li>5 types of gravestones</li><li>1 monumental cross</li><li>1 stone bench</li><li>2 walls</li><li>2 wall end parts/columns</li><li>1 shovel</li></ul><p><strong>Texture Sizes: </strong>All Textures are 1024x1024</p><p><strong>Collision</strong>: Yes, Automatically Generated.</p><p><strong>Models (name, LOD_nr: number of verts/number of tris)</strong>:</p><ul><li>base, LOD0: 27/10, LOD1: 4/2</li><li>bench, LOD0: 2832/3324, LOD1: 1712/1612, LOD2: 1064/892</li><li>grave1, LOD0: 146/82, LOD1: 83/46, LOD2: 56/28</li><li>grave2, LOD0: 199/116, LOD1: 118/68, LOD2: 82/44</li><li>grave3, LOD0: 365/200, LOD1: 217/120, LOD2: 150/80</li><li>grave4, LOD0: 778/440, LOD1: 550/318, LOD2: 483/238</li><li>grave5, LOD0: 777/440, LOD1: 549/318, LOD2: 485/238</li><li>grave6, LOD0: 958/418, LOD1: 458/186, LOD2: 342/130</li><li>grave_monument, LOD0: 590/404, LOD1: 570/380, LOD2: 422/236</li><li>gravestone1, LOD0: 132/88 tris, LOD1: 84/52, LOD2: 31/16</li><li>gravestone2, LOD0: 132/88 tris, LOD1: 84/52, LOD2: 31/16</li><li>gravestone3, LOD0: 208/144, LOD1: 172/100, LOD2: 122/64</li><li>gravestone4, LOD0: 138/88, LOD1: 110/52, LOD2: 50/24</li><li>gravestone_broken, LOD0: 204/132, LOD1: 157/100, LOD2: 102/60</li><li>gravestone_broken2, LOD0: 204/132, LOD1: 157/100, LOD2: 102/60</li><li>pillar1, LOD0: 100/108, LOD1: 52/36, LOD2: 24/12</li><li>pillar2, LOD0: 100/108, LOD1: 52/36, LOD2: 24/12</li><li>wall1, LOD0: 48/36, LOD1: 32/20, LOD2: 24/12</li><li>wall2, LOD0: 48/36, LOD1: 32/20, LOD2: 24/12</li></ul><p><strong>Materials</strong>:</p><ul><li>bench_stone</li><li>grave1, 2 &amp; 6</li><li>grave_cross</li><li>gravestone1, 2, 3 &amp; 4</li><li>wall1 &amp; 2</li></ul><p><strong>All materials are instanced</strong>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4da91349-945c-4fbf-a290-7dd5c82b5233"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shot1-1920x1080-6058d353d7ec0aa96307ec93e75d5cde.png",
+      "md5": "6058d353d7ec0aa96307ec93e75d5cde",
+      "size": 2853075,
+      "uploadedDate": "2018-11-07T16:08:47.929Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shot2-1920x1080-f9313ff691b4d7e2fe36db5bd00dd457.jpg",
+      "md5": "f9313ff691b4d7e2fe36db5bd00dd457",
+      "size": 1652540,
+      "uploadedDate": "2018-11-07T16:08:48.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shot3-1920x1080-77d23778b35e8a7ab144c3086b22a8d9.jpg",
+      "md5": "77d23778b35e8a7ab144c3086b22a8d9",
+      "size": 1330501,
+      "uploadedDate": "2018-11-07T16:08:49.280Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shot4-1920x1080-5e813f2bac3d37bc323ee0ae860c91a0.jpg",
+      "md5": "5e813f2bac3d37bc323ee0ae860c91a0",
+      "size": 1240739,
+      "uploadedDate": "2018-11-07T16:08:50.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ss1-1920x1080-f488da6c1ea0eb7ccdfd275d0914fa18.jpg",
+      "md5": "f488da6c1ea0eb7ccdfd275d0914fa18",
+      "size": 2031010,
+      "uploadedDate": "2019-12-10T17:52:11.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GraveyardModelPack_thumb-284x284-10624ba9edc5d6ffa700fbbc02161cb3.png",
+      "md5": "10624ba9edc5d6ffa700fbbc02161cb3",
+      "size": 193566,
+      "uploadedDate": "2018-11-07T16:08:50.625Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GraveyardModelPack_featured-894x488-cfa8e8fe66a4f10ca6aee4e2edb5e01e.png",
+      "md5": "cfa8e8fe66a4f10ca6aee4e2edb5e01e",
+      "size": 937223,
+      "uploadedDate": "2018-11-07T16:08:50.920Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ss1-1920x1080-f488da6c1ea0eb7ccdfd275d0914fa18_Snapshot.jpg",
+      "md5": "3ef7d2248657321b1d84658f3515aee1",
+      "size": 7857,
+      "uploadedDate": "2019-12-10T17:52:11.393Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shot1-1920x1080-6058d353d7ec0aa96307ec93e75d5cde_Snapshot.png",
+      "md5": "357ac85da0a07fa8058ce4ebf929b0a2",
+      "size": 27467,
+      "uploadedDate": "2018-11-07T16:08:48.383Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shot2-1920x1080-f9313ff691b4d7e2fe36db5bd00dd457_Snapshot.jpg",
+      "md5": "4a99229f19ccb24909cca1f750fa5a5a",
+      "size": 3916,
+      "uploadedDate": "2018-11-07T16:08:49.032Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shot3-1920x1080-77d23778b35e8a7ab144c3086b22a8d9_Snapshot.jpg",
+      "md5": "1f2ef6fe69340da8c2d57c41d75d7e37",
+      "size": 3534,
+      "uploadedDate": "2018-11-07T16:08:49.798Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shot4-1920x1080-5e813f2bac3d37bc323ee0ae860c91a0_Snapshot.jpg",
+      "md5": "c8d73c984df4db610fa0b8c88cba4f84",
+      "size": 3560,
+      "uploadedDate": "2018-11-07T16:08:50.494Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5501f40a6f1348efb69da622f49b5b39"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,158 @@
+{
+  "id": "0477271817d5490fbd454e1fdda49a1d",
+  "namespace": "ue",
+  "title": "Smooth Movement - BP Math Extended by Vector and Quaternion Interpolation",
+  "description": "This kit extends the math node library available to Blueprints to enable smooth translation of actors between locations and rotations. Includes Vector Interpolation using Perlin Smooth Step, and Quaternion rotations, and more!",
+  "longDescription": "<p>This kit extends the math node library available to Blueprints under the &#34;Math Extended&#34; grouping. This has many abstract uses, as well as enabling smoothed movement of actors from one position (vector) to another! Includes Vector Interpolation using Perlin Smooth Step, Linear Interpolation, and Quaternion rotations. Additionally, Inverse square falloff, Smooth Step compensation nodes, and other utility functions are included. These are especially excellent for smoothly animating actors from one location to another, and a demo of this feature can be seen in the documentation.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smooth-movement-bp-math-extended-by-vector-interpolation-quaternion-rotation",
+  "creationDate": "2022-11-09T15:13:44.759Z",
+  "lastModifiedDate": "2024-09-29T15:21:08.150Z",
+  "effectiveDate": "2022-11-09T15:13:44.726Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j8mb53rdjcllj7janj6wr869erp2xx",
+    "name": "LairdS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Vector Perlin Smooth Step Interpolation, Vector Smooth Step Interpolation</li><li>Smooth Step, Perlin Smooth Step, Inverse Smooth Step</li><li>Linear Interpolate, Linear Interpolate (Vector)</li><li>Inverse Square Falloff, Inverse Square Falloff (Vector)</li><li>Spiral Expansion over time</li><li>Unit Quaternion Spherical Interpolation, Unit Quaternion Equals, Angle between Unit Quaternions</li><li>Angle between Unit Quaternions (Error), Inverse Quaternion</li></ul><p>Code Modules:</p><ul><li> Math Extended Plugin</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows confirmed. Linux and Mac in testing.</p><p>Supported Target Build Platforms: Tested on Windows. Reach out to me for Linux/Mac support if you have errors related to this plugin.</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1JbUS4q8hhYz4QjuPMtq5L95R-W49Z_nwkbbnS8SRB6A/edit?usp&#61;share_link\" rel=\"nofollow\">Tutorial </a>  <a href=\"https://drive.google.com/file/d/1oQZ9i6hYOpuatgbui8U9f0f7yUV9zqVJ/view?usp&#61;share_link\" rel=\"nofollow\">Demonstration</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/14RlWLa7u03Y3ifoSyh292pvq3XyS4su2/view?usp&#61;share_link\" rel=\"nofollow\">Demo</a></p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2f79e14a-75f5-4845-8b41-f9020f7b8ecd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/001-1920x1080-29e066fbd236576a388cb5280532ad6a.png",
+      "md5": "29e066fbd236576a388cb5280532ad6a",
+      "size": 731195,
+      "uploadedDate": "2022-11-06T21:48:57.518Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BlueprintMathExtendedVectorInterpolationSmoothStepandQuaternions_thumb-284x284-f45b7b5794cf3a1a798be900b09a175b.png",
+      "md5": "f45b7b5794cf3a1a798be900b09a175b",
+      "size": 70124,
+      "uploadedDate": "2022-11-06T21:48:57.803Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BlueprintMathExtendedVectorInterpolationSmoothStepandQuaternions_featured-894x488-c1bbb43b2140dd048c54eaa279a7fc73.png",
+      "md5": "c1bbb43b2140dd048c54eaa279a7fc73",
+      "size": 285630,
+      "uploadedDate": "2022-11-06T21:48:57.904Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-1920x1080-29e066fbd236576a388cb5280532ad6a_Snapshot.png",
+      "md5": "9e9291abfd85b40297a37e031572f8fd",
+      "size": 5084,
+      "uploadedDate": "2022-11-06T21:48:57.736Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2a27133b1d744a8c995c69bc57f6d176"
+    }
+  ],
+  "catalogNs": null
+}

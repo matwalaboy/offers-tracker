@@ -1,0 +1,323 @@
+{
+  "id": "441e6eb936ac40408fb0d99f1af0bf4e",
+  "namespace": "ue",
+  "title": "Attack Spells",
+  "description": "Attack Spells pack with 100 images to enhance your game’s UI with powerful and dynamic spell icons.",
+  "longDescription": "<p>Elevate your game’s user interface with the Attack Spells pack, featuring 100 high-resolution images (1024x1024) that depict a variety of powerful and dynamic spell icons. Perfect for fantasy, RPG, and action games, these icons showcase a range of attack spells, from elemental blasts to magical strikes. Whether you&#39;re designing ability menus, skill trees, or in-game effects, this collection provides the visually impactful elements needed to bring your spellcasting mechanics to life.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "attack-spells",
+  "creationDate": "2024-09-03T19:46:19.169Z",
+  "lastModifiedDate": "2024-09-30T20:30:52.321Z",
+  "effectiveDate": "2024-09-03T19:46:19.105Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolution:</strong> 1024 x 1024 pixels</li><li><strong>Total Images:</strong> 100</li><li><strong>File Format:</strong> PNG</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "65c9aad6-5fe2-414f-9acf-fa4f65c61c1d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview002-1920x1080-f82df9aeb42f139c0502f859c20a231a.jpeg",
+      "md5": "f82df9aeb42f139c0502f859c20a231a",
+      "size": 160275,
+      "uploadedDate": "2024-09-03T13:51:15.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-8cbed379743f84d58d90d47159061c6e.jpeg",
+      "md5": "8cbed379743f84d58d90d47159061c6e",
+      "size": 353492,
+      "uploadedDate": "2024-09-03T13:51:15.406Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-cf15e7563cfb9e14034f8c8706ceba76.jpeg",
+      "md5": "cf15e7563cfb9e14034f8c8706ceba76",
+      "size": 364551,
+      "uploadedDate": "2024-09-03T13:51:15.917Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-84a68513a5dcf024a144d70d23dd3fb5.jpeg",
+      "md5": "84a68513a5dcf024a144d70d23dd3fb5",
+      "size": 374390,
+      "uploadedDate": "2024-09-03T13:51:16.374Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-c4e2945ed0c9f2925aee2d1a71c7f8b5.jpeg",
+      "md5": "c4e2945ed0c9f2925aee2d1a71c7f8b5",
+      "size": 354506,
+      "uploadedDate": "2024-09-03T13:51:16.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AttackSpells_thumb-284x284-c02848f4fdde1d42a8d57874b0a602d9.png",
+      "md5": "c02848f4fdde1d42a8d57874b0a602d9",
+      "size": 148687,
+      "uploadedDate": "2024-09-03T13:51:17.609Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AttackSpells_featured-894x488-31ed201b7cf1e0c38e6d370be98f37cf.png",
+      "md5": "31ed201b7cf1e0c38e6d370be98f37cf",
+      "size": 439250,
+      "uploadedDate": "2024-09-03T13:51:17.790Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview002-1920x1080-f82df9aeb42f139c0502f859c20a231a_Snapshot.jpeg",
+      "md5": "c13e33d00314a0e1f1a0a721612c1b6f",
+      "size": 4479,
+      "uploadedDate": "2024-09-03T13:51:15.278Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-8cbed379743f84d58d90d47159061c6e_Snapshot.jpeg",
+      "md5": "1f9bad3cda9c10427f838d2f3c4148bf",
+      "size": 10671,
+      "uploadedDate": "2024-09-03T13:51:15.763Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-cf15e7563cfb9e14034f8c8706ceba76_Snapshot.jpeg",
+      "md5": "2389f893fa2ac96439bc1457aba3b64c",
+      "size": 10909,
+      "uploadedDate": "2024-09-03T13:51:16.182Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-84a68513a5dcf024a144d70d23dd3fb5_Snapshot.jpeg",
+      "md5": "20014e58bc5a13e0607db4f8c5efd0f8",
+      "size": 10866,
+      "uploadedDate": "2024-09-03T13:51:16.651Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-c4e2945ed0c9f2925aee2d1a71c7f8b5_Snapshot.jpeg",
+      "md5": "82a24abbe4c77df771aa82ad4bccb8dc",
+      "size": 10340,
+      "uploadedDate": "2024-09-03T13:51:17.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm005-1920x1080-e2915f79132ebce5982f0c6a3d72990b_Snapshot.jpeg",
+      "md5": "95609ccbd6dc79d5137c8cc515b0641a",
+      "size": 8657,
+      "uploadedDate": "2024-09-03T13:51:17.525Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5c672800bfed4ce1b6290ec284ff84ae"
+    }
+  ],
+  "catalogNs": null
+}

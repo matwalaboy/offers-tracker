@@ -1,0 +1,194 @@
+{
+  "id": "a9223fb7b4194ddfa862c759bf09dddb",
+  "namespace": "ue",
+  "title": "Apocalyptic weapons",
+  "description": "Apocalyptic weapons",
+  "longDescription": "<p>A set of post-apocalyptic melee weapons. Ideal for projects in the style of survival and the dark apocalypse!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "apocalyptic-weapons-01",
+  "creationDate": "2024-09-19T12:58:01.094Z",
+  "lastModifiedDate": "2024-09-30T10:47:27.963Z",
+  "effectiveDate": "2024-09-19T12:58:01.053Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-446xr59vwv8ev6vje6bwvvgujke3pb",
+    "name": "HauntFox"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Unique Meshes: 10</p><p>Collision: Yes (automatically generated)</p><p>Vertex Count: 29,248</p><p>LODs: No</p><p>Number of Materials and Material Instances: 20</p><p>Number of Textures: 30</p><p>Texture Resolutions: 2048x2048</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/weapons"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d26b5a07-f060-4543-8b86-00102b8d9c88"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Select a file name for output filesMain Camera-1920x1080-ad18b806eb64b4d2fae535c316386482.png",
+      "md5": "ad18b806eb64b4d2fae535c316386482",
+      "size": 3039198,
+      "uploadedDate": "2024-09-19T00:12:04.881Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-afb34319b5381db00aa2d31b73f328f6.png",
+      "md5": "afb34319b5381db00aa2d31b73f328f6",
+      "size": 2039266,
+      "uploadedDate": "2024-09-19T00:12:05.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Apocalypticweapons_thumb-284x284-d3b81a7c0b9c3c125a260d0fbc668cb7.png",
+      "md5": "d3b81a7c0b9c3c125a260d0fbc668cb7",
+      "size": 133745,
+      "uploadedDate": "2024-09-19T00:12:06.014Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Apocalypticweapons_featured-894x488-19fbbfd70a56d86745be000432ad47f4.png",
+      "md5": "19fbbfd70a56d86745be000432ad47f4",
+      "size": 756070,
+      "uploadedDate": "2024-09-19T00:12:06.249Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Select a file name for output filesMain Camera-1920x1080-ad18b806eb64b4d2fae535c316386482_Snapshot.png",
+      "md5": "b6c2f83960b7b7f73a842eaceecf7999",
+      "size": 4618,
+      "uploadedDate": "2024-09-19T00:12:05.216Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-afb34319b5381db00aa2d31b73f328f6_Snapshot.png",
+      "md5": "df1db805b4e5eb8985259881e1d5380c",
+      "size": 5733,
+      "uploadedDate": "2024-09-19T00:12:05.971Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1234-1920x1080-76eb1870eab1d064a0d307f793fc434a_Snapshot.png",
+      "md5": "e4ae9ff032320f3a21f577597a1fcba0",
+      "size": 4544,
+      "uploadedDate": "2024-09-12T23:03:53.495Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-aabe28759a1cea17d5cbdf22ec19a372_Snapshot.png",
+      "md5": "e49e265fc72eb99ec0f71cc905cdcb37",
+      "size": 5949,
+      "uploadedDate": "2024-09-12T23:03:54.219Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "68625756fe374a6680d4c63d6b91f7e2"
+    }
+  ],
+  "catalogNs": null
+}

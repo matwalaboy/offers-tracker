@@ -1,0 +1,536 @@
+{
+  "id": "2114e73bc8c047b28239100465f32c9b",
+  "namespace": "ue",
+  "title": "Tropical Island  pack",
+  "description": "Environment island, beach, pier",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;kN3mR7JRleY&amp;t&#61;9s\" rel=\"nofollow\">Video demonstration Ue 5(Lumen)</a></p><p><br /></p><p>I present to your attention a large set of objects for creating locations.</p><p>You can create any tropical and not only forests and islands from them.</p><p><br /></p><p>The set contains:</p><p>Trees, bushes, grass, pier set, statues, stones, boxes and other decor.</p><p><br /></p><p>Also, you will find a ready-made &#34;island&#34; scene inside, where the capabilities of this set are demonstrated.</p><p>It has customized boat physics, fire effects, lighting, etc.</p><p><br /></p><p>This set includes 82 objects.</p><p>Of these, 57 are unique objects.</p><p><br /></p><p>Other items can be found here</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/564ca28f9ad94d4cae89cb37b3d95dda\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/564ca28f9ad94d4cae89cb37b3d95dda</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/f07420468fbe4db9894b0ce8c7938d9d\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/f07420468fbe4db9894b0ce8c7938d9d</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/4b690c5499c2467a93af103f67ecf505\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/4b690c5499c2467a93af103f67ecf505</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/3cd0fdaf2e1a42d181c9a19c9b5a1677\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/3cd0fdaf2e1a42d181c9a19c9b5a1677</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/3cd0fdaf2e1a42d181c9a19c9b5a1677\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/3cd0fdaf2e1a42d181c9a19c9b5a1677</a></p><p><br /></p><p>Lumen is used in the scene</p><p><a href=\"https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/\" rel=\"nofollow\"> instructions for Lumen</a></p><p><br /></p><p>Have a good use !</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tropical-island-pack",
+  "creationDate": "2023-09-15T18:06:48.503Z",
+  "lastModifiedDate": "2024-09-30T19:07:17.222Z",
+  "effectiveDate": "2023-09-15T18:06:48.378Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a3rc6ukpmyt8w6xms8w6wnuxn9cv28",
+    "name": "Listudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h3>Technical Details</h3><ul><li>82<strong> unique mesh</strong></li><li><strong>4k textures for every single material</strong></li><li><strong>Real-world based</strong></li></ul><p><strong>&#xfeff;</strong></p><p><strong><u>Texture maps</u></strong></p><ul><li><strong>Albedo</strong></li><li><strong>Normal</strong></li><li><strong>OcclusionRoughnessMetallic</strong></li></ul><p><br /></p><p>Number of Unique Meshes: 82</p><p>Collision: Yes ( automatically generated)</p><p>LODs: Yes (auto)</p><p>Number of Materials and Material Instances: 9 and 59</p><p>Number of Textures: 195</p><p>Texture Resolutions: 4096*4096</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1224",
+      "name": "ECONOMY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:09.715Z",
+      "updated": "2023-03-28T12:57:52.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 109,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1131",
+      "name": "SURVIVAL HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.560Z",
+      "updated": "2023-05-16T16:05:55.674Z",
+      "status": "ACTIVE",
+      "referenceCount": 38,
+      "comment": null
+    },
+    {
+      "id": "1132",
+      "name": "SCI-FI",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:24.043Z",
+      "updated": "2023-05-30T15:58:49.086Z",
+      "status": "ACTIVE",
+      "referenceCount": 118,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1278",
+      "name": "EDUCATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:36.725Z",
+      "updated": "2019-06-20T12:00:36.725Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5b146741-0e63-4509-a410-9cf324582a24"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0143 copy-1920x1080-1af93911f2e77e4b33b0cbe1e33b5a18.jpg",
+      "md5": "1af93911f2e77e4b33b0cbe1e33b5a18",
+      "size": 1315763,
+      "uploadedDate": "2023-09-03T16:44:27.080Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0156 copy-1920x1080-b9fca981c73b0028e482fd082955eba3.jpg",
+      "md5": "b9fca981c73b0028e482fd082955eba3",
+      "size": 1372051,
+      "uploadedDate": "2023-09-03T16:44:27.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0072 copy-1920x1080-f6877bee597391e315df867ee2f3374f.jpg",
+      "md5": "f6877bee597391e315df867ee2f3374f",
+      "size": 995564,
+      "uploadedDate": "2023-09-03T16:44:28.103Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-09-0319-51-12 copy-1920x1080-5e5f4cdc57ef7e592e5a01e68553bacc.jpg",
+      "md5": "5e5f4cdc57ef7e592e5a01e68553bacc",
+      "size": 1007907,
+      "uploadedDate": "2023-09-03T16:44:28.613Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0107 copy-1920x1080-ec390b41f6ed59269161e79ef311b254.jpg",
+      "md5": "ec390b41f6ed59269161e79ef311b254",
+      "size": 1220010,
+      "uploadedDate": "2023-09-03T16:44:29.104Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-09-0319-51-40 copy-1920x1080-49999f0255847e09a2cfb45e96295c50.jpg",
+      "md5": "49999f0255847e09a2cfb45e96295c50",
+      "size": 963782,
+      "uploadedDate": "2023-09-03T16:44:29.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0060 copy-1920x1080-b369287f41db787bb3598f325902add3.jpg",
+      "md5": "b369287f41db787bb3598f325902add3",
+      "size": 1033613,
+      "uploadedDate": "2023-09-03T16:44:30.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0115 copy-1920x1080-8384de204d1e8cbeda566319442ecf0a.jpg",
+      "md5": "8384de204d1e8cbeda566319442ecf0a",
+      "size": 1227010,
+      "uploadedDate": "2023-09-03T16:44:30.559Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0025 copy-1920x1080-06bb05994134a4bf7bef6b044570381c.jpg",
+      "md5": "06bb05994134a4bf7bef6b044570381c",
+      "size": 1231927,
+      "uploadedDate": "2023-09-03T16:44:30.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0133 copy-1920x1080-1965e5661406856e960bff9e4ef31903.jpg",
+      "md5": "1965e5661406856e960bff9e4ef31903",
+      "size": 1275329,
+      "uploadedDate": "2023-09-03T16:44:31.472Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0036 copy-1920x1080-d472922ae060ea873398d3a8d0ee0ab3.jpg",
+      "md5": "d472922ae060ea873398d3a8d0ee0ab3",
+      "size": 1016639,
+      "uploadedDate": "2023-09-03T16:44:32.031Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0089 copy-1920x1080-0d664b4146cc3e720eb93ee9beda6406.jpg",
+      "md5": "0d664b4146cc3e720eb93ee9beda6406",
+      "size": 913957,
+      "uploadedDate": "2023-09-03T16:44:32.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0127 copy-1920x1080-e3b0def55edc6bf0d8fbdfe1e112bf99.jpg",
+      "md5": "e3b0def55edc6bf0d8fbdfe1e112bf99",
+      "size": 714589,
+      "uploadedDate": "2023-09-03T16:44:32.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TCam2.0147 copy-1920x1080-d5f7683825a4e35ca9825cdfdb3a49bc.jpg",
+      "md5": "d5f7683825a4e35ca9825cdfdb3a49bc",
+      "size": 1317450,
+      "uploadedDate": "2023-09-03T16:44:33.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-09-0319-52-06 copy-1920x1080-c28b8c7c0d1df531628ad67e34f14f8b.jpg",
+      "md5": "c28b8c7c0d1df531628ad67e34f14f8b",
+      "size": 1419308,
+      "uploadedDate": "2023-09-03T16:44:33.911Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2023-09-0320-07-28 copy-1920x1080-b2deb9642e635f88014045ea968570ad.jpg",
+      "md5": "b2deb9642e635f88014045ea968570ad",
+      "size": 884769,
+      "uploadedDate": "2023-09-03T16:44:34.411Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TropicalIslandpack_thumb-284x284-769ce12846ba28453309f11d03aeb0d7.png",
+      "md5": "769ce12846ba28453309f11d03aeb0d7",
+      "size": 221677,
+      "uploadedDate": "2023-09-03T16:44:34.761Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TropicalIslandpack_featured-894x488-03280f913e640a5eaeecacc819cb0af6.png",
+      "md5": "03280f913e640a5eaeecacc819cb0af6",
+      "size": 1217295,
+      "uploadedDate": "2023-09-03T16:44:34.895Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0143 copy-1920x1080-1af93911f2e77e4b33b0cbe1e33b5a18_Snapshot.jpg",
+      "md5": "33891f09ff2f842b3fe1cb4bd947ce4c",
+      "size": 8957,
+      "uploadedDate": "2023-09-03T16:44:27.380Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0156 copy-1920x1080-b9fca981c73b0028e482fd082955eba3_Snapshot.jpg",
+      "md5": "4e3ac5a20ce129b0c71dc99d6266ea40",
+      "size": 9436,
+      "uploadedDate": "2023-09-03T16:44:27.853Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0072 copy-1920x1080-f6877bee597391e315df867ee2f3374f_Snapshot.jpg",
+      "md5": "f045c3019cc5f995f112184166e9984b",
+      "size": 7755,
+      "uploadedDate": "2023-09-03T16:44:28.370Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-09-0319-51-12 copy-1920x1080-5e5f4cdc57ef7e592e5a01e68553bacc_Snapshot.jpg",
+      "md5": "76a63b06e314d2feb8e34f3b98a3ff3f",
+      "size": 8591,
+      "uploadedDate": "2023-09-03T16:44:28.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0107 copy-1920x1080-ec390b41f6ed59269161e79ef311b254_Snapshot.jpg",
+      "md5": "9c401292ea1ec863c785d91ba3de7d84",
+      "size": 9199,
+      "uploadedDate": "2023-09-03T16:44:29.401Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-09-0319-51-40 copy-1920x1080-49999f0255847e09a2cfb45e96295c50_Snapshot.jpg",
+      "md5": "df42d42fe08ed314d70bc3f4da182563",
+      "size": 7752,
+      "uploadedDate": "2023-09-03T16:44:29.869Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0060 copy-1920x1080-b369287f41db787bb3598f325902add3_Snapshot.jpg",
+      "md5": "6c7cff8da75babb2ff2a7fae0b401eb3",
+      "size": 8624,
+      "uploadedDate": "2023-09-03T16:44:30.343Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0115 copy-1920x1080-8384de204d1e8cbeda566319442ecf0a_Snapshot.jpg",
+      "md5": "378218151fb4edffb52bf179c083cad2",
+      "size": 8967,
+      "uploadedDate": "2023-09-03T16:44:30.844Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0025 copy-1920x1080-06bb05994134a4bf7bef6b044570381c_Snapshot.jpg",
+      "md5": "77b79e2d63748d92e875f3aab858f620",
+      "size": 8811,
+      "uploadedDate": "2023-09-03T16:44:31.276Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0133 copy-1920x1080-1965e5661406856e960bff9e4ef31903_Snapshot.jpg",
+      "md5": "7f90990cbdbd8fbc53c822beb7be7fdb",
+      "size": 9128,
+      "uploadedDate": "2023-09-03T16:44:31.765Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0036 copy-1920x1080-d472922ae060ea873398d3a8d0ee0ab3_Snapshot.jpg",
+      "md5": "ea3ea8e60f346f523a61e0ff13aec455",
+      "size": 8531,
+      "uploadedDate": "2023-09-03T16:44:32.293Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0089 copy-1920x1080-0d664b4146cc3e720eb93ee9beda6406_Snapshot.jpg",
+      "md5": "8563809ca81fc536a44ee2bb3a45b33f",
+      "size": 8420,
+      "uploadedDate": "2023-09-03T16:44:32.741Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0127 copy-1920x1080-e3b0def55edc6bf0d8fbdfe1e112bf99_Snapshot.jpg",
+      "md5": "0ed401b0d67ad20281cadb2fb70113ae",
+      "size": 8840,
+      "uploadedDate": "2023-09-03T16:44:33.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TCam2.0147 copy-1920x1080-d5f7683825a4e35ca9825cdfdb3a49bc_Snapshot.jpg",
+      "md5": "4b1e02260a9e629ad35aea2ca0501ff6",
+      "size": 9156,
+      "uploadedDate": "2023-09-03T16:44:33.682Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-09-0319-52-06 copy-1920x1080-c28b8c7c0d1df531628ad67e34f14f8b_Snapshot.jpg",
+      "md5": "70440cac036450152e3a7c076dab88df",
+      "size": 10155,
+      "uploadedDate": "2023-09-03T16:44:34.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-09-0320-07-28 copy-1920x1080-b2deb9642e635f88014045ea968570ad_Snapshot.jpg",
+      "md5": "04cf0768e31f4ea11cfaea0b66613c71",
+      "size": 6755,
+      "uploadedDate": "2023-09-03T16:44:34.603Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2ee8d324cd7a42e08a5bff92e4587650"
+    }
+  ],
+  "catalogNs": null
+}

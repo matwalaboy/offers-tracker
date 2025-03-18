@@ -1,0 +1,336 @@
+{
+  "id": "58e2e1f58dcd47d180c22b149f5e11d8",
+  "namespace": "ue",
+  "title": "Master Rust Metal Materials",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p>10 Materials</p><p><br /></p><p>MASTER RUST METAL MATERIAL</p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p>Mesh demo product used on stage!</p><p><br /></p><p>CHECK OUT OUR OTHER PROJECTS</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Mackbear?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">MACKBEAR</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "master-rust-metal-materials",
+  "creationDate": "2024-04-07T20:23:59.107Z",
+  "lastModifiedDate": "2024-09-30T15:12:17.080Z",
+  "effectiveDate": "2024-04-07T20:23:59.078Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features: </li></ul><p>Number of Unique Materials and Material Instances: 1 Master Material and 9 Material Instances</p><p>Number of Textures: 31</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "db73c109-260b-4f9b-9838-5790b62f1e1e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0000-1920x1080-7365687c3e3624dfb3fa398191005378.jpeg",
+      "md5": "7365687c3e3624dfb3fa398191005378",
+      "size": 643283,
+      "uploadedDate": "2024-04-07T10:46:59.540Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0001-1920x1080-10775414e073afe8d20fcc83a9fbb566.jpeg",
+      "md5": "10775414e073afe8d20fcc83a9fbb566",
+      "size": 596263,
+      "uploadedDate": "2024-04-07T10:46:59.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0002-1920x1080-cac53434846709b3e9581184e0a8cfe1.jpeg",
+      "md5": "cac53434846709b3e9581184e0a8cfe1",
+      "size": 599600,
+      "uploadedDate": "2024-04-07T10:47:00.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0003-1920x1080-2752f8a9c7f38a22d88ca7ac48ef2e4c.jpeg",
+      "md5": "2752f8a9c7f38a22d88ca7ac48ef2e4c",
+      "size": 611153,
+      "uploadedDate": "2024-04-07T10:47:00.626Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0004-1920x1080-31244af3594945d4a38f714ae30dee24.jpeg",
+      "md5": "31244af3594945d4a38f714ae30dee24",
+      "size": 624366,
+      "uploadedDate": "2024-04-07T10:47:00.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0005-1920x1080-564494b16eac518a9af8149ebdaeb5e5.jpeg",
+      "md5": "564494b16eac518a9af8149ebdaeb5e5",
+      "size": 646555,
+      "uploadedDate": "2024-04-07T10:47:01.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0006-1920x1080-e364f2d97ed996a38af6ce6306c5dde6.jpeg",
+      "md5": "e364f2d97ed996a38af6ce6306c5dde6",
+      "size": 538831,
+      "uploadedDate": "2024-04-07T10:47:01.604Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0007-1920x1080-eefdc5c576840e5cc980b01bd39a401e.jpeg",
+      "md5": "eefdc5c576840e5cc980b01bd39a401e",
+      "size": 621324,
+      "uploadedDate": "2024-04-07T10:47:01.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0008-1920x1080-09cb6f35f2638876c10bade493f6553d.jpeg",
+      "md5": "09cb6f35f2638876c10bade493f6553d",
+      "size": 482023,
+      "uploadedDate": "2024-04-07T10:47:02.221Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0009-1920x1080-a34d73db59fca47f56b4d430250b843a.jpeg",
+      "md5": "a34d73db59fca47f56b4d430250b843a",
+      "size": 599835,
+      "uploadedDate": "2024-04-07T10:47:02.565Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MasterRustMetalMaterials_thumb-284x284-008202f1f14876c728447da6088bb3b7.png",
+      "md5": "008202f1f14876c728447da6088bb3b7",
+      "size": 130064,
+      "uploadedDate": "2024-04-07T10:47:02.847Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MasterRustMetalMaterials_featured-894x488-02cd684fbe81a3f9c67768ddf0c9e447.png",
+      "md5": "02cd684fbe81a3f9c67768ddf0c9e447",
+      "size": 338019,
+      "uploadedDate": "2024-04-07T10:47:03.001Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0000-1920x1080-7365687c3e3624dfb3fa398191005378_Snapshot.jpeg",
+      "md5": "08e19e87fcf433e81af24225a506a544",
+      "size": 3719,
+      "uploadedDate": "2024-04-07T10:46:59.742Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0001-1920x1080-10775414e073afe8d20fcc83a9fbb566_Snapshot.jpeg",
+      "md5": "9589270104c365f0c2b863a964d1b7b8",
+      "size": 3327,
+      "uploadedDate": "2024-04-07T10:47:00.073Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0002-1920x1080-cac53434846709b3e9581184e0a8cfe1_Snapshot.jpeg",
+      "md5": "44d791e90699e923f36c8dd787253f5a",
+      "size": 3452,
+      "uploadedDate": "2024-04-07T10:47:00.441Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0003-1920x1080-2752f8a9c7f38a22d88ca7ac48ef2e4c_Snapshot.jpeg",
+      "md5": "af3597ea27057285038cdcf2e3e456d0",
+      "size": 3433,
+      "uploadedDate": "2024-04-07T10:47:00.815Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0004-1920x1080-31244af3594945d4a38f714ae30dee24_Snapshot.jpeg",
+      "md5": "0bec47d1954a4e1bf6c618c027e96bcc",
+      "size": 3577,
+      "uploadedDate": "2024-04-07T10:47:01.158Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0005-1920x1080-564494b16eac518a9af8149ebdaeb5e5_Snapshot.jpeg",
+      "md5": "67adae50d450ff150c8a98e55fcf91f4",
+      "size": 3685,
+      "uploadedDate": "2024-04-07T10:47:01.462Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0006-1920x1080-e364f2d97ed996a38af6ce6306c5dde6_Snapshot.jpeg",
+      "md5": "319bbdfb112c3abbb00ae6b00f9a8b82",
+      "size": 3344,
+      "uploadedDate": "2024-04-07T10:47:01.790Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0007-1920x1080-eefdc5c576840e5cc980b01bd39a401e_Snapshot.jpeg",
+      "md5": "1281e75a299bc165e24a6211b482c557",
+      "size": 3520,
+      "uploadedDate": "2024-04-07T10:47:02.071Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0008-1920x1080-09cb6f35f2638876c10bade493f6553d_Snapshot.jpeg",
+      "md5": "e4ef5fc6297e89328e47ad77202ebd18",
+      "size": 3327,
+      "uploadedDate": "2024-04-07T10:47:02.409Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0009-1920x1080-a34d73db59fca47f56b4d430250b843a_Snapshot.jpeg",
+      "md5": "0c69fffdf86aef6790865157ffca63c1",
+      "size": 3462,
+      "uploadedDate": "2024-04-07T10:47:02.785Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9915199334ca47099f74ff702a500c02"
+    }
+  ],
+  "catalogNs": null
+}

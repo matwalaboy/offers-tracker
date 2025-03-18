@@ -1,0 +1,320 @@
+{
+  "id": "0e05ea5884c44d2196a6158eac6841f2",
+  "namespace": "ue",
+  "title": "Stylize Niagara Vfx Pack1",
+  "description": "Basic Stylize Niagara Vfx Skills",
+  "longDescription": "<p>Basic Stylize Niagara Vfx Skills</p><p>Stylized game ready VFX which made with Niagara FX system. You can use demo prefabs by dragging in to scene, even you edit them as you wish. This package contains some explosion, lightning, energy etc. fx which can be used for realistic games.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylize-niagara-vfx-pack1",
+  "creationDate": "2020-11-21T14:48:23.958Z",
+  "lastModifiedDate": "2024-09-29T18:25:34.572Z",
+  "effectiveDate": "2020-11-21T14:48:21.595Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-uypxpqffhgjvsxdrla5hx6chqxmewe",
+    "name": "MassiveFx"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features</p><p><br /></p><p> -3 EnergySystem Fx</p><p>-1 Fire &amp; Smoke Fx</p><p>-1 Explosion Fx</p><p>-1 Ground Debris Mesh Explosion</p><p>-1 Lightning Fx</p><p>-1 Popcorn Fx</p><p>-3 Skill Fx</p><p>-2 Spiral Skill Fx</p><p><br /></p><p><br /></p><p>Type of Emitters: (CPU, GPU, Niagara)</p><p><br /></p><p>Supported Development Platforms:</p><p><br /></p><p>Windows: (Yes)</p><p><br /></p><p>Mac: (Yes</p><p><br /></p><p>Documentation: https://youtu.be/9-g12ikx0uc</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "aec1744f-84e6-4564-bcbb-9203734c4968"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EnergySystem1-1920x1080-c3a2098ccabb4aca8e9559dcff71678e.jpg",
+      "md5": "c3a2098ccabb4aca8e9559dcff71678e",
+      "size": 244631,
+      "uploadedDate": "2020-11-14T08:51:08.927Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EnergySystem2-1920x1080-0609a098ddf5a08b857feda6be51dbd1.jpg",
+      "md5": "0609a098ddf5a08b857feda6be51dbd1",
+      "size": 197846,
+      "uploadedDate": "2020-11-14T08:51:09.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EnergySystem3-1920x1080-0918e55f254599f612573ff4cbfd7e53.jpg",
+      "md5": "0918e55f254599f612573ff4cbfd7e53",
+      "size": 518183,
+      "uploadedDate": "2020-11-14T08:51:09.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Explosion-1920x1080-c7676f5eb302614105084e3c1474eaeb.jpg",
+      "md5": "c7676f5eb302614105084e3c1474eaeb",
+      "size": 262344,
+      "uploadedDate": "2020-11-14T08:51:10.030Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FireAndSmoke-1920x1080-2e239f546a05ed0816734189f3ab4fac.jpg",
+      "md5": "2e239f546a05ed0816734189f3ab4fac",
+      "size": 232807,
+      "uploadedDate": "2020-11-14T08:51:10.402Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/lightningSkill-1920x1080-7fcb971e9637643b2b146fc9606cf67c.jpg",
+      "md5": "7fcb971e9637643b2b146fc9606cf67c",
+      "size": 259874,
+      "uploadedDate": "2020-11-14T08:51:10.750Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewtonFx-1920x1080-424873d935afeb5b8ed05c0b29e1c85b.jpg",
+      "md5": "424873d935afeb5b8ed05c0b29e1c85b",
+      "size": 383611,
+      "uploadedDate": "2020-11-14T08:51:11.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PopcornFx-1920x1080-417198a00237462e6d0e1f3c187d8b08.jpg",
+      "md5": "417198a00237462e6d0e1f3c187d8b08",
+      "size": 420439,
+      "uploadedDate": "2020-11-14T08:51:11.442Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Skill1-1920x1080-9652475c16b06999d88c651f65668fed.jpg",
+      "md5": "9652475c16b06999d88c651f65668fed",
+      "size": 367588,
+      "uploadedDate": "2020-11-14T08:51:11.789Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpiralEnergy1-1920x1080-0c433cdc544501cfb7f5d16cd763498f.jpg",
+      "md5": "0c433cdc544501cfb7f5d16cd763498f",
+      "size": 606260,
+      "uploadedDate": "2020-11-14T08:51:12.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SpiralEnergy2-1920x1080-52a19903b26e2fdb2a741725224f253d.jpg",
+      "md5": "52a19903b26e2fdb2a741725224f253d",
+      "size": 471757,
+      "uploadedDate": "2020-11-14T08:51:12.608Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VortexSkill-1920x1080-cfcf65372084adc96f5e9eaad008540b.jpg",
+      "md5": "cfcf65372084adc96f5e9eaad008540b",
+      "size": 391650,
+      "uploadedDate": "2020-11-14T08:51:12.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizeNiagaraVfxPack1_thumb-284x284-9c177c0747252dbfe4a8ab0e6f65e9b5.png",
+      "md5": "9c177c0747252dbfe4a8ab0e6f65e9b5",
+      "size": 148106,
+      "uploadedDate": "2020-11-14T08:51:13.235Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizeNiagaraVfxPack1_featured-894x488-c354dc38f78e11d405911f8b10aad058.png",
+      "md5": "c354dc38f78e11d405911f8b10aad058",
+      "size": 450446,
+      "uploadedDate": "2020-11-14T08:51:13.429Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EnergySystem1-1920x1080-c3a2098ccabb4aca8e9559dcff71678e_Snapshot.jpg",
+      "md5": "283068416c6194b208c09bd58793c3de",
+      "size": 2697,
+      "uploadedDate": "2020-11-14T08:51:09.142Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EnergySystem2-1920x1080-0609a098ddf5a08b857feda6be51dbd1_Snapshot.jpg",
+      "md5": "29261a9887ba69f209b580ef4d4a97f8",
+      "size": 2235,
+      "uploadedDate": "2020-11-14T08:51:09.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EnergySystem3-1920x1080-0918e55f254599f612573ff4cbfd7e53_Snapshot.jpg",
+      "md5": "10d08d999f0dbdc38732431fa33bc086",
+      "size": 3658,
+      "uploadedDate": "2020-11-14T08:51:09.910Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Explosion-1920x1080-c7676f5eb302614105084e3c1474eaeb_Snapshot.jpg",
+      "md5": "e71c27951c93634997807f3318f0c6d2",
+      "size": 4371,
+      "uploadedDate": "2020-11-14T08:51:10.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FireAndSmoke-1920x1080-2e239f546a05ed0816734189f3ab4fac_Snapshot.jpg",
+      "md5": "29be5a3c914b5c4d4e26484187bbe6c2",
+      "size": 3895,
+      "uploadedDate": "2020-11-14T08:51:10.621Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/lightningSkill-1920x1080-7fcb971e9637643b2b146fc9606cf67c_Snapshot.jpg",
+      "md5": "293ec99087a7553e5c6f06ad35465f21",
+      "size": 3200,
+      "uploadedDate": "2020-11-14T08:51:10.977Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewtonFx-1920x1080-424873d935afeb5b8ed05c0b29e1c85b_Snapshot.jpg",
+      "md5": "9de6769222379d4ba20274330a42a1d6",
+      "size": 8096,
+      "uploadedDate": "2020-11-14T08:51:11.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PopcornFx-1920x1080-417198a00237462e6d0e1f3c187d8b08_Snapshot.jpg",
+      "md5": "7cd54c17c8ae8b8bdfcb78d7c5d08645",
+      "size": 6417,
+      "uploadedDate": "2020-11-14T08:51:11.672Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Skill1-1920x1080-9652475c16b06999d88c651f65668fed_Snapshot.jpg",
+      "md5": "38e8b373765dcf03f1a8a918daf4e216",
+      "size": 3886,
+      "uploadedDate": "2020-11-14T08:51:12.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SpiralEnergy1-1920x1080-0c433cdc544501cfb7f5d16cd763498f_Snapshot.jpg",
+      "md5": "f60bbc0ca3fd0913aa32ce6d2b0fb3af",
+      "size": 4808,
+      "uploadedDate": "2020-11-14T08:51:12.447Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SpiralEnergy2-1920x1080-52a19903b26e2fdb2a741725224f253d_Snapshot.jpg",
+      "md5": "a2f5e7e9307aa88c7e5665802253e948",
+      "size": 4645,
+      "uploadedDate": "2020-11-14T08:51:12.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/VortexSkill-1920x1080-cfcf65372084adc96f5e9eaad008540b_Snapshot.jpg",
+      "md5": "fbadcfcaabc64ebc120f46783ccfa7f9",
+      "size": 7871,
+      "uploadedDate": "2020-11-14T08:51:13.182Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cf3370fadf614e8f9a46093a3cf4c1c2"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,344 @@
+{
+  "id": "6523f89b65ac464184dbaf2a012c1d81",
+  "namespace": "ue",
+  "title": "Grass Material",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p>6Materials</p><p><br /></p><p>MASTER GRASS MATERIAL</p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p><br /></p><p>YOU CAN CHECK OUT OUR OTHER PROJECTS IF YOU WISH.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "grass-material",
+  "creationDate": "2024-09-04T17:29:31.801Z",
+  "lastModifiedDate": "2024-09-30T14:10:53.892Z",
+  "effectiveDate": "2024-09-04T17:29:31.736Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features:  </li></ul><p>Number of Unique Materials and Material Instances:6 Instance Material and 1 Material</p><p>Number of Textures:36</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d42c8d0d-a8f0-48b7-93d8-eff2bc266446"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0000-1920x1080-ccd6c7d3d6b95160ef9a298bdf13e9f3.jpeg",
+      "md5": "ccd6c7d3d6b95160ef9a298bdf13e9f3",
+      "size": 2264005,
+      "uploadedDate": "2024-09-03T21:32:52.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0001-1920x1080-e0e2959b8be7e330b85a663e624ab04b.jpeg",
+      "md5": "e0e2959b8be7e330b85a663e624ab04b",
+      "size": 1705512,
+      "uploadedDate": "2024-09-03T21:32:52.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0003-1920x1080-7cf6ecd3d3d0b881fea81d48f9b1a84e.jpeg",
+      "md5": "7cf6ecd3d3d0b881fea81d48f9b1a84e",
+      "size": 2155649,
+      "uploadedDate": "2024-09-03T21:32:53.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0004-1920x1080-b09242d153678f1b42e068f6eb364874.jpeg",
+      "md5": "b09242d153678f1b42e068f6eb364874",
+      "size": 2033125,
+      "uploadedDate": "2024-09-03T21:32:53.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0005-1920x1080-c3e09df282d8ebc4c8e5103055c6d486.jpeg",
+      "md5": "c3e09df282d8ebc4c8e5103055c6d486",
+      "size": 1870281,
+      "uploadedDate": "2024-09-03T21:32:54.220Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0006-1920x1080-70ff88e8b9d58698892f89d9f79135e9.jpeg",
+      "md5": "70ff88e8b9d58698892f89d9f79135e9",
+      "size": 2252631,
+      "uploadedDate": "2024-09-03T21:32:54.728Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GrassMaterial_thumb-284x284-0beeb44ed8d774def2a6621279484459.png",
+      "md5": "0beeb44ed8d774def2a6621279484459",
+      "size": 182833,
+      "uploadedDate": "2024-09-03T21:32:55.259Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GrassMaterial_featured-894x488-92f2bbb85221c6c95529831c3921c0f5.png",
+      "md5": "92f2bbb85221c6c95529831c3921c0f5",
+      "size": 928173,
+      "uploadedDate": "2024-09-03T21:32:55.377Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0000-1920x1080-ccd6c7d3d6b95160ef9a298bdf13e9f3_Snapshot.jpeg",
+      "md5": "f9f90da6d1e62ce1f2e4ffb924057958",
+      "size": 7370,
+      "uploadedDate": "2024-09-03T21:32:52.431Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0001-1920x1080-e0e2959b8be7e330b85a663e624ab04b_Snapshot.jpeg",
+      "md5": "04b57c1f0851ad716c25376f5740648f",
+      "size": 5926,
+      "uploadedDate": "2024-09-03T21:32:52.948Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0003-1920x1080-7cf6ecd3d3d0b881fea81d48f9b1a84e_Snapshot.jpeg",
+      "md5": "7aa1bcaba47e467a42e858b5c99aba98",
+      "size": 6996,
+      "uploadedDate": "2024-09-03T21:32:53.484Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0004-1920x1080-b09242d153678f1b42e068f6eb364874_Snapshot.jpeg",
+      "md5": "f46db4a68c0e387f2b68e6e37e840dce",
+      "size": 6174,
+      "uploadedDate": "2024-09-03T21:32:54.002Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0005-1920x1080-c3e09df282d8ebc4c8e5103055c6d486_Snapshot.jpeg",
+      "md5": "24653d079facfa791912fcc10f557b94",
+      "size": 5989,
+      "uploadedDate": "2024-09-03T21:32:54.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0006-1920x1080-70ff88e8b9d58698892f89d9f79135e9_Snapshot.jpeg",
+      "md5": "909284b54408f238ada270494ee66a8a",
+      "size": 7205,
+      "uploadedDate": "2024-09-03T21:32:55.053Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9c6dcefec94d4ac7972f2d905b44b6c2"
+    }
+  ],
+  "catalogNs": null
+}

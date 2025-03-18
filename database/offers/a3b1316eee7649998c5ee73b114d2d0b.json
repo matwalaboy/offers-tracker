@@ -1,0 +1,257 @@
+{
+  "id": "a3b1316eee7649998c5ee73b114d2d0b",
+  "namespace": "ue",
+  "title": "Platformer Starter Pack",
+  "description": "\"Platformer Starter Pack\" Is a pack of light weight triple-A assets allowing users to easily and quickly make levels for 2d/3d platforming games.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;jpnBbqO7zZg\" rel=\"nofollow\">youtube.com/watch?v&#61;jpnBbqO7zZg</a></p><p><br /></p><p>&#34;Platformer Starter Pack&#34; is a robust and complete collection of assets to assist you in making or prototyping your own 2d/3d platforming games. Assets come in variety of sizes that easily clip together allowing you to make diverse levels in a matter of minutes. Easily customize Wood, Plastic and metals shaders to quickly change the look and add a personal touch to your creations.</p><p><br /></p><p>Combine this pack with our other packs for even more assets and let your imagination run free</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/platformer-starter-pack-01\" rel=\"nofollow\">Platformer Starter Pack 2</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/slug/platformer-starter-pack-02\" rel=\"nofollow\">Platformer Starter Pack 3</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/platformer-christmas-pack\" rel=\"nofollow\">Platformer Christmas Pack</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/slug/platformer-hearts-and-valentines-pack\" rel=\"nofollow\">Platformer Hearts and Valentines Pack</a></li></ul><p><br /></p><p><strong>***Monthly Unreal Engine Sponsored Content product for May 2019***</strong></p><p>Check out Platfunner&#39;s other products here: <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Platfunner\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/profile/Platfunner</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "platformer-starter-pack",
+  "creationDate": "2016-06-08T21:06:46.830Z",
+  "lastModifiedDate": "2024-09-27T04:44:17.129Z",
+  "effectiveDate": "2016-06-29T00:00:00.000Z",
+  "viewableDate": "2016-06-29T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7fabaf0a1d414da80a37995b6ae2e4",
+    "name": "Platfunner"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Physically-Based Rendering: Yes <br />Texture Size: 13x (2048x2048) 17x (1024x1024) 3x (512x512) <br />Collision: Yes, automatically generated <br />Vertex Count: Majority of models are under 300 triangles <br />Number of Meshes: 107 static meshes <br />Number of Materials and Material Instances: 31 materials including Color variations <br />Number of Textures: 34<br /><br />Intended Platform: Windows <br />Platforms Tested: Windows",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c97d0c0d-9d2a-4842-bcf3-9748794588d4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot001-1920x1080-88a0b93a7fb81de9267bdb59027ba6a6.png",
+      "md5": "88a0b93a7fb81de9267bdb59027ba6a6",
+      "size": 506108,
+      "uploadedDate": "2016-08-16T14:33:50.755Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot02-1920x1080-f4d400d9ccfb1722320fe7963f5bb4ed.png",
+      "md5": "f4d400d9ccfb1722320fe7963f5bb4ed",
+      "size": 560514,
+      "uploadedDate": "2016-08-16T14:33:48.864Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot03-1920x1080-cecd01db428c548a46fbdcb6b59b6943.png",
+      "md5": "cecd01db428c548a46fbdcb6b59b6943",
+      "size": 561831,
+      "uploadedDate": "2016-08-16T14:33:47.268Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot04-1920x1080-7f3801d089a915dc0eac14c41e0d986b.png",
+      "md5": "7f3801d089a915dc0eac14c41e0d986b",
+      "size": 638923,
+      "uploadedDate": "2016-08-16T14:33:44.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot05-1920x1080-343e043110d8e63714bc70f1642c2b9c.png",
+      "md5": "343e043110d8e63714bc70f1642c2b9c",
+      "size": 790088,
+      "uploadedDate": "2016-08-16T14:33:43.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot06-1920x1080-4c3f38959dce5a8c42e37da03ae2cdd0.png",
+      "md5": "4c3f38959dce5a8c42e37da03ae2cdd0",
+      "size": 632225,
+      "uploadedDate": "2016-08-16T14:33:41.309Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot07-1920x1080-b2347a603bb0f62e988c5cf8c672119b.png",
+      "md5": "b2347a603bb0f62e988c5cf8c672119b",
+      "size": 632342,
+      "uploadedDate": "2016-08-16T14:33:38.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_screenshot08-1920x1080-85669fed2ddce7f4a784e660e080ba8f.png",
+      "md5": "85669fed2ddce7f4a784e660e080ba8f",
+      "size": 700413,
+      "uploadedDate": "2016-08-16T14:33:37.359Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_Thumb-284x284-bba41a1fad28c3e1301563e8fe43371e.png",
+      "md5": "bba41a1fad28c3e1301563e8fe43371e",
+      "size": 149545,
+      "uploadedDate": "2016-08-16T14:33:34.643Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPackFeatured-476x246-bf5614402d1ce0c1369691f475864f9e.png",
+      "md5": "bf5614402d1ce0c1369691f475864f9e",
+      "size": 195526,
+      "uploadedDate": "2016-08-16T14:33:56.054Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/PlatformerStarterPack_FeaturedNew-894x488-b0f368275861cdbade9eb067162c8f43.png",
+      "md5": "b0f368275861cdbade9eb067162c8f43",
+      "size": 592095,
+      "uploadedDate": "2016-08-16T14:33:54.597Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d1b999c308ac4976bc96c9f29d3c2489"
+    }
+  ],
+  "catalogNs": null
+}

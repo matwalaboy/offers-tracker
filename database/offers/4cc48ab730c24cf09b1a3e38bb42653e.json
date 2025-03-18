@@ -1,0 +1,185 @@
+{
+  "id": "4cc48ab730c24cf09b1a3e38bb42653e",
+  "namespace": "ue",
+  "title": "Newsreel Noises",
+  "description": "Noises, Rumble, Hum & Hiss derived from celluloid newsreels.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/jtYq9KgFpZI\" rel=\"nofollow\">https://youtu.be/jtYq9KgFpZI</a><br /><br />Newsreel Noises presents a collection of unwanted Noises, Rumbles, Hums &amp; Crackles that got collected when digging through copies of newsreels from the the 40&#39;s and 50&#39;s of the last century. Whenever such a newsreel starts or ends a lot of side noises occur and each one plays another pattern of mysterious sounds. The library contains 151 samples from 10 categories.<br /><br />Cadenced, Crackle<br />Hum, Impulse<br />Noise, Pulsed<br />Rattle, Rhythmical<br />Shuttle, Tonal",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "newsreel-noises",
+  "creationDate": "2017-04-14T18:14:54.261Z",
+  "lastModifiedDate": "2024-09-27T11:15:50.892Z",
+  "effectiveDate": "2017-04-19T00:00:00.000Z",
+  "viewableDate": "2017-04-19T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 151 (edited for seamless looping, except 30 one-shots)<br />Number of Audio Cues: 151<br />Resolution: 44.1 kHz, 16bit mono<br />Total playing time: approx. 19 min",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2023-08-08T14:01:47.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 67,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1327",
+      "name": "SUBMARINE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:01.059Z",
+      "updated": "2019-06-20T12:01:01.059Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "04967e5e-1c0d-4d53-9c00-3e93a6b8234d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Newsreel_Noises_Screenshot-1920x1080-da274049da7bf1c4793910f1a7ae39cb.png",
+      "md5": "da274049da7bf1c4793910f1a7ae39cb",
+      "size": 472965,
+      "uploadedDate": "2017-04-14T18:13:11.125Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/Newsreel_Noises_Thumbnail-284x284-ce90443f02696c84058800818c0db043.png",
+      "md5": "ce90443f02696c84058800818c0db043",
+      "size": 34459,
+      "uploadedDate": "2017-04-14T18:13:12.467Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/Newsreel_Noises_FeaturedNew-894x488-fe9ca98323e93789c99ed9fd26f7de65.png",
+      "md5": "fe9ca98323e93789c99ed9fd26f7de65",
+      "size": 128955,
+      "uploadedDate": "2017-04-14T18:13:15.376Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "bc2c72e142304bcb8d26c0b1a1057e76"
+    }
+  ],
+  "catalogNs": null
+}

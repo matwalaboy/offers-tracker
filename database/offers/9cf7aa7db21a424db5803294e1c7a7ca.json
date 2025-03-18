@@ -1,0 +1,266 @@
+{
+  "id": "9cf7aa7db21a424db5803294e1c7a7ca",
+  "namespace": "ue",
+  "title": "Midi Engine 3",
+  "description": "MIDI for Gameplay, AudioVisualz, Rhythm Games And DAW-like Capabilities",
+  "longDescription": "<p>MidiEngine 3 is a Plugin for Unreal Engine 5 that adds various MIDI and MIDI File features for unreal engine to make to make the following tasks easier:</p><ul><li>Audio visuals</li><li>Rhythm Games</li><li>DAW-like capabilities</li><li>Virtual Instruments(Samplers/Romplers)</li><li>And more...</li></ul><p><br /></p><p><br /></p><h2>Plugin Documentation: <a href=\"https://store.algosyntax.com/marketplace/unreal-engine/midi-engine\" rel=\"nofollow\">MidiEngine 3 Documentation</a></h2><h2><br /></h2><p><br /></p><p>Key Features:</p><ul><li>MIDI File Import: Effortlessly import and manage MIDI files within Unreal Engine, enabling quick integration into your projects.</li><li>MIDI Event Reaction: Build responsive audio-visual systems by having actors react dynamically to MIDI events.</li><li>MIDI Playback: Smoothly play back MIDI files with precise timing and control. Make your own Samplers/Virtual Instruments for Audio Playback of MIDI Files.</li><li>Integration with MetaSounds: The MIDI Player and Virtual Instrument system is linked directly to metasounds meaning you can further process the output audio if you wish.</li><li>Integration with Sequencer: Synchronize MIDI playback with Unreal Engine’s Sequencer to align audio with animations and gameplay sequences. This is perfect for creating Music Synced Cinematics without leaving the Sequencer Editor.</li><li>Templates for Rhythm Games: MidiEngine 3 comes with templates for creating 2D or 3D note highway rhythm games. These templates are highly customizable and almost every aspect can be changed.</li><li>Piano Visualizer Templates</li><li>Free MIDI Editor Solution to Edit MIDI Directly in Unreal Engine Editor</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "midi-engine-3",
+  "creationDate": "2024-06-06T10:45:34.680Z",
+  "lastModifiedDate": "2024-09-30T18:18:55.882Z",
+  "effectiveDate": "2024-06-06T10:45:34.634Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tbbmmx7jztt5fjjmun3vxr4tzzpxel",
+    "name": "Algosyntax"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Import MIDI Files</li><li> React To MidiFiles</li><li> Play MIDI Files</li><li>Virtual Instrument System (Samplers/Romplers)</li><li>Linked To Metasounds</li><li>Linked To Sequencer</li><li>Templates for NoteHighway Rhythm Games.</li><li>Template for PianoVisualizers </li></ul><p>Code Modules:</p><ul><li> AxMidiEngineCore (Runtime)</li><li>AxMidiEngineCoreEditor(Editor)</li><li> MidiLib(Runtime)</li><li> </li></ul><p>Number of Blueprints: 17&#43;</p><p>Number of C&#43;&#43; Classes: 30&#43;</p><p><br /></p><p>Supported Development Platforms: Windows, Linux, MacOs</p><p>Supported Target Build Platforms: Windows, Linux,MacOS, Android, iOS</p><p>Documentation: <a href=\"https://store.algosyntax.com/marketplace/unreal-engine/midi-engine\" rel=\"nofollow\">MidiEngine 3 Documentation</a></p><p><br /></p><p><br /></p><p>Important/Additional Notes:</p><p><a href=\"https://discord.gg/SYUybztE3s\" rel=\"nofollow\">Join Us On Discord</a> For Support and Tips</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "797afbf9-e1dc-4883-8a1b-fac3d4abcd46"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MIDI Engine Banners-1920x1080-3b5aa6167e7a7535be162e86f474c89c.jpg",
+      "md5": "3b5aa6167e7a7535be162e86f474c89c",
+      "size": 166196,
+      "uploadedDate": "2024-05-25T08:07:30.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 787-1920x1080-c08f35722c6a8b0e1047d9f53263c5ce.png",
+      "md5": "c08f35722c6a8b0e1047d9f53263c5ce",
+      "size": 840147,
+      "uploadedDate": "2024-08-22T12:26:37.162Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 750-1920x1080-f630983e493c703c23a4cceefec5e802.png",
+      "md5": "f630983e493c703c23a4cceefec5e802",
+      "size": 1096098,
+      "uploadedDate": "2024-06-12T00:47:11.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MIDI Engine Session Editor-1920x1080-56f2fd1bdb65c7b97cbec1a3ca53612f.jpg",
+      "md5": "56f2fd1bdb65c7b97cbec1a3ca53612f",
+      "size": 177114,
+      "uploadedDate": "2024-07-03T07:46:20.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MidiEngine3_thumb-284x284-3566948652e2ae312bc0eacfd39bf938.png",
+      "md5": "3566948652e2ae312bc0eacfd39bf938",
+      "size": 109583,
+      "uploadedDate": "2024-05-25T08:13:00.599Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MidiEngine3_featured-894x488-6ab1976e6729e2d308210506948a9a9c.png",
+      "md5": "6ab1976e6729e2d308210506948a9a9c",
+      "size": 367822,
+      "uploadedDate": "2024-05-25T08:13:00.718Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 787-1920x1080-c08f35722c6a8b0e1047d9f53263c5ce_Snapshot.png",
+      "md5": "293b0e904ef1b7ecc40855c608f5c630",
+      "size": 6444,
+      "uploadedDate": "2024-08-22T12:26:37.445Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MIDI Engine Session Editor-1920x1080-56f2fd1bdb65c7b97cbec1a3ca53612f_Snapshot.jpg",
+      "md5": "a250b2c6c29fc482427419e7c81e9ea6",
+      "size": 6118,
+      "uploadedDate": "2024-07-03T07:46:21.033Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 750-1920x1080-f630983e493c703c23a4cceefec5e802_Snapshot.png",
+      "md5": "c6c21f5f7d526b702f6336cc14d52d3d",
+      "size": 5914,
+      "uploadedDate": "2024-06-12T00:47:11.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 744-1920x1080-aeb82bdf3e511858a3120df0b316e1f2_Snapshot.png",
+      "md5": "127320345d7a8689629ee1a199a0b32d",
+      "size": 6060,
+      "uploadedDate": "2024-06-12T00:41:13.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MIDI Engine Banners-1920x1080-3b5aa6167e7a7535be162e86f474c89c_Snapshot.jpg",
+      "md5": "81234aff711fd856ce959cfe4e352910",
+      "size": 7788,
+      "uploadedDate": "2024-05-25T08:07:30.865Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 677-1920x1080-5e93b70e880d25f910e27aed92836fb3_Snapshot.png",
+      "md5": "71acd9d4035d3b762d2c41c7e5ff1150",
+      "size": 5686,
+      "uploadedDate": "2024-05-21T13:13:10.455Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5b190c645f9d4a01af115aca83689eaa"
+    }
+  ],
+  "catalogNs": null
+}

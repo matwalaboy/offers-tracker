@@ -1,0 +1,377 @@
+{
+  "id": "06d7263ddc32427d84ee331a56aadae2",
+  "namespace": "ue",
+  "title": "Throne Dragon",
+  "description": "This is a stylized throne Dragon with 10 assets",
+  "longDescription": "<ul><li>Preview: https://www.youtube.com/watch?v&#61;PaJAqii-gH8</li><li>Stylized throne Dragon with 10 assets, very low poly, watch the video for more details</li><li>Dragon throne seat, Dragon throne back, wings, torch, stairs, stool,fanion,cushion,vase,crane</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "throne-dragon",
+  "creationDate": "2018-08-13T17:25:28.118Z",
+  "lastModifiedDate": "2024-09-27T07:46:06.547Z",
+  "effectiveDate": "2018-08-13T17:25:28.079Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2c4a807a8a477da564f9239c3574c5",
+    "name": "Kouza Corp"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: Physically Based Rendering: Yes</p><p>Texture Sizes:</p><ul><li>40 - 2048 x 2048</li></ul><p>Scaled to Epic skeleton: Yes</p><p>Collision: Yes automatically generated</p><p>Vertex Count:</p><ul><li>stairs &#61; 100</li><li>throne sit &#61; 1200</li><li>throne back &#61; 1000</li><li>wings &#61; 300</li><li>stool &#61; 700</li><li>torch &#61; 1900</li><li>fanion&#61;2000</li><li>cushion&#61;265</li><li>crane&#61;725</li><li>vase&#61;490</li></ul><p>LODs: zero</p><p>Number of Meshes: 10</p><p>Number of Materials and Material Instances: 10</p><p>Number of Textures: 41</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows, Mac, Xbox, PS4 not tested on mobile</p><p>Documentation: N/A</p><p>Important/Additional Notes: N/A</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "788271cf-9e32-4bf1-99bd-5b25f3cf9857"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot01-1920x1080-b4558d0fe931174d52a87a41c363718b.png",
+      "md5": "b4558d0fe931174d52a87a41c363718b",
+      "size": 1760489,
+      "uploadedDate": "2018-08-09T17:18:41.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot02-1920x1080-87c2acaa4668319196f3d692a32b58a0.png",
+      "md5": "87c2acaa4668319196f3d692a32b58a0",
+      "size": 2157141,
+      "uploadedDate": "2018-07-31T16:45:35.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot03-1920x1080-b9e6d11b193da09b3a761804fe99eb7c.png",
+      "md5": "b9e6d11b193da09b3a761804fe99eb7c",
+      "size": 1897516,
+      "uploadedDate": "2018-07-31T16:45:36.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot04-1920x1080-60adf5dcefbe9a66e563a6e282e56fec.png",
+      "md5": "60adf5dcefbe9a66e563a6e282e56fec",
+      "size": 1996140,
+      "uploadedDate": "2018-07-31T16:45:36.979Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot05-1920x1080-fac585cbf2e8cb5a7adbfcf832b50934.png",
+      "md5": "fac585cbf2e8cb5a7adbfcf832b50934",
+      "size": 2103292,
+      "uploadedDate": "2018-07-31T16:45:37.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot06-1920x1080-ed7471edd4d25cdb35eb33100e0d504d.png",
+      "md5": "ed7471edd4d25cdb35eb33100e0d504d",
+      "size": 2023571,
+      "uploadedDate": "2018-07-31T16:45:38.397Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot07-1920x1080-01ff19634d7ff04c053d1520d128f6fe.png",
+      "md5": "01ff19634d7ff04c053d1520d128f6fe",
+      "size": 525184,
+      "uploadedDate": "2018-07-31T16:45:38.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot08-1920x1080-c6b3b3bd2adbf3eb180e2c21b7ee8710.png",
+      "md5": "c6b3b3bd2adbf3eb180e2c21b7ee8710",
+      "size": 2586620,
+      "uploadedDate": "2018-07-31T16:45:39.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot09-1920x1080-519d98bc240d4b8e02d7731a15ea23b7.png",
+      "md5": "519d98bc240d4b8e02d7731a15ea23b7",
+      "size": 2060368,
+      "uploadedDate": "2018-07-31T16:45:40.233Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot10-1920x1080-7fd320e83f0b9a9a92bc41cc25b9212e.png",
+      "md5": "7fd320e83f0b9a9a92bc41cc25b9212e",
+      "size": 1842004,
+      "uploadedDate": "2018-07-31T16:45:40.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot11-1920x1080-3646ec3d058c18522f2d10d95c916006.png",
+      "md5": "3646ec3d058c18522f2d10d95c916006",
+      "size": 1768660,
+      "uploadedDate": "2018-07-31T16:45:41.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot12-1920x1080-e6df3df7c54a25bb38e18bbbcb5bf0c4.png",
+      "md5": "e6df3df7c54a25bb38e18bbbcb5bf0c4",
+      "size": 2056820,
+      "uploadedDate": "2018-07-31T16:45:42.078Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/overview map-1920x1080-0084d54a6a70cdd3a6a3af4084dd9419.png",
+      "md5": "0084d54a6a70cdd3a6a3af4084dd9419",
+      "size": 1582503,
+      "uploadedDate": "2018-08-09T17:18:42.112Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ThroneDragonscreenshot15-1920x1080-7910ffca8bb5ea711f6bbec9ca55ada8.png",
+      "md5": "7910ffca8bb5ea711f6bbec9ca55ada8",
+      "size": 1687530,
+      "uploadedDate": "2018-08-09T17:18:42.880Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ThroneDragon_thumb-284x284-5962dc824272d1d5849afdb21cda3004.png",
+      "md5": "5962dc824272d1d5849afdb21cda3004",
+      "size": 135453,
+      "uploadedDate": "2018-07-31T16:45:42.547Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ThroneDragon_featured-894x488-d0ab82d664b87c87eee605c0200a4f11.png",
+      "md5": "d0ab82d664b87c87eee605c0200a4f11",
+      "size": 554628,
+      "uploadedDate": "2018-08-09T17:18:43.397Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot01-1920x1080-b4558d0fe931174d52a87a41c363718b_Snapshot.png",
+      "md5": "4b1c0f736714a21d8ec9189c2c8ffd34",
+      "size": 17170,
+      "uploadedDate": "2018-08-09T17:18:41.845Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/overview map-1920x1080-0084d54a6a70cdd3a6a3af4084dd9419_Snapshot.png",
+      "md5": "6aae6c07b98c9dc51c2bcf29680b97fa",
+      "size": 14845,
+      "uploadedDate": "2018-08-09T17:18:42.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot15-1920x1080-7910ffca8bb5ea711f6bbec9ca55ada8_Snapshot.png",
+      "md5": "e1a962bdcd34fa415a7d6a5ffbf5ef8e",
+      "size": 16544,
+      "uploadedDate": "2018-08-09T17:18:43.221Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot01-1920x1080-5f6fb8bad783281ffe7bf1a7ce205a3f_Snapshot.png",
+      "md5": "4cf662fa1059e5df343d98833ec3e6e2",
+      "size": 19339,
+      "uploadedDate": "2018-07-31T16:45:35.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot02-1920x1080-87c2acaa4668319196f3d692a32b58a0_Snapshot.png",
+      "md5": "9fc057680bd329e572064b714ae07877",
+      "size": 17169,
+      "uploadedDate": "2018-07-31T16:45:36.107Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot03-1920x1080-b9e6d11b193da09b3a761804fe99eb7c_Snapshot.png",
+      "md5": "54afa420ccfb613d989089abbe6afb98",
+      "size": 14615,
+      "uploadedDate": "2018-07-31T16:45:36.725Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot04-1920x1080-60adf5dcefbe9a66e563a6e282e56fec_Snapshot.png",
+      "md5": "91a1020773c19c74dd99c9e3103b47eb",
+      "size": 16793,
+      "uploadedDate": "2018-07-31T16:45:37.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot05-1920x1080-fac585cbf2e8cb5a7adbfcf832b50934_Snapshot.png",
+      "md5": "c879fbeaf652fed0c64dc78d7cbfc05f",
+      "size": 18121,
+      "uploadedDate": "2018-07-31T16:45:38.070Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot06-1920x1080-ed7471edd4d25cdb35eb33100e0d504d_Snapshot.png",
+      "md5": "c3d4054135dc3d5aca561139b02e8fa0",
+      "size": 17836,
+      "uploadedDate": "2018-07-31T16:45:38.806Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot07-1920x1080-01ff19634d7ff04c053d1520d128f6fe_Snapshot.png",
+      "md5": "bdd57a4f467064cfef76d714138a2127",
+      "size": 15053,
+      "uploadedDate": "2018-07-31T16:45:39.229Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot08-1920x1080-c6b3b3bd2adbf3eb180e2c21b7ee8710_Snapshot.png",
+      "md5": "c445c77cba945ef42c4df54916fa3df0",
+      "size": 21951,
+      "uploadedDate": "2018-07-31T16:45:39.960Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot09-1920x1080-519d98bc240d4b8e02d7731a15ea23b7_Snapshot.png",
+      "md5": "32b39ac83d8a8bba853357538303da26",
+      "size": 15756,
+      "uploadedDate": "2018-07-31T16:45:40.621Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot10-1920x1080-7fd320e83f0b9a9a92bc41cc25b9212e_Snapshot.png",
+      "md5": "414b36e94243e6e1c910ee9bbf918684",
+      "size": 14875,
+      "uploadedDate": "2018-07-31T16:45:41.227Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot11-1920x1080-3646ec3d058c18522f2d10d95c916006_Snapshot.png",
+      "md5": "2609b7ada9105c24aebc28d09aafb139",
+      "size": 13002,
+      "uploadedDate": "2018-07-31T16:45:41.781Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ThroneDragonscreenshot12-1920x1080-e6df3df7c54a25bb38e18bbbcb5bf0c4_Snapshot.png",
+      "md5": "0a5be7d24bf803ee1560642f0fd972fd",
+      "size": 18618,
+      "uploadedDate": "2018-07-31T16:45:42.475Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2bc69f5d95434a7e919c6ed9172805f8"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,218 @@
+{
+  "id": "b6ca63e70c6141628de10c861068fffc",
+  "namespace": "ue",
+  "title": "The spider lvl2",
+  "description": "Cute low poly spider level 2",
+  "longDescription": "<p>Level 2 version of cute low poly spider with all the basic movement and combat animations.</p><p>Animations:<a href=\"https://youtu.be/0LEK8YJSy2U\" rel=\"nofollow\"> https://youtu.be/0LEK8YJSy2U</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-spider-lvl2",
+  "creationDate": "2021-03-16T19:31:11.629Z",
+  "lastModifiedDate": "2024-09-29T16:53:18.709Z",
+  "effectiveDate": "2021-03-16T19:31:11.558Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58kma2wdqkpy9fk8tvrtsj62lq29ww",
+    "name": "HologramMonster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: Yes</p><p>Animated: Yes</p><p>Number of Animations: 14</p><p>Animations by name:</p><ul><li>Idle</li><li>Walking</li><li>Running</li><li>Jumping</li><li>Turning (root motion)</li><li>Attack - leap (root motion)</li><li>Attack - spitting projectile (projectile not included)</li><li>Attack - tail projectile (projectile not included)</li><li>Take light damage</li><li>Take heavy damage (root motion)</li></ul><p><br /></p><p>Number of characters: 1</p><p>Tricount: 2936</p><p>Number of Materials and Material Instances: 8</p><p>Number of Textures: 3</p><p>Texture Resolution: 1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p><p>Video preview: <a href=\"https://youtu.be/0LEK8YJSy2U\" rel=\"nofollow\">https://youtu.be/0LEK8YJSy2U</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f0bcec8d-eb6f-4c81-9e50-d48fe6f22d31"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thespiderlvl2splash-1920x1080-c761e73a37aada5d5c2635cd3de5d92c.jpg",
+      "md5": "c761e73a37aada5d5c2635cd3de5d92c",
+      "size": 1528450,
+      "uploadedDate": "2021-03-16T11:31:24.419Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thespiderlvl2img01-1920x1080-92288f2f7014bd6ac0191f788671e0ab.jpg",
+      "md5": "92288f2f7014bd6ac0191f788671e0ab",
+      "size": 1426145,
+      "uploadedDate": "2021-03-16T11:31:25.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Thespiderlvl2_thumb-284x284-f018cb5e209ed1f7b12edf7e65808935.png",
+      "md5": "f018cb5e209ed1f7b12edf7e65808935",
+      "size": 157752,
+      "uploadedDate": "2021-03-16T11:31:26.146Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Thespiderlvl2_featured-894x488-27bbb6cd3e19fa3209f08cb060763139.png",
+      "md5": "27bbb6cd3e19fa3209f08cb060763139",
+      "size": 598263,
+      "uploadedDate": "2021-03-16T11:31:26.276Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl2splash-1920x1080-c761e73a37aada5d5c2635cd3de5d92c_Snapshot.jpg",
+      "md5": "b24499fd2c42f2b190cd22d3ead84d9d",
+      "size": 5609,
+      "uploadedDate": "2021-03-16T11:31:25.051Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl2img01-1920x1080-92288f2f7014bd6ac0191f788671e0ab_Snapshot.jpg",
+      "md5": "31745eb6a847f59d2ce1c13b10fb30b5",
+      "size": 5536,
+      "uploadedDate": "2021-03-16T11:31:26.044Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl2splash-1920x1080-3182daa0043ff3331caac7d031d3e5c2_Snapshot.jpg",
+      "md5": "26e718e00a5faddfbcec983b84e5dcf0",
+      "size": 5591,
+      "uploadedDate": "2021-03-11T09:15:06.421Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl2img01-1920x1080-0e76813ee877357901b79752d9533eab_Snapshot.jpg",
+      "md5": "e5938fbfbd1265da891dba85c489c160",
+      "size": 5512,
+      "uploadedDate": "2021-03-11T09:15:07.334Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a53efb562bb947a7a6cecbefc9885803"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,446 @@
+{
+  "id": "3e545e9b971f4dba937f0a265de3cd6c",
+  "namespace": "ue",
+  "title": "Outdoor material pack vol 1",
+  "description": "Material pack with 5 unique materials, espcecially suitable for outdoor usage.",
+  "longDescription": "<p>Pack includes 5 unique materials especially suitable for outdoor usage. Materials have a good amount of parameters to tweak and customize the materials to your liking. Some materials have a color mask texture which allows you to tweak different parts of materials color separately.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "outdoor-material-pack-vol",
+  "creationDate": "2021-03-12T05:33:20.439Z",
+  "lastModifiedDate": "2024-09-29T16:51:11.789Z",
+  "effectiveDate": "2021-03-12T05:33:20.358Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58kma2wdqkpy9fk8tvrtsj62lq29ww",
+    "name": "HologramMonster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>All materials have a height map for displacement.</li><li>Concrete tiles and gobblestone have a separate color adjustment for different parts of the texture.</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances: 11</p><p>Number of Textures: 31</p><p>Texture Resolutions: 4096</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5360d536-98f6-4d64-8af6-09e4ede52e41"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Exteriorpacksplash-1920x1080-4ac90a9059a0c6352ac6a2fc112186d2.jpg",
+      "md5": "4ac90a9059a0c6352ac6a2fc112186d2",
+      "size": 2455750,
+      "uploadedDate": "2021-03-11T10:58:36.440Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GobblestoneballUE-1920x1080-006e839a04cd1863dbda0de94b573abf.jpg",
+      "md5": "006e839a04cd1863dbda0de94b573abf",
+      "size": 2254376,
+      "uploadedDate": "2021-03-11T10:58:37.514Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gobblestonefloor-1920x1080-e9ea645088d20cc6e05754e2ee5446d6.jpg",
+      "md5": "e9ea645088d20cc6e05754e2ee5446d6",
+      "size": 2332549,
+      "uploadedDate": "2021-03-11T10:58:38.517Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ConcretetilesmatballUE-1920x1080-5fcedd45c688b7374433ae19e72fbc12.jpg",
+      "md5": "5fcedd45c688b7374433ae19e72fbc12",
+      "size": 2057429,
+      "uploadedDate": "2021-03-11T10:58:39.536Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Concretetilesfloor-1920x1080-83f42d50724d3b014ebb3236dbae232c.jpg",
+      "md5": "83f42d50724d3b014ebb3236dbae232c",
+      "size": 2210597,
+      "uploadedDate": "2021-03-11T10:58:40.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DarkmudmatballUE-1920x1080-d027c54df5aaa548fc0c102d08f57741.jpg",
+      "md5": "d027c54df5aaa548fc0c102d08f57741",
+      "size": 2150206,
+      "uploadedDate": "2021-03-11T10:58:41.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Darkmudfloor-1920x1080-1302176b8fd6d308db258c160af12d10.jpg",
+      "md5": "1302176b8fd6d308db258c160af12d10",
+      "size": 2264866,
+      "uploadedDate": "2021-03-11T10:58:42.699Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SmoothasphaltmatballUE-1920x1080-53340b331022553d6c33de9c784cbb93.jpg",
+      "md5": "53340b331022553d6c33de9c784cbb93",
+      "size": 1890350,
+      "uploadedDate": "2021-03-11T10:58:43.741Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Smoothasphaltfloor-1920x1080-7535fd63b750235d8ddaa2203e9ed954.jpg",
+      "md5": "7535fd63b750235d8ddaa2203e9ed954",
+      "size": 2016275,
+      "uploadedDate": "2021-03-11T10:58:44.742Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WildgrassmatballUE-1920x1080-cc7c591f07cab1274b9d9a28818a64c9.jpg",
+      "md5": "cc7c591f07cab1274b9d9a28818a64c9",
+      "size": 2551287,
+      "uploadedDate": "2021-03-11T10:58:45.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Wildgrassfloor-1920x1080-c894674087b795a9121a25ac65f7c898.jpg",
+      "md5": "c894674087b795a9121a25ac65f7c898",
+      "size": 2831843,
+      "uploadedDate": "2021-03-11T10:58:46.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Outdoormaterialpackvol1_thumb-284x284-311f5932f3d9a4433b7b3451599a6c22.png",
+      "md5": "311f5932f3d9a4433b7b3451599a6c22",
+      "size": 207787,
+      "uploadedDate": "2021-03-11T10:58:47.688Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Outdoormaterialpackvol1_featured-894x488-9e8e1f19c045a9b50c2ab71a91bdea8c.png",
+      "md5": "9e8e1f19c045a9b50c2ab71a91bdea8c",
+      "size": 935541,
+      "uploadedDate": "2021-03-11T10:58:47.830Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Exteriorpacksplash-1920x1080-4ac90a9059a0c6352ac6a2fc112186d2_Snapshot.jpg",
+      "md5": "fd5192064a19b62d69ad288bf8ca8ce4",
+      "size": 6449,
+      "uploadedDate": "2021-03-11T10:58:37.123Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GobblestoneballUE-1920x1080-006e839a04cd1863dbda0de94b573abf_Snapshot.jpg",
+      "md5": "14be57cc6eeba4a8310ea193d030f30e",
+      "size": 4774,
+      "uploadedDate": "2021-03-11T10:58:38.184Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gobblestonefloor-1920x1080-e9ea645088d20cc6e05754e2ee5446d6_Snapshot.jpg",
+      "md5": "e2443a782948bbd21fa3306d19497a34",
+      "size": 7284,
+      "uploadedDate": "2021-03-11T10:58:39.178Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ConcretetilesmatballUE-1920x1080-5fcedd45c688b7374433ae19e72fbc12_Snapshot.jpg",
+      "md5": "4e646c557d241f2283e203a594605833",
+      "size": 4067,
+      "uploadedDate": "2021-03-11T10:58:40.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Concretetilesfloor-1920x1080-83f42d50724d3b014ebb3236dbae232c_Snapshot.jpg",
+      "md5": "dfc0e627e96de24318d6dc4842214877",
+      "size": 5306,
+      "uploadedDate": "2021-03-11T10:58:41.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DarkmudmatballUE-1920x1080-d027c54df5aaa548fc0c102d08f57741_Snapshot.jpg",
+      "md5": "4ece53892c7bf97ebbbed061894c8091",
+      "size": 3800,
+      "uploadedDate": "2021-03-11T10:58:42.346Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Darkmudfloor-1920x1080-1302176b8fd6d308db258c160af12d10_Snapshot.jpg",
+      "md5": "1bb4db96eb4cac1dc4ab24f944295b47",
+      "size": 5138,
+      "uploadedDate": "2021-03-11T10:58:43.385Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SmoothasphaltmatballUE-1920x1080-53340b331022553d6c33de9c784cbb93_Snapshot.jpg",
+      "md5": "5760fe545c3f67786a0a2a3dfcae63fd",
+      "size": 3278,
+      "uploadedDate": "2021-03-11T10:58:44.373Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Smoothasphaltfloor-1920x1080-7535fd63b750235d8ddaa2203e9ed954_Snapshot.jpg",
+      "md5": "609bdddd03a5a4365ca6661b52897997",
+      "size": 3531,
+      "uploadedDate": "2021-03-11T10:58:45.427Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WildgrassmatballUE-1920x1080-cc7c591f07cab1274b9d9a28818a64c9_Snapshot.jpg",
+      "md5": "ac8ac1721e4582bc815de4a828f2f5dd",
+      "size": 4122,
+      "uploadedDate": "2021-03-11T10:58:46.478Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Wildgrassfloor-1920x1080-c894674087b795a9121a25ac65f7c898_Snapshot.jpg",
+      "md5": "d3020c95ac5a375e3a90ebe436b5bdf3",
+      "size": 6243,
+      "uploadedDate": "2021-03-11T10:58:47.581Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c3c3132bbc554c9c8aa8f5ad2987703f"
+    }
+  ],
+  "catalogNs": null
+}

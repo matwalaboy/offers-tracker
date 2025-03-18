@@ -1,0 +1,371 @@
+{
+  "id": "6d0255a60be340dfa1c556503cc57eb3",
+  "namespace": "ue",
+  "title": "Not Yet: Dialogue Plugin System",
+  "description": "The Dialogue Plugin System allows you to create and edit Dialogues with ease in UE4 using a graph based editor.",
+  "longDescription": "<p><a href=\"https://github.com/NotYetGames/DlgSystem/wiki/Feature-Showcase\" rel=\"nofollow\"><strong>&#x1f386; Feature Showcase</strong></a></p><p><a href=\"https://bit.ly/DlgSystemVideoTutorials\" rel=\"nofollow\"><strong>&#x1f3a5; Video Tutorials</strong></a></p><p><a href=\"https://github.com/NotYetGames/DlgSystem/wiki\" rel=\"nofollow\"><strong>&#x1f4d6; Documentation</strong></a></p><p><strong>&#x1f3e2; </strong><a href=\"https://github.com/NotYetGames/NotYetDlgSystemExample\" rel=\"nofollow\"><strong>Example Project</strong></a></p><p><a href=\"https://github.com/NotYetGames/DlgSystem/blob/master/Docs/CHANGELOG.md\" rel=\"nofollow\"><strong>&#x1f41b; Patch Notes</strong></a></p><p><br /></p><p>The Dialogue Plugin System allows you to easily create dialogue conversations in an easy to use graph editor.</p><p>It can be used for either simple linear dialogues or complicated multi branch dialogues.</p><p><br /></p><p><strong>&#x1f3ed; Used by the following industry games:</strong></p><ul><li><a href=\"http://www.warriorb.com/\" rel=\"nofollow\">WarriOrb</a> - Souls-like platformer metroidvania.</li><li><a href=\"https://store.steampowered.com/app/865610/Backbone/\" rel=\"nofollow\">Backbone</a> - Roleplaying detective adventure</li><li><a href=\"https://store.steampowered.com/app/1295560/Revolution_Path_of_a_Weaponsmith/\" rel=\"nofollow\">Revolution: Path of a Weaponsmith</a> - Third person stealth shooter</li><li><a href=\"https://store.steampowered.com/app/979690/The_Ascent/\" rel=\"nofollow\">The Ascent</a> - Cyberpunk Action-shooter RPG</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "not-yet-dialogue-system",
+  "creationDate": "2018-03-02T18:47:10.662Z",
+  "lastModifiedDate": "2024-09-29T16:17:50.688Z",
+  "effectiveDate": "2018-03-02T18:47:10.611Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bf784eefn92xnmvwl5qp7esuzz242l",
+    "name": "Not Yet"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>New &#34;Dialogue&#34; asset type</li><li>Full Blueprint and C&#43;&#43; support</li><li>Voice support</li><li>Custom Node data Type support, so you can attach any data to any dialogue node</li><li>Events and conditions with support for custom blueprints.</li><li>Text Arguments with support for custom blueprints</li><li>Branching based on different node types and conditions</li><li>Well structured runtime and editor modules</li><li>Reflection support</li><li>100% open source for anyone to compile from the <a href=\"http://bit.ly/NYDlgSystemSource\" rel=\"nofollow\">source code repository</a></li></ul><p><br /></p><p>Full editor support including:</p><ul><li>Graph Editor</li><li>Search window</li><li>Dialogue Browser to get a good overview of all the dialogues</li><li>Customized blueprint nodes to handle certain events and conditions in Blueprint easily</li><li>Settings panel in Project Settings to modify the layout</li><li>Option to import from and export to plain text formats (e.g. JSON)</li><li>Real time display/edit functionality of the Dialogue runtime data.</li></ul><p><br /></p><p>Code Modules:</p><ul><li>  DlgSystem - [Runtime]</li><li>  DlgSystemEditor - [Editor]</li></ul><p><br /></p><p><strong>Contact</strong>: <a href=\"https://bit.ly/NYDiscord\" rel=\"nofollow\">Discord</a> or <a href=\"https://github.com/NotYetGames/DlgSystem/discussions\" rel=\"nofollow\">Forum</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c99bd9b0-563f-434c-9d91-2937849e65ff"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportGraphEditor-1920x1080-2a49d071f3d38757f481a97b7a414b35.png",
+      "md5": "2a49d071f3d38757f481a97b7a414b35",
+      "size": 243196,
+      "uploadedDate": "2020-07-20T12:21:55.640Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportSearch-1920x1080-82dcf885b1b55bde57b5bf69f6650b58.png",
+      "md5": "82dcf885b1b55bde57b5bf69f6650b58",
+      "size": 248194,
+      "uploadedDate": "2020-07-20T12:21:56.036Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportDialogueDataDisplay-1920x1080-75a6bc2065c09e4d0b1cc54dbf42d9c0.png",
+      "md5": "75a6bc2065c09e4d0b1cc54dbf42d9c0",
+      "size": 1298805,
+      "uploadedDate": "2020-07-20T12:26:58.004Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportDialogueBrowser-1920x1080-98ace830a461f47b1a87a2443fbe7c83.png",
+      "md5": "98ace830a461f47b1a87a2443fbe7c83",
+      "size": 131137,
+      "uploadedDate": "2020-07-20T12:21:56.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportSettings-1920x1080-fead818a88b2e4c26186a0868df5ba51.png",
+      "md5": "fead818a88b2e4c26186a0868df5ba51",
+      "size": 167211,
+      "uploadedDate": "2020-07-20T12:21:57.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportDialogueManagerAndContextMethods-1920x1080-54a78f94011b163fd77caa7c034f0db6.png",
+      "md5": "54a78f94011b163fd77caa7c034f0db6",
+      "size": 699228,
+      "uploadedDate": "2020-07-20T12:21:58.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ExportParticipantInterface-1920x1080-aa67dec873f6b27a9a1d11e6d16c1021.png",
+      "md5": "aa67dec873f6b27a9a1d11e6d16c1021",
+      "size": 405685,
+      "uploadedDate": "2020-07-20T12:48:06.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NotYetDialogueSystem_thumb-284x284-168b75b233edbbdb523ac652262a33ce.png",
+      "md5": "168b75b233edbbdb523ac652262a33ce",
+      "size": 42586,
+      "uploadedDate": "2018-03-02T19:24:02.622Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NotYetDialogueSystem_featured-894x488-e0dd18e420cb31d39ba3312a4a4d6611.png",
+      "md5": "e0dd18e420cb31d39ba3312a4a4d6611",
+      "size": 94813,
+      "uploadedDate": "2018-02-06T09:43:03.951Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportParticipantInterface-1920x1080-aa67dec873f6b27a9a1d11e6d16c1021_Snapshot.png",
+      "md5": "fdde9e59acc53fbaf6164b151542bdcf",
+      "size": 6659,
+      "uploadedDate": "2020-07-20T12:48:06.898Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportDialogueDataDisplay-1920x1080-75a6bc2065c09e4d0b1cc54dbf42d9c0_Snapshot.png",
+      "md5": "efc2ba1c14408b1b857dd7b0fcbd6425",
+      "size": 4966,
+      "uploadedDate": "2020-07-20T12:26:58.316Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportGraphEditor-1920x1080-2a49d071f3d38757f481a97b7a414b35_Snapshot.png",
+      "md5": "23668cf265e3898f2e07958996c6292a",
+      "size": 5503,
+      "uploadedDate": "2020-07-20T12:21:55.913Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportSearch-1920x1080-82dcf885b1b55bde57b5bf69f6650b58_Snapshot.png",
+      "md5": "614be1fbd3a0dc7bfd1937ef22c0f476",
+      "size": 5350,
+      "uploadedDate": "2020-07-20T12:21:56.311Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportDialogueDataDisplay-1920x1080-b5475b4b570477a28f063e3b767cce8d_Snapshot.png",
+      "md5": "b8ecf62ee0149ea1b9a2df0f562f2d5f",
+      "size": 4722,
+      "uploadedDate": "2020-07-20T12:21:56.793Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportDialogueBrowser-1920x1080-98ace830a461f47b1a87a2443fbe7c83_Snapshot.png",
+      "md5": "3de9b90c19d845f2afd04e478e28a5ab",
+      "size": 4207,
+      "uploadedDate": "2020-07-20T12:21:57.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportSettings-1920x1080-fead818a88b2e4c26186a0868df5ba51_Snapshot.png",
+      "md5": "e19d360a9ca51e2ae65bde9a3aec025d",
+      "size": 4999,
+      "uploadedDate": "2020-07-20T12:21:57.804Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ExportDialogueManagerAndContextMethods-1920x1080-54a78f94011b163fd77caa7c034f0db6_Snapshot.png",
+      "md5": "cce49daaa7402026c2c7f826e40b5846",
+      "size": 7328,
+      "uploadedDate": "2020-07-20T12:21:58.357Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8dd30e83d6e54fefb377ebcf6b51798c"
+    }
+  ],
+  "catalogNs": null
+}

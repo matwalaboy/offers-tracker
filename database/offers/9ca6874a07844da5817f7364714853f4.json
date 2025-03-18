@@ -1,0 +1,332 @@
+{
+  "id": "9ca6874a07844da5817f7364714853f4",
+  "namespace": "ue",
+  "title": "Multiplayer Skill Tree System",
+  "description": "The system based on unlocking new skills and abilities, gaining experience points and leveling your character abilities. The system is Optimized, Easy to use and Supports Multiplayer. [100% BP]",
+  "longDescription": "<h2>&#x1f3ae; Watch</h2><ul><li><a href=\"https://bit.ly/3na61Jj\" rel=\"nofollow\">Watch Trailer</a> | <a href=\"https://bit.ly/2IeEFD2\" rel=\"nofollow\">Playable Demo</a></li></ul><p><br /></p><h2>&#x1f393; Documents</h2><ul><li><a href=\"https://bit.ly/SkillTreeDocumentation\" rel=\"nofollow\">Documentation</a></li></ul><p><br /></p><h2>❓ Have a question?</h2><ul><li><a href=\"https://discord.com/invite/anpDN9F\" rel=\"nofollow\">Discord</a> with 1500&#43; Members</li></ul><p><br /></p><p><strong>Description:</strong></p><p>The system uses Leveling System functionality from our &#34;Advanced Multiplayer Leveling System“. (Included in the System)</p><ul><li> Separated leveling system for every skill category (Survivor, Agility, Power)</li><li> Customizable Leveling System (XP Level Range, Max Level etc.)</li><li> Custom Skill Tree</li><li> Customizable Skill Abilities</li><li> Nice Designed UI</li><li> Highly Optimized</li><li> Easy to use and add more skill abilities</li><li> Simple integration process</li><li> Commented code for easier understanding</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "multiplayer-skill-tree-system",
+  "creationDate": "2020-11-09T18:08:46.859Z",
+  "lastModifiedDate": "2024-09-29T16:08:14.986Z",
+  "effectiveDate": "2020-11-09T18:08:44.523Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-paph9ju77zbmrxxt8rh95sksxrjurd",
+    "name": "Dreamrise Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Input: Keyboard and Mouse</p><p>Number of Blueprints: 3</p><p>Network Replicated:<strong> Yes</strong></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Other: Not Tested Yet</p><p>Documentation: Inside Blueprints</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "393838a9-3e36-4a86-b706-52542527f1bd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2020.11.06 - 21.24.32.33-1920x1080-43761b26910a35c2db927ecceae44ea2.png",
+      "md5": "43761b26910a35c2db927ecceae44ea2",
+      "size": 552195,
+      "uploadedDate": "2020-11-07T16:34:11.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2020.11.06 - 21.27.09.44-1920x1080-eec19671460b542ffcaa5669d862a1a5.png",
+      "md5": "eec19671460b542ffcaa5669d862a1a5",
+      "size": 440287,
+      "uploadedDate": "2020-11-07T16:34:11.964Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2020.11.06 - 21.31.24.60-1920x1080-9be87ba315b94ddf0686e2df8a4739b6.png",
+      "md5": "9be87ba315b94ddf0686e2df8a4739b6",
+      "size": 465622,
+      "uploadedDate": "2020-11-07T16:34:12.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2020.11.06 - 21.26.22.06-1920x1080-9d105addce760e37cdba2f6511d75c3b.png",
+      "md5": "9d105addce760e37cdba2f6511d75c3b",
+      "size": 435570,
+      "uploadedDate": "2020-11-07T16:34:12.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultiplayerSkillTreeSystem_thumb-284x284-ef4d196c9ed116a01f7eab5e09ec958d.png",
+      "md5": "ef4d196c9ed116a01f7eab5e09ec958d",
+      "size": 9629,
+      "uploadedDate": "2020-11-07T16:34:12.943Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MultiplayerSkillTreeSystem_featured-894x488-af8f58f8ef0cd0c04f627ebe91eb81d9.png",
+      "md5": "af8f58f8ef0cd0c04f627ebe91eb81d9",
+      "size": 30203,
+      "uploadedDate": "2020-11-07T16:34:13.251Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2020.11.06 - 21.24.32.33-1920x1080-43761b26910a35c2db927ecceae44ea2_Snapshot.png",
+      "md5": "bb66673b14e26385d7d5f07fefb69b30",
+      "size": 3254,
+      "uploadedDate": "2020-11-07T16:34:11.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2020.11.06 - 21.27.09.44-1920x1080-eec19671460b542ffcaa5669d862a1a5_Snapshot.png",
+      "md5": "ae7a9ae796720815d89d61623575a5f0",
+      "size": 3254,
+      "uploadedDate": "2020-11-07T16:34:12.180Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2020.11.06 - 21.31.24.60-1920x1080-9be87ba315b94ddf0686e2df8a4739b6_Snapshot.png",
+      "md5": "df0674199184991274ab269650a5b06e",
+      "size": 3118,
+      "uploadedDate": "2020-11-07T16:34:12.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2020.11.06 - 21.26.22.06-1920x1080-9d105addce760e37cdba2f6511d75c3b_Snapshot.png",
+      "md5": "70a6309e6d9857d5300aae9ee9902e15",
+      "size": 3162,
+      "uploadedDate": "2020-11-07T16:34:12.880Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4c66185d4ef14232b2de26edfd521b51"
+    }
+  ],
+  "catalogNs": null
+}

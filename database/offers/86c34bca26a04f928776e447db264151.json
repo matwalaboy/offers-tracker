@@ -1,0 +1,212 @@
+{
+  "id": "86c34bca26a04f928776e447db264151",
+  "namespace": "ue",
+  "title": "Markdown Editor",
+  "description": "Enhance your Unreal Engine workflow with our Markdown Editor Plugin! Real-time preview, syntax highlighting and more!",
+  "longDescription": "<h2><u>Overview</u></h2><p><br /></p><p>Markdown Editor Plugin is a powerful tool designed to seamlessly integrate Markdown editing capabilities directly into the Unreal Engine editor. Developed by Moon Productions, this plugin is perfect for game developers and content creators who want to streamline their documentation process within Unreal Engine. Whether you are creating rich-text descriptions or preparing detailed development notes, the Markdown Editor Plugin provides a comprehensive solution to meet your needs.</p><p><br /></p><p><br /></p><p><br /></p><h2><u>How To</u></h2><p><br /></p><p>Simply right click your content browser, go to Miscellaneous then Markdown File, give it a name, open it, and start writing!</p><p><br /></p><p><br /></p><p><br /></p><h2>Please check our plugin&#39;s <a href=\"https://docs.google.com/document/d/1E2rLS12pF9MTr9VrOIg2_HZ1DEb5O9ZV8fxs5YKho4Y/edit?usp&#61;sharing\" rel=\"nofollow\">documentation link</a> for more info about features, version changes and more!</h2>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "markdown-editor",
+  "creationDate": "2024-07-14T16:18:18.060Z",
+  "lastModifiedDate": "2024-09-26T13:31:20.957Z",
+  "effectiveDate": "2024-07-14T16:19:39.446Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-m2w8psedmnkyr37zrjpfhaunmugtgq",
+    "name": "Moon Productions"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules:</p><ul><li> MarkdownEditorPlugin (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 10</p><p>Network Replicated: No - Editor only plugin</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Additional Notes: Emojis support only works for Unicode emojis.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "49fe39ca-938f-4f41-b27c-dbeb326e5f46"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-258d8ec693bbebec386c85e34f5752ea.jpg",
+      "md5": "258d8ec693bbebec386c85e34f5752ea",
+      "size": 129027,
+      "uploadedDate": "2024-07-13T18:44:34.346Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-50fd1266eb5234a7b995703705c482f3.jpg",
+      "md5": "50fd1266eb5234a7b995703705c482f3",
+      "size": 136372,
+      "uploadedDate": "2024-07-13T18:44:34.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-cfe9217df837027bb9ba6939be56dd7a.jpg",
+      "md5": "cfe9217df837027bb9ba6939be56dd7a",
+      "size": 62291,
+      "uploadedDate": "2024-07-13T18:44:35.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-a62b3f1c41b03dd0396774027b49b8d2.jpg",
+      "md5": "a62b3f1c41b03dd0396774027b49b8d2",
+      "size": 337742,
+      "uploadedDate": "2024-07-13T18:44:35.467Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MarkdownEditor_thumb-284x284-f211b11c31a82ff12263c59c7aa37584.png",
+      "md5": "f211b11c31a82ff12263c59c7aa37584",
+      "size": 52501,
+      "uploadedDate": "2024-07-13T18:44:35.757Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MarkdownEditor_featured-894x488-ecb4648408968356ff60d9f198ece45b.png",
+      "md5": "ecb4648408968356ff60d9f198ece45b",
+      "size": 198434,
+      "uploadedDate": "2024-07-13T18:44:35.874Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-258d8ec693bbebec386c85e34f5752ea_Snapshot.jpg",
+      "md5": "f5eccc7f3f4538f4b62e66afe22e1a73",
+      "size": 3504,
+      "uploadedDate": "2024-07-13T18:44:34.590Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-50fd1266eb5234a7b995703705c482f3_Snapshot.jpg",
+      "md5": "3167842335c2a72288c9432646e010c9",
+      "size": 3513,
+      "uploadedDate": "2024-07-13T18:44:34.938Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-cfe9217df837027bb9ba6939be56dd7a_Snapshot.jpg",
+      "md5": "e741a12cdc7a004ff331beba8815c246",
+      "size": 2526,
+      "uploadedDate": "2024-07-13T18:44:35.240Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-a62b3f1c41b03dd0396774027b49b8d2_Snapshot.jpg",
+      "md5": "99450dfa03673b72c2400ef50d4046cf",
+      "size": 4889,
+      "uploadedDate": "2024-07-13T18:44:35.698Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "001a5637505c4ae3a08053ee06635fbf"
+    }
+  ],
+  "catalogNs": null
+}

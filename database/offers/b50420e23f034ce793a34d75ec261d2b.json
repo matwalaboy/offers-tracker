@@ -1,0 +1,566 @@
+{
+  "id": "b50420e23f034ce793a34d75ec261d2b",
+  "namespace": "ue",
+  "title": "Woman Warrior",
+  "description": "Low-poly model of the character Woman Warrior",
+  "longDescription": "<p>Low-poly model of the character Woman warrior Suitable for games of different genres RPG, strategy, shooter etc.</p><p>video ue4 : https://youtu.be/ytFfupWbc5Y</p><p>video: https://youtu.be/_i2hLnvTL1Q</p><p>Rigged with Epic Skeleton. Additional bones that are added to Epic Skeleton: breast_l/r, skirt_back_l/r_01-06, skirt_r/l_01-06,skirt_back_mid_01-06</p><p>The weapon is included:</p><p>- sword polygon 948 Vertex 924</p><p>PBR textures TARGA Body_head (4096x4096) robe (4096x4096) eye and teeth (2048x2048) eyelashes (900x900) hair (4096x4096) sword (4096x4096)</p><p>·        Base color</p><p>·        Rougness</p><p>·        Normal</p><p>·        Alpha</p><p>·        Metalic</p><p>·        AO</p><p>·        emissive</p><p> </p><p>PLEASE NOTE THAT THERE ARE NO BLUEPRINTS!</p><p>Easy Animations retarget in Unreal Engine.</p><p>Facial expressions are included (Morph Targets, Blendshapes).</p><p>You can use this model for face mocap (live stream) and conversation animations.</p><p>The body is cut and censored due to the store rules!</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "woman-warrior-01",
+  "creationDate": "2022-02-06T04:19:16.877Z",
+  "lastModifiedDate": "2024-09-29T14:38:52.888Z",
+  "effectiveDate": "2022-02-06T04:19:16.830Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5jkveq4v4dukuegc66xw4utj8wk468",
+    "name": "A.SHARIPOV"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>·         separated mesh</p><p>·         skirt rigged.added additional bones</p><p>·         blendshapes</p><p>·        Epic Skeleton <strong>with additional bones</strong></p><p>·        3rd person character animations are included</p><p>·        Modular clothes</p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>If rigged to the Epic skeleton, IK bones are included: (No)</p><p>Animated: (No) demo only</p><p>Number of Animations: 0</p><p>Animation types (Root Motion/In-place): 0</p><p>Number of characters: 1</p><p>Vertex counts of characters: 64,853</p><p>Number of Materials and Material Instances: 6</p><p>Number of Textures: 32</p><p>Texture Resolutions:</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: no</p><p>Important/Additional Notes: Rigged with Epic Skeleton. Additional bones that are added to Epic Skeleton: breast_l/r, skirt_back_l/r_01-06, skirt_r/l_01-06,skirt_back_mid_01-06</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "14481df0-3809-4d37-9dfb-2c3a9d3e19e3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot012-1920x1080-42cdc99d8f44e29759274f698540a0d3.png",
+      "md5": "42cdc99d8f44e29759274f698540a0d3",
+      "size": 1056901,
+      "uploadedDate": "2022-02-03T07:16:15.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot021-1920x1080-4555ef2e554822c6c3cd09c267df1246.png",
+      "md5": "4555ef2e554822c6c3cd09c267df1246",
+      "size": 954658,
+      "uploadedDate": "2022-02-03T07:16:15.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot025-1920x1080-56c30c0b6258d679072d4d5c93b11b7b.png",
+      "md5": "56c30c0b6258d679072d4d5c93b11b7b",
+      "size": 1674214,
+      "uploadedDate": "2022-02-03T07:16:16.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 1-1920x1080-8352d4df89d4297d1657ab3032198a4c.png",
+      "md5": "8352d4df89d4297d1657ab3032198a4c",
+      "size": 1581180,
+      "uploadedDate": "2022-02-03T07:16:16.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 7-1920x1080-f970199b2d8aa1b15e1e1ee42d1dd0c0.png",
+      "md5": "f970199b2d8aa1b15e1e1ee42d1dd0c0",
+      "size": 1448523,
+      "uploadedDate": "2022-02-03T07:16:17.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 9-1920x1080-08debc14c0a0d2ab32ce61b6dc207e75.png",
+      "md5": "08debc14c0a0d2ab32ce61b6dc207e75",
+      "size": 1271116,
+      "uploadedDate": "2022-02-03T07:16:17.962Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 10-1920x1080-4967e361f210ad8b86dc2ccac0300720.png",
+      "md5": "4967e361f210ad8b86dc2ccac0300720",
+      "size": 1290215,
+      "uploadedDate": "2022-02-03T07:16:18.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/456-1920x1080-71882ce2df974e1128822dfcc181b0e2.png",
+      "md5": "71882ce2df974e1128822dfcc181b0e2",
+      "size": 1788452,
+      "uploadedDate": "2022-02-03T07:16:18.864Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/455-1920x1080-682d26f3b8a6fd7bbaa7abbacb23aabb.png",
+      "md5": "682d26f3b8a6fd7bbaa7abbacb23aabb",
+      "size": 1392038,
+      "uploadedDate": "2022-02-03T07:16:19.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 11-1920x1080-8593b037e86acefafa27aadb9e93e295.png",
+      "md5": "8593b037e86acefafa27aadb9e93e295",
+      "size": 1731512,
+      "uploadedDate": "2022-02-03T07:16:19.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/125-1920x1080-90c89628f9be1da132cee67716ff617d.png",
+      "md5": "90c89628f9be1da132cee67716ff617d",
+      "size": 1154686,
+      "uploadedDate": "2022-02-03T07:16:20.224Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 12-1920x1080-6db080cc079313929f607a41baab39b7.png",
+      "md5": "6db080cc079313929f607a41baab39b7",
+      "size": 1666227,
+      "uploadedDate": "2022-02-03T07:16:20.644Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 16-1920x1080-448b70da5513770267deed5e70a50416.png",
+      "md5": "448b70da5513770267deed5e70a50416",
+      "size": 459595,
+      "uploadedDate": "2022-02-03T07:16:21.090Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 17-1920x1080-0b2b3096249d31263aee3cc093a9c707.png",
+      "md5": "0b2b3096249d31263aee3cc093a9c707",
+      "size": 466957,
+      "uploadedDate": "2022-02-03T07:16:21.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 18-1920x1080-bfcbec79ebc69d887124c838d298bd74.png",
+      "md5": "bfcbec79ebc69d887124c838d298bd74",
+      "size": 374576,
+      "uploadedDate": "2022-02-03T07:16:21.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 19-1920x1080-defed45d13ddad2d82f7586e5e00c2ea.png",
+      "md5": "defed45d13ddad2d82f7586e5e00c2ea",
+      "size": 514111,
+      "uploadedDate": "2022-02-03T07:16:22.274Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/warrior 21-1920x1080-42902d4b30a0969de5771d9d092c9984.png",
+      "md5": "42902d4b30a0969de5771d9d092c9984",
+      "size": 513019,
+      "uploadedDate": "2022-02-03T07:16:22.670Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/222-1920x1080-f61e247facd14dcf57263051bc997f77.png",
+      "md5": "f61e247facd14dcf57263051bc997f77",
+      "size": 1251280,
+      "uploadedDate": "2022-02-06T05:35:19.857Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/alab-1920x1080-dba9ccefa72546fefa48bf68fc22ecf1.png",
+      "md5": "dba9ccefa72546fefa48bf68fc22ecf1",
+      "size": 1115314,
+      "uploadedDate": "2022-02-06T05:35:20.334Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WomanWarrior_thumb-284x284-244e27768ca671a6878ba3f5039c0020.png",
+      "md5": "244e27768ca671a6878ba3f5039c0020",
+      "size": 77811,
+      "uploadedDate": "2022-02-06T05:39:07.692Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WomanWarrior_featured-894x488-8b6049f3904f5cc386c8048099141991.png",
+      "md5": "8b6049f3904f5cc386c8048099141991",
+      "size": 402084,
+      "uploadedDate": "2022-02-06T05:35:20.831Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/222-1920x1080-f61e247facd14dcf57263051bc997f77_Snapshot.png",
+      "md5": "401c9f2aa2a0a532e506d136745686a4",
+      "size": 3695,
+      "uploadedDate": "2022-02-06T05:35:20.161Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/alab-1920x1080-dba9ccefa72546fefa48bf68fc22ecf1_Snapshot.png",
+      "md5": "177cb514c45d0c055473af6793ecc96a",
+      "size": 2925,
+      "uploadedDate": "2022-02-06T05:35:20.617Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot012-1920x1080-42cdc99d8f44e29759274f698540a0d3_Snapshot.png",
+      "md5": "e539872805cb01cef45e7ea7e1089bd1",
+      "size": 2586,
+      "uploadedDate": "2022-02-03T07:16:15.834Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot021-1920x1080-4555ef2e554822c6c3cd09c267df1246_Snapshot.png",
+      "md5": "aa0d237fff2e1f0133a3d11ce77ad917",
+      "size": 2408,
+      "uploadedDate": "2022-02-03T07:16:16.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot025-1920x1080-56c30c0b6258d679072d4d5c93b11b7b_Snapshot.png",
+      "md5": "aba9eabe9854635fa1e431b5dfccae0d",
+      "size": 4179,
+      "uploadedDate": "2022-02-03T07:16:16.722Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 1-1920x1080-8352d4df89d4297d1657ab3032198a4c_Snapshot.png",
+      "md5": "9a8ad4b633619ae6ee0800e751ab28ce",
+      "size": 4229,
+      "uploadedDate": "2022-02-03T07:16:17.263Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 7-1920x1080-f970199b2d8aa1b15e1e1ee42d1dd0c0_Snapshot.png",
+      "md5": "c4f7a667b9e46dee2a2eee44f4b4fb6b",
+      "size": 4272,
+      "uploadedDate": "2022-02-03T07:16:17.782Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 9-1920x1080-08debc14c0a0d2ab32ce61b6dc207e75_Snapshot.png",
+      "md5": "72d638a80eb1be8aea3f78f5a571584a",
+      "size": 4186,
+      "uploadedDate": "2022-02-03T07:16:18.239Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 10-1920x1080-4967e361f210ad8b86dc2ccac0300720_Snapshot.png",
+      "md5": "98cb09d3a3c1df4ba33a642f34b58034",
+      "size": 4484,
+      "uploadedDate": "2022-02-03T07:16:18.698Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/456-1920x1080-71882ce2df974e1128822dfcc181b0e2_Snapshot.png",
+      "md5": "7d01585a7fd4389f6e8b3f311d2dc7ff",
+      "size": 5069,
+      "uploadedDate": "2022-02-03T07:16:19.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/455-1920x1080-682d26f3b8a6fd7bbaa7abbacb23aabb_Snapshot.png",
+      "md5": "ec655892c1572a8ccd27189c02f28450",
+      "size": 6995,
+      "uploadedDate": "2022-02-03T07:16:19.588Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 11-1920x1080-8593b037e86acefafa27aadb9e93e295_Snapshot.png",
+      "md5": "ee9a47933b6b7aab1c34ceae416e162d",
+      "size": 4838,
+      "uploadedDate": "2022-02-03T07:16:20.059Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/125-1920x1080-90c89628f9be1da132cee67716ff617d_Snapshot.png",
+      "md5": "3f40190677de531fc867dca4c1333abb",
+      "size": 5743,
+      "uploadedDate": "2022-02-03T07:16:20.477Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 12-1920x1080-6db080cc079313929f607a41baab39b7_Snapshot.png",
+      "md5": "5c67ad05bf00135cf8646edb9365bb11",
+      "size": 4543,
+      "uploadedDate": "2022-02-03T07:16:20.941Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 16-1920x1080-448b70da5513770267deed5e70a50416_Snapshot.png",
+      "md5": "e2202a288e80c84ea82a19330e6260a0",
+      "size": 2744,
+      "uploadedDate": "2022-02-03T07:16:21.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 17-1920x1080-0b2b3096249d31263aee3cc093a9c707_Snapshot.png",
+      "md5": "784ca85618d1c1207a6947e8bd4734c8",
+      "size": 2477,
+      "uploadedDate": "2022-02-03T07:16:21.703Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 18-1920x1080-bfcbec79ebc69d887124c838d298bd74_Snapshot.png",
+      "md5": "98a63a9fb09cce91b78b27cb548e4438",
+      "size": 1932,
+      "uploadedDate": "2022-02-03T07:16:22.076Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 19-1920x1080-defed45d13ddad2d82f7586e5e00c2ea_Snapshot.png",
+      "md5": "a7a478340ded18576e7c67c349bafa17",
+      "size": 2429,
+      "uploadedDate": "2022-02-03T07:16:22.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/warrior 21-1920x1080-42902d4b30a0969de5771d9d092c9984_Snapshot.png",
+      "md5": "f4dcf99837f40342cc383ad84ee4fb73",
+      "size": 2371,
+      "uploadedDate": "2022-02-03T07:16:22.907Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "389f3ed76edc454db5c12bcc5c7004b1"
+    }
+  ],
+  "catalogNs": null
+}

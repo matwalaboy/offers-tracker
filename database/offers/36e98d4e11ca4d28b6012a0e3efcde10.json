@@ -1,0 +1,260 @@
+{
+  "id": "36e98d4e11ca4d28b6012a0e3efcde10",
+  "namespace": "ue",
+  "title": "Procedural Arrow",
+  "description": "Quickly create 3D pointers with this package containing a customizable arrow ready to use. Great for card games, turn-based strategy games",
+  "longDescription": "<p><strong>Official Documentation:</strong> <a href=\"https://www.hubberstudios.com/docs/arrow/index.html\" rel=\"nofollow\">Procedural Arrow</a></p><p><strong>Showcase Video:</strong> <a href=\"https://www.youtube.com/watch?v&#61;Vj6gsyFnwb8&amp;ab_channel&#61;HubberStudios\" rel=\"nofollow\">Video</a></p><p><strong>For support, please join our </strong><a href=\"https://discord.gg/Hhfxg3yvmT\" rel=\"nofollow\">Discord Server</a></p><p><br /></p><p>Quickly create 3D pointers with this package containing a customizable arrow ready to use.</p><p><br /></p><p>Inside the plugin, you&#39;ll find a easily usable and modifiable Blueprint for creating animated arrows. Great for card games, turn-based strategy games, or whenever you need to point out something within your 3D world.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "procedural-arrow",
+  "creationDate": "2024-04-04T18:35:27.859Z",
+  "lastModifiedDate": "2024-09-27T22:57:32.015Z",
+  "effectiveDate": "2024-04-04T18:35:27.820Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8dba3nbs3yt48g6d97qtwe5jat5drd",
+    "name": "Hubber Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>FEATURES:</p><ul><li><strong>User-Friendly:</strong> A simple and easy to use Blueprint</li><li><strong>Customizable:</strong> Make your mesh and simply create your own arrow.</li><li><strong>Ready to use:</strong> 4 ready to use arrow for your game</li></ul><p><br /></p><p>Number of Blueprints: 5</p><p>Number of Materials: 1</p><p>Documentation: <a href=\"https://www.hubberstudios.com/docs/arrow/index.html\" rel=\"nofollow\">Procedural Arrow</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5ea11e04-b9f6-4ffc-9f5d-711f71b49fb2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArrowForgeScreenshot1-1920x1080-ab22c9b3bfe3fa5f1dfded22eadf8ef1.jpg",
+      "md5": "ab22c9b3bfe3fa5f1dfded22eadf8ef1",
+      "size": 1297267,
+      "uploadedDate": "2024-03-28T21:27:06.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArrowForgeScreenshot2-1920x1080-4d59293efd789cff1f066b4cfb7b6fe9.png",
+      "md5": "4d59293efd789cff1f066b4cfb7b6fe9",
+      "size": 724151,
+      "uploadedDate": "2024-03-28T21:27:05.653Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ArrowForgeScreenshot3-1920x1080-e131969817253125f570b7e1b55e5fbc.png",
+      "md5": "e131969817253125f570b7e1b55e5fbc",
+      "size": 361566,
+      "uploadedDate": "2024-03-28T21:27:05.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ProceduralArrow_thumb-284x284-c502849ba5d3d352c5bf342f736ab724.png",
+      "md5": "c502849ba5d3d352c5bf342f736ab724",
+      "size": 120639,
+      "uploadedDate": "2024-04-02T20:49:51.225Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ProceduralArrow_featured-894x488-641369ecf220450e88e251e37b191904.png",
+      "md5": "641369ecf220450e88e251e37b191904",
+      "size": 559280,
+      "uploadedDate": "2024-04-02T20:49:51.513Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArrowForgeScreenshot3-1920x1080-e131969817253125f570b7e1b55e5fbc_Snapshot.png",
+      "md5": "11f93801ccf198bf0e76c92e9eeb8e6a",
+      "size": 4579,
+      "uploadedDate": "2024-03-28T21:27:05.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArrowForgeScreenshot2-1920x1080-4d59293efd789cff1f066b4cfb7b6fe9_Snapshot.png",
+      "md5": "fae31d94ee524efd8b065f1c7186728d",
+      "size": 5100,
+      "uploadedDate": "2024-03-28T21:27:05.987Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArrowForgeScreenshot1-1920x1080-ab22c9b3bfe3fa5f1dfded22eadf8ef1_Snapshot.jpg",
+      "md5": "02720d26214bd9e3d3322bf1ef1a3885",
+      "size": 6825,
+      "uploadedDate": "2024-03-28T21:27:06.486Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArrowForgeScreen1-1920x1080-3b0c11c2422a794fa348dffd2ee4675f_Snapshot.png",
+      "md5": "871c27ccd6d28f7ad676d20c53448c7e",
+      "size": 4134,
+      "uploadedDate": "2024-03-27T20:21:15.574Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ArrowForgeHomepage-1920x1080-ec944a5eb31c47d2bc759d19158d27c0_Snapshot.jpg",
+      "md5": "93f038809e8cd3a254d188712fb2fdde",
+      "size": 6713,
+      "uploadedDate": "2024-03-27T20:13:15.052Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a2d70a2b2edb4ec0b40b1e715c824fb2"
+    }
+  ],
+  "catalogNs": null
+}

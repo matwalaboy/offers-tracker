@@ -1,0 +1,230 @@
+{
+  "id": "3ef27a2ae9b241b588c2a2855de00290",
+  "namespace": "ue",
+  "title": "Japanese Red Leaves Garden",
+  "description": "It is an environment asset pack with the theme of Japanese garden with red autumn leaves.",
+  "longDescription": "<p><strong>Video Preview</strong>: <a href=\"https://youtu.be/-vBCFBKUkyM\" rel=\"nofollow\">https://youtu.be/-vBCFBKUkyM</a></p><p><br /></p><p>This asset was created for environment of oriental atmosphere.</p><p>The theme is a Japanese garden hill in autumn season.</p><p>Asset includes small “Hokora” temple with “Koma-inu” statues.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "japanese-red-leaves-garden",
+  "creationDate": "2019-12-14T11:23:50.174Z",
+  "lastModifiedDate": "2024-09-30T08:10:08.568Z",
+  "effectiveDate": "2019-12-14T11:23:50.139Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Physically-Based Rendering</strong>: Yes</p><p><strong>Texture Size</strong>: Most Textures have a resolution of 2048x2048, some are 1024x1024</p><p><strong>Collision</strong>: Yes, Automatically Generated</p><p><strong>Average Triangle count</strong>: All models are low poly, the maximum number of triangles are 15,870. Vertices: 4 - 9,941.</p><p><strong>LODs</strong>: No</p><p><strong>Number of Meshes</strong>: 31</p><p><strong>Number of Materials</strong>: Common Master Materials 6, Material Instances 29</p><p><strong>Number of Textures</strong>: 68</p><p><strong>Intended Platform</strong>: All</p><p><strong>Platform Tested</strong>: Windows</p><p><strong>Documentation</strong>: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1195",
+      "name": "SKIING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:55.245Z",
+      "updated": "2019-06-20T11:59:55.245Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1100",
+      "name": "MINIGAMES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:08.293Z",
+      "updated": "2019-06-20T11:59:08.293Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1d8c1851-c3b4-4114-b4ac-6a92aef680b3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot01-1920x1080-f19993b54a302d8c2401dfe69aa5cb2c.png",
+      "md5": "f19993b54a302d8c2401dfe69aa5cb2c",
+      "size": 2395350,
+      "uploadedDate": "2019-11-15T08:43:59.600Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot02-1920x1080-7c0365376086586320b54896755b82f1.png",
+      "md5": "7c0365376086586320b54896755b82f1",
+      "size": 2265760,
+      "uploadedDate": "2019-11-15T08:44:00.321Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot03-1920x1080-88e2abc9f9fdf7b59566935f93cca362.png",
+      "md5": "88e2abc9f9fdf7b59566935f93cca362",
+      "size": 1649507,
+      "uploadedDate": "2019-11-15T08:44:01.041Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot04-1920x1080-ff584f975391907a186bddd48075fc4e.png",
+      "md5": "ff584f975391907a186bddd48075fc4e",
+      "size": 2050964,
+      "uploadedDate": "2019-11-15T08:44:01.916Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot05-1920x1080-07c1284d84c6e0c2ce8f780b64b71429.png",
+      "md5": "07c1284d84c6e0c2ce8f780b64b71429",
+      "size": 2462340,
+      "uploadedDate": "2019-11-15T08:44:02.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JapaneseRedLeavesGarden_thumb-284x284-214274ce6267d58b235671d6ba79a6fd.png",
+      "md5": "214274ce6267d58b235671d6ba79a6fd",
+      "size": 192794,
+      "uploadedDate": "2019-11-15T08:44:02.942Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/JapaneseRedLeavesGarden_featured-894x488-c646f8a021c73141123cf2acc9d8f293.png",
+      "md5": "c646f8a021c73141123cf2acc9d8f293",
+      "size": 885350,
+      "uploadedDate": "2019-11-15T08:44:03.094Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot01-1920x1080-f19993b54a302d8c2401dfe69aa5cb2c_Snapshot.png",
+      "md5": "f1e69182fd7ce5059977f595af374c70",
+      "size": 8091,
+      "uploadedDate": "2019-11-15T08:44:00.092Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot02-1920x1080-7c0365376086586320b54896755b82f1_Snapshot.png",
+      "md5": "e33f18809edb3a75bf4d53f05c7adb0b",
+      "size": 7400,
+      "uploadedDate": "2019-11-15T08:44:00.785Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot03-1920x1080-88e2abc9f9fdf7b59566935f93cca362_Snapshot.png",
+      "md5": "0f141dd6135723b459d51e0cbbb8fa4a",
+      "size": 7476,
+      "uploadedDate": "2019-11-15T08:44:01.724Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot04-1920x1080-ff584f975391907a186bddd48075fc4e_Snapshot.png",
+      "md5": "06d6235738c586081edba89d673de539",
+      "size": 7011,
+      "uploadedDate": "2019-11-15T08:44:02.332Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot05-1920x1080-07c1284d84c6e0c2ce8f780b64b71429_Snapshot.png",
+      "md5": "01de540854541473c1c5265e42d6f950",
+      "size": 7066,
+      "uploadedDate": "2019-11-15T08:44:02.789Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "669107e73ba246a5ac34f5de389cfe30"
+    }
+  ],
+  "catalogNs": null
+}

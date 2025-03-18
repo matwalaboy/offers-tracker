@@ -1,0 +1,350 @@
+{
+  "id": "41d16d02fdbe45afbbd889b44844e747",
+  "namespace": "ue",
+  "title": "Easy Cloud Shadows",
+  "description": "Tool designed to add performant, dynamic cloud shadows into your scene. Ideal for enhancing the depth of ground terrain or top-down levels, simulating realistic clouds movement using Light Function Material.",
+  "longDescription": "<p><strong>Official Documentation:</strong> <a href=\"https://www.hubberstudios.com/docs/easycloudshadows/index.html\" rel=\"nofollow\">Easy Cloud Shadows</a></p><p><strong>Showcase Video:</strong> <a href=\"https://www.youtube.com/watch?v&#61;zTuIDP8ni4U\" rel=\"nofollow\">Youtube</a></p><p><strong>For support, please join our </strong><a href=\"https://discord.gg/we2pS4kd4f\" rel=\"nofollow\">Discord Server</a></p><p><br /></p><p><strong>Easy Cloud Shadows</strong> is user-friendly and high-performance tool designed to Dynamic Cloud Shadows into your scene. Ideal for enhancing the depth of ground terrain or top-down levels, simulating realistic clouds movement using Light Function Material.</p><p>Feel free to contact us for any inquiries.</p><p><br /></p><p><strong>HIGHLIGHTS</strong></p><ul><li><strong>Dynamic Cloud Shadows</strong>. Enhance your scene with realistic and efficient cloud shadows.</li><li><strong>Easy to Use</strong>. Open you scene, select your light source and set the preferred Light Function Material.</li><li><strong>High Performance</strong>. Enjoy exceptional performance with a seamless integration of cloud shadows.</li><li><strong>Fully Customizable</strong>. Configure every aspect of the shadows to your liking, from shape and size to coverage, opacity, smoothness, animation, wind, and more!</li><li><strong>Realistic or Stylized</strong>. Choose between Realistic, Stylized, or Tempest shadows to suit your artistic vision.</li><li><strong>Material-based</strong>. Utilize a material-based approach for a more performant and flexible implementation.</li></ul><p><br /></p><p><strong>PLEASE NOTE:</strong> The assets shown in the screenshots is NOT included.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-cloud-shadows",
+  "creationDate": "2023-11-17T11:06:30.598Z",
+  "lastModifiedDate": "2024-09-27T22:57:36.948Z",
+  "effectiveDate": "2023-11-17T11:18:57.415Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8dba3nbs3yt48g6d97qtwe5jat5drd",
+    "name": "Hubber Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>FEATURES</strong></p><ul><li><strong>13 Material Instances</strong>. Choose from a selection of 13 pre-configured materials.</li><li><strong>12 Noise Textures</strong>. Access a variety of 12 noise textures to create your custom shadows.</li><li><strong>Master Material</strong>. Create custom cloud shadows by tweaking simple parameters.</li><li><strong>Demo scene</strong>. Explore the possibilities with the included demonstration scene.</li></ul><p><br /></p><p><strong>Number of Unique Materials and Material Instances</strong>: 14</p><p><strong>Number of Textures</strong>: 12</p><p><strong>Texture Resolutions</strong>: 512 - 4096</p><p><strong>Supported Development Platforms</strong></p><ul><li><strong>Windows</strong>: Yes</li><li><strong>Mac</strong>: Yes</li></ul><p><strong>Documentation</strong>: <a href=\"https://www.hubberstudios.com/docs/easycloudshadows/index.html\" rel=\"nofollow\">Easy Cloud Shadows</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6b39eb7d-5934-4856-b96a-eb3bdcd0cc9f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen001-1920x1080-8a326414d29a0cfb74ddc9eeacf07b1a.jpeg",
+      "md5": "8a326414d29a0cfb74ddc9eeacf07b1a",
+      "size": 2394661,
+      "uploadedDate": "2023-11-13T16:35:20.002Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen002-1920x1080-f936e18c71f2bf681b70bd1d5e0bf4b9.jpeg",
+      "md5": "f936e18c71f2bf681b70bd1d5e0bf4b9",
+      "size": 2207533,
+      "uploadedDate": "2023-11-13T16:35:20.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen003-1920x1080-6018be50648ca9bae2209af11bdeec6b.jpg",
+      "md5": "6018be50648ca9bae2209af11bdeec6b",
+      "size": 2998419,
+      "uploadedDate": "2023-11-13T16:35:21.267Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen004-1920x1080-7c97004d8a6bc9681c1a70bf44e95203.jpg",
+      "md5": "7c97004d8a6bc9681c1a70bf44e95203",
+      "size": 632054,
+      "uploadedDate": "2023-11-13T16:35:21.933Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen005-1920x1080-db9461a5e17cabebc197b2c0a761b7d3.jpg",
+      "md5": "db9461a5e17cabebc197b2c0a761b7d3",
+      "size": 512651,
+      "uploadedDate": "2023-11-13T16:35:22.445Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen006-1920x1080-7e6ab210573b6e66680cf0463f96098b.jpeg",
+      "md5": "7e6ab210573b6e66680cf0463f96098b",
+      "size": 2206834,
+      "uploadedDate": "2023-11-13T16:35:22.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EasyCloudShadowsScreen007-1920x1080-32b1c2485d3d416fcb11be5210edda85.jpg",
+      "md5": "32b1c2485d3d416fcb11be5210edda85",
+      "size": 2378213,
+      "uploadedDate": "2023-11-13T16:35:23.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyCloudShadows_thumb-284x284-29ef17e60ba4bee4231bdc21ad925186.png",
+      "md5": "29ef17e60ba4bee4231bdc21ad925186",
+      "size": 182935,
+      "uploadedDate": "2023-11-13T16:35:24.057Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyCloudShadows_featured-894x488-8395ef9367da2f0fb58676ed9bb53be5.png",
+      "md5": "8395ef9367da2f0fb58676ed9bb53be5",
+      "size": 943124,
+      "uploadedDate": "2023-11-13T16:35:24.232Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen001-1920x1080-8a326414d29a0cfb74ddc9eeacf07b1a_Snapshot.jpeg",
+      "md5": "6379735821797657e940de2ea9c6fe9c",
+      "size": 9388,
+      "uploadedDate": "2023-11-13T16:35:20.415Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen002-1920x1080-f936e18c71f2bf681b70bd1d5e0bf4b9_Snapshot.jpeg",
+      "md5": "bf69e4f3d81f3f7299fb2d2b4e2264ef",
+      "size": 8629,
+      "uploadedDate": "2023-11-13T16:35:21.010Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen003-1920x1080-6018be50648ca9bae2209af11bdeec6b_Snapshot.jpg",
+      "md5": "9131a39ba148cd6f9bea3dea36081c30",
+      "size": 8489,
+      "uploadedDate": "2023-11-13T16:35:21.776Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen004-1920x1080-7c97004d8a6bc9681c1a70bf44e95203_Snapshot.jpg",
+      "md5": "10544b4d9e298dca64ad01a59aba4314",
+      "size": 5970,
+      "uploadedDate": "2023-11-13T16:35:22.254Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen005-1920x1080-db9461a5e17cabebc197b2c0a761b7d3_Snapshot.jpg",
+      "md5": "87694c95865b4394846c265340f35674",
+      "size": 5390,
+      "uploadedDate": "2023-11-13T16:35:22.713Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen006-1920x1080-7e6ab210573b6e66680cf0463f96098b_Snapshot.jpeg",
+      "md5": "66bb7fa0a71d36b58d2a91c5c75c2455",
+      "size": 9410,
+      "uploadedDate": "2023-11-13T16:35:23.236Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EasyCloudShadowsScreen007-1920x1080-32b1c2485d3d416fcb11be5210edda85_Snapshot.jpg",
+      "md5": "72e535f62c5a7b83a9b399734e92ca62",
+      "size": 6162,
+      "uploadedDate": "2023-11-13T16:35:23.835Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8abe19453ec943cb8daf2498e58eb766"
+    }
+  ],
+  "catalogNs": null
+}

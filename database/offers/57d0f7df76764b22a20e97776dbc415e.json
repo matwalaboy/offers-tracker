@@ -1,0 +1,206 @@
+{
+  "id": "57d0f7df76764b22a20e97776dbc415e",
+  "namespace": "ue",
+  "title": "Water Sound FX",
+  "description": "Water Sound FX includes water sounds such as droplets, waves, underwater, thunder, rain, streams, and more. All tracks are loopable!",
+  "longDescription": "<p>Water Sound FX offers an extensive collection of water sounds, perfect for enhancing any project. This collection includes the soothing sound of droplets, the rhythmic crashing of waves, the mysterious ambiance of underwater, the dramatic rumble of thunder, the calming patter of rain, the gentle flow of streams, and much more. Each sound is carefully recorded to provide the highest quality and most realistic audio experience, ensuring your project captures the essence of nature’s most captivating element.</p><p>All tracks are loopable!</p><p><br /></p><p><a href=\"https://cplomedia.at/water-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;hx25aer0zx8&amp;ab_channel&#61;ChristophPlohovich\" rel=\"nofollow\">DEMO on Youtube</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "water-sound-fx",
+  "creationDate": "2024-06-18T04:02:09.637Z",
+  "lastModifiedDate": "2024-09-29T09:42:36.498Z",
+  "effectiveDate": "2024-06-18T04:02:09.605Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s97cdrwwmgf3h6usnee3rq3ypn7a97",
+    "name": "cplomedia"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Rain</li><li> Heavy Rain</li><li> Underwater</li><li>Thunder</li><li>Drops</li><li>Rivers</li><li>Waves</li></ul><p>Number of Audio Waves: 113</p><p>Number of Audio Cues: 113</p><p>Sample rate / bit rate: 44,100 Hz / 16 bit</p><p>Do Sound FX loop: YES</p><p>Minutes of audio provided: 30 minutes</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://cplomedia.at/water-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p>Important/Additional Notes: Have fun with it!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "Free to Play",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2023-08-16T14:13:34.540Z",
+      "status": "ACTIVE",
+      "referenceCount": 173,
+      "comment": null
+    },
+    {
+      "id": "1142",
+      "name": "CINEMATIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:29.217Z",
+      "updated": "2019-06-20T11:59:29.217Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bf383c49-93f4-4866-a447-f890835d34d5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery-1920x1080-44100f0c61588c9c2b5e2c070277c7ac.jpg",
+      "md5": "44100f0c61588c9c2b5e2c070277c7ac",
+      "size": 866906,
+      "uploadedDate": "2024-06-16T11:43:17.773Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WaterSoundFX_thumb-284x284-c220d9e4db29d7e4cadc058092e7dd27.png",
+      "md5": "c220d9e4db29d7e4cadc058092e7dd27",
+      "size": 156419,
+      "uploadedDate": "2024-06-16T11:43:18.438Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WaterSoundFX_featured-894x488-939b8c90d8730c3cb651cae1e9e36278.png",
+      "md5": "939b8c90d8730c3cb651cae1e9e36278",
+      "size": 718249,
+      "uploadedDate": "2024-06-16T11:43:18.616Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery-1920x1080-44100f0c61588c9c2b5e2c070277c7ac_Snapshot.jpg",
+      "md5": "eb5a21b9034b7beb88de903da110dde6",
+      "size": 8244,
+      "uploadedDate": "2024-06-16T11:43:18.342Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "15b58e4230f141d5b120058477161bcf"
+    }
+  ],
+  "catalogNs": null
+}

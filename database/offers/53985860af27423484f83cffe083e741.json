@@ -1,0 +1,227 @@
+{
+  "id": "53985860af27423484f83cffe083e741",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Desert",
+  "description": "Asset package equipped with everything you need to design stylized Low Poly Desert environments.",
+  "longDescription": "<p>Preview: <a href=\"https://youtu.be/Ndd8hPzmdN0\" rel=\"nofollow\">youtu.be/Ndd8hPzmdN0</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>The assets of this pack have a wide range of possibilities, it fits a lot of environments in Desert biomes, from rocky canyons to sandy deserts, through desert plains and oasis, all this while maintaining a harmonious stylized low poly, thanks to its simplicity.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-desert",
+  "creationDate": "2016-08-16T19:25:01.302Z",
+  "lastModifiedDate": "2024-09-29T23:54:00.541Z",
+  "effectiveDate": "2016-09-07T00:00:00.000Z",
+  "viewableDate": "2016-09-07T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> (13) Trees (Various Species) </li><li> (35) Rocks from all the sizes </li><li> (6) Animal Bones </li><li> (5) Bushes </li><li> (5) DryTrees </li><li> (4) Trunks </li><li> (22) Cactus </li><li> (6) Grass and Ground Plants </li><li> (5) BackGround LandScapes </li><li> (3) Clouds Included </li></ul><p>Texture Size: All 2048x2048</p><p>Number of Textures: 6 (all used in the Grass and Ground Plants)</p><p>Collision: Yes, Per-Poly Collisions</p><p>Vertex Count: 8 to 802</p><p>LODs: 0</p><p>Number of Meshes: 104</p><p>Number of Materials and Material Instances: 4 Master Materials, 23 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "807a9e68-9028-4f16-85fa-e88712dffad7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot01-1920x1080-7a1ffa715af0bb4d7570040f5926edc8.png",
+      "md5": "7a1ffa715af0bb4d7570040f5926edc8",
+      "size": 809086,
+      "uploadedDate": "2016-09-07T16:57:57.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot02-1920x1080-46c94a3180c4da3788e8200070f1001d.png",
+      "md5": "46c94a3180c4da3788e8200070f1001d",
+      "size": 704653,
+      "uploadedDate": "2016-09-07T16:57:54.752Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot03-1920x1080-f6006dca8f51f6ff87e5803531955e0d.png",
+      "md5": "f6006dca8f51f6ff87e5803531955e0d",
+      "size": 750658,
+      "uploadedDate": "2016-09-07T16:57:51.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot04-1920x1080-bb837c4f983bcbd76ed1dcf34155542e.png",
+      "md5": "bb837c4f983bcbd76ed1dcf34155542e",
+      "size": 659735,
+      "uploadedDate": "2016-09-07T16:57:44.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot05-1920x1080-52e76ed5479409683dc20fc5b7c25936.png",
+      "md5": "52e76ed5479409683dc20fc5b7c25936",
+      "size": 677202,
+      "uploadedDate": "2016-09-07T16:57:42.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot06-1920x1080-848ab2cf29fa3e1764a2dc5be6e51639.png",
+      "md5": "848ab2cf29fa3e1764a2dc5be6e51639",
+      "size": 660008,
+      "uploadedDate": "2016-09-07T16:57:39.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot07-1920x1080-4095d518b8f1f65da3ad7680764c6b32.png",
+      "md5": "4095d518b8f1f65da3ad7680764c6b32",
+      "size": 630638,
+      "uploadedDate": "2016-09-07T16:57:36.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot08-1920x1080-9d0d36e1f2a3c94f3aa430abdb1fcd5c.png",
+      "md5": "9d0d36e1f2a3c94f3aa430abdb1fcd5c",
+      "size": 784861,
+      "uploadedDate": "2016-09-07T16:57:33.555Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot09-1920x1080-30838d91798354e65393f0dcaf8bca06.png",
+      "md5": "30838d91798354e65393f0dcaf8bca06",
+      "size": 679270,
+      "uploadedDate": "2016-09-07T16:57:30.921Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_screenshot10-1920x1080-e6ba6d37b0d096b80e335c928ed83795.png",
+      "md5": "e6ba6d37b0d096b80e335c928ed83795",
+      "size": 696176,
+      "uploadedDate": "2016-09-07T16:57:29.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_Thumb-284x284-05c862bb0eaeac63770eb529a094302c.png",
+      "md5": "05c862bb0eaeac63770eb529a094302c",
+      "size": 242022,
+      "uploadedDate": "2016-09-07T16:57:26.916Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_Featured-476x246-629f750710c4a8a1b7f60bd652317c18.png",
+      "md5": "629f750710c4a8a1b7f60bd652317c18",
+      "size": 351342,
+      "uploadedDate": "2016-09-07T16:58:07.550Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyDesert_FeaturedNew-894x488-6a8bddb3519c8085974567e804862c81.png",
+      "md5": "6a8bddb3519c8085974567e804862c81",
+      "size": 732010,
+      "uploadedDate": "2016-09-07T16:58:06.240Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "35a1f4ee72b64d35925e274894b80ed9"
+    }
+  ],
+  "catalogNs": null
+}

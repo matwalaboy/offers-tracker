@@ -1,0 +1,314 @@
+{
+  "id": "e1b2770b1e5d44e6ae6b83aa1ec3f486",
+  "namespace": "ue",
+  "title": "Soviet People: Factory",
+  "description": "Retro workers of the USSR",
+  "longDescription": "<p>Reakistic retro characters, one woman and two men which could be factory workers or builders or drivers of Soviet or Western countries of the 1940-1960 with customisable outfit color.</p><p>Rig video preview with standard (Manny) animations you may check <a href=\"https://youtu.be/l-fvxuKY-u8\" rel=\"nofollow\">here</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "soviet-people-factory",
+  "creationDate": "2024-08-13T22:56:02.599Z",
+  "lastModifiedDate": "2024-09-26T19:56:44.923Z",
+  "effectiveDate": "2024-08-13T22:56:02.542Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zyhgjz2p5ewfu465h6lnqs4d6vguem",
+    "name": "Paul N"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Three characters;</li><li> Variable hair and cloth color;</li></ul><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>IK bones are included: (Yes)</p><p>Animated: (No)</p><p>Number of characters: 3</p><p>Vertex counts of characters:</p><ul><li>Driver: 13604</li><li>Factory man: 13368</li><li>Woman: 11405</li></ul><p>Number of Materials and Material Instances: 13</p><p>Number of Textures: 16</p><p>Texture Resolutions: (12 textures of bodies in 4096x4096, 2 different color textures of eyes in 512x512, two textures of hair in 1024x1024)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3536e772-4427-4636-856f-53f4ccc94b05"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-0e2915a7831663a462ddd3ffac96e8b3.png",
+      "md5": "0e2915a7831663a462ddd3ffac96e8b3",
+      "size": 2889386,
+      "uploadedDate": "2024-08-13T19:14:04.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-556e376a01370d5d010becf0c3571bcd.jpg",
+      "md5": "556e376a01370d5d010becf0c3571bcd",
+      "size": 494655,
+      "uploadedDate": "2024-08-13T19:14:05.116Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-ad17818cffe2746380e9c3c7b4377e76.jpg",
+      "md5": "ad17818cffe2746380e9c3c7b4377e76",
+      "size": 489050,
+      "uploadedDate": "2024-08-13T19:14:05.700Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-decf3345dd5e901cfc37e8bd4d96fe91.jpg",
+      "md5": "decf3345dd5e901cfc37e8bd4d96fe91",
+      "size": 596016,
+      "uploadedDate": "2024-08-13T19:14:06.158Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00014-1920x1080-870df7b7054772c0275857dc76cdd47e.jpg",
+      "md5": "870df7b7054772c0275857dc76cdd47e",
+      "size": 607624,
+      "uploadedDate": "2024-08-13T19:14:06.528Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SovietPeopleFactory_thumb-284x284-73611f2321c28a116d7e1ca94c80e2c9.png",
+      "md5": "73611f2321c28a116d7e1ca94c80e2c9",
+      "size": 174924,
+      "uploadedDate": "2024-08-13T19:14:06.966Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SovietPeopleFactory_featured-894x488-59bb4feb4ee7f28a58d5fe10d97e86a8.png",
+      "md5": "59bb4feb4ee7f28a58d5fe10d97e86a8",
+      "size": 565836,
+      "uploadedDate": "2024-08-13T19:14:07.104Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-0e2915a7831663a462ddd3ffac96e8b3_Snapshot.png",
+      "md5": "4d37a2ac42b1ecf60d48da51b59a0765",
+      "size": 5687,
+      "uploadedDate": "2024-08-13T19:14:04.960Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-556e376a01370d5d010becf0c3571bcd_Snapshot.jpg",
+      "md5": "c68bbd41aa1cbadaba55acbfba15c11b",
+      "size": 5048,
+      "uploadedDate": "2024-08-13T19:14:05.465Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-ad17818cffe2746380e9c3c7b4377e76_Snapshot.jpg",
+      "md5": "d8e7e0671692835da36bae792fe1ebe6",
+      "size": 5203,
+      "uploadedDate": "2024-08-13T19:14:05.937Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-decf3345dd5e901cfc37e8bd4d96fe91_Snapshot.jpg",
+      "md5": "f27779479ce34a556b8cc34f503ca3f7",
+      "size": 5868,
+      "uploadedDate": "2024-08-13T19:14:06.402Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00014-1920x1080-870df7b7054772c0275857dc76cdd47e_Snapshot.jpg",
+      "md5": "c37ca5633195911b1699fd2a34927067",
+      "size": 7013,
+      "uploadedDate": "2024-08-13T19:14:06.850Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "931678e757d64fb9a42f834b5e9e5f42"
+    }
+  ],
+  "catalogNs": null
+}

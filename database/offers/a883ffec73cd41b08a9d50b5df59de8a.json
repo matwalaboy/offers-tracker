@@ -1,0 +1,296 @@
+{
+  "id": "a883ffec73cd41b08a9d50b5df59de8a",
+  "namespace": "ue",
+  "title": "Ancient Coins",
+  "description": "Ancient Coins pack with 150 images to enrich your game’s UI with historical currency icons.",
+  "longDescription": "<p>Enrich your game’s user interface with the Ancient Coins pack, featuring 150 meticulously designed images in three different resolutions: 256x256, 512x512, and 1024x1024. These coins are inspired by historical currencies, making them ideal for fantasy, RPG, and historical-themed games. Whether you&#39;re creating inventory items, collectible rewards, or decorative UI elements, this collection offers a range of sizes and designs to enhance the authenticity and depth of your game.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ancient-coins",
+  "creationDate": "2024-09-05T18:04:09.351Z",
+  "lastModifiedDate": "2024-09-30T20:30:39.669Z",
+  "effectiveDate": "2024-09-05T18:04:09.319Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolutions:</strong> 256x256, 512x512, 1024x1024 pixels</li><li><strong>Total Images:</strong> 150</li><li><strong>File Format:</strong> PNG</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8d35125b-4409-4ba9-9038-71419527f133"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview001-1920x1080-e5d8bd58e7f50e7cf89f76d8d8020bd9.jpeg",
+      "md5": "e5d8bd58e7f50e7cf89f76d8d8020bd9",
+      "size": 188401,
+      "uploadedDate": "2024-08-28T14:12:10.588Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-41d16bcbdc85063b536e160d4cb37c7c.jpeg",
+      "md5": "41d16bcbdc85063b536e160d4cb37c7c",
+      "size": 309093,
+      "uploadedDate": "2024-08-28T14:12:11.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-e3341b6ea34b20f3328f013524c30fa6.jpeg",
+      "md5": "e3341b6ea34b20f3328f013524c30fa6",
+      "size": 356659,
+      "uploadedDate": "2024-08-28T14:12:11.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm005-1920x1080-c3b326ee1f7085e03306d9806ccca25d.jpeg",
+      "md5": "c3b326ee1f7085e03306d9806ccca25d",
+      "size": 289195,
+      "uploadedDate": "2024-08-28T14:12:11.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm006-1920x1080-1aa0e8319312b1b9572ebf42e8a3f7bb.jpeg",
+      "md5": "1aa0e8319312b1b9572ebf42e8a3f7bb",
+      "size": 324079,
+      "uploadedDate": "2024-08-28T14:12:12.211Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm007-1920x1080-0e00796e9270f70cff2aa9db7482d024.jpeg",
+      "md5": "0e00796e9270f70cff2aa9db7482d024",
+      "size": 327040,
+      "uploadedDate": "2024-08-28T14:12:12.608Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AncientCoins_thumb-284x284-d296e9c2fbcc43e46f91eccf6f6e4892.png",
+      "md5": "d296e9c2fbcc43e46f91eccf6f6e4892",
+      "size": 113866,
+      "uploadedDate": "2024-08-28T14:12:12.933Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AncientCoins_featured-894x488-5004b1ab0e4bcea26b5b5866860d8525.png",
+      "md5": "5004b1ab0e4bcea26b5b5866860d8525",
+      "size": 244298,
+      "uploadedDate": "2024-08-28T14:12:13.141Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview001-1920x1080-e5d8bd58e7f50e7cf89f76d8d8020bd9_Snapshot.jpeg",
+      "md5": "64097f71e36b10e1679148ff86ec6794",
+      "size": 4213,
+      "uploadedDate": "2024-08-28T14:12:10.817Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-41d16bcbdc85063b536e160d4cb37c7c_Snapshot.jpeg",
+      "md5": "c84ecbe6b1913353c3518167e8034752",
+      "size": 8434,
+      "uploadedDate": "2024-08-28T14:12:11.318Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-e3341b6ea34b20f3328f013524c30fa6_Snapshot.jpeg",
+      "md5": "bc8c4d5a9bc940a1e0b5cc6784913cd8",
+      "size": 8628,
+      "uploadedDate": "2024-08-28T14:12:11.721Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm005-1920x1080-c3b326ee1f7085e03306d9806ccca25d_Snapshot.jpeg",
+      "md5": "c643a607b95657a80b3e004184a48b62",
+      "size": 8237,
+      "uploadedDate": "2024-08-28T14:12:12.112Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm006-1920x1080-1aa0e8319312b1b9572ebf42e8a3f7bb_Snapshot.jpeg",
+      "md5": "973fe6d1439e93fbc1be1f65432bcbb7",
+      "size": 8391,
+      "uploadedDate": "2024-08-28T14:12:12.450Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm007-1920x1080-0e00796e9270f70cff2aa9db7482d024_Snapshot.jpeg",
+      "md5": "4aeabd0d46647c06fcdf83868eb01c66",
+      "size": 8764,
+      "uploadedDate": "2024-08-28T14:12:12.882Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "04f7114160bc4518acdec79c30be116d"
+    }
+  ],
+  "catalogNs": null
+}

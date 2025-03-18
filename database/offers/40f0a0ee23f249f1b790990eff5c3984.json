@@ -1,0 +1,281 @@
+{
+  "id": "40f0a0ee23f249f1b790990eff5c3984",
+  "namespace": "ue",
+  "title": "3D VOLUME TEXT",
+  "description": "Easily create 3d volumetric text on the scene for your games with a virtual reality and not only!",
+  "longDescription": "<p>Ready for freelance orders - write to the <a href=\"https://discord.gg/BZV4Qh3\" rel=\"nofollow\">discord</a> or email yarmin.dev&#64;gmail.com.</p><p><br /></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/YarminStudio\" rel=\"nofollow\">YarminStudio</a> - Check my other content</p><p><a href=\"https://discord.gg/BZV4Qh3\" rel=\"nofollow\">Discord</a> - Support and information about discounts</p><p>Video demonstration (1.1): <a href=\"https://youtu.be/Igg9AK1w5S0\" rel=\"nofollow\">https://youtu.be/Igg9AK1w5S0</a></p><p>Package demonstration (1.1): <a href=\"https://goo.gl/fzqE4P\" rel=\"nofollow\">https://goo.gl/fzqE4P</a></p><p><br /></p><p>Fully customizable blueprint to create <strong>volume 3D text</strong> for your scenes. The script fully supports font size changes, space between letters, height between lines, volume change, color change, adding transparency, metal effect and roughness.</p><p><br /></p><p><strong>Update 1.5 (</strong>4.22 and higher)<strong>:</strong></p><p><strong>UNREAL ENGINE 5 SUPPORTED</strong></p><p>Text alignment: left, right, center</p><p><br /></p><p><strong>Available effect:</strong></p><ul><li>The effect of a typewriter with a customizable sound and playback time.</li><li>The effect of slow filling.</li></ul><p><u>The list will be updated!</u></p><p><br /></p><p><strong>Available characters are: </strong></p><p>[A-Z]</p><p>[a-z] </p><p>[0-9] </p><p>[А-Я]</p><p>[а-я]</p><p>-_.,:;?!&#64;#$%&amp;*&#61;&#43;()[]{}&lt;&gt;&#39;&#34;/|\\^~</p><p><br /></p><p><strong>Update 1.4:</strong></p><p>New function node &#34;Set text&#34; for set new text in game</p><p>Bug fixed</p><p><br /></p><p><strong>Available fonts (royalty-free):</strong></p><p>1. Days &#43; cyrillic</p><p>2. BULKYPIX</p><p>3. Krabuler &#43; cyrillic</p><p>4. GNWestern</p><p>5. LazenbyCompLiquid</p><p>6. Autobus</p><p>7. ConcertOne</p><p>8. Metropolis</p><p><u>9. The list will be updated! Add in the comments fonts name, the most popular will be added with the archive.</u></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "3d-volume-text",
+  "creationDate": "2017-10-23T20:15:08.924Z",
+  "lastModifiedDate": "2024-09-29T21:57:26.061Z",
+  "effectiveDate": "2017-10-23T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-072d8dcdd84f199abcd4395702183a",
+    "name": "YarminStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 11</p><p>Number of meshes: 1374 Static meshes </p><p>Average Triangle count: 500 ranging from 20 to ~2000 triangles </p><p>Number of Materials: 4 materials (1 master materials and 3 material instances) </p><p>Collision: Simplified collision mesh </p><p>Input: not included (demo WASD flying)</p><p>Network Replicated: not required</p><p>Supported Development Platforms: Windows 7&#43;</p><p>Supported Target Build Platforms: Windows 7&#43;</p><p>Documentation: No (Not needed) </p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "18de7f0f-ec2c-412b-a47a-11c39b5762d4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Desktop Screenshot 2022.01.29 - 19.48.07.43-1920x1080-cbd345c989d184d60519a6b246bab2d4.png",
+      "md5": "cbd345c989d184d60519a6b246bab2d4",
+      "size": 1650278,
+      "uploadedDate": "2022-01-29T16:54:11.670Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-2-1920x1080-439a1a9389968596860548b84aacad24.png",
+      "md5": "439a1a9389968596860548b84aacad24",
+      "size": 658152,
+      "uploadedDate": "2018-03-05T21:57:38.829Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_014-1920x1080-4e85bc387a6f6f379a4ef76a09a3dcc5.png",
+      "md5": "4e85bc387a6f6f379a4ef76a09a3dcc5",
+      "size": 404530,
+      "uploadedDate": "2017-11-18T07:46:05.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_013-1920x1080-9c2599e136d02d46dc89eb47eeb5411c.png",
+      "md5": "9c2599e136d02d46dc89eb47eeb5411c",
+      "size": 1389954,
+      "uploadedDate": "2017-11-13T23:24:53.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_012-1920x1080-ac21a73a7a2fbdcfa557b16e4a0b7fd7.png",
+      "md5": "ac21a73a7a2fbdcfa557b16e4a0b7fd7",
+      "size": 1254681,
+      "uploadedDate": "2017-11-13T23:24:54.259Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_01-1920x1080-8e66aa8c76c6d08e059cee29df411495.png",
+      "md5": "8e66aa8c76c6d08e059cee29df411495",
+      "size": 343161,
+      "uploadedDate": "2017-10-12T22:39:43.404Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_02-1920x1080-b155f9116edcbfd025fe0e78f6a597c4.png",
+      "md5": "b155f9116edcbfd025fe0e78f6a597c4",
+      "size": 341791,
+      "uploadedDate": "2017-10-12T22:39:43.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_03-1920x1080-e80a97bee9fd02d9c95dcfee186ae20b.png",
+      "md5": "e80a97bee9fd02d9c95dcfee186ae20b",
+      "size": 550569,
+      "uploadedDate": "2017-10-12T22:39:43.714Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_04-1920x1080-bdb88d85b67f08109c3ab2562081d788.png",
+      "md5": "bdb88d85b67f08109c3ab2562081d788",
+      "size": 424841,
+      "uploadedDate": "2017-10-12T22:39:43.863Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_05-1920x1080-5efd61239047576dc68ce2d0bb889ec2.png",
+      "md5": "5efd61239047576dc68ce2d0bb889ec2",
+      "size": 346586,
+      "uploadedDate": "2017-10-12T22:39:43.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_06-1920x1080-828cb600c1fe4e62ec8825f50abc213e.png",
+      "md5": "828cb600c1fe4e62ec8825f50abc213e",
+      "size": 333603,
+      "uploadedDate": "2017-10-12T22:39:44.125Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_07-1920x1080-9be2ff82cc58cecf45da3814c02f8035.png",
+      "md5": "9be2ff82cc58cecf45da3814c02f8035",
+      "size": 421185,
+      "uploadedDate": "2017-10-12T22:39:44.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_08-1920x1080-873887f3e2b0f995e46965a34f232e9a.png",
+      "md5": "873887f3e2b0f995e46965a34f232e9a",
+      "size": 521942,
+      "uploadedDate": "2017-10-12T22:39:44.505Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_09-1920x1080-2425651add0a5edcebdafa2375b44112.png",
+      "md5": "2425651add0a5edcebdafa2375b44112",
+      "size": 469855,
+      "uploadedDate": "2017-10-12T22:39:44.647Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_010-1920x1080-abfb2e5680543fd1d30f3e83db886c94.png",
+      "md5": "abfb2e5680543fd1d30f3e83db886c94",
+      "size": 487960,
+      "uploadedDate": "2017-10-12T22:39:44.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/VolumeText_011-1920x1080-332d598f1ccbb04b0989eb8f1dda3400.png",
+      "md5": "332d598f1ccbb04b0989eb8f1dda3400",
+      "size": 677850,
+      "uploadedDate": "2017-10-12T22:39:45.078Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/3DVOLUMETEXT_thumb-284x284-e680a2c1eac677e862def523813b9305.png",
+      "md5": "e680a2c1eac677e862def523813b9305",
+      "size": 120349,
+      "uploadedDate": "2022-01-29T16:59:12.168Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/3DVOLUMETEXT_featured-894x488-432db63d44ee6924e2c2c0397217d1b8.png",
+      "md5": "432db63d44ee6924e2c2c0397217d1b8",
+      "size": 475469,
+      "uploadedDate": "2017-10-12T22:39:45.250Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Desktop Screenshot 2022.01.29 - 19.48.07.43-1920x1080-cbd345c989d184d60519a6b246bab2d4_Snapshot.png",
+      "md5": "ca9468e903ec5184c85472cb5d01f999",
+      "size": 6250,
+      "uploadedDate": "2022-01-29T16:54:12.032Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "bc766480f06b46e8b6ac1aa941ab4566"
+    }
+  ],
+  "catalogNs": null
+}

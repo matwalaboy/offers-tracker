@@ -1,0 +1,191 @@
+{
+  "id": "ac8350fcc7324e08acdfb5e71067c91f",
+  "namespace": "ue",
+  "title": "Not Yet: Blueprint Console Commands",
+  "description": "Register in an easy way Blueprint functions as console commands",
+  "longDescription": "<p>This plugin allows you to automatically register some Blueprint functions as console commands.</p><p><strong>Features:</strong></p><ul><li>Easily auto register Blueprint functions as console commands from any actor</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "not-yet-console-extension",
+  "creationDate": "2019-03-28T15:33:28.338Z",
+  "lastModifiedDate": "2024-09-29T16:22:16.247Z",
+  "effectiveDate": "2019-03-28T15:33:28.146Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bf784eefn92xnmvwl5qp7esuzz242l",
+    "name": "Not Yet"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Code Modules</strong>: NotYetConsoleExtension - [Runtime]</p><p><strong>Network Replicated</strong>: No</p><p><strong>Supported Development Platforms</strong>: Windows, Linux</p><p><strong>Supported Target Build Platforms</strong>: Windows, Linux</p><p><strong>Documentation</strong>: <a href=\"https://bit.ly/NYConsoleExtensionWiki\" rel=\"nofollow\">CLICK HERE</a></p><p><strong>Example Project:  </strong><a href=\"https://www.dropbox.com/scl/fi/j0drg3v9v72723rjzkedy/NotYetConsoleExtensionExample-5.3.zip?rlkey&#61;mc3iq8t3fdk38a8af6kpfp72n&amp;dl&#61;1\" rel=\"nofollow\">5.3 version</a> or<strong> </strong><a href=\"https://www.dropbox.com/s/qfjz5zba2ukefw9/NotYetConsoleExtensionExample-5.2.zip?dl&#61;1\" rel=\"nofollow\">5.2 version</a> or <a href=\"https://www.dropbox.com/s/evbssqsujv673kr/NotYetConsoleExtensionExample-5.1.zip?dl&#61;1\" rel=\"nofollow\">5.1 version</a> (<strong>must own the plugin to make it work</strong>)</p><p><strong>Contact</strong>: <a href=\"https://bit.ly/NYDiscord\" rel=\"nofollow\">Discord</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "13faf13b-e660-4a89-97fe-914df2309e8a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/firstnew-1920x1080-dde928b99d693834ba74b983f30e6144.png",
+      "md5": "dde928b99d693834ba74b983f30e6144",
+      "size": 412865,
+      "uploadedDate": "2019-04-08T19:22:08.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/second-1920x1080-2b7e02eb24828517c1c2f0c5dd217068.png",
+      "md5": "2b7e02eb24828517c1c2f0c5dd217068",
+      "size": 316108,
+      "uploadedDate": "2019-03-04T16:20:14.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/third-1920x1080-0b6b21431e68ad42a70590d333d4d9d9.png",
+      "md5": "0b6b21431e68ad42a70590d333d4d9d9",
+      "size": 634336,
+      "uploadedDate": "2019-03-04T16:20:14.720Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NotYetConsoleExtension_thumb-284x284-dac23debe6fc0cd014138cdd7b60e415.png",
+      "md5": "dac23debe6fc0cd014138cdd7b60e415",
+      "size": 19481,
+      "uploadedDate": "2019-03-04T16:20:14.906Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NotYetConsoleExtension_featured-894x488-ff60ae5928a54277f945ef17a9c1369b.png",
+      "md5": "ff60ae5928a54277f945ef17a9c1369b",
+      "size": 221596,
+      "uploadedDate": "2019-03-04T16:20:14.990Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/firstnew-1920x1080-dde928b99d693834ba74b983f30e6144_Snapshot.png",
+      "md5": "b6b1a3d49510116da2ea2c9334124ca1",
+      "size": 9773,
+      "uploadedDate": "2019-04-08T19:22:08.883Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/first-1920x1080-1d1ca848b538c0612bd0bfd02d31a294_Snapshot.png",
+      "md5": "e1918ddfb9c7ce6f248a03f2736ee7b4",
+      "size": 9029,
+      "uploadedDate": "2019-03-04T16:20:14.320Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/second-1920x1080-2b7e02eb24828517c1c2f0c5dd217068_Snapshot.png",
+      "md5": "d9007c77f7f9fc0b91d1d2b77294c2f3",
+      "size": 6986,
+      "uploadedDate": "2019-03-04T16:20:14.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/third-1920x1080-0b6b21431e68ad42a70590d333d4d9d9_Snapshot.png",
+      "md5": "d6bcec404147127039949df9554ea3be",
+      "size": 10230,
+      "uploadedDate": "2019-03-04T16:20:14.848Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0a31c68707c3452fa5f15f406b970109"
+    }
+  ],
+  "catalogNs": null
+}

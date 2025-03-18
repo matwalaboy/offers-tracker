@@ -1,0 +1,545 @@
+{
+  "id": "bc4f7d4f9bae4284ab20ec8766c68db0",
+  "namespace": "ue",
+  "title": "Post-apocalyptic Melee Weapons",
+  "description": "73 homemade swords, spears and knives for self-defense against raiders, mutants and all kinds of zombies in different post-apocalyptic scenarios of the future.",
+  "longDescription": "<p>73 homemade swords, spears and knives for self-defense against raiders, mutants and all kinds of zombies in different post-apocalyptic scenarios of the future.</p><p><br /></p><p>Pack includes (save 20%):</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/6991cab756064625a4f3a70769e3a825\" rel=\"nofollow\">Post-apocalyptic Swords</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/93772610d5b24453bd3e7e913c92cc4a\" rel=\"nofollow\">Post-apocalyptic Spears</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/50dc04e2527f44b0a43eeec3b677494b\" rel=\"nofollow\">Post-apocalyptic Knives</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "post-apocalyptic-melee-weapons-01",
+  "creationDate": "2022-01-09T17:15:32.844Z",
+  "lastModifiedDate": "2024-09-30T11:48:33.103Z",
+  "effectiveDate": "2022-01-09T17:15:32.746Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vlda7d8vyan6gqdjbvf8fr25tmmy2z",
+    "name": "Anton Polyakov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>High-quality PBR-textures</li><li>Meshes come with a set of LODs (LOD0, LOD1, LOD2, LOD3)</li><li>Generated collisions</li><li>Models is built to real-world scale (metric system)</li><li>Correctly placed pivots</li><li>Efficient use of the UV space</li><li>Optimized topology</li><li>All materials and objects named appropriately</li><li>No special plugins needed</li></ul><p>Number of Unique Meshes: 73</p><p>Collision: Yes, custom</p><p>Vertex Count: from 390 to 5787</p><p>LODs: Yes</p><p>Number of Materials and Material Instances: 1 Material, 12 Material Instances</p><p>Number of Textures: 39</p><p>Texture Resolutions: 128×128 - 2048x2048</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/weapons"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ac2bb156-c6c4-42f7-a7c3-36a3934a8bb0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/all-1920x1080-33feca89930a5b5e283b64683f8f140b.png",
+      "md5": "33feca89930a5b5e283b64683f8f140b",
+      "size": 616238,
+      "uploadedDate": "2022-01-09T11:21:34.879Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/allall-1920x1080-333590ecd9e242476fe8633e12eeb2c2.png",
+      "md5": "333590ecd9e242476fe8633e12eeb2c2",
+      "size": 1408769,
+      "uploadedDate": "2022-01-09T11:21:33.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-d083b54fd6572fc012fc8d8b9c8f3ad9.png",
+      "md5": "d083b54fd6572fc012fc8d8b9c8f3ad9",
+      "size": 526084,
+      "uploadedDate": "2022-01-28T18:51:02.645Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/001-1920x1080-dd93d268f78e777badfc6182a3a00ac2.png",
+      "md5": "dd93d268f78e777badfc6182a3a00ac2",
+      "size": 1431243,
+      "uploadedDate": "2022-01-09T11:21:34.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-eab4637a8b87ab00f4d44fcb552e5fab.png",
+      "md5": "eab4637a8b87ab00f4d44fcb552e5fab",
+      "size": 438754,
+      "uploadedDate": "2022-01-28T18:51:02.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/katana-1920x1080-7a9d475cb7c045b968be1311219d8ddc.png",
+      "md5": "7a9d475cb7c045b968be1311219d8ddc",
+      "size": 595996,
+      "uploadedDate": "2022-01-09T11:21:35.397Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gladius-1920x1080-24e6581b4395b974779f21c928984244.png",
+      "md5": "24e6581b4395b974779f21c928984244",
+      "size": 843188,
+      "uploadedDate": "2022-01-09T11:21:36.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/backsword-1920x1080-865dc4c3eb752a4bff216bf71d0164e2.png",
+      "md5": "865dc4c3eb752a4bff216bf71d0164e2",
+      "size": 584727,
+      "uploadedDate": "2022-01-09T11:21:36.556Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bastard-1920x1080-03584f04d693fa1f049a232d88e80455.png",
+      "md5": "03584f04d693fa1f049a232d88e80455",
+      "size": 539573,
+      "uploadedDate": "2022-01-09T11:21:37.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/yata-1920x1080-55f6e0baaa878fc51fe0357092e2066a.png",
+      "md5": "55f6e0baaa878fc51fe0357092e2066a",
+      "size": 634937,
+      "uploadedDate": "2022-01-09T11:21:37.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-ee0b9a48c2c688fdb0a1ce6ea61a0156.png",
+      "md5": "ee0b9a48c2c688fdb0a1ce6ea61a0156",
+      "size": 1287810,
+      "uploadedDate": "2022-01-09T11:21:37.983Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-68d61fd25d4dbb3e4e65118b0e4785ec.png",
+      "md5": "68d61fd25d4dbb3e4e65118b0e4785ec",
+      "size": 1390625,
+      "uploadedDate": "2022-01-09T11:21:38.546Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-ba39ced74e7034b82ef3b866f0f22ec3.png",
+      "md5": "ba39ced74e7034b82ef3b866f0f22ec3",
+      "size": 1297739,
+      "uploadedDate": "2022-01-09T11:21:39.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-7e25a5200bf4b2eaf46718e22d4ce33c.png",
+      "md5": "7e25a5200bf4b2eaf46718e22d4ce33c",
+      "size": 1348886,
+      "uploadedDate": "2022-01-09T11:21:39.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/012-1920x1080-35de8259c8b8ab8a2410f81b8b4311e8.png",
+      "md5": "35de8259c8b8ab8a2410f81b8b4311e8",
+      "size": 1676354,
+      "uploadedDate": "2022-01-09T11:21:40.160Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-da0d4e2afea06f52eb9f5ef67b4b1a31.png",
+      "md5": "da0d4e2afea06f52eb9f5ef67b4b1a31",
+      "size": 673640,
+      "uploadedDate": "2022-01-09T11:21:40.652Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PostapocalypticMeleeWeapons_thumb-284x284-045f273eb92a547a2214bed32a8eae03.png",
+      "md5": "045f273eb92a547a2214bed32a8eae03",
+      "size": 57851,
+      "uploadedDate": "2022-01-28T18:51:03.104Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PostapocalypticMeleeWeapons_featured-894x488-70a7f775f7d23deaa8f4ee1c74e88bd2.png",
+      "md5": "70a7f775f7d23deaa8f4ee1c74e88bd2",
+      "size": 247181,
+      "uploadedDate": "2022-01-28T18:51:03.219Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-d083b54fd6572fc012fc8d8b9c8f3ad9_Snapshot.png",
+      "md5": "7faeb2eca51e042cd84bacf51de78d9e",
+      "size": 4105,
+      "uploadedDate": "2022-01-28T18:51:02.771Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-eab4637a8b87ab00f4d44fcb552e5fab_Snapshot.png",
+      "md5": "a03cc5de3bed59b976487af4388b75a6",
+      "size": 3355,
+      "uploadedDate": "2022-01-28T18:51:02.987Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-70f6c3d8437c023895f0a2de280714f5_Snapshot.png",
+      "md5": "08ca6cf931d735b39b99143d258f69fb",
+      "size": 3664,
+      "uploadedDate": "2022-01-09T11:21:33.025Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/allall-1920x1080-333590ecd9e242476fe8633e12eeb2c2_Snapshot.png",
+      "md5": "180da201aa382119fef38902e0649324",
+      "size": 5626,
+      "uploadedDate": "2022-01-09T11:21:33.867Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/001-1920x1080-dd93d268f78e777badfc6182a3a00ac2_Snapshot.png",
+      "md5": "c1fd4c2d9ab27b1f48ad75a4adad89b8",
+      "size": 3981,
+      "uploadedDate": "2022-01-09T11:21:34.588Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/all-1920x1080-33feca89930a5b5e283b64683f8f140b_Snapshot.png",
+      "md5": "70ab6135df41f60c4932303878459da9",
+      "size": 4714,
+      "uploadedDate": "2022-01-09T11:21:35.214Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/katana-1920x1080-7a9d475cb7c045b968be1311219d8ddc_Snapshot.png",
+      "md5": "fc94590aefebeed4f0d9d3b5165c1206",
+      "size": 3848,
+      "uploadedDate": "2022-01-09T11:21:35.706Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gladius-1920x1080-24e6581b4395b974779f21c928984244_Snapshot.png",
+      "md5": "688389f2b4df3effcb0c91e2d524752d",
+      "size": 3618,
+      "uploadedDate": "2022-01-09T11:21:36.341Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/backsword-1920x1080-865dc4c3eb752a4bff216bf71d0164e2_Snapshot.png",
+      "md5": "fdc1395413477d95c41dbd2b3bc95324",
+      "size": 3853,
+      "uploadedDate": "2022-01-09T11:21:36.831Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bastard-1920x1080-03584f04d693fa1f049a232d88e80455_Snapshot.png",
+      "md5": "4937d9c31991ba8fc3eeccf8207585ac",
+      "size": 3159,
+      "uploadedDate": "2022-01-09T11:21:37.303Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/yata-1920x1080-55f6e0baaa878fc51fe0357092e2066a_Snapshot.png",
+      "md5": "a9538f52b1974fd51b8b719a13406f50",
+      "size": 4134,
+      "uploadedDate": "2022-01-09T11:21:37.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-ee0b9a48c2c688fdb0a1ce6ea61a0156_Snapshot.png",
+      "md5": "2c7c1cfd9689d15edf4b269306c05ea7",
+      "size": 4536,
+      "uploadedDate": "2022-01-09T11:21:38.271Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-68d61fd25d4dbb3e4e65118b0e4785ec_Snapshot.png",
+      "md5": "c7ddc7a636dee8517134f7433a1b9680",
+      "size": 4982,
+      "uploadedDate": "2022-01-09T11:21:38.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-ba39ced74e7034b82ef3b866f0f22ec3_Snapshot.png",
+      "md5": "170a74834726c147b2f6599a6d476b02",
+      "size": 4372,
+      "uploadedDate": "2022-01-09T11:21:39.354Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-7e25a5200bf4b2eaf46718e22d4ce33c_Snapshot.png",
+      "md5": "7ad511ce2c0b2f84fff2aa90aa9df86e",
+      "size": 4546,
+      "uploadedDate": "2022-01-09T11:21:39.942Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/012-1920x1080-35de8259c8b8ab8a2410f81b8b4311e8_Snapshot.png",
+      "md5": "79d529817fff28f1c49e6d3b76614239",
+      "size": 4309,
+      "uploadedDate": "2022-01-09T11:21:40.486Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-da0d4e2afea06f52eb9f5ef67b4b1a31_Snapshot.png",
+      "md5": "fa478254c1ad1ee8e8b42e4b8efcd138",
+      "size": 3708,
+      "uploadedDate": "2022-01-09T11:21:40.904Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "79c84b3d24e744d28a1e672e6371dac7"
+    }
+  ],
+  "catalogNs": null
+}

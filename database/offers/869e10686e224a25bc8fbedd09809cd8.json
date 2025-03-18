@@ -1,0 +1,221 @@
+{
+  "id": "869e10686e224a25bc8fbedd09809cd8",
+  "namespace": "ue",
+  "title": "Fighting camera manager",
+  "description": "The Fighting Camera Manager is a component for a pawn camera that follows characters with a lot of settings.",
+  "longDescription": "<p><a href=\"https://youtu.be/X6kKEpxtoRo\" rel=\"nofollow\">Preview Video</a></p><p><a href=\"https://youtu.be/GjpU_F_YC3c\" rel=\"nofollow\">Network support video</a></p><p><a href=\"https://discord.gg/p8NbUxPBxM\" rel=\"nofollow\">Discord support</a></p><p>The product has:</p><ul><li><strong>2D (2.5D) mode</strong> - This mode has a setting when players move in one line to the left or right</li><li><strong>3D mode</strong> - In this mode, players can move around the level freely.</li><li><strong>Zoom Min</strong> - How close is the camera to player</li><li><strong>Zoom Max</strong> - How far is the camera from player</li><li><strong>Auto zoom</strong> - The camera work</li><li><strong>Height offset</strong> - The camera works in the set parameters between Zoom Min and Max</li><li><strong>Offset Angle Yaw</strong> - Angle to rotate the camera closer to the player</li><li><strong>Angle pitch</strong> - Angle between view from below or view from above</li><li><strong>Smooth camera rotation</strong> - How sensitive the camera is to player movements</li><li><strong>Max Distance P2P</strong> - Maximum distance between players</li><li><strong>Offset side distance</strong> - Distance between the player and the edge of the screen</li><li>Two dispatchers to block the movement of players off the screen in the given parameters</li></ul><p><br /></p><p>The product is great for those who want to make a fighting game. It has lots settings and is easy to integrate.</p><p>It also has full network support and Local Multiplayer on 1 keyboard or gamepad</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fighting-camera-manager",
+  "creationDate": "2022-10-22T18:54:49.437Z",
+  "lastModifiedDate": "2024-09-30T16:56:17.911Z",
+  "effectiveDate": "2022-10-22T18:54:49.401Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-45481a1e034356acea308ee8ba1933",
+    "name": "Sergio Cavalli"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>The character has logic to demonstrate how the component works.</li><li>There is also the logic of combo attacks (2 attacks with hands and 2 attacks with legs) and dodges.</li><li>Logic apply damage with hit reaction.</li><li>Game Mod also has logic to demonstrate how the component works in different modes</li><li>Animation only demonstrations.</li></ul><p><br /></p><p><strong>Number of Blueprints</strong>: 3</p><p><strong>Number of Components</strong>: 1</p><p><strong>Animations</strong>: default for demo</p><p><strong>Input</strong>: None required, though demo uses keyboard, mouse and gamepad inputs.</p><p><strong>Network Replicated</strong>: (Yes)</p><p><strong>Supported Development Platforms</strong>: (Windows, Mac)</p><p><strong>Supported Target Build Platforms</strong>: (Windows, Mac)</p><p><strong>Documentation: </strong><a href=\"https://docs.google.com/document/d/1_l70usyjKJToGloZgGcWJH7L6kb7DaR8mxS8OzY2c_Y/edit?usp&#61;sharing\" rel=\"nofollow\"><strong>Link to document</strong></a></p><p><strong>If you need use for mobile or gamepad: Turn on Touch interface or add input events</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7dfc717e-1ff7-4d87-aeb2-07cfb5b28afc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-3cdd50dbe0b98f251c704956386f06f9.png",
+      "md5": "3cdd50dbe0b98f251c704956386f06f9",
+      "size": 1792655,
+      "uploadedDate": "2022-10-20T10:53:03.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FEATURED-1920x1080-bd43a7ccd4725e43eecae578626dcbcc.png",
+      "md5": "bd43a7ccd4725e43eecae578626dcbcc",
+      "size": 2303528,
+      "uploadedDate": "2022-10-20T10:53:05.189Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-dc362d8ecfd8c1d94c969a91d3faf2d7.png",
+      "md5": "dc362d8ecfd8c1d94c969a91d3faf2d7",
+      "size": 2351222,
+      "uploadedDate": "2022-10-20T11:06:18.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-84f64556f5f5c7e09629c447e15fc216.png",
+      "md5": "84f64556f5f5c7e09629c447e15fc216",
+      "size": 2347900,
+      "uploadedDate": "2022-10-20T11:06:18.636Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Fightingcameramanager_thumb-284x284-5fb52ebd9184f2f7dc241f00eff1ea0a.png",
+      "md5": "5fb52ebd9184f2f7dc241f00eff1ea0a",
+      "size": 105358,
+      "uploadedDate": "2022-10-20T10:53:05.644Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Fightingcameramanager_featured-894x488-197ecedee4515ca55c20b48cbe1a0213.png",
+      "md5": "197ecedee4515ca55c20b48cbe1a0213",
+      "size": 502740,
+      "uploadedDate": "2022-10-20T10:53:05.761Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-dc362d8ecfd8c1d94c969a91d3faf2d7_Snapshot.png",
+      "md5": "a1f88d566e1ed4b2ea1f6ecc5fa83880",
+      "size": 4452,
+      "uploadedDate": "2022-10-20T11:06:18.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-84f64556f5f5c7e09629c447e15fc216_Snapshot.png",
+      "md5": "aad6bef8aa3bd72e588a72f3e62fb48d",
+      "size": 5594,
+      "uploadedDate": "2022-10-20T11:06:18.978Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-3cdd50dbe0b98f251c704956386f06f9_Snapshot.png",
+      "md5": "c772de640b8cd32b1fd63c1e68308c51",
+      "size": 7639,
+      "uploadedDate": "2022-10-20T10:53:04.333Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-81303e40bcd5f4e169ec9fddb65e9881_Snapshot.png",
+      "md5": "ff671883616793fdd39e6dde72a01e73",
+      "size": 5068,
+      "uploadedDate": "2022-10-20T10:53:04.996Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FEATURED-1920x1080-bd43a7ccd4725e43eecae578626dcbcc_Snapshot.png",
+      "md5": "e34c3af6bcde7dd86aedbe74a5992ad4",
+      "size": 4781,
+      "uploadedDate": "2022-10-20T10:53:05.528Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8698e172c5824b78becb1ffa8ddb1ca8"
+    }
+  ],
+  "catalogNs": null
+}

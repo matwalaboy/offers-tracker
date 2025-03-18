@@ -1,0 +1,137 @@
+{
+  "id": "f0817678d9c5456da50ff829551a21e9",
+  "namespace": "ue",
+  "title": "SixDOF Movement",
+  "description": "Versatile and easy to use 6DOF movement component. C++ code plugin",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v&#61;JRCujDnrHE4\" rel=\"nofollow\">youtube.com/watch?v&#61;JRCujDnrHE4</a><br /><br />Implemented as a movement component. <br />Can either directly transform the actor its attached to, or apply forces if the actor simulates physics. <br />Everything is contained in one class (USixDOFMovement) , doesn&#39;t use any external files.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sixdof-movement",
+  "creationDate": "2017-01-25T20:52:34.492Z",
+  "lastModifiedDate": "2024-09-30T08:04:04.770Z",
+  "effectiveDate": "2017-04-12T00:00:00.000Z",
+  "viewableDate": "2017-04-12T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5d323d7e97444299516a3431d27685",
+    "name": "mookie"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>-Works in both Blueprint and C&#43;&#43; projects</p><p>-Allows both physics-based and non-physical movement</p><p>-Speed and inertia adjustable for each axis</p><p>-Multiple acceleration models - linear, exponential, quadratic, frictionless</p><p>-Gravity can work in any direction, independent of world setting</p><p>-Automatic movement and input replication</p><p>-Replication supports world origin shifting (UE4.14&#43; only)</p><p>-Autopilot - look at, autolevel, move to</p><p>-Automatically transform inputs to world or local space</p><p>-No hardcoded parameters, anything can be changed in editor or during runtime</p><p>-Complete blueprint integration, all functionality accessible without using C&#43;&#43;</p><p>-Source code included</p><p>-Extensive example project included</p><p><br /></p><p>Network Replicated: Yes</p><p>Development Platforms: Windows, Linux, Mac</p><p>Target Build Platforms: Windows, Linux, Mac, Android</p><p>Documentation: <a href=\"https://www.youtube.com/playlist?list&#61;PLpdNKDbSpbwX06_lPGmb1PMfeULlo7BPx\" rel=\"nofollow\">Video tutorials (work in progress)</a></p><p><br /></p><p>Full Example Project: <a href=\"https://drive.google.com/file/d/0B20tIRBAcOlsd0xRZXpXOF8yeFE/view?usp&#61;sharing&amp;resourcekey&#61;0-juehFmM7kzFY2f_PLTSP2w\" rel=\"nofollow\">https://drive.google.com/file/d/0B20tIRBAcOlsd0xRZXpXOF8yeFE/view?usp&#61;sharing&amp;resourcekey&#61;0-juehFmM7kzFY2f_PLTSP2w</a></p><p>Minimal Example Project: <a href=\"https://drive.google.com/file/d/0B20tIRBAcOlsXzQzUHNlbS1Rbnc/view?usp&#61;sharing&amp;resourcekey&#61;0-kmqkBd_Vf3To4BR0y7ocZw\" rel=\"nofollow\">https://drive.google.com/file/d/0B20tIRBAcOlsXzQzUHNlbS1Rbnc/view?usp&#61;sharing&amp;resourcekey&#61;0-kmqkBd_Vf3To4BR0y7ocZw</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "01288642-e34b-408e-816d-f6a5a31944bc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_screenshot1-1920x1080-84a04f250e83f907ee712f8d3404b80e.png",
+      "md5": "84a04f250e83f907ee712f8d3404b80e",
+      "size": 798033,
+      "uploadedDate": "2017-01-25T20:50:33.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_screenshot2-1920x1080-fe27f8ab466ec01745870b8649582d6d.png",
+      "md5": "fe27f8ab466ec01745870b8649582d6d",
+      "size": 684358,
+      "uploadedDate": "2017-01-25T20:50:32.469Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_screenshot3-1920x1080-929a816aa19acd15b789c4a78247ce12.png",
+      "md5": "929a816aa19acd15b789c4a78247ce12",
+      "size": 724590,
+      "uploadedDate": "2017-01-25T20:50:29.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_screenshot4-1920x1080-0d40284e1db4b82abb5966ef3f8b9915.png",
+      "md5": "0d40284e1db4b82abb5966ef3f8b9915",
+      "size": 642146,
+      "uploadedDate": "2017-01-25T20:50:29.619Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_screenshot5-1920x1080-af2d13071ba6c0d22a289e2d65566b17.png",
+      "md5": "af2d13071ba6c0d22a289e2d65566b17",
+      "size": 795147,
+      "uploadedDate": "2017-01-25T20:50:26.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_Thumb-284x284-0f89a75a523d5c1e43472cc29eff2bde.png",
+      "md5": "0f89a75a523d5c1e43472cc29eff2bde",
+      "size": 121198,
+      "uploadedDate": "2017-01-25T20:50:24.353Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/SixDOF_Featured-894x488-8dcddde1b54e6f9b5c4f3a7c4a3d78a2.png",
+      "md5": "8dcddde1b54e6f9b5c4f3a7c4a3d78a2",
+      "size": 641174,
+      "uploadedDate": "2017-01-25T20:50:34.953Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c5c9bf9923554824bdde019eaa42dc2c"
+    }
+  ],
+  "catalogNs": null
+}

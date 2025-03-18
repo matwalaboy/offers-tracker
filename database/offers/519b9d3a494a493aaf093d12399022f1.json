@@ -1,0 +1,338 @@
+{
+  "id": "519b9d3a494a493aaf093d12399022f1",
+  "namespace": "ue",
+  "title": "Cemetery Set Hand Painted Series",
+  "description": "Looking for a cozy place to house your army of the undead? Try this hand painted, low poly cemetery level set.",
+  "longDescription": "View a sample level here: <a href=\"https://sketchfab.com/models/6317c26d070f46d2a19bfb897ed494d3\" rel=\"nofollow\">https://sketchfab.com/models/6317c26d070f46d2a19bfb897ed494d3</a><br /><br />A lovingly crafted, low poly, hand painted cemetery starter set. The package contains a good variety of different grave stones, tombs and fences to get you started on an eerie looking graveyard in no time. Comes with optimized mobile versions and animated as well as destructible objects.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "cemetery-set-hand-painted-series",
+  "creationDate": "2017-07-20T21:15:45.485Z",
+  "lastModifiedDate": "2024-09-29T02:12:34.015Z",
+  "effectiveDate": "2017-08-23T00:00:00.000Z",
+  "viewableDate": "2017-08-23T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-c74f2955a24399b11ecd36621b4393",
+    "name": "Bitgem"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Contained in this pack are:<br /><br />-6 unique grave stones <br />-4 floor textures <br />-1 tomb <br />-1 obelisk <br />-1 coffin <br />-1 coffin broken <br />-1 gate with animations <br />-1 broken gate with animation <br />-1 crypt <br />-1 fence tile <br />-1 destructible plinth with statue <br />-1 plinth with statue <br />-1 fence corner stone left <br />-1 fence corner stone right <br />-1 statue body fragment <br />-1 statue head fragment <br />-Multiple fence elements<br /><br />Also included are mobile optimized version of the models.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "072e3881-99c1-44d5-91df-0749f5b1fbc3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-1-1920x1080-088140648e11c2c99521fb27f7b199c0.jpg",
+      "md5": "088140648e11c2c99521fb27f7b199c0",
+      "size": 1528984,
+      "uploadedDate": "2022-11-28T15:03:32.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-1920x1080-cb47ec526a196b19312d9a5cbc00adb6.jpg",
+      "md5": "cb47ec526a196b19312d9a5cbc00adb6",
+      "size": 1575242,
+      "uploadedDate": "2022-11-28T15:03:35.006Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-5-1920x1080-a3fe60a694041e0ffc91ddc75953ad40.jpg",
+      "md5": "a3fe60a694041e0ffc91ddc75953ad40",
+      "size": 1643821,
+      "uploadedDate": "2022-11-28T15:03:34.499Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-2-1920x1080-43b5e7643cf6670664243ab7bc3b1150.jpg",
+      "md5": "43b5e7643cf6670664243ab7bc3b1150",
+      "size": 1845771,
+      "uploadedDate": "2022-11-28T15:03:32.954Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-3-1920x1080-91a02e3469ea2de669498820406f5651.jpg",
+      "md5": "91a02e3469ea2de669498820406f5651",
+      "size": 1670682,
+      "uploadedDate": "2022-11-28T15:03:33.522Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cemeterysethandpainted-4-1920x1080-1f052af48860641744f8169a328356fb.jpg",
+      "md5": "1f052af48860641744f8169a328356fb",
+      "size": 2204362,
+      "uploadedDate": "2022-11-28T15:03:34.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_00-1920x1080-3361b56eece09aee6ea4b4a208c38484.png",
+      "md5": "3361b56eece09aee6ea4b4a208c38484",
+      "size": 812832,
+      "uploadedDate": "2017-07-20T21:10:13.781Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_01-1920x1080-290b83ae9949fbb7bcce565be21a4859.png",
+      "md5": "290b83ae9949fbb7bcce565be21a4859",
+      "size": 808897,
+      "uploadedDate": "2017-07-20T21:10:10.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_02-1920x1080-248e4800058286e7338f317ec0d218d3.png",
+      "md5": "248e4800058286e7338f317ec0d218d3",
+      "size": 989565,
+      "uploadedDate": "2017-07-20T21:10:07.487Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_03-1920x1080-bcc999957290acde3493e73595e23f9f.png",
+      "md5": "bcc999957290acde3493e73595e23f9f",
+      "size": 925890,
+      "uploadedDate": "2017-07-20T21:10:03.821Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_04-1920x1080-407b014e27b3bbc9a1627a090d9483cb.png",
+      "md5": "407b014e27b3bbc9a1627a090d9483cb",
+      "size": 976266,
+      "uploadedDate": "2017-07-20T21:10:00.432Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_05-1920x1080-d2a1f1c891409c840cbe1d99f2016b4d.png",
+      "md5": "d2a1f1c891409c840cbe1d99f2016b4d",
+      "size": 982290,
+      "uploadedDate": "2017-07-20T21:09:56.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_06-1920x1080-25df12bdbf7bbc312171e2ec43ec8b48.png",
+      "md5": "25df12bdbf7bbc312171e2ec43ec8b48",
+      "size": 981800,
+      "uploadedDate": "2017-07-20T21:09:53.431Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_07-1920x1080-c3ac1ce5f54f0ce38b9c6e4c392bf0a3.png",
+      "md5": "c3ac1ce5f54f0ce38b9c6e4c392bf0a3",
+      "size": 945257,
+      "uploadedDate": "2017-07-20T21:09:50.133Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_08-1920x1080-c3bb9b2cb06f34b479a3824f685b0969.png",
+      "md5": "c3bb9b2cb06f34b479a3824f685b0969",
+      "size": 931798,
+      "uploadedDate": "2017-07-20T21:09:47.378Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ScreenshotsStore_DesertTemple_screenshot_09-1920x1080-99454dae8e3548e0b1deca1b1b6567f2.png",
+      "md5": "99454dae8e3548e0b1deca1b1b6567f2",
+      "size": 949212,
+      "uploadedDate": "2017-07-20T21:09:44.776Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CemeterySetHandPaintedSeries_thumb-284x284-809d56305875a1ba4fcfda30bc633386.png",
+      "md5": "809d56305875a1ba4fcfda30bc633386",
+      "size": 159114,
+      "uploadedDate": "2022-11-28T15:03:35.367Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CemeterySetHandPaintedSeries_featured-894x488-15012780f9faa1be926fa53308f23f92.png",
+      "md5": "15012780f9faa1be926fa53308f23f92",
+      "size": 821661,
+      "uploadedDate": "2022-11-28T15:03:35.508Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-1-1920x1080-088140648e11c2c99521fb27f7b199c0_Snapshot.jpg",
+      "md5": "d90554a53511cbdf3721308d75fa89cc",
+      "size": 6960,
+      "uploadedDate": "2022-11-28T15:03:32.745Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-2-1920x1080-43b5e7643cf6670664243ab7bc3b1150_Snapshot.jpg",
+      "md5": "c38a70889bc7cacb3f64adb0f9913f93",
+      "size": 7026,
+      "uploadedDate": "2022-11-28T15:03:33.274Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-3-1920x1080-91a02e3469ea2de669498820406f5651_Snapshot.jpg",
+      "md5": "44976d5c96ea032029ce2922c9f04fb4",
+      "size": 6912,
+      "uploadedDate": "2022-11-28T15:03:33.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-4-1920x1080-1f052af48860641744f8169a328356fb_Snapshot.jpg",
+      "md5": "c97bc32bcd8a28ecb854f4d6303c2b8c",
+      "size": 6375,
+      "uploadedDate": "2022-11-28T15:03:34.355Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-5-1920x1080-a3fe60a694041e0ffc91ddc75953ad40_Snapshot.jpg",
+      "md5": "9288320118b2458f22827d36149fc7d5",
+      "size": 6703,
+      "uploadedDate": "2022-11-28T15:03:34.854Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cemeterysethandpainted-1920x1080-cb47ec526a196b19312d9a5cbc00adb6_Snapshot.jpg",
+      "md5": "166ce8500dd242388f8dda8e2b779d25",
+      "size": 7131,
+      "uploadedDate": "2022-11-28T15:03:35.324Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3f3e4f26bfe3476cad01f7fb4525f3ca"
+    }
+  ],
+  "catalogNs": null
+}

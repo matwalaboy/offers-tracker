@@ -1,0 +1,212 @@
+{
+  "id": "b4fcf92eb2de4d139c92c0b93b3ce5aa",
+  "namespace": "ue",
+  "title": "Stylized Keychains - Icons Pack",
+  "description": "100 stylized keychain pictures without backgrounds",
+  "longDescription": "<p>This collection features 100 stylized keychain artworks. Includes a variety of different appearances, outfits, expressions, and poses. Ideal for Visual Novels, Character Profiles, Themed Stories, Storytelling, Store Listings, Role-Playing Games (RPG), Adventure Games, Main Characters, Loading Screens, Dialogue Pages, Trading Card Games (TCG), User Interfaces (UI), and more.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-keychains",
+  "creationDate": "2024-05-29T14:07:40.359Z",
+  "lastModifiedDate": "2024-09-30T20:45:51.974Z",
+  "effectiveDate": "2024-05-29T14:07:40.313Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>100 high-quality stylized rings picture</li><li>Diverse designs with different seasons, colors, outfits, and expressions</li><li>Various character poses and interactions</li></ul><p>Number of all textures: 300</p><p>256*256 - 100 png images</p><p>515*512 - 100 png images</p><p>1024*1024 - 100 png images</p><p><br /></p><p>Texture Resolutions: 1024*1024</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dd801f73-3eb0-4108-a120-0440146d4330"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-a69076998b6e136c385f4b174ba409c2.jpg",
+      "md5": "a69076998b6e136c385f4b174ba409c2",
+      "size": 120080,
+      "uploadedDate": "2024-05-27T18:48:58.379Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-c99b68c42a5b23f531c1048b02c4c9f1.jpg",
+      "md5": "c99b68c42a5b23f531c1048b02c4c9f1",
+      "size": 167472,
+      "uploadedDate": "2024-05-27T18:48:58.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedKeychains_thumb-284x284-0ee7a913d09e85fa9a04ee98cea33d6d.png",
+      "md5": "0ee7a913d09e85fa9a04ee98cea33d6d",
+      "size": 84685,
+      "uploadedDate": "2024-05-27T18:48:59.230Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedKeychains_featured-894x488-5c6688ea123dbd84086dc5a6a7d06dff.png",
+      "md5": "5c6688ea123dbd84086dc5a6a7d06dff",
+      "size": 297315,
+      "uploadedDate": "2024-05-27T18:48:59.362Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-a69076998b6e136c385f4b174ba409c2_Snapshot.jpg",
+      "md5": "fef1f99bc68b633555f54f440fa8e98c",
+      "size": 4774,
+      "uploadedDate": "2024-05-27T18:48:58.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-c99b68c42a5b23f531c1048b02c4c9f1_Snapshot.jpg",
+      "md5": "c61760ef972863d161c9e921e9be88fc",
+      "size": 6777,
+      "uploadedDate": "2024-05-27T18:48:59.150Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a7a09bdf8fc74091915c58c55c69599c"
+    }
+  ],
+  "catalogNs": null
+}

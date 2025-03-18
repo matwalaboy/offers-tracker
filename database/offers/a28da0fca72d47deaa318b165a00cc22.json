@@ -1,0 +1,266 @@
+{
+  "id": "a28da0fca72d47deaa318b165a00cc22",
+  "namespace": "ue",
+  "title": "Post Apocalyptic Distant Buildings",
+  "description": "Distant post-apocalyptic buildings, some of which are lowpoly.",
+  "longDescription": "<p>Distant post-apocalyptic buildings, some of which are lowpoly.</p><p>Very different models from each other for different uses.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "post-apocalyptic-distant-buildings",
+  "creationDate": "2023-11-06T00:33:06.085Z",
+  "lastModifiedDate": "2024-09-30T16:18:52.315Z",
+  "effectiveDate": "2023-11-06T00:33:06.038Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-unhv4b7b7p2428nprju6evv5tu463v",
+    "name": "SyllasVieira"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Distant Buildings</li></ul><p>Number of Unique Meshes: 20</p><p>Collision: Yes</p><p>Vertex Count: 48 to 54000</p><p>LODs: Yes</p><p>Number of Materials and Material Instances: 36</p><p>Number of Textures: 44</p><p>Texture Resolutions: 1024 to 4096</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Lumen support on</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b3e076cb-e880-4b4f-8e53-91f2c40530ce"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build7-1920x1080-2a8f144c162fc1194c75ba4fffbbc944.png",
+      "md5": "2a8f144c162fc1194c75ba4fffbbc944",
+      "size": 2560932,
+      "uploadedDate": "2023-10-31T18:49:40.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build6-1920x1080-34126f3ecfd629ad19e2ccde6389c881.png",
+      "md5": "34126f3ecfd629ad19e2ccde6389c881",
+      "size": 2572517,
+      "uploadedDate": "2023-10-31T18:49:41.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build5-1920x1080-07776e963872c02e9d3a2aa26cabffc3.png",
+      "md5": "07776e963872c02e9d3a2aa26cabffc3",
+      "size": 2165549,
+      "uploadedDate": "2023-10-31T18:49:41.807Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build4-1920x1080-758ee63a1ca18bd66fc0f5f666a73b62.png",
+      "md5": "758ee63a1ca18bd66fc0f5f666a73b62",
+      "size": 2463500,
+      "uploadedDate": "2023-10-31T18:49:42.358Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build3-1920x1080-b07575717bf13dcc4453023e78f4e6d2.png",
+      "md5": "b07575717bf13dcc4453023e78f4e6d2",
+      "size": 2591410,
+      "uploadedDate": "2023-10-31T18:49:42.974Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build2-1920x1080-d27820d6ad8adce276876816d271410c.jpg",
+      "md5": "d27820d6ad8adce276876816d271410c",
+      "size": 3048593,
+      "uploadedDate": "2023-10-31T18:49:43.766Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pos apocaliptic build-1920x1080-b72d4c90db37f471883a00674af78d5a.jpg",
+      "md5": "b72d4c90db37f471883a00674af78d5a",
+      "size": 300914,
+      "uploadedDate": "2023-10-31T18:49:44.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PostApocalypticDistantBuildings_thumb-284x284-be0b5cad128b5f9a12dbd979ebf5caf6.png",
+      "md5": "be0b5cad128b5f9a12dbd979ebf5caf6",
+      "size": 138683,
+      "uploadedDate": "2023-10-31T18:49:44.783Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PostApocalypticDistantBuildings_featured-894x488-c6d2290e46169a6afda2147eeb21593a.png",
+      "md5": "c6d2290e46169a6afda2147eeb21593a",
+      "size": 539014,
+      "uploadedDate": "2023-10-31T18:49:44.955Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build7-1920x1080-2a8f144c162fc1194c75ba4fffbbc944_Snapshot.png",
+      "md5": "adc5340d273828c03eb311a4e220bda5",
+      "size": 6706,
+      "uploadedDate": "2023-10-31T18:49:40.940Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build6-1920x1080-34126f3ecfd629ad19e2ccde6389c881_Snapshot.png",
+      "md5": "c68eda016aa921c8100b7251c64a3e43",
+      "size": 5806,
+      "uploadedDate": "2023-10-31T18:49:41.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build5-1920x1080-07776e963872c02e9d3a2aa26cabffc3_Snapshot.png",
+      "md5": "620613e0e3238a6017f3bd6959285418",
+      "size": 5042,
+      "uploadedDate": "2023-10-31T18:49:42.155Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build4-1920x1080-758ee63a1ca18bd66fc0f5f666a73b62_Snapshot.png",
+      "md5": "136ba8fbadd2b8473415cc4a2f3a3cde",
+      "size": 6270,
+      "uploadedDate": "2023-10-31T18:49:42.688Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build3-1920x1080-b07575717bf13dcc4453023e78f4e6d2_Snapshot.png",
+      "md5": "14dd91564eaadfb97544fc7a38c591d5",
+      "size": 8402,
+      "uploadedDate": "2023-10-31T18:49:43.360Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build2-1920x1080-d27820d6ad8adce276876816d271410c_Snapshot.jpg",
+      "md5": "9e16bc393a6514c38c4477c3fdb20521",
+      "size": 5742,
+      "uploadedDate": "2023-10-31T18:49:44.094Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pos apocaliptic build-1920x1080-b72d4c90db37f471883a00674af78d5a_Snapshot.jpg",
+      "md5": "5261920469b6524629a2cb4212060b34",
+      "size": 5077,
+      "uploadedDate": "2023-10-31T18:49:44.559Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9e69b5e2af9044898cd3e6e0e8cc1a60"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "28e00b52676f4cf2b1e7a9547918e5bc",
+  "namespace": "ue",
+  "title": "Magic Gems Pack 2",
+  "description": "In our store you will find a wide range of images of precious gems of various colors to create your game. Don't miss the opportunity to become the owner of a real treasure!",
+  "longDescription": "<p>Images of gems are perfect for visualizing the inventory of items in a role-playing game, or resources in a strategy or arcade game. All images of gems in the set have a transparent background.</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "magic-gems-pack-2",
+  "creationDate": "2024-03-21T01:39:08.675Z",
+  "lastModifiedDate": "2024-09-27T15:20:56.631Z",
+  "effectiveDate": "2024-03-21T01:39:08.643Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The set includes 366 images of gems of various colors:</p><p>25 blue gems;</p><p>10 brown gems;</p><p>46 dark gems;</p><p>25 green gems;</p><p>25 neon gems;</p><p>61 obsidian gems;</p><p>18 orange gems;</p><p>30 purple gems;</p><p>21 rainbow gems;</p><p>27 red gems;</p><p>25 turquoise gems;</p><p>35 white gems;</p><p>18 yellow gems.</p><p><br /></p><p>Number of Textures: 366</p><p>Texture Resolutions: 512 x 512 px</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>AI Software: Recraft.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d728aebd-6470-4715-9032-1288749a10c7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/bluelogo-1920x1080-2ee925f137f7a17b22a8d41eb20f82c4.jpg",
+      "md5": "2ee925f137f7a17b22a8d41eb20f82c4",
+      "size": 829695,
+      "uploadedDate": "2024-03-19T16:13:12.508Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/brownlogo-1920x1080-e9dcdb6fc476c914711d1523ef3791f3.jpg",
+      "md5": "e9dcdb6fc476c914711d1523ef3791f3",
+      "size": 811196,
+      "uploadedDate": "2024-03-19T16:13:13.400Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/darklogo-1920x1080-e416a039aa23eb8c8d486ae1a6e7b74b.jpg",
+      "md5": "e416a039aa23eb8c8d486ae1a6e7b74b",
+      "size": 720604,
+      "uploadedDate": "2024-03-19T16:13:14.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/greenlogo-1920x1080-4ed6f09011d741780edb0171b50c38fc.jpg",
+      "md5": "4ed6f09011d741780edb0171b50c38fc",
+      "size": 718840,
+      "uploadedDate": "2024-03-19T16:13:15.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/neonlogo-1920x1080-7fb7a5f7c0a88229320dc5a9e391dd10.jpg",
+      "md5": "7fb7a5f7c0a88229320dc5a9e391dd10",
+      "size": 908625,
+      "uploadedDate": "2024-03-19T16:13:16.056Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/obsidianlogo-1920x1080-d101907fda4f434a54300d98297ad1f9.jpg",
+      "md5": "d101907fda4f434a54300d98297ad1f9",
+      "size": 871208,
+      "uploadedDate": "2024-03-19T16:13:16.976Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/orangelogo-1920x1080-231e96f2d03dbd50494b36bcebb05911.jpg",
+      "md5": "231e96f2d03dbd50494b36bcebb05911",
+      "size": 816192,
+      "uploadedDate": "2024-03-19T16:13:17.879Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/purplelogo-1920x1080-47cff4bd471c9ec9dc00c67c6d06e284.jpg",
+      "md5": "47cff4bd471c9ec9dc00c67c6d06e284",
+      "size": 741634,
+      "uploadedDate": "2024-03-19T16:13:18.855Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rainbowlogo-1920x1080-89590d732117ccd0c25af0f0cb3156d3.jpg",
+      "md5": "89590d732117ccd0c25af0f0cb3156d3",
+      "size": 837629,
+      "uploadedDate": "2024-03-19T16:13:19.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/redlogo-1920x1080-af576a82ad739569c3686a46466646fd.jpg",
+      "md5": "af576a82ad739569c3686a46466646fd",
+      "size": 783077,
+      "uploadedDate": "2024-03-19T16:13:20.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/turquoiselogo-1920x1080-b77b1adb4beb67e114aaa64abc9a5b53.jpg",
+      "md5": "b77b1adb4beb67e114aaa64abc9a5b53",
+      "size": 939802,
+      "uploadedDate": "2024-03-19T16:13:21.671Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/whitelogo-1920x1080-38747ecc5d88f1286b5b22424ce85ea9.jpg",
+      "md5": "38747ecc5d88f1286b5b22424ce85ea9",
+      "size": 698837,
+      "uploadedDate": "2024-03-19T16:13:22.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/yellowlogo-1920x1080-acdf52091742591756e955e74d718e4d.jpg",
+      "md5": "acdf52091742591756e955e74d718e4d",
+      "size": 846751,
+      "uploadedDate": "2024-03-19T16:13:23.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MagicGemsPack2_thumb-284x284-de0f0fe68a9dd8a16f23f7cc7efa33ad.png",
+      "md5": "de0f0fe68a9dd8a16f23f7cc7efa33ad",
+      "size": 75241,
+      "uploadedDate": "2024-03-19T16:13:24.141Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MagicGemsPack2_featured-894x488-5b37e54eeda0469fbad93366c90d4b95.png",
+      "md5": "5b37e54eeda0469fbad93366c90d4b95",
+      "size": 419622,
+      "uploadedDate": "2024-03-19T16:13:24.268Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/bluelogo-1920x1080-2ee925f137f7a17b22a8d41eb20f82c4_Snapshot.jpg",
+      "md5": "600938dcebb561f8cbf0a3e6ffdfccbb",
+      "size": 8343,
+      "uploadedDate": "2024-03-19T16:13:13.120Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/brownlogo-1920x1080-e9dcdb6fc476c914711d1523ef3791f3_Snapshot.jpg",
+      "md5": "0505955c8c68970c3d0f585097ae75a2",
+      "size": 8465,
+      "uploadedDate": "2024-03-19T16:13:13.957Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/darklogo-1920x1080-e416a039aa23eb8c8d486ae1a6e7b74b_Snapshot.jpg",
+      "md5": "e5d5d6075f965dbdad43357a6e962ddd",
+      "size": 7339,
+      "uploadedDate": "2024-03-19T16:13:14.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/greenlogo-1920x1080-4ed6f09011d741780edb0171b50c38fc_Snapshot.jpg",
+      "md5": "770ae265241e2eaea3446b2bec6efd0e",
+      "size": 7508,
+      "uploadedDate": "2024-03-19T16:13:15.741Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/neonlogo-1920x1080-7fb7a5f7c0a88229320dc5a9e391dd10_Snapshot.jpg",
+      "md5": "6b95727cbb236af0562839f77c09816c",
+      "size": 7997,
+      "uploadedDate": "2024-03-19T16:13:16.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/obsidianlogo-1920x1080-d101907fda4f434a54300d98297ad1f9_Snapshot.jpg",
+      "md5": "7104b2608429cb35c8024d56873187b5",
+      "size": 8046,
+      "uploadedDate": "2024-03-19T16:13:17.572Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/orangelogo-1920x1080-231e96f2d03dbd50494b36bcebb05911_Snapshot.jpg",
+      "md5": "8f069d2bd7d07fe8709ca76d64d6e0c0",
+      "size": 8282,
+      "uploadedDate": "2024-03-19T16:13:18.491Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/purplelogo-1920x1080-47cff4bd471c9ec9dc00c67c6d06e284_Snapshot.jpg",
+      "md5": "12894bdf973cf5405ba8d78a3486138b",
+      "size": 7632,
+      "uploadedDate": "2024-03-19T16:13:19.418Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rainbowlogo-1920x1080-89590d732117ccd0c25af0f0cb3156d3_Snapshot.jpg",
+      "md5": "832f8b943d3dbcd0ffad8bcf4592d178",
+      "size": 8247,
+      "uploadedDate": "2024-03-19T16:13:20.427Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/redlogo-1920x1080-af576a82ad739569c3686a46466646fd_Snapshot.jpg",
+      "md5": "a706491f4e553938078b0619e7b665ad",
+      "size": 8549,
+      "uploadedDate": "2024-03-19T16:13:21.333Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/turquoiselogo-1920x1080-b77b1adb4beb67e114aaa64abc9a5b53_Snapshot.jpg",
+      "md5": "785c8f3d889b113f7a3111bd20d886da",
+      "size": 8552,
+      "uploadedDate": "2024-03-19T16:13:22.259Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/whitelogo-1920x1080-38747ecc5d88f1286b5b22424ce85ea9_Snapshot.jpg",
+      "md5": "03737739f5f4410f4c4e109aa142aa32",
+      "size": 6608,
+      "uploadedDate": "2024-03-19T16:13:23.138Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/yellowlogo-1920x1080-acdf52091742591756e955e74d718e4d_Snapshot.jpg",
+      "md5": "0b7dc75e2e336d68c4b2b60322d39706",
+      "size": 8169,
+      "uploadedDate": "2024-03-19T16:13:24.103Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "497c697725944d88b44f81d60d6bfc5f"
+    }
+  ],
+  "catalogNs": null
+}

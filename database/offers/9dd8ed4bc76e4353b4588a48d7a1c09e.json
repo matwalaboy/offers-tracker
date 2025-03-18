@@ -1,0 +1,314 @@
+{
+  "id": "9dd8ed4bc76e4353b4588a48d7a1c09e",
+  "namespace": "ue",
+  "title": "RPG Druid Icons",
+  "description": "RPG Druid Icons - 100 icons for your game.",
+  "longDescription": "<p>The set includes herbs, plants, mushrooms etc.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rpg-druid-icons",
+  "creationDate": "2024-08-24T11:22:10.984Z",
+  "lastModifiedDate": "2024-09-27T13:09:21.205Z",
+  "effectiveDate": "2024-08-24T11:22:10.919Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wv7579e5u4h9lt3srvlvp8g2fm46yf",
+    "name": "A-ravlik"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>The set includes 100 icons </li><li>There are transparent PNG</li><li>256×256 pixels size</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1100",
+      "name": "MINIGAMES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:08.293Z",
+      "updated": "2019-06-20T11:59:08.293Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5e3e0951-5c75-4599-9a03-cb94b54de3d3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CoverImagedr-1920x1080-60c9a4c1e0196a417d10afa5ffb63c17.png",
+      "md5": "60c9a4c1e0196a417d10afa5ffb63c17",
+      "size": 1056974,
+      "uploadedDate": "2024-08-22T14:58:57.547Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen1-1920x1080-12d9aea0e9583ce1c2e26f2f2b40d7eb.png",
+      "md5": "12d9aea0e9583ce1c2e26f2f2b40d7eb",
+      "size": 1782272,
+      "uploadedDate": "2024-08-22T14:58:58.090Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen2-1920x1080-6c6caf8c5b1596e58eaa029cc28e44b0.png",
+      "md5": "6c6caf8c5b1596e58eaa029cc28e44b0",
+      "size": 1835225,
+      "uploadedDate": "2024-08-22T14:58:58.716Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RPGDruidIcons_thumb-284x284-b3e3e553b07f61d779704fa5106ef33d.png",
+      "md5": "b3e3e553b07f61d779704fa5106ef33d",
+      "size": 80605,
+      "uploadedDate": "2024-08-22T14:58:59.164Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RPGDruidIcons_featured-894x488-3738f1968a0434598ada83ef217fadba.png",
+      "md5": "3738f1968a0434598ada83ef217fadba",
+      "size": 423193,
+      "uploadedDate": "2024-08-22T14:58:59.290Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CoverImagedr-1920x1080-60c9a4c1e0196a417d10afa5ffb63c17_Snapshot.png",
+      "md5": "3689a3893eca88e77c005956e8c22adc",
+      "size": 8301,
+      "uploadedDate": "2024-08-22T14:58:57.886Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen1-1920x1080-12d9aea0e9583ce1c2e26f2f2b40d7eb_Snapshot.png",
+      "md5": "64fe1ec5e5cf06a549205de057e04da9",
+      "size": 9838,
+      "uploadedDate": "2024-08-22T14:58:58.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen2-1920x1080-6c6caf8c5b1596e58eaa029cc28e44b0_Snapshot.png",
+      "md5": "089e9e6804248cb5c1a48e362ac4291e",
+      "size": 9753,
+      "uploadedDate": "2024-08-22T14:58:59.098Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7b92f6a964dd4ad7ad170a5cb5df4884"
+    }
+  ],
+  "catalogNs": null
+}

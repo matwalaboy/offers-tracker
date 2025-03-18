@@ -1,0 +1,227 @@
+{
+  "id": "79c26de156d04c1e9c71e7bc1ab890b6",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Swamp Stronghold",
+  "description": "Low Poly asset pack with wood planks to create buildings",
+  "longDescription": "<p>Low Poly asset pack with wood planks to create buildings</p><p><br /></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-swamp-stronghold",
+  "creationDate": "2018-04-02T17:30:15.108Z",
+  "lastModifiedDate": "2024-09-29T23:41:59.602Z",
+  "effectiveDate": "2018-04-02T17:30:15.075Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Columns</li><li>Floors</li><li>Walls And Variants</li><li>Roofs</li><li>Props</li><li>Stairs</li><li>Basic Nature</li></ul><p>Texture Size: All 2048x2048</p><p>Number of Textures: 2 (all used in the Grass and Ground Plants)</p><p>Collision: Yes, Per Poly Collisions</p><p>Vertex Count: 8 to 5755</p><p>LODs: 0</p><p>Number of Meshes: 94</p><p>Number of Materials and Material Instances: 4 Master Materials, 20 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ecdf7ece-3858-4516-942a-60bde1800838"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot01-1920x1080-89e634bd851c0b2715d89f0af6196128.png",
+      "md5": "89e634bd851c0b2715d89f0af6196128",
+      "size": 368432,
+      "uploadedDate": "2018-03-19T19:42:55.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot02-1920x1080-9c7ff48573d05adb12369fe17f325bcc.png",
+      "md5": "9c7ff48573d05adb12369fe17f325bcc",
+      "size": 498612,
+      "uploadedDate": "2018-03-19T19:42:55.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot03-1920x1080-40192e9c9fb337abc2dbc75e80227fe7.png",
+      "md5": "40192e9c9fb337abc2dbc75e80227fe7",
+      "size": 420173,
+      "uploadedDate": "2018-03-19T19:42:55.713Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot04-1920x1080-232e06dbf879048f0909e4ff52e8e002.png",
+      "md5": "232e06dbf879048f0909e4ff52e8e002",
+      "size": 452635,
+      "uploadedDate": "2018-03-19T19:42:55.798Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot05-1920x1080-8a058ecfe210dd1a45ce86da2bb6b8b6.png",
+      "md5": "8a058ecfe210dd1a45ce86da2bb6b8b6",
+      "size": 428941,
+      "uploadedDate": "2018-03-19T19:42:55.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot06-1920x1080-4c8c9032f1fd3b6f508e8fd4c7c6c7db.png",
+      "md5": "4c8c9032f1fd3b6f508e8fd4c7c6c7db",
+      "size": 438186,
+      "uploadedDate": "2018-03-19T19:42:56.100Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot07-1920x1080-7be16047418492383a6652a95dc645b6.png",
+      "md5": "7be16047418492383a6652a95dc645b6",
+      "size": 481004,
+      "uploadedDate": "2018-03-19T19:42:56.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot08-1920x1080-17c02eadea958ab7b76a3df469a327d5.png",
+      "md5": "17c02eadea958ab7b76a3df469a327d5",
+      "size": 314783,
+      "uploadedDate": "2018-03-19T19:42:56.251Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot09-1920x1080-55a349ae46878d80fd2d1da16f8ccc91.png",
+      "md5": "55a349ae46878d80fd2d1da16f8ccc91",
+      "size": 376853,
+      "uploadedDate": "2018-03-19T19:42:56.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot10-1920x1080-170fbfd03597c3e530b49d7f9518678e.png",
+      "md5": "170fbfd03597c3e530b49d7f9518678e",
+      "size": 381150,
+      "uploadedDate": "2018-03-19T19:42:56.469Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OlbertsLowPolySwampStrongHoldScreenshot11-1920x1080-18bf59ba20a03163998bc40cbce6594d.png",
+      "md5": "18bf59ba20a03163998bc40cbce6594d",
+      "size": 422818,
+      "uploadedDate": "2018-03-19T19:42:56.567Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OlbertsLowPolySwampStronghold_thumb-284x284-7e6e6d01161d3ea3f8ec6ca0fd7d8deb.png",
+      "md5": "7e6e6d01161d3ea3f8ec6ca0fd7d8deb",
+      "size": 136420,
+      "uploadedDate": "2018-03-19T19:42:56.626Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OlbertsLowPolySwampStronghold_featured-894x488-8767a94bea0040a8d0e2e40306861461.png",
+      "md5": "8767a94bea0040a8d0e2e40306861461",
+      "size": 561258,
+      "uploadedDate": "2018-03-19T19:42:56.793Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "6bbeca5ab543401b94d7283b45e5d7e6"
+    }
+  ],
+  "catalogNs": null
+}

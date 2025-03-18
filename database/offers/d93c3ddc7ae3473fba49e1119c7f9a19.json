@@ -1,0 +1,386 @@
+{
+  "id": "d93c3ddc7ae3473fba49e1119c7f9a19",
+  "namespace": "ue",
+  "title": "Dark Power 2 GHS",
+  "description": "Fantastic characters - Dark Power 2 GHS",
+  "longDescription": "<p>Low-poly models of the characters - Dark Power 2 GHS</p><p>Suitable for games of different genres: RPG, strategy, first-person shooter, etc.</p><p>The model is tuned to fit an epic skeleton.</p><p>There are also a couple of animations.</p><p>This package is collected from my products, which you can buy separately in the marketplace (list below):</p><p>Habet GHS <a href=\"https://www.youtube.com/watch?v&#61;xvUyUyCDa3Q\" rel=\"nofollow\">youtube</a> and <a href=\"https://www.unrealengine.com/marketplace/en-US/product/habet-ghs\" rel=\"nofollow\">product page</a></p><p>Saboka GHS <a href=\"https://www.youtube.com/watch?v&#61;3XCuxUcU78w&amp;t&#61;3s\" rel=\"nofollow\">youtube </a>and <a href=\"https://www.unrealengine.com/marketplace/en-US/product/saboka-ghs\" rel=\"nofollow\">product page</a></p><p>Heka GHS <a href=\"https://www.youtube.com/watch?v&#61;5qfFBDGofPI\" rel=\"nofollow\">youtube</a> and <a href=\"https://www.unrealengine.com/marketplace/en-US/product/heka-ghs\" rel=\"nofollow\">product page</a></p><p>Zendr GHS <a href=\"https://www.youtube.com/watch?v&#61;HlRdwhCZqxM\" rel=\"nofollow\">youtube</a><a href=\"https://www.youtube.com/watch?v&#61;3XCuxUcU78w&amp;t&#61;3s\" rel=\"nofollow\"> </a>and <a href=\"https://www.unrealengine.com/marketplace/en-US/product/zendr-ghs\" rel=\"nofollow\">product page</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dark-power-2-ghs",
+  "creationDate": "2022-08-26T21:39:57.639Z",
+  "lastModifiedDate": "2024-09-27T05:35:35.282Z",
+  "effectiveDate": "2022-08-26T21:39:57.594Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6vhtr5ffehsqjxgnyga9ykqaypwqah",
+    "name": "GHS studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h3>Technical Details</h3><p><a href=\"https://www.youtube.com/watch?v&#61;oBqQDpoZ8B0\" rel=\"nofollow\">Video presentation</a></p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: Yes</p><p>If rigged to the Epic skeleton, IK bones are included: Yes</p><p>Animated: Yes (test, free animation - Third Person). </p><p><br /></p><p>Number of Animations: 28</p><p>Animation types: in-place 28</p><p>Number of characters: 4</p><p><br /></p><p><strong>Vertex counts of characters:</strong></p><p><br /></p><p>Saboka GHS - 13439;</p><p>Habet GHS - 9667;</p><p>Heka GHS - 7061;</p><p>Zendr GHS - 18590.</p><p><br /></p><p><strong>Number of Materials and Material Instances:</strong></p><p>Saboka GHS - 5;</p><p>Habet GHS - 4;</p><p>Heka GHS - 4;</p><p>Zendr GHS - 3.</p><p><br /></p><p><strong>Number of Textures:</strong></p><p>Saboka GHS - 30;</p><p>Habet GHS - 27;</p><p>Heka GHS - 24;</p><p>Zendr GHS - 18.</p><p><br /></p><p>Texture Resolutions: 4096X4096</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: No</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "56a73055-acc4-480e-ba1e-852e1b13166e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-7ca6cdd8d7164da78e854031c6ccfe17.jpg",
+      "md5": "7ca6cdd8d7164da78e854031c6ccfe17",
+      "size": 778860,
+      "uploadedDate": "2022-08-26T14:56:23.595Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-52e0023b8aef4151b298a7d2f6a5df71.jpg",
+      "md5": "52e0023b8aef4151b298a7d2f6a5df71",
+      "size": 959824,
+      "uploadedDate": "2022-08-26T14:56:24.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-90079bd7b4d608d16fb4e7667488e09b.jpg",
+      "md5": "90079bd7b4d608d16fb4e7667488e09b",
+      "size": 799389,
+      "uploadedDate": "2022-08-26T14:56:24.509Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-fc6f6bed11638ad57420b007ac53c019.jpg",
+      "md5": "fc6f6bed11638ad57420b007ac53c019",
+      "size": 592622,
+      "uploadedDate": "2022-08-26T14:56:24.966Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-244ebcc8349fb14e65a8b0ba6b01eb69.jpg",
+      "md5": "244ebcc8349fb14e65a8b0ba6b01eb69",
+      "size": 614169,
+      "uploadedDate": "2022-08-26T14:56:25.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-430fe7088ef91f81e88593020ebd168f.jpg",
+      "md5": "430fe7088ef91f81e88593020ebd168f",
+      "size": 617153,
+      "uploadedDate": "2022-08-26T14:56:25.840Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-effbe7dc90b40d27826f67faa81c01ea.jpg",
+      "md5": "effbe7dc90b40d27826f67faa81c01ea",
+      "size": 646295,
+      "uploadedDate": "2022-08-26T14:56:26.241Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-d2721c77fb53961a6b6ef129ef77ad3a.jpg",
+      "md5": "d2721c77fb53961a6b6ef129ef77ad3a",
+      "size": 711601,
+      "uploadedDate": "2022-08-26T14:56:26.667Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-e4aa124ad8f794fad43ad14e77e5cc44.jpg",
+      "md5": "e4aa124ad8f794fad43ad14e77e5cc44",
+      "size": 633609,
+      "uploadedDate": "2022-08-26T14:56:27.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DarkPower2GHS_thumb-284x284-56d9e5f24cb6ffafa7445ae3ac1d3149.png",
+      "md5": "56d9e5f24cb6ffafa7445ae3ac1d3149",
+      "size": 120503,
+      "uploadedDate": "2022-08-26T14:56:27.360Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DarkPower2GHS_featured-894x488-700813fc0864b9ddca1094f777b59ec1.png",
+      "md5": "700813fc0864b9ddca1094f777b59ec1",
+      "size": 421708,
+      "uploadedDate": "2022-08-26T14:56:27.449Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-7ca6cdd8d7164da78e854031c6ccfe17_Snapshot.jpg",
+      "md5": "3d35f61b0587e1daa464124e531ae8aa",
+      "size": 5256,
+      "uploadedDate": "2022-08-26T14:56:23.855Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-52e0023b8aef4151b298a7d2f6a5df71_Snapshot.jpg",
+      "md5": "24726dac488faf371dec91e5e6ebd005",
+      "size": 6324,
+      "uploadedDate": "2022-08-26T14:56:24.369Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-90079bd7b4d608d16fb4e7667488e09b_Snapshot.jpg",
+      "md5": "a3cf7f18c02edc7f1eac0697a416d049",
+      "size": 5611,
+      "uploadedDate": "2022-08-26T14:56:24.785Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-fc6f6bed11638ad57420b007ac53c019_Snapshot.jpg",
+      "md5": "ad4e52092267a9d7ba9efd4117d4f7fc",
+      "size": 3975,
+      "uploadedDate": "2022-08-26T14:56:25.240Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-244ebcc8349fb14e65a8b0ba6b01eb69_Snapshot.jpg",
+      "md5": "b94ac162031e783c16ebdf05d6f1a523",
+      "size": 4357,
+      "uploadedDate": "2022-08-26T14:56:25.693Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-430fe7088ef91f81e88593020ebd168f_Snapshot.jpg",
+      "md5": "3fb404868bee0268d7753286a01fa6cc",
+      "size": 4018,
+      "uploadedDate": "2022-08-26T14:56:26.097Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-effbe7dc90b40d27826f67faa81c01ea_Snapshot.jpg",
+      "md5": "168b2e66c06a8b37e809f8d9b7127559",
+      "size": 4972,
+      "uploadedDate": "2022-08-26T14:56:26.518Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-d2721c77fb53961a6b6ef129ef77ad3a_Snapshot.jpg",
+      "md5": "fcd55aa0d40dafcfb26f01b66aacf471",
+      "size": 4932,
+      "uploadedDate": "2022-08-26T14:56:26.927Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-e4aa124ad8f794fad43ad14e77e5cc44_Snapshot.jpg",
+      "md5": "81ca9a8e7835c5816fb511a0eb4a22b7",
+      "size": 4086,
+      "uploadedDate": "2022-08-26T14:56:27.285Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "7ebe13a1923d4b28971ab8dd1d8fc8a7"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,272 @@
+{
+  "id": "f7a210fc8edf4b919c8cb943d04cd410",
+  "namespace": "ue",
+  "title": "3PACK",
+  "description": "In this 3PACK you will have 3 projects for a lower price: a Customizable GPS, Player Name & Text Chat system, and a Wanted System",
+  "longDescription": "<p><strong><em><u>SAVE &gt;30% WITH THIS PACK!</u></em></strong></p><p><br /></p><p><strong><em><u>LINKS TO THE PROJECTS ON UNREAL ENGINE MARKETPLACE:</u></em></strong></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/customizable-gps\" rel=\"nofollow\">{Customizable GPS}</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/player-name-text-chat\" rel=\"nofollow\">{Player Name &amp; Text Chat}</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/wanted-system\" rel=\"nofollow\">{Wanted System}</a></p><p><br /></p><p><u>In this </u><strong><u>3PACK </u></strong><u>you will have 3 projects for a </u><strong><u>lower price</u></strong><u>:</u></p><ul><li><strong>Customizable GPS</strong></li><li><strong>Player Name &amp; Text Chat</strong></li><li><strong>Wanted System</strong></li></ul><p><br /></p><p>All projects are <strong>updated</strong> when needed, and do <strong>not differ</strong> from products purchased separately from this pack.</p><p>You can find <strong>demo projects</strong>, demo <strong>videos</strong> and <strong>documentations</strong> in the project&#39;s respective webpage (see on the top of the description)</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "3pack",
+  "creationDate": "2021-08-01T20:36:28.115Z",
+  "lastModifiedDate": "2024-09-26T13:00:18.077Z",
+  "effectiveDate": "2021-08-01T20:36:28.036Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jqv5beaj6vvdr4tjzg6ngut25njvb5",
+    "name": "Mari0Kz"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Blueprints: 18</p><p>Network Replicated: Yes for &#34;Player Name &amp; Text Chat&#34; project</p><p>Supported Development Platforms: Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1361",
+      "name": "QUICK-TIME EVENTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:17.649Z",
+      "updated": "2019-06-20T12:01:17.649Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1149",
+      "name": "LOOT",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:32.736Z",
+      "updated": "2019-06-20T11:59:32.736Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e0395157-d89f-45bb-a559-22b1307f780f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Links-1920x1080-eb1600bcf60dc92fbe34823b5622db4b.png",
+      "md5": "eb1600bcf60dc92fbe34823b5622db4b",
+      "size": 990542,
+      "uploadedDate": "2021-06-13T17:02:00.438Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CustomizableGPS-1920x1080-596878f3b132e9c7b46d2aa567b11bb8.png",
+      "md5": "596878f3b132e9c7b46d2aa567b11bb8",
+      "size": 1601254,
+      "uploadedDate": "2021-06-13T17:02:00.979Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PlayerNameTextChat-1920x1080-814c2ec75d4c29bc18bb305031e9a9c1.png",
+      "md5": "814c2ec75d4c29bc18bb305031e9a9c1",
+      "size": 1275144,
+      "uploadedDate": "2021-06-13T17:02:01.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/WantedSystem-1920x1080-5f59424df876bd4b579bd12634886e1e.png",
+      "md5": "5f59424df876bd4b579bd12634886e1e",
+      "size": 1331180,
+      "uploadedDate": "2021-06-13T17:02:02.202Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/3PACK_thumb-284x284-b8a5b1668d2cbaaf89db36400676178a.png",
+      "md5": "b8a5b1668d2cbaaf89db36400676178a",
+      "size": 144920,
+      "uploadedDate": "2021-06-13T17:02:02.635Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/3PACK_featured-894x488-e4dafb43f7c6e6de155c88285d18259d.png",
+      "md5": "e4dafb43f7c6e6de155c88285d18259d",
+      "size": 605290,
+      "uploadedDate": "2021-06-13T17:02:02.733Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Links-1920x1080-eb1600bcf60dc92fbe34823b5622db4b_Snapshot.png",
+      "md5": "6e688c2c07643377987da783fee4b852",
+      "size": 6313,
+      "uploadedDate": "2021-06-13T17:02:00.739Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CustomizableGPS-1920x1080-596878f3b132e9c7b46d2aa567b11bb8_Snapshot.png",
+      "md5": "64237ab427b3da4edac1213649b098fb",
+      "size": 6630,
+      "uploadedDate": "2021-06-13T17:02:01.396Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PlayerNameTextChat-1920x1080-814c2ec75d4c29bc18bb305031e9a9c1_Snapshot.png",
+      "md5": "c9b2be1234e75c3d8b161f65bbca3c3f",
+      "size": 6589,
+      "uploadedDate": "2021-06-13T17:02:01.998Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/WantedSystem-1920x1080-5f59424df876bd4b579bd12634886e1e_Snapshot.png",
+      "md5": "3c64edfcf187d18e31f1b2d20a9551f9",
+      "size": 6967,
+      "uploadedDate": "2021-06-13T17:02:02.565Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f52ee81da6cf4c50b1f13a06f8466bbe"
+    }
+  ],
+  "catalogNs": null
+}

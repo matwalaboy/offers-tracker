@@ -1,0 +1,314 @@
+{
+  "id": "c84e240e7d7941bd937f829179fa5644",
+  "namespace": "ue",
+  "title": "Snake warrior",
+  "description": "Snake warrior animated model",
+  "longDescription": "<p>Snake warrior animated model</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;TCLrg4yk_x4\" rel=\"nofollow\">Animations video preview</a></p><p><a href=\"https://sketchfab.com/3d-models/snake-warrior-0d06495e1db64d87a0a2ba3ff4f186b0\" rel=\"nofollow\">Sketchfab preview</a></p><p><a href=\"https://discord.gg/jgBNSMP4bb\" rel=\"nofollow\">My Discord group</a></p><p><br /></p><p>Animations list:</p><p>Idle</p><p>Battle Idle</p><p>Two deaths</p><p>Getting hit</p><p>Getting hit in shield</p><p>Three attack animations</p><p>Dash</p><p>Walk</p><p>Run</p><p>Turning left and right</p><p><br /></p><p>Triangles count: 90660 triangles</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "snake-warrior",
+  "creationDate": "2024-03-24T07:31:05.073Z",
+  "lastModifiedDate": "2024-09-30T18:38:29.632Z",
+  "effectiveDate": "2024-03-24T07:31:05.037Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-93wt2wz4uvaryh5tl8kjlpu9wzd3ne",
+    "name": "DmitriyDryzhak"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: no</p><p>Rigged to Epic skeleton: no</p><p>Animated: yes</p><p>Number of Animations: 14</p><p>Animation types (Root Motion/In-place): in place</p><p>Number of characters: 1</p><p>Number of Materials and Material Instances: 1</p><p>Number of Textures: 4</p><p>Texture Resolutions: 4096</p><p>Supported Development Platforms:</p><p>\tWindows: yes</p><p>\tMac: yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1d59fd5a-4ef9-4839-bee7-cfe01b31e755"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19200-1920x1080-9ac600b47d2f9c029b65eb81039a06cc.jpg",
+      "md5": "9ac600b47d2f9c029b65eb81039a06cc",
+      "size": 753415,
+      "uploadedDate": "2024-03-21T10:16:15.812Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201-1920x1080-0ca930ab583e6a1373a4596f6bfa7281.jpg",
+      "md5": "0ca930ab583e6a1373a4596f6bfa7281",
+      "size": 797190,
+      "uploadedDate": "2024-03-21T10:16:16.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19202-1920x1080-48cfc3cf951470c127658791c531037e.jpg",
+      "md5": "48cfc3cf951470c127658791c531037e",
+      "size": 687765,
+      "uploadedDate": "2024-03-21T10:16:17.290Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19203-1920x1080-bae2a766aa2dcc7e01f0f40433c08af3.jpg",
+      "md5": "bae2a766aa2dcc7e01f0f40433c08af3",
+      "size": 768803,
+      "uploadedDate": "2024-03-21T10:16:17.964Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19204-1920x1080-af465d1950d35e20aee240dbef47b97f.jpg",
+      "md5": "af465d1950d35e20aee240dbef47b97f",
+      "size": 628756,
+      "uploadedDate": "2024-03-21T10:16:18.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19205-1920x1080-c1fc16f9e5bf6b717425dd9610aafafd.jpg",
+      "md5": "c1fc16f9e5bf6b717425dd9610aafafd",
+      "size": 662068,
+      "uploadedDate": "2024-03-21T10:16:19.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19206-1920x1080-0853edb197c058583c37b0227f2166ff.jpg",
+      "md5": "0853edb197c058583c37b0227f2166ff",
+      "size": 674925,
+      "uploadedDate": "2024-03-21T10:16:19.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Snakewarrior_thumb-284x284-7eaf862309c79c66a652131e41c769ab.png",
+      "md5": "7eaf862309c79c66a652131e41c769ab",
+      "size": 132075,
+      "uploadedDate": "2024-03-21T10:16:20.590Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Snakewarrior_featured-894x488-3ed203d1a22128e6c0e5a549cb56ec80.png",
+      "md5": "3ed203d1a22128e6c0e5a549cb56ec80",
+      "size": 519154,
+      "uploadedDate": "2024-03-21T10:16:20.693Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19200-1920x1080-9ac600b47d2f9c029b65eb81039a06cc_Snapshot.jpg",
+      "md5": "226fc676e4ba3916a1e7422917621a64",
+      "size": 4803,
+      "uploadedDate": "2024-03-21T10:16:16.256Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201-1920x1080-0ca930ab583e6a1373a4596f6bfa7281_Snapshot.jpg",
+      "md5": "f555cfd2a35c455873a4ff99bcfaca95",
+      "size": 5090,
+      "uploadedDate": "2024-03-21T10:16:17.060Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19202-1920x1080-48cfc3cf951470c127658791c531037e_Snapshot.jpg",
+      "md5": "fe23a509ef6b712323f0c0025810d8da",
+      "size": 4753,
+      "uploadedDate": "2024-03-21T10:16:17.704Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19203-1920x1080-bae2a766aa2dcc7e01f0f40433c08af3_Snapshot.jpg",
+      "md5": "4bca1bbc903024713011f163dc405184",
+      "size": 4753,
+      "uploadedDate": "2024-03-21T10:16:18.391Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19204-1920x1080-af465d1950d35e20aee240dbef47b97f_Snapshot.jpg",
+      "md5": "c43087863fb04bd8756ed0bf839bf5d2",
+      "size": 4595,
+      "uploadedDate": "2024-03-21T10:16:19.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19205-1920x1080-c1fc16f9e5bf6b717425dd9610aafafd_Snapshot.jpg",
+      "md5": "f6011e79e0b781276d833defa23831c4",
+      "size": 4335,
+      "uploadedDate": "2024-03-21T10:16:19.732Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19206-1920x1080-0853edb197c058583c37b0227f2166ff_Snapshot.jpg",
+      "md5": "c4d3785bb98d89c085e4943156fd7e49",
+      "size": 4652,
+      "uploadedDate": "2024-03-21T10:16:20.406Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "17ec3e8e06b942379160058941d8424c"
+    }
+  ],
+  "catalogNs": null
+}

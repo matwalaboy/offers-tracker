@@ -1,0 +1,248 @@
+{
+  "id": "650befcc10ee4fedb4560e78d8802921",
+  "namespace": "ue",
+  "title": "Environment Sound FX Collection",
+  "description": "Scary ambient sounds collection, that will make your game audio performance much more impressive. Collection includes stereo and mono sound files and loops intended for game environment sound design.",
+  "longDescription": "Collection includes: Dark, evil ambient loops, ambient noises, scary sounds, heavy rumbles, moans, metal squeaks, scratches, cracks, debris sounds, sub bass sound fx, background white noises and loops, electric sounds, electric sparks. Weather sounds: wind sounds, thunder strikes. These sounds were created especially for game environment audio design.<br /><br />Also, Normal environment sounds: city street, forest, river, lake, ocean, swamp, cave sounds, dogs barking (close and far distance), birds, insects and many more...<br /><br />All sound files recorded, cleaned and prepared for use inside the UE or other engines. Especially good in UE. You can use random, modulation(pitch and volume) and attenuation nodes in sound cue to achieve various footstep sound effect for game character. Also you can use reverb volumes to easily achieve interior and exterior sound effects.<br /><br />Preview <a href=\"http://www.youtube.com/watch?v&#61;yjAWdRjAmB4\" rel=\"nofollow\">http://www.youtube.com/watch?v&#61;yjAWdRjAmB4</a>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "environment-sound-fx-collection",
+  "creationDate": "2014-11-14T23:02:51.253Z",
+  "lastModifiedDate": "2024-09-26T13:04:31.382Z",
+  "effectiveDate": "2014-12-02T00:00:00.000Z",
+  "viewableDate": "2014-12-02T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-83b9954cb94af99c15cc5c1c448252",
+    "name": "Medartimus"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Designed for all platforms</p><p><br /></p><p>All files are in wav. format:</p><p>44.100 Hz, 16 bit, stereo, PCM,</p><p>-Number of waves: 120 stereo wav,</p><p>-Number of cue:   120 cue file</p><p>5 packs: Ambient sound loops, ambient sound effects, animals birds insects, electronic sounds, weather.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3f69c015-04ad-4314-aa1b-86f726346ef3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_screenshot1-1920x1080-82a025bd25f99a08e9b5efdf1ecfd563.png",
+      "md5": "82a025bd25f99a08e9b5efdf1ecfd563",
+      "size": 1999583,
+      "uploadedDate": "2014-11-14T22:53:29.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_Thumbnail-284x284-aca8dca5b2e75e5a5e3bd447242a7641.png",
+      "md5": "aca8dca5b2e75e5a5e3bd447242a7641",
+      "size": 112978,
+      "uploadedDate": "2015-03-16T18:45:47.822Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_featured-476x246-abf49e67e44e683bc193ae491cdf4240.png",
+      "md5": "abf49e67e44e683bc193ae491cdf4240",
+      "size": 161691,
+      "uploadedDate": "2014-11-14T22:52:40.167Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_comingsoon-394x208-7c9447d357f22e5acbb85d5fa38535da.png",
+      "md5": "7c9447d357f22e5acbb85d5fa38535da",
+      "size": 114926,
+      "uploadedDate": "2014-11-14T22:52:50.317Z",
+      "width": 394,
+      "height": 208
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_screenshot1-1920x1080-82a025bd25f99a08e9b5efdf1ecfd563.png",
+      "md5": "82a025bd25f99a08e9b5efdf1ecfd563",
+      "size": 1999583,
+      "uploadedDate": "2014-11-19T16:38:46.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/EnvironmentSFX_comingsoon_small-145x208-205b994c1441514ee5dc2c294c4cb295.png",
+      "md5": "205b994c1441514ee5dc2c294c4cb295",
+      "size": 48191,
+      "uploadedDate": "2014-11-14T22:53:01.205Z",
+      "width": 145,
+      "height": 208
+    }
+  ],
+  "items": [
+    {
+      "id": "633376095ac94d36ba7375c8d9a99124"
+    }
+  ],
+  "catalogNs": null
+}

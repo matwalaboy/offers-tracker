@@ -1,0 +1,320 @@
+{
+  "id": "9ac8236bf2ef4e10aae0c3300ccdd368",
+  "namespace": "ue",
+  "title": "NHC - Arabian Houses",
+  "description": "The pack includes 120 different arabian house pictures with transparent backgrounds and 3 types of resolutions (360 textures in total).",
+  "longDescription": "<p>The pack consists of 120 different images (in 3 resolutions - 360 items), which include of different arabian house pictures that can organically fit into any mobile project, game, website or product design.</p><p>These icons have three types of resolution and a transparent background for easier use.</p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-arabian-houses",
+  "creationDate": "2024-07-29T08:09:40.272Z",
+  "lastModifiedDate": "2024-09-30T16:28:36.518Z",
+  "effectiveDate": "2024-07-29T08:09:40.242Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Optional size of textures</p><p>Transparent </p><p><br /></p><p>Number of Textures: 360</p><p>1024 px - 120 textures</p><p>512 px - 120 textures</p><p>256 px - 120 textures</p><p><br /></p><p>Texture Resolutions: 256*256, 512*512, 1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3539a3d6-9d08-4b9d-80ba-38ab3ed89c33"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview001-1920x1080-201c1a6c97ccbae9d56b8f4e3e39b1bd.jpeg",
+      "md5": "201c1a6c97ccbae9d56b8f4e3e39b1bd",
+      "size": 218108,
+      "uploadedDate": "2024-07-10T10:52:41.927Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-58f530eaeadfafdaee938299037e7aad.jpeg",
+      "md5": "58f530eaeadfafdaee938299037e7aad",
+      "size": 185984,
+      "uploadedDate": "2024-07-10T10:52:42.286Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-a0d1b6aed8a6a37678d712dda9542da7.jpeg",
+      "md5": "a0d1b6aed8a6a37678d712dda9542da7",
+      "size": 175842,
+      "uploadedDate": "2024-07-10T10:52:42.624Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm007-1920x1080-d44a28c3833f7912d6a80d3dfe58b445.jpeg",
+      "md5": "d44a28c3833f7912d6a80d3dfe58b445",
+      "size": 181072,
+      "uploadedDate": "2024-07-10T10:52:42.948Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm0010-1920x1080-224dc0ce388df04ef310e159cfbe0764.jpeg",
+      "md5": "224dc0ce388df04ef310e159cfbe0764",
+      "size": 180797,
+      "uploadedDate": "2024-07-10T10:52:43.327Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm0013-1920x1080-65965b0def310af7ebaba2a1e58a0088.jpeg",
+      "md5": "65965b0def310af7ebaba2a1e58a0088",
+      "size": 182344,
+      "uploadedDate": "2024-07-10T10:52:43.704Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHC2DArabianHouses_thumb-284x284-34e8bb2d7d585d60dc96cd645d9490af.png",
+      "md5": "34e8bb2d7d585d60dc96cd645d9490af",
+      "size": 126589,
+      "uploadedDate": "2024-07-10T10:52:44.086Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHC2DArabianHouses_featured-894x488-ea4f63999e9824df0c7898798efcc633.png",
+      "md5": "ea4f63999e9824df0c7898798efcc633",
+      "size": 451126,
+      "uploadedDate": "2024-07-10T10:52:44.201Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview001-1920x1080-201c1a6c97ccbae9d56b8f4e3e39b1bd_Snapshot.jpeg",
+      "md5": "6bea7df0bbf31fd03ce4cec8442da6d3",
+      "size": 6455,
+      "uploadedDate": "2024-07-10T10:52:42.149Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-58f530eaeadfafdaee938299037e7aad_Snapshot.jpeg",
+      "md5": "b061c00be1fe05dcd436731d10fd7b7d",
+      "size": 6253,
+      "uploadedDate": "2024-07-10T10:52:42.507Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-a0d1b6aed8a6a37678d712dda9542da7_Snapshot.jpeg",
+      "md5": "93b98b418693e84c596aa8ba2448b9a5",
+      "size": 6257,
+      "uploadedDate": "2024-07-10T10:52:42.864Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm007-1920x1080-d44a28c3833f7912d6a80d3dfe58b445_Snapshot.jpeg",
+      "md5": "c9aaa3661eb970c1001ce468bafd1203",
+      "size": 6174,
+      "uploadedDate": "2024-07-10T10:52:43.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm0010-1920x1080-224dc0ce388df04ef310e159cfbe0764_Snapshot.jpeg",
+      "md5": "8feca2684572ace09de96225dcea3571",
+      "size": 6045,
+      "uploadedDate": "2024-07-10T10:52:43.568Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm0013-1920x1080-65965b0def310af7ebaba2a1e58a0088_Snapshot.jpeg",
+      "md5": "56d5a8776b671a7aeb189b1b33e9c75d",
+      "size": 6280,
+      "uploadedDate": "2024-07-10T10:52:43.922Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ce4131929f344a6c8c7d38e1435789b4"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,248 @@
+{
+  "id": "16079a9027cd4d81aae446630c75e571",
+  "namespace": "ue",
+  "title": "Fantasy Backgrounds",
+  "description": "An amazing collection of fantasy backgrounds is at your service! Create your own unique gaming world using richly illustrated images!",
+  "longDescription": "<p>The images offered in the set can be used, for example, to visually display mini-locations of maps of the game world, or as paintings when designing the premises of the game world. The images are great for RPG fans and developers!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-backgrounds-01",
+  "creationDate": "2024-01-17T01:15:08.937Z",
+  "lastModifiedDate": "2024-09-27T15:47:18.017Z",
+  "effectiveDate": "2024-01-17T01:15:08.888Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Textures: 111.</p><p>Texture Resolutions: 1024 x 1024 px</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Playground AI.</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6b3a8133-b29c-4ecc-b331-0ad8a7c9cf1c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo6-1920x1080-0de0cde71ac594ff85dc9d5a80ee82f4.jpg",
+      "md5": "0de0cde71ac594ff85dc9d5a80ee82f4",
+      "size": 1743430,
+      "uploadedDate": "2024-01-15T15:58:46.064Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo5-1920x1080-6ca26346a24b3da8ae8246f097c47da5.jpg",
+      "md5": "6ca26346a24b3da8ae8246f097c47da5",
+      "size": 1709413,
+      "uploadedDate": "2024-01-15T15:58:47.113Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo4-1920x1080-39fd4a704c009a5ac5c8337d28b7cee7.jpg",
+      "md5": "39fd4a704c009a5ac5c8337d28b7cee7",
+      "size": 1688644,
+      "uploadedDate": "2024-01-15T15:58:48.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo3-1920x1080-3c1f3458586869aae83128b09e62ecb6.jpg",
+      "md5": "3c1f3458586869aae83128b09e62ecb6",
+      "size": 1743857,
+      "uploadedDate": "2024-01-15T15:58:49.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo2-1920x1080-d83e0d3327b954619e1455179b8861e1.jpg",
+      "md5": "d83e0d3327b954619e1455179b8861e1",
+      "size": 1751011,
+      "uploadedDate": "2024-01-15T15:58:50.256Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo-1920x1080-77070f520ddba33c0d6d8b8e0440eeb7.jpg",
+      "md5": "77070f520ddba33c0d6d8b8e0440eeb7",
+      "size": 1808263,
+      "uploadedDate": "2024-01-15T15:58:51.225Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyBackgrounds_thumb-284x284-8e30f4761a4a91508a8dc820c4a7327e.png",
+      "md5": "8e30f4761a4a91508a8dc820c4a7327e",
+      "size": 181144,
+      "uploadedDate": "2024-01-15T15:58:51.992Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyBackgrounds_featured-894x488-b74b610070802951ac4dafd37f497c76.png",
+      "md5": "b74b610070802951ac4dafd37f497c76",
+      "size": 969359,
+      "uploadedDate": "2024-01-15T15:58:52.192Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo6-1920x1080-0de0cde71ac594ff85dc9d5a80ee82f4_Snapshot.jpg",
+      "md5": "492dd68e30ff379ef4a95544bf8af7ff",
+      "size": 7796,
+      "uploadedDate": "2024-01-15T15:58:46.744Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo5-1920x1080-6ca26346a24b3da8ae8246f097c47da5_Snapshot.jpg",
+      "md5": "c0c07fc992f1eabe178a8f673db37764",
+      "size": 7409,
+      "uploadedDate": "2024-01-15T15:58:47.751Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo4-1920x1080-39fd4a704c009a5ac5c8337d28b7cee7_Snapshot.jpg",
+      "md5": "82c6bd5987017b11b949ddcbc336b239",
+      "size": 8045,
+      "uploadedDate": "2024-01-15T15:58:48.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo3-1920x1080-3c1f3458586869aae83128b09e62ecb6_Snapshot.jpg",
+      "md5": "c432246c1e9d17e9176d8de069ccaae2",
+      "size": 7460,
+      "uploadedDate": "2024-01-15T15:58:49.908Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo2-1920x1080-d83e0d3327b954619e1455179b8861e1_Snapshot.jpg",
+      "md5": "27f02a470d046aa244b68e2a4e2f1fc0",
+      "size": 8188,
+      "uploadedDate": "2024-01-15T15:58:50.902Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo-1920x1080-77070f520ddba33c0d6d8b8e0440eeb7_Snapshot.jpg",
+      "md5": "3e68f054d6d931843fa4df79eeb8c5a4",
+      "size": 7668,
+      "uploadedDate": "2024-01-15T15:58:51.904Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "89c4b5d5c3a7417d9879fa3dcbd60d7b"
+    }
+  ],
+  "catalogNs": null
+}

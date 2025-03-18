@@ -1,0 +1,533 @@
+{
+  "id": "b8ccc50b49054a158d1326c7d142e51a",
+  "namespace": "ue",
+  "title": "Modular Male Mannequin on Standard Skeleton",
+  "description": "A modular male mannequin built on the Epic Male skeleton, designed for maximum flexibility and compatibility.",
+  "longDescription": "<p>This modular male mannquin is built on the Epic Skeleton (UE4 and UE5 versions provided) and is designed for flexibility and maximum compatibility with other marketplace assets.</p><p><a href=\"https://www.youtube.com/watch?v&#61;HpjtpwLqRyI&amp;ab_channel&#61;PiorO\" rel=\"nofollow\">Video demo</a></p><p><a href=\"https://drive.google.com/file/d/1BC3g6-HXbUKWZ2DjWASYrXfdccuQ3ras/view?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;Pd3GWyuVmvQ\" rel=\"nofollow\">Tutorial on how to use a custom character model with a character controller &#43; assembling multiple parts</a></p><p><br /></p><p>Two systems are provided : regular modular skeletal meshes (head, upper, hands, lower, feet), and socketed static meshes attached to a skeletal inner frame. Includes regular male and buff male variants.</p><p><br /></p><p>The socketed version allows to bring in any 3d model of armor parts, even without any skin weighting. This means you can expand on this mannequin using software like Sketchup, Moi3D, Assetforge, and so on. And of course skeletal meshes from other marketplace assets can be combined with it too.</p><p><br /></p><p>The regular modular skeletal version can accept any male head from the other PO-Art bundles.</p><p>For updates on new PO-Art marketplace releases visit this page to subscribe to the newsletter : <a href=\"http://pioroberson.com/POArtNewsletter.htm\" rel=\"nofollow\">PO-Art newsletter</a></p><p><br /></p><p>- - - - -</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-male-mannequin-on-standard-skeleton",
+  "creationDate": "2021-02-02T20:51:28.889Z",
+  "lastModifiedDate": "2024-09-27T11:46:11.840Z",
+  "effectiveDate": "2021-02-02T20:51:25.483Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2ff838f2bc4c25a73c54ace505046d",
+    "name": "PO-Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><br /></p><p>A male mannequin provided with two systems : regular modular skeletal, and socketed static meshes.</p><p>All parts are capped at the joints to avoid any visible gap when mixing with other assets.</p><p>Ready for ALS or any other controller using the Epic Male Skeleton.</p><p> </p><p>Rigged : Yes</p><p>Rigged to Epic skeleton : Yes, UE4 and UE5</p><p>Animated : Yes (comes with an edited duplicate of the third person controller)</p><p>Number of animations : standard thirdperson animations &#43; 1 custom UE4 idle &#43; 1 custom UE4 run</p><p>Number of characters: 2</p><p>Triangles count : 40280 tris when combined</p><p>Texture resolution: 2048</p><p>Supported development platforms: All</p><p><br /></p><p>How to use : Import to your project of choice and perform a right click &gt; assign skeleton on any skeletal mesh you want to use with your existing skeleton and controller, or use the one provided. Socketed parts are to be attached to their corresponding bones.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ed801c11-5d10-4857-b4c1-6e07b0e30483"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 008-1920x1080-a8f3fb1b7e7bb47362a7e2c62abae90d.jpg",
+      "md5": "a8f3fb1b7e7bb47362a7e2c62abae90d",
+      "size": 439016,
+      "uploadedDate": "2021-01-25T04:07:15.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 010-1920x1080-6a058aa4c579263b405f974ecf52c1e7.jpg",
+      "md5": "6a058aa4c579263b405f974ecf52c1e7",
+      "size": 480655,
+      "uploadedDate": "2021-01-25T04:07:15.610Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 009-1920x1080-a398c97f01678af018f1628f11ad37cd.jpg",
+      "md5": "a398c97f01678af018f1628f11ad37cd",
+      "size": 376256,
+      "uploadedDate": "2021-01-25T04:07:15.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 004b-1920x1080-d9787b357bf14f1000977f8aacc4f0d7.jpg",
+      "md5": "d9787b357bf14f1000977f8aacc4f0d7",
+      "size": 400961,
+      "uploadedDate": "2021-01-25T04:07:16.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 005-1920x1080-fa8bc6a2cc0a72bef38efd9de0eb066e.jpg",
+      "md5": "fa8bc6a2cc0a72bef38efd9de0eb066e",
+      "size": 475328,
+      "uploadedDate": "2021-01-25T04:07:16.634Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 001-1920x1080-8e9ac5e534632fe2a1558e3e911c1ffa.jpg",
+      "md5": "8e9ac5e534632fe2a1558e3e911c1ffa",
+      "size": 406997,
+      "uploadedDate": "2021-01-25T04:07:16.969Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 016-1920x1080-437ef6327a20f4c7a9b3f556741b0cac.jpg",
+      "md5": "437ef6327a20f4c7a9b3f556741b0cac",
+      "size": 587297,
+      "uploadedDate": "2021-01-29T07:50:16.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 017-1920x1080-8650e924ff048887c65e7344314ecf6c.jpg",
+      "md5": "8650e924ff048887c65e7344314ecf6c",
+      "size": 649496,
+      "uploadedDate": "2021-01-29T07:50:16.827Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 011-1920x1080-d54df812ca065c8eb257f9c96bf8d9a7.jpg",
+      "md5": "d54df812ca065c8eb257f9c96bf8d9a7",
+      "size": 563858,
+      "uploadedDate": "2021-01-29T07:50:17.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 012-1920x1080-c5710297b9647cb145b9317c6592d754.jpg",
+      "md5": "c5710297b9647cb145b9317c6592d754",
+      "size": 562124,
+      "uploadedDate": "2021-01-29T07:50:17.776Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 015-1920x1080-7a597917ab84f5625690669732a7dc56.jpg",
+      "md5": "7a597917ab84f5625690669732a7dc56",
+      "size": 518058,
+      "uploadedDate": "2021-01-29T07:50:18.892Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 013-1920x1080-5b6c50e5a9b1acdd7ab83ed1f90a7329.jpg",
+      "md5": "5b6c50e5a9b1acdd7ab83ed1f90a7329",
+      "size": 587015,
+      "uploadedDate": "2021-02-02T21:24:25.146Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 014-1920x1080-17ae57132724a3bc98c3e10b14e26cb7.jpg",
+      "md5": "17ae57132724a3bc98c3e10b14e26cb7",
+      "size": 578230,
+      "uploadedDate": "2021-02-02T21:24:25.563Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 018-1920x1080-ffba8b1f3b93e5eb3d2da854b3df1dd1.jpg",
+      "md5": "ffba8b1f3b93e5eb3d2da854b3df1dd1",
+      "size": 468849,
+      "uploadedDate": "2021-02-02T21:25:57.525Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 019-1920x1080-10d68b1f92d0fa1c8157ca29a49afa02.jpg",
+      "md5": "10d68b1f92d0fa1c8157ca29a49afa02",
+      "size": 586225,
+      "uploadedDate": "2021-02-02T21:25:57.946Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male mannequin 020-1920x1080-5cc98f1b04f63c91aac1635dbd5b49c3.jpg",
+      "md5": "5cc98f1b04f63c91aac1635dbd5b49c3",
+      "size": 533201,
+      "uploadedDate": "2024-02-29T06:37:32.831Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModularMannequinonStandardSkeleton_thumb-284x284-152f018618448f78eb052de5126f71b8.png",
+      "md5": "152f018618448f78eb052de5126f71b8",
+      "size": 116733,
+      "uploadedDate": "2021-01-25T04:04:40.082Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ModularMannequinonStandardSkeleton_featured-894x488-1e6bc6943061a36ae839ac683755b23e.png",
+      "md5": "1e6bc6943061a36ae839ac683755b23e",
+      "size": 499371,
+      "uploadedDate": "2021-01-25T04:04:40.174Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 020-1920x1080-5cc98f1b04f63c91aac1635dbd5b49c3_Snapshot.jpg",
+      "md5": "06cf3dfee539ab8ec4486096c502d128",
+      "size": 8957,
+      "uploadedDate": "2024-02-29T06:37:33.239Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 018-1920x1080-ffba8b1f3b93e5eb3d2da854b3df1dd1_Snapshot.jpg",
+      "md5": "ffa129c6868d17917e8345a1f33c7bd9",
+      "size": 8166,
+      "uploadedDate": "2021-02-02T21:25:57.788Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 019-1920x1080-10d68b1f92d0fa1c8157ca29a49afa02_Snapshot.jpg",
+      "md5": "dc350a6d83207213650221e4b174e5b9",
+      "size": 6416,
+      "uploadedDate": "2021-02-02T21:25:58.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 013-1920x1080-5b6c50e5a9b1acdd7ab83ed1f90a7329_Snapshot.jpg",
+      "md5": "0e63cc2e936bbbfe195dc1b3907b016b",
+      "size": 7809,
+      "uploadedDate": "2021-02-02T21:24:25.436Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 014-1920x1080-17ae57132724a3bc98c3e10b14e26cb7_Snapshot.jpg",
+      "md5": "a8965c199854b1979c28701024616dab",
+      "size": 7603,
+      "uploadedDate": "2021-02-02T21:24:25.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 016-1920x1080-437ef6327a20f4c7a9b3f556741b0cac_Snapshot.jpg",
+      "md5": "c797f6f9bd7e2098d71356154a8355a7",
+      "size": 7159,
+      "uploadedDate": "2021-01-29T07:50:16.695Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 017-1920x1080-8650e924ff048887c65e7344314ecf6c_Snapshot.jpg",
+      "md5": "c608ffe11ec68b02c746487aaef09084",
+      "size": 8377,
+      "uploadedDate": "2021-01-29T07:50:17.102Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 011-1920x1080-d54df812ca065c8eb257f9c96bf8d9a7_Snapshot.jpg",
+      "md5": "5d98dcd5894cad2ed525d0c351887194",
+      "size": 8381,
+      "uploadedDate": "2021-01-29T07:50:17.625Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 012-1920x1080-c5710297b9647cb145b9317c6592d754_Snapshot.jpg",
+      "md5": "ef18a321fc2305cd503ae48fada45365",
+      "size": 7712,
+      "uploadedDate": "2021-01-29T07:50:18.029Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 013-1920x1080-5b6c50e5a9b1acdd7ab83ed1f90a7329_Snapshot.jpg",
+      "md5": "0e63cc2e936bbbfe195dc1b3907b016b",
+      "size": 7809,
+      "uploadedDate": "2021-01-29T07:50:18.414Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 014-1920x1080-340a139948eae8058eefa779f42943de_Snapshot.jpg",
+      "md5": "d7ee8dcae961629b0d23f95cdbe4657c",
+      "size": 7644,
+      "uploadedDate": "2021-01-29T07:50:18.756Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 015-1920x1080-7a597917ab84f5625690669732a7dc56_Snapshot.jpg",
+      "md5": "c7d3efa34db823272c82d7de431a9e04",
+      "size": 7105,
+      "uploadedDate": "2021-01-29T07:50:19.128Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 008-1920x1080-a8f3fb1b7e7bb47362a7e2c62abae90d_Snapshot.jpg",
+      "md5": "5ca523c00a8f9d5a683e340f8c12982f",
+      "size": 6683,
+      "uploadedDate": "2021-01-25T04:07:15.379Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 010-1920x1080-6a058aa4c579263b405f974ecf52c1e7_Snapshot.jpg",
+      "md5": "0dcf149dbf5fbc95dcfc18fb92f3d652",
+      "size": 7216,
+      "uploadedDate": "2021-01-25T04:07:15.848Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 009-1920x1080-a398c97f01678af018f1628f11ad37cd_Snapshot.jpg",
+      "md5": "d183b368667c85916b931b847d0cfb63",
+      "size": 5825,
+      "uploadedDate": "2021-01-25T04:07:16.222Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 004b-1920x1080-d9787b357bf14f1000977f8aacc4f0d7_Snapshot.jpg",
+      "md5": "38a6ba55d7149c0f83d1eec09e9b4603",
+      "size": 6167,
+      "uploadedDate": "2021-01-25T04:07:16.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 005-1920x1080-fa8bc6a2cc0a72bef38efd9de0eb066e_Snapshot.jpg",
+      "md5": "969eb74a2ea5c2da509e75075f4b7cd4",
+      "size": 7569,
+      "uploadedDate": "2021-01-25T04:07:16.871Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 001-1920x1080-8e9ac5e534632fe2a1558e3e911c1ffa_Snapshot.jpg",
+      "md5": "f5b507c9a4f63e19b52e6a06e08490f8",
+      "size": 6122,
+      "uploadedDate": "2021-01-25T04:07:17.222Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 003-1920x1080-22150f13a9b22f69a66e93df72d47c41_Snapshot.jpg",
+      "md5": "5e909a3bb2301ce001c4320b90966147",
+      "size": 5605,
+      "uploadedDate": "2021-01-25T04:07:17.544Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 009-1920x1080-a398c97f01678af018f1628f11ad37cd_Snapshot.jpg",
+      "md5": "d183b368667c85916b931b847d0cfb63",
+      "size": 5825,
+      "uploadedDate": "2021-01-25T04:04:37.543Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 004b-1920x1080-d9787b357bf14f1000977f8aacc4f0d7_Snapshot.jpg",
+      "md5": "38a6ba55d7149c0f83d1eec09e9b4603",
+      "size": 6167,
+      "uploadedDate": "2021-01-25T04:04:37.901Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 008-1920x1080-a8f3fb1b7e7bb47362a7e2c62abae90d_Snapshot.jpg",
+      "md5": "5ca523c00a8f9d5a683e340f8c12982f",
+      "size": 6683,
+      "uploadedDate": "2021-01-25T04:04:38.278Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 010-1920x1080-6a058aa4c579263b405f974ecf52c1e7_Snapshot.jpg",
+      "md5": "0dcf149dbf5fbc95dcfc18fb92f3d652",
+      "size": 7216,
+      "uploadedDate": "2021-01-25T04:04:38.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 005-1920x1080-fa8bc6a2cc0a72bef38efd9de0eb066e_Snapshot.jpg",
+      "md5": "969eb74a2ea5c2da509e75075f4b7cd4",
+      "size": 7569,
+      "uploadedDate": "2021-01-25T04:04:39.064Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 003-1920x1080-22150f13a9b22f69a66e93df72d47c41_Snapshot.jpg",
+      "md5": "5e909a3bb2301ce001c4320b90966147",
+      "size": 5605,
+      "uploadedDate": "2021-01-25T04:04:39.453Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 006-1920x1080-80fdf63d30bb8bed32b7ac80d97c9408_Snapshot.jpg",
+      "md5": "2d52e53740b438c111a0f41431bc1c86",
+      "size": 4639,
+      "uploadedDate": "2021-01-25T04:04:40.038Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 001-1920x1080-8e9ac5e534632fe2a1558e3e911c1ffa_Snapshot.jpg",
+      "md5": "f5b507c9a4f63e19b52e6a06e08490f8",
+      "size": 6122,
+      "uploadedDate": "2021-01-20T13:22:07.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 002-1920x1080-204275fc5e7aa4bd3cd95de9c6d6b2fd_Snapshot.jpg",
+      "md5": "370a620a62e870f2e6f381b33aece905",
+      "size": 7732,
+      "uploadedDate": "2021-01-20T13:22:08.311Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male mannequin 003-1920x1080-22150f13a9b22f69a66e93df72d47c41_Snapshot.jpg",
+      "md5": "5e909a3bb2301ce001c4320b90966147",
+      "size": 5605,
+      "uploadedDate": "2021-01-20T13:22:08.700Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "105cf8086b08456abe0d69420b808611"
+    }
+  ],
+  "catalogNs": null
+}

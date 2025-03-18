@@ -1,0 +1,344 @@
+{
+  "id": "47a8ee8b2cad4bf8a811872148485bcd",
+  "namespace": "ue",
+  "title": "Advanced Water Material",
+  "description": "Customizable Water Material With Gerstner Waves And Shoreline Detection",
+  "longDescription": "<p>A material that can be customized to whatever you need, uses 3d Gerstner Waves along with a shoreline/edge detection system using Mesh Distance Fields. Contains a custom depth opacity function which is independent from camera location.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-water-material-01",
+  "creationDate": "2019-11-15T23:59:58.094Z",
+  "lastModifiedDate": "2024-09-30T01:49:57.035Z",
+  "effectiveDate": "2019-11-16T00:06:50.516Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-qumqu2npzm46lwussl68yvsphnr7un",
+    "name": "Epoch Labs"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Trailer:</strong> <a href=\"https://youtu.be/Sp0E_-x73zs\" rel=\"nofollow\">https://youtu.be/Sp0E_-x73zs</a></p><p><br /></p><p><strong>Features:</strong></p><ul><li>Customizable Water Material</li><li>Customizable Water Blueprint</li><li>Projected Water Caustics With Support For Sky Atmosphere (4.24&#43;)</li><li>3d Gerstner Waves</li><li>Custom Depth Fade Function</li><li>Mesh Distance Field Shore Detection*</li><li>Two Example Maps</li><li>Water Caustics Light Function</li><li>Bonus 2k Heightmap</li></ul><p><strong>Texture Resolutions:</strong></p><ul><li> 2048x2048 </li></ul><p>Number of Materials: 6</p><p>Do Materials derive from a Master Material with instances as variation: Yes</p><p>Number of Textures: 9</p><p>Supported Development Platforms: Windows, MacOS</p><p>Supported Target Build Platforms: Windows, MacOS, Linux</p><p>Additional Notes: Mesh Distance Fields must be enabled in the project for shore detection to function</p><p><br /></p><p><em>*Due to how the shore detection works, meshes intersecting with the water will disable the gerstner waves around the mesh. In order to stop this from happening, disable shore detection in the water blueprint.</em></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e2e98dd4-24e5-4076-802d-e4783b76b25a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Caustics2-1920x1080-d65469b9b46ff23549b7943e71942a45.png",
+      "md5": "d65469b9b46ff23549b7943e71942a45",
+      "size": 1452042,
+      "uploadedDate": "2020-08-19T19:23:11.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Caustics-1920x1080-6811ae49c9f803f4a3f7ec073be316a4.png",
+      "md5": "6811ae49c9f803f4a3f7ec073be316a4",
+      "size": 2402686,
+      "uploadedDate": "2020-08-19T19:23:55.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00009-1920x1080-98c7f0ec877e8602db764a5d9f3430ba.jpg",
+      "md5": "98c7f0ec877e8602db764a5d9f3430ba",
+      "size": 156045,
+      "uploadedDate": "2019-11-01T23:20:07.283Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-7e4987379aa92213986f1dd03a614117.jpg",
+      "md5": "7e4987379aa92213986f1dd03a614117",
+      "size": 126905,
+      "uploadedDate": "2019-11-01T23:20:07.649Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-b42e296c226d02e9ed515fdb1d6e3326.jpg",
+      "md5": "b42e296c226d02e9ed515fdb1d6e3326",
+      "size": 117076,
+      "uploadedDate": "2019-11-01T23:20:08.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-46fbfae76f30dcf2d025bfe914dc989b.jpg",
+      "md5": "46fbfae76f30dcf2d025bfe914dc989b",
+      "size": 88592,
+      "uploadedDate": "2019-11-01T23:20:08.327Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-a39398502bcc84c880f0011284128d8b.jpg",
+      "md5": "a39398502bcc84c880f0011284128d8b",
+      "size": 91104,
+      "uploadedDate": "2019-11-01T23:20:08.706Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-28c0fd4de5f921f9c9d3b799c1357f68.jpg",
+      "md5": "28c0fd4de5f921f9c9d3b799c1357f68",
+      "size": 136751,
+      "uploadedDate": "2019-11-01T23:20:09.033Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00006-1920x1080-848b9818b5ba43ab33e0c33861fa0e99.jpg",
+      "md5": "848b9818b5ba43ab33e0c33861fa0e99",
+      "size": 107635,
+      "uploadedDate": "2019-11-01T23:20:09.381Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00007-1920x1080-22d7005fa0396912f3b2c09d911f2fdc.jpg",
+      "md5": "22d7005fa0396912f3b2c09d911f2fdc",
+      "size": 148855,
+      "uploadedDate": "2019-11-01T23:20:09.660Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00008-1920x1080-e7c16e8aeadf5a0eab0b9a534aed3832.jpg",
+      "md5": "e7c16e8aeadf5a0eab0b9a534aed3832",
+      "size": 165743,
+      "uploadedDate": "2019-11-01T23:20:10.080Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00010-1920x1080-120cba047def57ff24af6bbd2c9fd14d.jpg",
+      "md5": "120cba047def57ff24af6bbd2c9fd14d",
+      "size": 159737,
+      "uploadedDate": "2019-11-01T23:20:10.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedWaterMaterial_thumb-284x284-cd79104a05633bf69a1a8abb0aff912a.png",
+      "md5": "cd79104a05633bf69a1a8abb0aff912a",
+      "size": 135258,
+      "uploadedDate": "2020-08-21T20:33:40.053Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedWaterMaterial_featured-894x488-fe31b459ea05af559bd798d08cac4f6e.png",
+      "md5": "fe31b459ea05af559bd798d08cac4f6e",
+      "size": 598391,
+      "uploadedDate": "2020-08-21T20:34:00.782Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Caustics-1920x1080-6811ae49c9f803f4a3f7ec073be316a4_Snapshot.png",
+      "md5": "b5e90ab95c78f1be7d87c4d91285b67b",
+      "size": 3937,
+      "uploadedDate": "2020-08-19T19:23:56.005Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Caustics2-1920x1080-d65469b9b46ff23549b7943e71942a45_Snapshot.png",
+      "md5": "2f88e5460de37f3daed7f93553b39895",
+      "size": 4636,
+      "uploadedDate": "2020-08-19T19:23:11.750Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00009-1920x1080-98c7f0ec877e8602db764a5d9f3430ba_Snapshot.jpg",
+      "md5": "2f02622b64c679263a091f347568ccab",
+      "size": 4826,
+      "uploadedDate": "2019-11-01T23:20:07.503Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-7e4987379aa92213986f1dd03a614117_Snapshot.jpg",
+      "md5": "c4b1ab822f39bcb64d8e1cb2f8d35d95",
+      "size": 4022,
+      "uploadedDate": "2019-11-01T23:20:07.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-b42e296c226d02e9ed515fdb1d6e3326_Snapshot.jpg",
+      "md5": "780f669c9e8091b0b7b9e9ed22427915",
+      "size": 5009,
+      "uploadedDate": "2019-11-01T23:20:08.226Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-46fbfae76f30dcf2d025bfe914dc989b_Snapshot.jpg",
+      "md5": "28e3857aa82e2d78330afd8304ab87b5",
+      "size": 4243,
+      "uploadedDate": "2019-11-01T23:20:08.599Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-a39398502bcc84c880f0011284128d8b_Snapshot.jpg",
+      "md5": "4acc2d6605d6cd2d2a2a39c252fcbb16",
+      "size": 5041,
+      "uploadedDate": "2019-11-01T23:20:08.926Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-28c0fd4de5f921f9c9d3b799c1357f68_Snapshot.jpg",
+      "md5": "7d84bfa920997a59345bfd9f6cf6d172",
+      "size": 4286,
+      "uploadedDate": "2019-11-01T23:20:09.250Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00006-1920x1080-848b9818b5ba43ab33e0c33861fa0e99_Snapshot.jpg",
+      "md5": "c6d0233ce6a6a3ddd07027252056d632",
+      "size": 4476,
+      "uploadedDate": "2019-11-01T23:20:09.590Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00007-1920x1080-22d7005fa0396912f3b2c09d911f2fdc_Snapshot.jpg",
+      "md5": "e28f52684e424d97e09645e066df89e5",
+      "size": 5090,
+      "uploadedDate": "2019-11-01T23:20:09.952Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00008-1920x1080-e7c16e8aeadf5a0eab0b9a534aed3832_Snapshot.jpg",
+      "md5": "2b1b8e9a90c9f8b33b728d77c8e0c657",
+      "size": 5470,
+      "uploadedDate": "2019-11-01T23:20:10.319Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00010-1920x1080-120cba047def57ff24af6bbd2c9fd14d_Snapshot.jpg",
+      "md5": "6c656fc1f42b1c2f4aa69e4ae35e807d",
+      "size": 5369,
+      "uploadedDate": "2019-11-01T23:20:10.647Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "454c882e86424fba86c75b5c67dc612c"
+    }
+  ],
+  "catalogNs": null
+}

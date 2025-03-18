@@ -1,0 +1,479 @@
+{
+  "id": "c2d5e54c80e34492b6584f1be3503c98",
+  "namespace": "ue",
+  "title": "Real Materials - Steel",
+  "description": "Pack of 10 steel materials",
+  "longDescription": "<p>This volume of <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Lex4art\" rel=\"nofollow\">&#34;Real Materials&#34; series</a> is dedicated to steel/iron surfaces in good condition: polished, semi-matte,</p><p>brushed, spotty, sandblasted, overheated (iridescent), dusty, blued. Note that this volume is also included in</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/real-materials-complete\" rel=\"nofollow\">Real Materials Complete</a> pack with much lower price per item.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "real-materials-steel",
+  "creationDate": "2022-02-25T21:37:33.665Z",
+  "lastModifiedDate": "2024-09-29T01:35:38.831Z",
+  "effectiveDate": "2022-02-25T21:43:27.859Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bjmrcd7v7385leexjewvbzzc7647su",
+    "name": "Lex4art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><a href=\"https://techkind.org/unreal/notiling.jpg\" rel=\"nofollow\">Reduced texture repetition</a> for surfaces up to 20x20m (except material &#34;MI_Steel_overheated&#34; that is intended to be manually UV-scaled for large objects due its colorful nature).</li><li>One click switch on <a href=\"https://www.techkind.org/unreal/faq.html#triplanarUVs\" rel=\"nofollow\">triplanar UVs</a>.</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances: one master and 10 instances.</p><p>Number of Textures: 45</p><p>Texture Resolutions: 80% are in 4K, rest in 1K / 2K (masks, special effects).</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://www.techkind.org/unreal/faq.html\" rel=\"nofollow\">Real Materials FAQ</a> plus <a href=\"https://forums.unrealengine.com/t/real-materials-series/501743?u&#61;lex4art\" rel=\"nofollow\">official support thread</a>.</p><p>Additional Notes:</p><ul><li>Texture &#34;T_skydome_canary_wharf_D&#34; (skybox in demo map) taken from <a href=\"https://polyhaven.com/a/canary_wharf\" rel=\"nofollow\">Poly Haven</a> under CC0 license.</li><li>Mesh &#34;SM_Metal_mat_dummy_armor&#34; (knight armor in demo map) taken from <a href=\"https://www.blendswap.com/blends/view/76294\" rel=\"nofollow\">Blend Swap</a> under CC0 license.</li><li>When installing several packs of &#34;Real Materials&#34; series in to one project use option &#34;Replace&#34; if prompted about replacing existing files.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dfc51077-ac6c-4b39-bd1d-de26a144d860"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel HEADER screenshot 1920x1080 v2-1920x1080-127892d4487c6e7a567886f5762d916c.jpg",
+      "md5": "127892d4487c6e7a567886f5762d916c",
+      "size": 554807,
+      "uploadedDate": "2022-02-27T18:38:12.892Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HEADER Steel-1920x1080-c411cad79fea46919faba36d1af30ee6.jpg",
+      "md5": "c411cad79fea46919faba36d1af30ee6",
+      "size": 378506,
+      "uploadedDate": "2022-02-27T16:20:10.428Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00016-1920x1080-3f49a9c23a5d21830dcf3c7fe51495ed.jpg",
+      "md5": "3f49a9c23a5d21830dcf3c7fe51495ed",
+      "size": 310631,
+      "uploadedDate": "2022-02-25T17:27:44.126Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00015-1920x1080-03d7b35fc4bc979d75b200930a4ed6b4.jpg",
+      "md5": "03d7b35fc4bc979d75b200930a4ed6b4",
+      "size": 299524,
+      "uploadedDate": "2022-02-25T17:27:46.976Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00014-1920x1080-e014929451be9ddcd1ade046e9f15ae2.jpg",
+      "md5": "e014929451be9ddcd1ade046e9f15ae2",
+      "size": 311464,
+      "uploadedDate": "2022-02-25T17:27:44.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00012-1920x1080-1ad8615b3d59bd0fe3e9465b8e4a424a.jpg",
+      "md5": "1ad8615b3d59bd0fe3e9465b8e4a424a",
+      "size": 294826,
+      "uploadedDate": "2022-02-25T17:27:44.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00000-1920x1080-148d91db976a45e3c84cf21f6132389d.jpg",
+      "md5": "148d91db976a45e3c84cf21f6132389d",
+      "size": 320158,
+      "uploadedDate": "2022-02-25T17:27:45.186Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00001-1920x1080-5293f6972cf997c2a23d6abc1536e700.jpg",
+      "md5": "5293f6972cf997c2a23d6abc1536e700",
+      "size": 388891,
+      "uploadedDate": "2022-02-25T17:27:45.538Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00002-1920x1080-9cf8e2fbb551637de2f81b928c912d3c.jpg",
+      "md5": "9cf8e2fbb551637de2f81b928c912d3c",
+      "size": 399688,
+      "uploadedDate": "2022-02-25T17:27:45.872Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00003-1920x1080-aa87336a491cc4f312e9a5948610758f.jpg",
+      "md5": "aa87336a491cc4f312e9a5948610758f",
+      "size": 445286,
+      "uploadedDate": "2022-02-25T17:27:46.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00013-1920x1080-89064328adb1fdacb1e0d6c3f6f9dd11.jpg",
+      "md5": "89064328adb1fdacb1e0d6c3f6f9dd11",
+      "size": 279983,
+      "uploadedDate": "2022-02-25T17:27:46.620Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Steel 00017-1920x1080-ded42d3a538e2ec5e91dc234f84cf392.jpg",
+      "md5": "ded42d3a538e2ec5e91dc234f84cf392",
+      "size": 275783,
+      "uploadedDate": "2022-02-25T17:27:47.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealMaterialsSteel_thumb-284x284-61926ff4bc353e023ba910a1b76649cd.png",
+      "md5": "61926ff4bc353e023ba910a1b76649cd",
+      "size": 101457,
+      "uploadedDate": "2022-02-27T18:38:13.601Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealMaterialsSteel_featured-894x488-df19a32c4d71e00f25d6861e4d710f7c.png",
+      "md5": "df19a32c4d71e00f25d6861e4d710f7c",
+      "size": 522401,
+      "uploadedDate": "2022-02-27T18:38:13.677Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel HEADER screenshot 1920x1080 v2-1920x1080-127892d4487c6e7a567886f5762d916c_Snapshot.jpg",
+      "md5": "6cf089c167c26252cfd36d43d8c9d94a",
+      "size": 5968,
+      "uploadedDate": "2022-02-27T18:38:13.543Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HEADER Steel-1920x1080-c411cad79fea46919faba36d1af30ee6_Snapshot.jpg",
+      "md5": "dffa5e57dbf85c9fe9e7f22b6f85e111",
+      "size": 7531,
+      "uploadedDate": "2022-02-27T16:20:10.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel HEADER screenshot 1920x1080-1920x1080-5c5e6283f426c6ed9a3dfc25aeb24cbd_Snapshot.jpg",
+      "md5": "23585a80d27e1aa06e3bbcb6503e2a58",
+      "size": 6557,
+      "uploadedDate": "2022-02-25T17:27:43.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00011-1920x1080-8c414440ea0c1f6a182f5eaa6b619c17_Snapshot.jpg",
+      "md5": "6a30d5de1b8dae07eb3f29f951421e6c",
+      "size": 8041,
+      "uploadedDate": "2022-02-25T17:27:43.992Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00016-1920x1080-3f49a9c23a5d21830dcf3c7fe51495ed_Snapshot.jpg",
+      "md5": "63c2cf22fa056289e6f98539cfef638f",
+      "size": 7392,
+      "uploadedDate": "2022-02-25T17:27:44.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00014-1920x1080-e014929451be9ddcd1ade046e9f15ae2_Snapshot.jpg",
+      "md5": "51640b1bb3da9042449f840dbe43f1d6",
+      "size": 5662,
+      "uploadedDate": "2022-02-25T17:27:44.677Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00012-1920x1080-1ad8615b3d59bd0fe3e9465b8e4a424a_Snapshot.jpg",
+      "md5": "a3fcb682378af2e8b8e2f3eb18d09516",
+      "size": 5689,
+      "uploadedDate": "2022-02-25T17:27:45.036Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00000-1920x1080-148d91db976a45e3c84cf21f6132389d_Snapshot.jpg",
+      "md5": "66b7c307311dae94ba12a573bfaa438c",
+      "size": 5408,
+      "uploadedDate": "2022-02-25T17:27:45.412Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00001-1920x1080-5293f6972cf997c2a23d6abc1536e700_Snapshot.jpg",
+      "md5": "e86860e77d776fa1a0338aee58a49cdf",
+      "size": 4971,
+      "uploadedDate": "2022-02-25T17:27:45.754Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00002-1920x1080-9cf8e2fbb551637de2f81b928c912d3c_Snapshot.jpg",
+      "md5": "a91da5f40fa126c869588b10bad103cf",
+      "size": 6078,
+      "uploadedDate": "2022-02-25T17:27:46.087Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00003-1920x1080-aa87336a491cc4f312e9a5948610758f_Snapshot.jpg",
+      "md5": "4813b5299436dad14b316369b5edbd72",
+      "size": 5759,
+      "uploadedDate": "2022-02-25T17:27:46.491Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00013-1920x1080-89064328adb1fdacb1e0d6c3f6f9dd11_Snapshot.jpg",
+      "md5": "4a2876f7db9d86b90c4af60999f201b2",
+      "size": 4849,
+      "uploadedDate": "2022-02-25T17:27:46.832Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00015-1920x1080-03d7b35fc4bc979d75b200930a4ed6b4_Snapshot.jpg",
+      "md5": "5c959c3ab82be9949da9af5c11c99bf0",
+      "size": 5254,
+      "uploadedDate": "2022-02-25T17:27:47.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Steel 00017-1920x1080-ded42d3a538e2ec5e91dc234f84cf392_Snapshot.jpg",
+      "md5": "7129f2c33ebdbf9085d8b0b84eb33b99",
+      "size": 6209,
+      "uploadedDate": "2022-02-25T17:27:47.560Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Aluminum HEADER screenshot 1920x1080 -1920x1080-8d59da1967129ab990d60a1c5e7a2543_Snapshot.jpg",
+      "md5": "84fb011f2475dff8b5d44e8ae53f2527",
+      "size": 7466,
+      "uploadedDate": "2022-02-25T16:49:08.391Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5795f7c9a9654b2795e73f8cb96ea0e1"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,326 @@
+{
+  "id": "6ea76c4264954b3db9fe5721d2dfc5ed",
+  "namespace": "ue",
+  "title": "Ground_Material_Pack",
+  "description": "High Quality Ground Material Pack Vol3",
+  "longDescription": "<h1>High Quality Material Pack Vol3</h1><ul><li>34 PBR Material.</li><li>All materials have 4k resolution.</li><li>.tiff texture format</li><li>All materials are prepared with substance.</li><li>Quality suitable for game, movie</li><li>Contains different kinds of material</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ground-material-pack",
+  "creationDate": "2022-11-04T16:01:26.234Z",
+  "lastModifiedDate": "2024-09-30T07:30:54.031Z",
+  "effectiveDate": "2022-11-04T16:02:44.938Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5nmf2b8scqy43bruzlvn4t9sdn8huz",
+    "name": "Wanderlust"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>34 PBR Material.</li><li>All materials have 4k resolution.</li><li>.tiff texture format</li><li>All materials are prepared with substance.</li><li>Quality suitable for game, movie</li><li>Contains different kinds of material</li></ul><p>Number of Unique Materials and Material Instances:34</p><p>Number of Textures:170</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "86a97f71-a016-4fe8-82f7-58a9ee789435"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/glow-1920x1080-0a5507eff06f94bc10b54ee3454a2513.png",
+      "md5": "0a5507eff06f94bc10b54ee3454a2513",
+      "size": 2746930,
+      "uploadedDate": "2022-10-31T19:24:37.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-a931b54c7950de398bda9c0fc06a983f.jpg",
+      "md5": "a931b54c7950de398bda9c0fc06a983f",
+      "size": 300081,
+      "uploadedDate": "2022-10-31T19:24:37.744Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-d7a72e8ba3f9d560c5c7800f3c603cc9.png",
+      "md5": "d7a72e8ba3f9d560c5c7800f3c603cc9",
+      "size": 2848185,
+      "uploadedDate": "2022-10-31T19:24:38.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/glow-1920x1080-165407b472a1cfbe9d05cc631ef574c5.jpg",
+      "md5": "165407b472a1cfbe9d05cc631ef574c5",
+      "size": 470100,
+      "uploadedDate": "2022-10-31T19:24:39.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-89583dd3e62bc0c6705dd8ab62187d93.jpg",
+      "md5": "89583dd3e62bc0c6705dd8ab62187d93",
+      "size": 456178,
+      "uploadedDate": "2022-10-31T19:24:39.405Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-0398e07e13d7b225d392ead5588e985e.jpg",
+      "md5": "0398e07e13d7b225d392ead5588e985e",
+      "size": 412074,
+      "uploadedDate": "2022-10-31T19:24:39.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Adsz tasarm 3-1920x1080-a19daa96c542d9456377490fb69f61d0.png",
+      "md5": "a19daa96c542d9456377490fb69f61d0",
+      "size": 2208774,
+      "uploadedDate": "2022-10-31T19:24:40.442Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-828704e3f4bab01863c4dd477a00087d.png",
+      "md5": "828704e3f4bab01863c4dd477a00087d",
+      "size": 2203067,
+      "uploadedDate": "2022-10-31T19:24:41.202Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-ce22cd1df303f7b0e1ea8e8e341afb43.png",
+      "md5": "ce22cd1df303f7b0e1ea8e8e341afb43",
+      "size": 2315163,
+      "uploadedDate": "2022-10-31T19:24:41.892Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GroundMaterialPack_thumb-284x284-a4206a235037e12e9b872a62c3d56274.png",
+      "md5": "a4206a235037e12e9b872a62c3d56274",
+      "size": 117001,
+      "uploadedDate": "2022-10-31T19:24:42.478Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GroundMaterialPack_featured-894x488-e0957ff8e9afcfbd3d85cb82a1187f1f.png",
+      "md5": "e0957ff8e9afcfbd3d85cb82a1187f1f",
+      "size": 614024,
+      "uploadedDate": "2022-10-31T19:24:42.571Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/glow-1920x1080-0a5507eff06f94bc10b54ee3454a2513_Snapshot.png",
+      "md5": "7563a18ce2ef91610ea74ea77690d22c",
+      "size": 8105,
+      "uploadedDate": "2022-10-31T19:24:37.600Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-a931b54c7950de398bda9c0fc06a983f_Snapshot.jpg",
+      "md5": "4215704e76eeeea2c177c38b61215230",
+      "size": 6046,
+      "uploadedDate": "2022-10-31T19:24:37.973Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-d7a72e8ba3f9d560c5c7800f3c603cc9_Snapshot.png",
+      "md5": "acf6b549912352309747f3bed38f7646",
+      "size": 5422,
+      "uploadedDate": "2022-10-31T19:24:38.796Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/glow-1920x1080-165407b472a1cfbe9d05cc631ef574c5_Snapshot.jpg",
+      "md5": "ca06ce69e39cb21b408968007d343fbd",
+      "size": 8155,
+      "uploadedDate": "2022-10-31T19:24:39.292Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-89583dd3e62bc0c6705dd8ab62187d93_Snapshot.jpg",
+      "md5": "59530f1159a46b13d056b5a1d8fb8aea",
+      "size": 8997,
+      "uploadedDate": "2022-10-31T19:24:39.695Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-0398e07e13d7b225d392ead5588e985e_Snapshot.jpg",
+      "md5": "ff456405b007d8846ef37c3f8fd7e45b",
+      "size": 9924,
+      "uploadedDate": "2022-10-31T19:24:40.114Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Adsz tasarm 3-1920x1080-a19daa96c542d9456377490fb69f61d0_Snapshot.png",
+      "md5": "eaaead08a207142f97834d1894e70853",
+      "size": 6125,
+      "uploadedDate": "2022-10-31T19:24:40.895Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-828704e3f4bab01863c4dd477a00087d_Snapshot.png",
+      "md5": "98038b2f32b4d5dc09c716cea0cbae88",
+      "size": 6410,
+      "uploadedDate": "2022-10-31T19:24:41.654Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-ce22cd1df303f7b0e1ea8e8e341afb43_Snapshot.png",
+      "md5": "8af6c29397a2757d6d948ec231b52bff",
+      "size": 6351,
+      "uploadedDate": "2022-10-31T19:24:42.344Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "527a4a438b0e4c3198cb7e93a566d3d8"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,272 @@
+{
+  "id": "c7a01e0a3eab4967a69f4da78265a6d8",
+  "namespace": "ue",
+  "title": "Stylized Fantasy Priest",
+  "description": "It is a character asset for a pretty cartoon stylized action RPG.",
+  "longDescription": "<p><strong>Video preview</strong>: <a href=\"https://youtu.be/OWgiyHo-Nyw\" rel=\"nofollow\">https://youtu.be/OWgiyHo-Nyw</a></p><p><br /></p><p>This Asset is one of the characters series available in fantasy RPG.</p><p>We designed a male and female priest with the concept of being a party member rather than a protagonist.</p><p>Asset include a wand, which are minimal magic spell actions.</p><p>In addition, five types of hairstyles for male and female were also prepared.</p><p>A stylized background asset is also included as a bonus.</p><p>Let&#96;s use this character set to form a party with the protagonist character you designed.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-fantasy-priest",
+  "creationDate": "2019-08-04T13:07:14.534Z",
+  "lastModifiedDate": "2024-09-30T08:33:07.728Z",
+  "effectiveDate": "2019-08-04T13:07:14.168Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>3 Maps (Overview, Animations, Gameplay)</li><li>2 Blueprints (1 Character class, 1 Animation Blueprint)</li><li>2 Mesh variations (Male, Female)</li><li>10 Hair mesh (5 Male hair, 5 Female hair)</li><li>1 Weapon mesh (Wand 1)</li><li>14 Environments mesh (Stylized like)</li><li>Physics supported hair and cloth.</li><li>Mobile ready!! </li></ul><p><br /></p><p><strong>Scaled to Epic Skeleton:</strong> Yes</p><p><strong>Rigged:</strong> Yes</p><p><strong>Rigged to Epic Skeleton:</strong> Yes</p><p><strong>Animated:</strong> Yes</p><p><strong>Number of Characters:</strong> 2</p><p><strong>Vertex Counts of Characters:</strong> 4.8k total</p><p><strong>Texture Resolutions:</strong> 2048 each (Head, Body, Hair)</p><p><strong>Number of Animations:</strong> 11 (Male and Female each. and 1 1D blends)</p><p><strong>Animation Types:</strong> In place 11 root motion 0</p><p><strong>Supported Development Platforms:</strong> All</p><p><strong>Supported Target Build Platforms:</strong> Windows</p><p><strong>Documentation:</strong> No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e18cccf2-6844-4dbc-b7af-57c9c0a21d21"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Priestimage2-1920x1080-3a7985f87c563a530b0237f3ddfb66cb.png",
+      "md5": "3a7985f87c563a530b0237f3ddfb66cb",
+      "size": 2452237,
+      "uploadedDate": "2019-07-06T08:52:34.301Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/stylizedpriestpromotionpicture-1920x1080-c0181c3733fde28be1dfb6b7abb23d51.png",
+      "md5": "c0181c3733fde28be1dfb6b7abb23d51",
+      "size": 720466,
+      "uploadedDate": "2019-07-06T08:52:34.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Priestfemale1-1920x1080-6a77143d43446d3915a0e1ddbb2701cb.png",
+      "md5": "6a77143d43446d3915a0e1ddbb2701cb",
+      "size": 1978078,
+      "uploadedDate": "2019-07-06T08:52:35.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Priestmale1-1920x1080-4a66ae5aa0bc764b0c9ce8b80a86f941.png",
+      "md5": "4a66ae5aa0bc764b0c9ce8b80a86f941",
+      "size": 1875919,
+      "uploadedDate": "2019-07-06T08:52:35.855Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedFantasyPriest_thumb-284x284-0049f3d7f1df5ed675494cf3bca4f8ab.png",
+      "md5": "0049f3d7f1df5ed675494cf3bca4f8ab",
+      "size": 163119,
+      "uploadedDate": "2019-07-06T08:52:36.399Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedFantasyPriest_featured-894x488-0bf5ac097c6b62404ed7cf6072b84703.png",
+      "md5": "0bf5ac097c6b62404ed7cf6072b84703",
+      "size": 625564,
+      "uploadedDate": "2019-07-06T08:52:36.506Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Priestimage2-1920x1080-3a7985f87c563a530b0237f3ddfb66cb_Snapshot.png",
+      "md5": "60d79cb28efa85dc90d01b4354359f08",
+      "size": 7339,
+      "uploadedDate": "2019-07-06T08:52:34.640Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/stylizedpriestpromotionpicture-1920x1080-c0181c3733fde28be1dfb6b7abb23d51_Snapshot.png",
+      "md5": "948146920bc85f4d3fcb8ce23e20d4b6",
+      "size": 4515,
+      "uploadedDate": "2019-07-06T08:52:35.029Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Priestfemale1-1920x1080-6a77143d43446d3915a0e1ddbb2701cb_Snapshot.png",
+      "md5": "a15a7cc151df240c2403413d69413a9b",
+      "size": 7477,
+      "uploadedDate": "2019-07-06T08:52:35.649Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Priestmale1-1920x1080-4a66ae5aa0bc764b0c9ce8b80a86f941_Snapshot.png",
+      "md5": "7e8138063417fb7cbb641a31225b9103",
+      "size": 7464,
+      "uploadedDate": "2019-07-06T08:52:36.244Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e691dcbc1f1b434c945a4772ed3607d9"
+    }
+  ],
+  "catalogNs": null
+}

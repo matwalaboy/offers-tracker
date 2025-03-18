@@ -1,0 +1,320 @@
+{
+  "id": "5222820193db4a6296839d1dc39667d7",
+  "namespace": "ue",
+  "title": "Soviet People: City",
+  "description": "Realistic 3d models of retro city people. Man and Woman.",
+  "longDescription": "<p>Models of Soviet female and male simple city characters, which could be also the citizens of the USA of the 1940-1960 with customisable outfit color. </p><p>Rig video preview with standard (Manny) animations you may check <a href=\"https://youtu.be/gM1vUS5fdS0\" rel=\"nofollow\">here</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "soviet-people-city",
+  "creationDate": "2024-04-28T13:59:19.610Z",
+  "lastModifiedDate": "2024-09-26T13:50:16.949Z",
+  "effectiveDate": "2024-04-28T13:59:19.542Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zyhgjz2p5ewfu465h6lnqs4d6vguem",
+    "name": "Paul N"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Two characters - male and female;</li><li> Four meshes</li><li> Variable cloth color</li></ul><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>IK bones are included: (Yes)</p><p>Animated: (No)</p><p>Animation types (Root Motion):</p><p>Number of characters: 2</p><p>Vertex counts of characters: </p><ul><li>city man 1: 12511</li><li>city man 2:  8331</li><li>city woman 1: 13186</li><li>city woman 2: 10753</li></ul><p>Number of Materials and Material Instances: 24</p><p>Number of Textures: 21</p><p>Texture Resolutions: (8 textures of bodies in 4096x4096, 11 different textures in 512x512, two eye textures in 1024x1024)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Important/Additional Notes: Dress and sleeves of the woman character are simulated by cloth physic</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "106dfae1-e93b-41b6-aec0-42e3b260b97b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen1-1920x1080-5743765da2878b409909550161b0934c.jpg",
+      "md5": "5743765da2878b409909550161b0934c",
+      "size": 1116136,
+      "uploadedDate": "2024-04-23T20:48:52.933Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen12-1920x1080-a2ea1e3e34b0b355214a149078ef4a30.jpg",
+      "md5": "a2ea1e3e34b0b355214a149078ef4a30",
+      "size": 1116905,
+      "uploadedDate": "2024-04-23T20:48:54.504Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen2-1920x1080-2180501334fa8c4477ce7b3deb77722b.jpg",
+      "md5": "2180501334fa8c4477ce7b3deb77722b",
+      "size": 1258530,
+      "uploadedDate": "2024-04-23T20:48:53.434Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screen3-1920x1080-b008cc0b9534ba52762e8d2858814ad3.jpg",
+      "md5": "b008cc0b9534ba52762e8d2858814ad3",
+      "size": 1142921,
+      "uploadedDate": "2024-04-23T20:48:54.002Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SovietPeopleCitizens_thumb-284x284-23b5549a8fb49adfd5178e08b7bd0aa6.png",
+      "md5": "23b5549a8fb49adfd5178e08b7bd0aa6",
+      "size": 164740,
+      "uploadedDate": "2024-04-23T20:48:54.911Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SovietPeopleCitizens_featured-894x488-5db16dc62f77323d49b3e2c36476d821.png",
+      "md5": "5db16dc62f77323d49b3e2c36476d821",
+      "size": 715422,
+      "uploadedDate": "2024-04-23T20:48:55.063Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen1-1920x1080-5743765da2878b409909550161b0934c_Snapshot.jpg",
+      "md5": "8cf07432bd3050bed684b74b464a1b13",
+      "size": 5983,
+      "uploadedDate": "2024-04-23T20:48:53.235Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen2-1920x1080-2180501334fa8c4477ce7b3deb77722b_Snapshot.jpg",
+      "md5": "09e709305fef13a8581fdfd51b51347d",
+      "size": 7454,
+      "uploadedDate": "2024-04-23T20:48:53.771Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen3-1920x1080-b008cc0b9534ba52762e8d2858814ad3_Snapshot.jpg",
+      "md5": "b5f9f40f19b6f2aa5825bc88f61a0a70",
+      "size": 6734,
+      "uploadedDate": "2024-04-23T20:48:54.300Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screen12-1920x1080-a2ea1e3e34b0b355214a149078ef4a30_Snapshot.jpg",
+      "md5": "99ef86567fdafd9f66d49eadf966b24b",
+      "size": 5861,
+      "uploadedDate": "2024-04-23T20:48:54.789Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3587ac5215364bc8a362170371944316"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,356 @@
+{
+  "id": "5bd42f6f8ca44370b51decdfeced79be",
+  "namespace": "ue",
+  "title": "HLSL Material Expression",
+  "description": "HLSL Material Expression is Premium Edition of ”Custom“  Material Expression! With it, you can write pretty and complex material expression. Currently supports 4.26 - 5.x",
+  "longDescription": "<p>This plugin currently supports 4.26/4.27, you can build version 4.26~5.x through your IDE.</p><p><br /></p><p>Welcome to use the plugin which can help you write or use shader code in MaterialEditor directly and easily !</p><p><br /></p><p>HLSL Material Expression is the premium edition of ”Custom“ Material Expression !</p><p><br /></p><p>You can write pretty and complex material expression with HLSL Material Expression .</p><p><br /></p><p>It looks like a simplified &#34;IDE&#34;. It&#39;s not just a tool for writing HLSL shader code, it also can syntax highlighting and keywards search.</p><p><br /></p><p>Quick Start/Tutorial :</p><p><a href=\"https://youtu.be/030S8HGhEIQ\" rel=\"nofollow\">https://youtu.be/030S8HGhEIQ</a></p><p><a href=\"https://www.bilibili.com/video/BV1mc411M7KC/\" rel=\"nofollow\">https://www.bilibili.com/video/BV1mc411M7KC</a></p><p><br /></p><p>HLSL Material Expression from ShaderToy :</p><p><a href=\"https://youtu.be/I_yWHEoKg1I\" rel=\"nofollow\">https://youtu.be/I_yWHEoKg1I</a></p><p><a href=\"https://www.bilibili.com/video/BV1ag4y1K7nb\" rel=\"nofollow\">https://www.bilibili.com/video/BV1ag4y1K7nb</a></p><p><br /></p><p>Save as MaterialFunction :</p><p><a href=\"https://youtu.be/sXsT215sELc\" rel=\"nofollow\">https://youtu.be/sXsT215sELc</a></p><p><a href=\"https://www.bilibili.com/video/BV1hN411r739\" rel=\"nofollow\">https://www.bilibili.com/video/BV1hN411r739</a></p><p><br /></p><p>Support (forums): <a href=\"https://forums.unrealengine.com/t/hlsl-material-expression/1205415\" rel=\"nofollow\">HLSL Material Expression - Community / Marketplace - Epic Developer Community Forums (unrealengine.com)</a></p><p><br /></p><p>Update Log</p><ul><li>2023.06.21 Support save as MaterialFunction directly and it includes some Unreal ’Custom‘ nodes .</li></ul><p>(It is going to be easy to take the code that you have written using this tool and port it into a custom node~&#xff0c;you can still run your hlsl code without the HLSLMaterialExpression plugin)</p><ul><li>2023.11.25 Fix up, possible crashes when paste hlsl expression node in 5.3</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hlsl-material-expression",
+  "creationDate": "2023-06-18T17:23:17.754Z",
+  "lastModifiedDate": "2024-09-27T09:10:12.477Z",
+  "effectiveDate": "2023-06-18T17:27:17.010Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5h2xkucjcvbrauy6x8fw3tph8xukmj",
+    "name": "Stttttt"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Support port it into Unreal &#39;Custom&#39; node</li><li>Export or import shader code</li><li>Syntax highlighting and it color settings</li><li>Keywards search</li><li>Resizable graph node</li><li>Different from “Custom”, It support for declare multiple functions</li><li>It can be used for MaterialEditor or MaterialFunctionEditor</li><li>Support for global variable</li><li>Support for define</li><li>Support for includes</li><li>Support for cooked</li></ul><p><br /></p><p>Code Modules:</p><ul><li> HLSLMaterialExpression(Editor)</li></ul><p><br /></p><p>Notes:</p><ul><li>Only supported HLSL syntax </li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1155",
+      "name": "SOKOBAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:35.675Z",
+      "updated": "2019-06-20T11:59:35.675Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "5927d9bb-fe6b-4c8b-8214-383b22cdcdeb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-2b79955fd920b822423bad34e93b64cb.jpg",
+      "md5": "2b79955fd920b822423bad34e93b64cb",
+      "size": 801425,
+      "uploadedDate": "2023-05-27T14:42:04.226Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-1cd9ce4c2e663d2e37926a0e7815c715.jpg",
+      "md5": "1cd9ce4c2e663d2e37926a0e7815c715",
+      "size": 808731,
+      "uploadedDate": "2023-05-27T14:42:04.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-378f573db20a5c702c8400e5a54ad50b.jpg",
+      "md5": "378f573db20a5c702c8400e5a54ad50b",
+      "size": 991848,
+      "uploadedDate": "2023-05-27T14:42:05.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-c11210bbe33888085e8f5495b61f2b3d.jpg",
+      "md5": "c11210bbe33888085e8f5495b61f2b3d",
+      "size": 1004265,
+      "uploadedDate": "2023-05-27T14:42:05.861Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-35fed4477bd458e04a110b63dba0f81f.jpg",
+      "md5": "35fed4477bd458e04a110b63dba0f81f",
+      "size": 1127291,
+      "uploadedDate": "2023-05-27T14:42:06.338Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-4a58943422914a177e179e4c223a788c.jpg",
+      "md5": "4a58943422914a177e179e4c223a788c",
+      "size": 807956,
+      "uploadedDate": "2023-05-27T14:42:06.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HLSLMaterialExpression_thumb-284x284-947a84a2ee0c38d703bcb01c9d29deac.png",
+      "md5": "947a84a2ee0c38d703bcb01c9d29deac",
+      "size": 63779,
+      "uploadedDate": "2023-05-27T14:42:07.339Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HLSLMaterialExpression_featured-894x488-f375b0485b822adced1ad551391c1e68.png",
+      "md5": "f375b0485b822adced1ad551391c1e68",
+      "size": 219647,
+      "uploadedDate": "2023-05-27T14:42:07.471Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-2b79955fd920b822423bad34e93b64cb_Snapshot.jpg",
+      "md5": "9cf71e622518e1f5da83941d80b4c28d",
+      "size": 5072,
+      "uploadedDate": "2023-05-27T14:42:04.562Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-1cd9ce4c2e663d2e37926a0e7815c715_Snapshot.jpg",
+      "md5": "bffada8dbfe784a96cb3bc5b438630b8",
+      "size": 5123,
+      "uploadedDate": "2023-05-27T14:42:05.074Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-378f573db20a5c702c8400e5a54ad50b_Snapshot.jpg",
+      "md5": "3b548f0c8eed617ece3a2f7198f81d71",
+      "size": 5928,
+      "uploadedDate": "2023-05-27T14:42:05.642Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-c11210bbe33888085e8f5495b61f2b3d_Snapshot.jpg",
+      "md5": "eb47a35a1ab208433b95028ec8a78581",
+      "size": 5818,
+      "uploadedDate": "2023-05-27T14:42:06.201Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-35fed4477bd458e04a110b63dba0f81f_Snapshot.jpg",
+      "md5": "edff048430813d15a211523f86eee315",
+      "size": 5883,
+      "uploadedDate": "2023-05-27T14:42:06.685Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-4a58943422914a177e179e4c223a788c_Snapshot.jpg",
+      "md5": "ae01b9ef6ea9336dedfefea2560301ba",
+      "size": 5627,
+      "uploadedDate": "2023-05-27T14:42:07.227Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "663e03e4ed044d45919c65facb32b79c"
+    }
+  ],
+  "catalogNs": null
+}

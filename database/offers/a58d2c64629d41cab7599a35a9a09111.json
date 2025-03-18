@@ -1,0 +1,134 @@
+{
+  "id": "a58d2c64629d41cab7599a35a9a09111",
+  "namespace": "ue",
+  "title": "Zombie Voice Audio Pack",
+  "description": "165+ high quality zombie audio files recorded in our studio separated into categories; Aggressive, Chase, Death, Growl, Grunt, Hiss and Moan.",
+  "longDescription": "<p>165&#43; high quality zombie audio files recorded in our studio by a professional voice actor with a high quality microphone and separated into categories; Aggressive, Chase Death, Growl, Grunt, Hiss and Moan.</p><p><br /></p><p>Listen to all the clips <a href=\"https://youtu.be/hozSMZYn5tY\" rel=\"nofollow\"><strong>here</strong></a>!</p><p><br /></p><p>Please feel free to contact us with any questions about the pack. We would love to hear your feedback about the product as well as how you are using it in your own games!</p><p><br /></p><p><a href=\"mailto://uemsupport&#64;tybugstudios.com\" rel=\"nofollow\"><strong>Email us!</strong></a></p><p><br /></p><p><a href=\"https://discord.gg/zxAKGeN\" rel=\"nofollow\"><strong>Discord</strong></a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-voice-audio-pack",
+  "creationDate": "2021-07-17T21:55:07.211Z",
+  "lastModifiedDate": "2024-09-30T17:21:01.856Z",
+  "effectiveDate": "2021-07-17T21:55:07.183Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vrjqnrc444eqenhdvz7wvq7mxmsnj6",
+    "name": "Tybug Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: 165&#43; high quality zombie audio files.</p><ul><li>Aggressive : 44</li><li>Chase : 16</li><li>Death : 12</li><li>Growl : 23</li><li>Grunt : 13</li><li>Hiss : 41</li><li>Moan : 22 </li></ul><p><br /></p><p>Number of Audio Waves: 171</p><p>Number of Audio Cues: 171</p><p>Sample rate / bit rate: 44,100 Hz / 16 bit [Stereo/mono]</p><p>Do Sound FX loop: No</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "be238114-39bf-46cc-81d3-a84f0622e402"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ZVPScreenshot1920x1080-1920x1080-597c0c8730fdd4ea14b0fdef65028517.png",
+      "md5": "597c0c8730fdd4ea14b0fdef65028517",
+      "size": 1575331,
+      "uploadedDate": "2021-07-08T21:58:55.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ZombieVoiceAudioPack_thumb-284x284-2c31a2994252ec38e59e0a82b39404af.png",
+      "md5": "2c31a2994252ec38e59e0a82b39404af",
+      "size": 114624,
+      "uploadedDate": "2021-07-08T21:58:55.512Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ZombieVoiceAudioPack_featured-894x488-89377d6ac504ffbb960818e135c7ca8e.png",
+      "md5": "89377d6ac504ffbb960818e135c7ca8e",
+      "size": 543224,
+      "uploadedDate": "2021-07-08T21:58:55.620Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ZVPScreenshot1920x1080-1920x1080-597c0c8730fdd4ea14b0fdef65028517_Snapshot.png",
+      "md5": "f8503d1bb4f3af35b601e669b7513731",
+      "size": 6321,
+      "uploadedDate": "2021-07-08T21:58:55.445Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "95c0d05a028f4d609dcd999c9690bc08"
+    }
+  ],
+  "catalogNs": null
+}

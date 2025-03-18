@@ -1,0 +1,674 @@
+{
+  "id": "4c172013316a42a7a63d00e0946f4693",
+  "namespace": "ue",
+  "title": "Furniture set VOL 2",
+  "description": "Collection of furniture props.",
+  "longDescription": "<p>12 beautiful props for your scene to work with. Props fit well together and can be used in diverse types of scenes. Check also the volume 1 of this asset pack (https://www.unrealengine.com/marketplace/en-US/product/furniture-set-vol).</p><p><br /></p><p>Some of the assets have a colour mask so you can adjust the colour to your liking.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "furniture-set-vol-2",
+  "creationDate": "2021-12-30T16:41:56.052Z",
+  "lastModifiedDate": "2024-09-29T16:06:13.756Z",
+  "effectiveDate": "2021-12-30T16:41:55.933Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58kma2wdqkpy9fk8tvrtsj62lq29ww",
+    "name": "HologramMonster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>ASSETS INCLUDED</strong></p><ul><li><strong>Wardrobe </strong>| Tri-count: 2524 | T-size 4096x4096</li><li><strong>Bed </strong>| Tri-count: 4718 | T-size 2x4096x4096 (2 variations &#43; colour adjustment)</li><li><strong>Pillow large </strong>| Tri-count: 1884 | T-size 4096x4096 </li><li><strong>Pillow small | </strong>Tri-count: 1462 | T-size 4096x4096 (2 variations &#43; colour adjustment)</li><li><strong>Pillow tube </strong>| Tri-count: 2816 | T-size 4096x4096 (colour adjustment)</li><li><strong>Footstool </strong>| Tri-count: 2644 | T-size 4096x4096 (colour adjustment)</li><li><strong>Chair </strong>| Tri-count: 1726 | T-size 4096x4096 (2 variations &#43; colour adjustment)</li><li><strong>Dressing table </strong>| Tri-count: 6800 | T-size 4096x4096</li><li><strong>Table clock </strong>| Tri-count: 680 | T-size 2048x2048</li><li><strong>Wall clock </strong>| Tri-count: 1272 | T-size 4096x4096</li><li><strong>Bedside table </strong>| Tri-count: 754 | T-size 4096x4096</li><li><strong>Hanging mirror </strong>| Tri-count: 291 | T-size 4096x4096</li></ul><h3><br /></h3><h3>TECHNICAL DETAILS</h3><p><strong>Number of Unique Meshes:</strong> 24</p><p><strong>Collision:</strong> Yes - automatically generated</p><p><strong>LODs:</strong> None</p><p><strong>Number of Materials and Material Instances:</strong> 17</p><p><strong>Number of Textures:</strong> 60</p><p><strong>Texture Resolutions: </strong>2048 - 4096</p><p><strong>Supported Development Platforms:</strong></p><p>Windows: Yes</p><p>Mac: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "622c1a8e-20c4-4e31-a53d-b61e93806a76"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Bedlarge01-1920x1080-d9db8188d3a6bf423d33a79042eb595c.jpg",
+      "md5": "d9db8188d3a6bf423d33a79042eb595c",
+      "size": 1558215,
+      "uploadedDate": "2021-12-20T19:42:33.692Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pillows01-1920x1080-820b813740ef61219bae06e7d29e00e1.jpg",
+      "md5": "820b813740ef61219bae06e7d29e00e1",
+      "size": 3129738,
+      "uploadedDate": "2021-12-20T19:42:34.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Pillows02-1920x1080-47868e25aa161ba15a7cd8b720913951.jpg",
+      "md5": "47868e25aa161ba15a7cd8b720913951",
+      "size": 3070481,
+      "uploadedDate": "2021-12-20T19:42:35.178Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Chair01-1920x1080-3168d8c158fa4f7d21748bf2e0829de1.jpg",
+      "md5": "3168d8c158fa4f7d21748bf2e0829de1",
+      "size": 1518548,
+      "uploadedDate": "2021-12-20T19:42:35.771Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Chair03-1920x1080-8d24f7814a538a1c922189c404915da4.jpg",
+      "md5": "8d24f7814a538a1c922189c404915da4",
+      "size": 2055649,
+      "uploadedDate": "2021-12-20T19:42:36.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Chair02-1920x1080-fe8b143e39ca6ae7a00b1fa096a59a48.jpg",
+      "md5": "fe8b143e39ca6ae7a00b1fa096a59a48",
+      "size": 1929230,
+      "uploadedDate": "2021-12-20T19:42:36.988Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Footstool01-1920x1080-d6c2ca6d91d65e8aaaabab16039be573.jpg",
+      "md5": "d6c2ca6d91d65e8aaaabab16039be573",
+      "size": 1347017,
+      "uploadedDate": "2021-12-20T19:42:37.642Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Bedsidetable01-1920x1080-a783f31212ed76a474f64ef5c1b246bb.jpg",
+      "md5": "a783f31212ed76a474f64ef5c1b246bb",
+      "size": 1353430,
+      "uploadedDate": "2021-12-20T19:42:38.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Wallclock01-1920x1080-19f4fa45d52e6ada572fed7d8d69c7ff.jpg",
+      "md5": "19f4fa45d52e6ada572fed7d8d69c7ff",
+      "size": 1612407,
+      "uploadedDate": "2021-12-20T19:42:39.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tableclock01-1920x1080-80f381abbc16b559aa609aa2717f49a5.jpg",
+      "md5": "80f381abbc16b559aa609aa2717f49a5",
+      "size": 1451673,
+      "uploadedDate": "2021-12-20T19:42:40.104Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Mirror01-1920x1080-079b29b882808a9ccc7925432f5a74ad.jpg",
+      "md5": "079b29b882808a9ccc7925432f5a74ad",
+      "size": 1315046,
+      "uploadedDate": "2021-12-20T19:42:40.919Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Wardrobe01-1920x1080-336b94ed0fc37fb4ba7d16662ac4ea97.jpg",
+      "md5": "336b94ed0fc37fb4ba7d16662ac4ea97",
+      "size": 1364166,
+      "uploadedDate": "2021-12-20T19:42:41.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dressingtable01-1920x1080-f5ee16d9afc0df2587cfc37f81abaefd.jpg",
+      "md5": "f5ee16d9afc0df2587cfc37f81abaefd",
+      "size": 1449280,
+      "uploadedDate": "2021-12-20T19:42:42.305Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Furnisetall01-1920x1080-f70eeb99cf6aafdf7eda45a3f1624255.jpg",
+      "md5": "f70eeb99cf6aafdf7eda45a3f1624255",
+      "size": 1907527,
+      "uploadedDate": "2021-12-20T20:57:07.359Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FurnituresetVOL2_thumb-284x284-c920baa1bf766da6236e73adfce26e72.png",
+      "md5": "c920baa1bf766da6236e73adfce26e72",
+      "size": 207064,
+      "uploadedDate": "2021-12-21T06:10:08.688Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FurnituresetVOL2_featured-894x488-7d644b3924c8c368a53cd8b6b65bcd51.png",
+      "md5": "7d644b3924c8c368a53cd8b6b65bcd51",
+      "size": 722907,
+      "uploadedDate": "2021-12-30T12:14:18.788Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Furnisetall01-1920x1080-f70eeb99cf6aafdf7eda45a3f1624255_Snapshot.jpg",
+      "md5": "fd0fd19d6e6ee048378d95aa8cdae11e",
+      "size": 5929,
+      "uploadedDate": "2021-12-20T20:57:07.912Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bedlarge01-1920x1080-d9db8188d3a6bf423d33a79042eb595c_Snapshot.jpg",
+      "md5": "ce9da117217b572bbeeaf64e8d372c0f",
+      "size": 4000,
+      "uploadedDate": "2021-12-20T19:42:34.223Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pillows01-1920x1080-820b813740ef61219bae06e7d29e00e1_Snapshot.jpg",
+      "md5": "c9299152e2b74fdb31400aefc833f5d0",
+      "size": 7843,
+      "uploadedDate": "2021-12-20T19:42:34.918Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pillows02-1920x1080-47868e25aa161ba15a7cd8b720913951_Snapshot.jpg",
+      "md5": "cfb9cc0b64ec22feb39dd03c64d18f5d",
+      "size": 7566,
+      "uploadedDate": "2021-12-20T19:42:35.576Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair01-1920x1080-3168d8c158fa4f7d21748bf2e0829de1_Snapshot.jpg",
+      "md5": "4e5f079ceea82b6b1ddf239537983516",
+      "size": 3820,
+      "uploadedDate": "2021-12-20T19:42:36.114Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair03-1920x1080-8d24f7814a538a1c922189c404915da4_Snapshot.jpg",
+      "md5": "0d713b5c079ba092a93543f33c6d6f5b",
+      "size": 8799,
+      "uploadedDate": "2021-12-20T19:42:36.746Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair02-1920x1080-fe8b143e39ca6ae7a00b1fa096a59a48_Snapshot.jpg",
+      "md5": "ecee854023548cbb89713cdfd0be0859",
+      "size": 8660,
+      "uploadedDate": "2021-12-20T19:42:37.341Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Footstool01-1920x1080-d6c2ca6d91d65e8aaaabab16039be573_Snapshot.jpg",
+      "md5": "b6f38aa5217171de0bab503285120bc7",
+      "size": 3496,
+      "uploadedDate": "2021-12-20T19:42:38.157Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bedsidetable01-1920x1080-a783f31212ed76a474f64ef5c1b246bb_Snapshot.jpg",
+      "md5": "855a31835d62c3a5aac4154031f75078",
+      "size": 3159,
+      "uploadedDate": "2021-12-20T19:42:38.940Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Wallclock01-1920x1080-19f4fa45d52e6ada572fed7d8d69c7ff_Snapshot.jpg",
+      "md5": "c5b800dd6efcea9d31619ae781d49ad9",
+      "size": 4299,
+      "uploadedDate": "2021-12-20T19:42:39.808Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tableclock01-1920x1080-80f381abbc16b559aa609aa2717f49a5_Snapshot.jpg",
+      "md5": "5112a851c79e5a7aa5ecc2889d10c98b",
+      "size": 3804,
+      "uploadedDate": "2021-12-20T19:42:40.628Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Mirror01-1920x1080-079b29b882808a9ccc7925432f5a74ad_Snapshot.jpg",
+      "md5": "aa12cd7bcefd6918495ca7007f478f87",
+      "size": 2972,
+      "uploadedDate": "2021-12-20T19:42:41.435Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Wardrobe01-1920x1080-336b94ed0fc37fb4ba7d16662ac4ea97_Snapshot.jpg",
+      "md5": "f77ecd000dd62aedeae63318c80bddfb",
+      "size": 3315,
+      "uploadedDate": "2021-12-20T19:42:41.980Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dressingtable01-1920x1080-f5ee16d9afc0df2587cfc37f81abaefd_Snapshot.jpg",
+      "md5": "f7f5a5f71369b9cef85710a8247f109b",
+      "size": 3654,
+      "uploadedDate": "2021-12-20T19:42:42.836Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Mirror01-1920x1080-62cc469b7f18d9b1bf668b697b968703_Snapshot.jpg",
+      "md5": "e8aba01762a385fdb4c70d02cb12fd82",
+      "size": 2779,
+      "uploadedDate": "2021-12-20T19:00:24.932Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bedlarge01-1920x1080-d9db8188d3a6bf423d33a79042eb595c_Snapshot.jpg",
+      "md5": "ce9da117217b572bbeeaf64e8d372c0f",
+      "size": 4000,
+      "uploadedDate": "2021-12-20T18:59:40.733Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Wallclock01-1920x1080-818926500cd19f43fdd8ae77b730656d_Snapshot.jpg",
+      "md5": "f514a82406fad8f58a339af391f07ce0",
+      "size": 4361,
+      "uploadedDate": "2021-12-20T18:59:41.655Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tableclock01-1920x1080-80f381abbc16b559aa609aa2717f49a5_Snapshot.jpg",
+      "md5": "5112a851c79e5a7aa5ecc2889d10c98b",
+      "size": 3804,
+      "uploadedDate": "2021-12-20T18:59:42.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bedsidetable01-1920x1080-42af12c404dbf3bba766cd8f450cc1f9_Snapshot.jpg",
+      "md5": "2575928f95c9cc14ecbdfb7b1995225c",
+      "size": 3225,
+      "uploadedDate": "2021-12-20T18:59:43.262Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Footstool01-1920x1080-83727fdb3260b7e3d00262c6d6b5a7fe_Snapshot.jpg",
+      "md5": "785bc849924192b080788b35ecaa1096",
+      "size": 3480,
+      "uploadedDate": "2021-12-20T14:37:45.435Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair01-1920x1080-3168d8c158fa4f7d21748bf2e0829de1_Snapshot.jpg",
+      "md5": "4e5f079ceea82b6b1ddf239537983516",
+      "size": 3820,
+      "uploadedDate": "2021-12-20T13:35:44.362Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair01-1920x1080-26018024df68f753500e3064d28a9f73_Snapshot.jpg",
+      "md5": "91fd4f649cfb029f3c6ebf43044d368d",
+      "size": 3831,
+      "uploadedDate": "2021-12-20T13:33:45.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair02-1920x1080-fe8b143e39ca6ae7a00b1fa096a59a48_Snapshot.jpg",
+      "md5": "ecee854023548cbb89713cdfd0be0859",
+      "size": 8660,
+      "uploadedDate": "2021-12-20T13:33:45.650Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Chair03-1920x1080-8d24f7814a538a1c922189c404915da4_Snapshot.jpg",
+      "md5": "0d713b5c079ba092a93543f33c6d6f5b",
+      "size": 8799,
+      "uploadedDate": "2021-12-20T13:33:46.325Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dressingtable01-1920x1080-b99bea3afdd632e0f0698ddbe91046f7_Snapshot.jpg",
+      "md5": "e613d28c2d28b342413feb2b7fc582dc",
+      "size": 3478,
+      "uploadedDate": "2021-12-20T10:00:04.952Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Wardrobe01-1920x1080-336b94ed0fc37fb4ba7d16662ac4ea97_Snapshot.jpg",
+      "md5": "f77ecd000dd62aedeae63318c80bddfb",
+      "size": 3315,
+      "uploadedDate": "2021-12-17T20:15:51.971Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Bedlarge01-1920x1080-351ff706de4f710180ebee36af99caed_Snapshot.jpg",
+      "md5": "4344e1cbe4cb9561f0db6f5f5c1bfda9",
+      "size": 4072,
+      "uploadedDate": "2021-12-17T20:04:24.413Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pillows01-1920x1080-820b813740ef61219bae06e7d29e00e1_Snapshot.jpg",
+      "md5": "c9299152e2b74fdb31400aefc833f5d0",
+      "size": 7843,
+      "uploadedDate": "2021-12-17T20:04:25.067Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Pillows02-1920x1080-47868e25aa161ba15a7cd8b720913951_Snapshot.jpg",
+      "md5": "cfb9cc0b64ec22feb39dd03c64d18f5d",
+      "size": 7566,
+      "uploadedDate": "2021-12-17T20:04:25.715Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Leatherchair01-1920x1080-b593520d786757da040c250055809d54_Snapshot.jpg",
+      "md5": "6455f299c4721674408c56758ccca381",
+      "size": 4759,
+      "uploadedDate": "2021-12-16T08:55:08.634Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Leatherchair02-1920x1080-fd72d55d802e7e4fc034bda776884925_Snapshot.jpg",
+      "md5": "4675a97cf5d37ea1d85f792c36bb603a",
+      "size": 4988,
+      "uploadedDate": "2021-12-16T08:55:09.164Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Salontable01-1920x1080-9cc6fa8c53d77555bec5503ef0a4bede_Snapshot.jpg",
+      "md5": "ffe71216662f2c01da6a8196e4fa828f",
+      "size": 4216,
+      "uploadedDate": "2021-12-16T08:55:09.624Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "46fa7b261b574246a01f046114b64be3"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,584 @@
+{
+  "id": "8893eb074dcd42fd8c9f85bafef0cb41",
+  "namespace": "ue",
+  "title": "Advanced Main Menu & UI System",
+  "description": "AAA quality menu system for your UE4 project, with multiplayer, keyboard and gamepad navigation, key binding, ui scaling, volume control and more",
+  "longDescription": "<p>AAA quality menu system for your Unreal project, with full keyboard and gamepad navigation, multiplayer support.</p><p>Example of multiplayer, Gamepad navigation is included with demo level.</p><p><br /></p><p>Preview: <a href=\"https://go.lazertale.com/ams-preview-yt\" rel=\"nofollow\">https://go.lazertale.com/ams-preview-yt</a></p><p>Pause Menu preview: <a href=\"https://go.lazertale.com/ams-pmenu-yt\" rel=\"nofollow\">https://go.lazertale.com/ams-pmenu-yt</a></p><p>Startup video preview with skip feature: <a href=\"https://go.lazertale.com/ams-startup-yt\" rel=\"nofollow\">https://go.lazertale.com/ams-startup-yt</a></p><p><br /></p><p><br /></p><h2>DEMO:</h2><p><strong>[NEW 2.1] Try out the Demo before purchase: </strong><a href=\"https://go.lazertale.com/ams-demo\" rel=\"nofollow\">https://go.lazertale.com/ams-demo</a></p><p><br /></p><p><br /></p><h2>DOCS:</h2><p><strong>[UPDATED] Documentation: </strong><a href=\"https://go.lazertale.com/ams-docs\" rel=\"nofollow\">https://go.lazertale.com/ams-docs</a></p><p><br /></p><p><br /></p><h2>SUPPORT:</h2><p><em>If you have any feature request contact me via Discord or email.</em></p><p><strong>Email: avik&#64;lazertale.com</strong></p><p><strong>Join Discord: </strong><a href=\"https://go.lazertale.com/discord-devcommunity-invite\" rel=\"nofollow\">https://go.lazertale.com/discord-devcommunity-invite</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-menu-system",
+  "creationDate": "2018-06-04T00:20:04.085Z",
+  "lastModifiedDate": "2024-09-27T06:45:22.033Z",
+  "effectiveDate": "2018-06-04T00:20:04.051Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-595dd6cf714e3a94dfa5f1be26e799",
+    "name": "LazerTale"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2>FEATURES:</h2><ul><li>Main menu Widgets, setting widgets and custom customizable controls</li><li>[v2.2][UE 5.4&#43; only] New Enhanced Input support</li><li>[v2.1][UE 5 only] New Multiplayer system, server browser, lobby, team scroreboard (<a href=\"https://www.youtube.com/watch?v&#61;Eq3ZayCPfjM\" rel=\"nofollow\">Preview</a>)</li><li>[v2.0][4.26 only] New dropdown control (<a href=\"https://imgur.com/0MtGTPn.gif\" rel=\"nofollow\">Preview</a>)</li><li>[v2.0] Auto navigation system, for grid like Inventory UI (<a href=\"https://imgur.com/tuFeKkW.gif\" rel=\"nofollow\">Preview</a>)</li><li>[v1.9] Added Multiplayer support with server browser (<a href=\"https://gfycat.com/FemaleElectricDore\" rel=\"nofollow\">Gif preview</a>)</li><li>[v1.8] New help panel popup for setting items and their values (<a href=\"https://youtu.be/N7npgvEwSGE\" rel=\"nofollow\">Preview</a>)</li><li>[v1.8] Added key combination support. Now you can rebind any modifier key with another key (<em>eg.ctrl&#43;w</em>)</li><li>[v1.8] Ability to add password field with custom masking character (<a href=\"https://youtu.be/PV4rrHsI6OI\" rel=\"nofollow\">Preview</a>)</li><li>[v1.6] Assasins creed style startup videos with skip text (<a href=\"https://gfycat.com/NarrowGiantEnglishpointer\" rel=\"nofollow\">Preview</a>)</li><li>[v1.6] Full keyboard and gamepad navigation support</li><li>[v1.6] Added startup video option with both video and UMG animation with audio</li><li>2 Different Main Menu style. 1 Pause Menu</li><li>Full mouse &amp; keyboard key rebind</li><li><strong><em>Animated button</em></strong></li><li><strong><em>Simple loading screen</em></strong></li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1128",
+      "name": "E-SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.092Z",
+      "updated": "2019-06-20T11:59:22.092Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1193",
+      "name": "CYBERPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:54.272Z",
+      "updated": "2022-08-24T18:46:51.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1099",
+      "name": "EMOTIONAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:07.804Z",
+      "updated": "2019-06-20T11:59:07.804Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9755f1dd-2287-4831-a2bb-125bce6a07a3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Banner-1920x1080-782e63a9b73f5ae55793eaf9feb8f7e6.png",
+      "md5": "782e63a9b73f5ae55793eaf9feb8f7e6",
+      "size": 781855,
+      "uploadedDate": "2024-09-27T06:44:33.418Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cardStyle-1920x1080-dc78d061897e78756b2622a44926cac5.png",
+      "md5": "dc78d061897e78756b2622a44926cac5",
+      "size": 444179,
+      "uploadedDate": "2020-04-10T02:27:24.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/defaultStyle-1920x1080-a68effbcc398092063b091863a44c8a3.png",
+      "md5": "a68effbcc398092063b091863a44c8a3",
+      "size": 638653,
+      "uploadedDate": "2020-04-10T02:27:24.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/lobby-1920x1080-86197d0ab60b1437c121d7345f51142d.png",
+      "md5": "86197d0ab60b1437c121d7345f51142d",
+      "size": 156166,
+      "uploadedDate": "2022-08-19T07:54:59.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/scoreboard-1920x1080-2b8357482bc75664e133bd749091b4b7.png",
+      "md5": "2b8357482bc75664e133bd749091b4b7",
+      "size": 1621690,
+      "uploadedDate": "2022-08-19T07:55:00.265Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/graphics-1920x1080-6e24389f746b8459b5410119679ef364.png",
+      "md5": "6e24389f746b8459b5410119679ef364",
+      "size": 406001,
+      "uploadedDate": "2020-04-10T02:27:25.289Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/mouse-1920x1080-95931a84699cd77a6ad4efe4993ac915.png",
+      "md5": "95931a84699cd77a6ad4efe4993ac915",
+      "size": 399634,
+      "uploadedDate": "2020-04-10T02:27:25.646Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/differentSettingMenuStyle-1920x1080-7fd9e83ecbbd903559522c8df614b5fd.png",
+      "md5": "7fd9e83ecbbd903559522c8df614b5fd",
+      "size": 256493,
+      "uploadedDate": "2020-04-10T02:27:26.018Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/comment-1920x1080-2f84bd45576b29f64655765d9ef9b363.png",
+      "md5": "2f84bd45576b29f64655765d9ef9b363",
+      "size": 291387,
+      "uploadedDate": "2020-04-10T02:27:26.401Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/audio-1920x1080-c1d7032ccb1db523a42a889b79eacf45.png",
+      "md5": "c1d7032ccb1db523a42a889b79eacf45",
+      "size": 358199,
+      "uploadedDate": "2020-04-10T02:27:26.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ui-1920x1080-b0147a59076b24432873d1e4fcd6a79e.png",
+      "md5": "b0147a59076b24432873d1e4fcd6a79e",
+      "size": 362139,
+      "uploadedDate": "2020-04-10T02:27:27.205Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pause-1920x1080-ba5a14f4660df329a55d09f32d651ec9.png",
+      "md5": "ba5a14f4660df329a55d09f32d651ec9",
+      "size": 319228,
+      "uploadedDate": "2020-04-10T02:27:27.740Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/credit-1920x1080-a141971b93eec504f915efb6cada855a.png",
+      "md5": "a141971b93eec504f915efb6cada855a",
+      "size": 70394,
+      "uploadedDate": "2020-04-10T02:27:28.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/widgets-1920x1080-ee2a408b1c1948f3981e2b79b621197f.png",
+      "md5": "ee2a408b1c1948f3981e2b79b621197f",
+      "size": 433699,
+      "uploadedDate": "2020-04-10T02:27:28.643Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/teamselection-1920x1080-7ad625e2e4fd6d0b4d15a622236bbc96.png",
+      "md5": "7ad625e2e4fd6d0b4d15a622236bbc96",
+      "size": 1143695,
+      "uploadedDate": "2022-08-19T07:55:00.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/server-browser-1920x1080-117c552347ed98c57cccc1c805443039.png",
+      "md5": "117c552347ed98c57cccc1c805443039",
+      "size": 349889,
+      "uploadedDate": "2022-08-19T07:54:59.242Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MainMenuUISystemPauseMenu_thumb-284x284-e4996b0f4bb25357bee3dfff8b046cfa.png",
+      "md5": "e4996b0f4bb25357bee3dfff8b046cfa",
+      "size": 73406,
+      "uploadedDate": "2023-02-27T20:20:51.958Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedMainMenuUISystem_featured-894x488-da3f4e86ed69bff736dc0b289b92beb1.png",
+      "md5": "da3f4e86ed69bff736dc0b289b92beb1",
+      "size": 308490,
+      "uploadedDate": "2024-09-27T06:45:20.917Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Banner-1920x1080-782e63a9b73f5ae55793eaf9feb8f7e6_Snapshot.png",
+      "md5": "3c628b74668d2002605f4f266360333b",
+      "size": 4493,
+      "uploadedDate": "2024-09-27T06:44:33.703Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/server-browser-1920x1080-117c552347ed98c57cccc1c805443039_Snapshot.png",
+      "md5": "63db7b6cd2b1a1875270c517a8d4d283",
+      "size": 3665,
+      "uploadedDate": "2022-08-19T07:54:59.518Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/lobby-1920x1080-86197d0ab60b1437c121d7345f51142d_Snapshot.png",
+      "md5": "f46ab29f3e88a3a258f9373d143dfb7c",
+      "size": 3411,
+      "uploadedDate": "2022-08-19T07:55:00.001Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/scoreboard-1920x1080-2b8357482bc75664e133bd749091b4b7_Snapshot.png",
+      "md5": "26f36bce05aa2486949dbc50a9d54c5f",
+      "size": 5199,
+      "uploadedDate": "2022-08-19T07:55:00.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/teamselection-1920x1080-7ad625e2e4fd6d0b4d15a622236bbc96_Snapshot.png",
+      "md5": "c1452f04a79833244e033e8fce40a1ff",
+      "size": 4659,
+      "uploadedDate": "2022-08-19T07:55:01.185Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/defaultStyle-1920x1080-a68effbcc398092063b091863a44c8a3_Snapshot.png",
+      "md5": "cdbfbd9c4dfe1987224f26a0064a132f",
+      "size": 5188,
+      "uploadedDate": "2020-04-10T02:27:24.324Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cardStyle-1920x1080-dc78d061897e78756b2622a44926cac5_Snapshot.png",
+      "md5": "2cac227c8179fed615ad0239179bf1fb",
+      "size": 3735,
+      "uploadedDate": "2020-04-10T02:27:25.042Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/graphics-1920x1080-6e24389f746b8459b5410119679ef364_Snapshot.png",
+      "md5": "c033e87a243174684ae7fa86eaf62ae7",
+      "size": 4165,
+      "uploadedDate": "2020-04-10T02:27:25.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mouse-1920x1080-95931a84699cd77a6ad4efe4993ac915_Snapshot.png",
+      "md5": "8f009587fc49be1c6df89b820b0549b8",
+      "size": 4195,
+      "uploadedDate": "2020-04-10T02:27:25.876Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/differentSettingMenuStyle-1920x1080-7fd9e83ecbbd903559522c8df614b5fd_Snapshot.png",
+      "md5": "77b78cc1db21f65b4820ab37e517567d",
+      "size": 3665,
+      "uploadedDate": "2020-04-10T02:27:26.275Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/comment-1920x1080-2f84bd45576b29f64655765d9ef9b363_Snapshot.png",
+      "md5": "9a115c184e1f876fbe44a9b3d49fa656",
+      "size": 5881,
+      "uploadedDate": "2020-04-10T02:27:26.641Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/audio-1920x1080-c1d7032ccb1db523a42a889b79eacf45_Snapshot.png",
+      "md5": "0d57c57d1838267192c71263190b731c",
+      "size": 3912,
+      "uploadedDate": "2020-04-10T02:27:27.001Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ui-1920x1080-b0147a59076b24432873d1e4fcd6a79e_Snapshot.png",
+      "md5": "099009e46b11ca69a6e6b4708c4f2244",
+      "size": 3732,
+      "uploadedDate": "2020-04-10T02:27:27.609Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pause-1920x1080-ba5a14f4660df329a55d09f32d651ec9_Snapshot.png",
+      "md5": "a182b5aff713cf0fce6a013b0cb66288",
+      "size": 3523,
+      "uploadedDate": "2020-04-10T02:27:28.000Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/credit-1920x1080-a141971b93eec504f915efb6cada855a_Snapshot.png",
+      "md5": "38a2ca74f7e80df024c95757acb090a5",
+      "size": 2295,
+      "uploadedDate": "2020-04-10T02:27:28.441Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/widgets-1920x1080-ee2a408b1c1948f3981e2b79b621197f_Snapshot.png",
+      "md5": "c37ebb905198fed17445a52ce09e2089",
+      "size": 4388,
+      "uploadedDate": "2020-04-10T02:27:28.907Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cardviewmenu-1920x1080-a826dfcdb2020f17313fbb3edc3b63c0_Snapshot.png",
+      "md5": "280fde9346d29aa5284138416842365a",
+      "size": 12095,
+      "uploadedDate": "2018-12-20T14:34:13.936Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/mainmenu-1920x1080-1ec329e798703385c68be4f14c68c224_Snapshot.png",
+      "md5": "5e74063c2eaeb9250348a129437bd566",
+      "size": 8147,
+      "uploadedDate": "2018-12-20T14:34:14.383Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MenuSystem-Win64-DebugGame2018-05-2523-37-12-1920x1080-b44f5412c9be78c9b54c94c2a27c9ee7_Snapshot.png",
+      "md5": "c278980237951514dae62c478682f052",
+      "size": 9093,
+      "uploadedDate": "2018-11-25T14:29:31.606Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MenuSystemnewsetting-1920x1080-0eaf6aec9dde414b50f1ffb8e2f0a993_Snapshot.png",
+      "md5": "0074c87a351184db4c9309f8e5979ea4",
+      "size": 10191,
+      "uploadedDate": "2018-11-05T20:48:39.525Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "936f623a54ab461794b0d83d4f1cd0c6"
+    }
+  ],
+  "catalogNs": null
+}

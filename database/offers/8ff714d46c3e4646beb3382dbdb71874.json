@@ -1,0 +1,302 @@
+{
+  "id": "8ff714d46c3e4646beb3382dbdb71874",
+  "namespace": "ue",
+  "title": "School gym",
+  "description": "School Gym  interior for indoor sports (basketball,volleyball,soccer, pingpong)",
+  "longDescription": "<p>YouTube: <a href=\"https://youtu.be/yREc054gaDo\" rel=\"nofollow\">Video</a></p><p>Sketchfab: <a href=\"https://sketchfab.com/models/62f0423590224e45858a4195803e711e\" rel=\"nofollow\">Pingpong table</a>, <a href=\"https://sketchfab.com/models/68a0b0cf9241406b9e01847856e88931\" rel=\"nofollow\">Sport props</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "school-gym",
+  "creationDate": "2017-10-18T14:12:29.188Z",
+  "lastModifiedDate": "2024-09-30T06:00:27.110Z",
+  "effectiveDate": "2017-10-18T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3bab9850584f2faf59e78ed82c7a0a",
+    "name": "Tirgames Assets"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>PBR: Yes</p><p>Props scaled to Epic skeleton: Yes</p><p>Texture Size : 1024-2048</p><p>Collision: Yes, automatically generated</p><p>LODs: No</p><p>Number of Meshes: 27</p><p>Number of Materials: 30</p><p>Number of Textures: 78</p><p>Supported Target Build Platforms: Windows (should work on other platforms, but untested)</p><p>Documentation: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/archvis"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1215",
+      "name": "POST-APOCALYPTIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.124Z",
+      "updated": "2019-06-20T12:00:05.124Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2e6fa4c5-7d04-42fe-b6f8-a7660dc35039"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymDemo06-1920x1080-8b48ce9aece972bc3262e2a72c7994bc.png",
+      "md5": "8b48ce9aece972bc3262e2a72c7994bc",
+      "size": 701996,
+      "uploadedDate": "2017-10-04T18:35:51.730Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymDemo03-1920x1080-cae85c12bfaf851eff504c58db45e9b6.png",
+      "md5": "cae85c12bfaf851eff504c58db45e9b6",
+      "size": 651083,
+      "uploadedDate": "2017-10-04T18:35:51.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymDemo04-1920x1080-b6a19e192cff5540d5eb9c76a39fea4b.png",
+      "md5": "b6a19e192cff5540d5eb9c76a39fea4b",
+      "size": 672543,
+      "uploadedDate": "2017-10-04T18:35:51.464Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymOverview01-1920x1080-caceb2a8b645ff161954a76a42e120ed.png",
+      "md5": "caceb2a8b645ff161954a76a42e120ed",
+      "size": 773107,
+      "uploadedDate": "2017-10-25T17:42:14.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymOverview02-1920x1080-5de0fd3130e244f9c2928c44ffe1a240.png",
+      "md5": "5de0fd3130e244f9c2928c44ffe1a240",
+      "size": 730135,
+      "uploadedDate": "2017-10-25T17:42:15.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SchoolGymOverview03-1920x1080-eb1935e9a8a20a445b720fe74da09f4e.png",
+      "md5": "eb1935e9a8a20a445b720fe74da09f4e",
+      "size": 884893,
+      "uploadedDate": "2017-10-25T17:42:15.222Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Schoolgym_thumb-284x284-b23e6c182da75db56b8c6493db3c3b18.png",
+      "md5": "b23e6c182da75db56b8c6493db3c3b18",
+      "size": 82054,
+      "uploadedDate": "2017-10-04T18:36:53.102Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Schoolgym_featured-894x488-0b78cf207c73c9e27a180c6c51516496.png",
+      "md5": "0b78cf207c73c9e27a180c6c51516496",
+      "size": 317035,
+      "uploadedDate": "2017-10-04T18:36:53.247Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "5a2f1d36ee474109970c4be680445a77"
+    }
+  ],
+  "catalogNs": null
+}

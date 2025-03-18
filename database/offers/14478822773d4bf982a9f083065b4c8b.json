@@ -1,0 +1,230 @@
+{
+  "id": "14478822773d4bf982a9f083065b4c8b",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Grass And Ground Plants",
+  "description": "30 Grass and Ground Plants Pack, for extend the possibilities of Olbert's Low Poly Series.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;gbyHZRjEkvk\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;gbyHZRjEkvk</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>Olbert&#39;s Low Poly: Grass And Ground plants offer a fully customizable set of assets of all the sizes and styles, the perfect complement for Olbert&#39;s Low Poly series.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-grass-and-groundplants",
+  "creationDate": "2016-11-16T22:01:32.116Z",
+  "lastModifiedDate": "2024-09-29T23:57:45.325Z",
+  "effectiveDate": "2016-11-30T00:00:00.000Z",
+  "viewableDate": "2016-11-30T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>(25) Grass of all the sizes </li><li>(5) Groundplants </li></ul><p>Texture Size: All 2048x2048</p><p>Number of Textures: 30 (all used in the Grass and Ground Plants)</p><p>Collision: No</p><p>Vertex Count: 8 to 500</p><p>LODs: 0</p><p>Number of Meshes: 30</p><p>Number of Materials and Material Instances: 2 Master Materials, 30 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f8f5de1d-8dce-4f65-9b15-15db71a79c4e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_01-1920x1080-8bf27136fa5f5d28690077bdf715f577.png",
+      "md5": "8bf27136fa5f5d28690077bdf715f577",
+      "size": 611935,
+      "uploadedDate": "2016-11-16T21:53:04.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_02-1920x1080-ce57358c5df01c2c5f66f6a4972ea1d3.png",
+      "md5": "ce57358c5df01c2c5f66f6a4972ea1d3",
+      "size": 687864,
+      "uploadedDate": "2016-11-16T21:53:07.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_03-1920x1080-b1c7143d0404e90ada5786d120fe35c2.png",
+      "md5": "b1c7143d0404e90ada5786d120fe35c2",
+      "size": 801637,
+      "uploadedDate": "2016-11-16T21:53:11.018Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_04-1920x1080-819c1449624d877874ad29d17f3cb4e7.png",
+      "md5": "819c1449624d877874ad29d17f3cb4e7",
+      "size": 701005,
+      "uploadedDate": "2016-11-16T21:53:14.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_05-1920x1080-61b5c2b98792f611029c9976358b4719.png",
+      "md5": "61b5c2b98792f611029c9976358b4719",
+      "size": 712125,
+      "uploadedDate": "2016-11-16T21:53:16.445Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_06-1920x1080-eb8c9fe15fd36a8c9e2d06d23dc6b886.png",
+      "md5": "eb8c9fe15fd36a8c9e2d06d23dc6b886",
+      "size": 717071,
+      "uploadedDate": "2016-11-16T21:53:18.225Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_07-1920x1080-c0dbccee83b6130f17c6d8686eaa4511.png",
+      "md5": "c0dbccee83b6130f17c6d8686eaa4511",
+      "size": 670327,
+      "uploadedDate": "2016-11-16T21:53:21.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_08-1920x1080-a9447830989599ce21579a8328940b2a.png",
+      "md5": "a9447830989599ce21579a8328940b2a",
+      "size": 638950,
+      "uploadedDate": "2016-11-16T21:53:23.090Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_09-1920x1080-da80cc1d9a9d97b5fd503d6ae7affd0a.png",
+      "md5": "da80cc1d9a9d97b5fd503d6ae7affd0a",
+      "size": 664801,
+      "uploadedDate": "2016-11-16T21:53:25.318Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_screenshot_10-1920x1080-39a0b6edb9f36c8d438db224bb6c9508.png",
+      "md5": "39a0b6edb9f36c8d438db224bb6c9508",
+      "size": 660762,
+      "uploadedDate": "2016-11-16T21:53:35.574Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_Thumb-284x284-b542eb8f9061a1626dbb254a5ae32bdb.png",
+      "md5": "b542eb8f9061a1626dbb254a5ae32bdb",
+      "size": 34915,
+      "uploadedDate": "2016-11-16T21:53:02.391Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertLowPolyGrassAndGroundPlants_FeaturedNew-984x488-23c3fe44b634a244cf9272b0cdc7f7bb.png",
+      "md5": "23c3fe44b634a244cf9272b0cdc7f7bb",
+      "size": 179750,
+      "uploadedDate": "2016-11-16T21:53:00.616Z",
+      "width": 984,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "ed8263e7dc324da4b268a3f24924054e"
+    }
+  ],
+  "catalogNs": null
+}

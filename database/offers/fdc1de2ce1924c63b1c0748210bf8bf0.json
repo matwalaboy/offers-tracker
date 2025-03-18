@@ -1,0 +1,161 @@
+{
+  "id": "fdc1de2ce1924c63b1c0748210bf8bf0",
+  "namespace": "ue",
+  "title": "Tarantula",
+  "description": "3D model and animations of Tarantula.",
+  "longDescription": "<p>Update 12 April 2019:</p><p>BP fixes in 4.22.</p><p>Addition of abdominal movement.</p><p>Material settings by dynamic material instance.</p><p><br /></p><p>Preview:<a href=\"https://youtu.be/YxGfd5ZmhMo\" rel=\"nofollow\">https://youtu.be/YxGfd5ZmhMo</a></p><p><br /></p><p>The main content of this asset is Tarantula&#39;s 3D model, Animations, Textures, and a Blueprint for the character to crawl on the wall (BP_TarantulaCharacter).</p><p>BP_TarantulaCharacter is controlled with blending FABRIK and TwoBoneIK.</p><p>The posture of the body is calculated from the position of the leg and the normal of the ground.</p><p>BP_TarantulaThirdPersonCharacter is an operable character.</p><p>BP_TarantulaRandomWalkCharacter is a character that behaves randomly.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tarantula",
+  "creationDate": "2018-05-08T21:40:25.435Z",
+  "lastModifiedDate": "2024-09-30T12:25:47.015Z",
+  "effectiveDate": "2018-05-08T21:40:25.402Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-97baa2cf714756aef47be6ba33eba9",
+    "name": "JUNNICHI SUKO"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Blueprint for crawling on the wall (BP_TarantulaCharacter)</li><li>Operable character (BP_TarantulaThirdPersonCharacter)</li><li>FootIK</li><li>5 Texture variations</li><li>Two types of models (Wooly and furless) and two LODs</li></ul><p>Scaled to Epic skeleton: Yes</p><p>Rigged: Yes</p><p>Rigged to Epic skeleton: No</p><p>Animated: Yes</p><p>Number of characters: 1</p><p>Vertex counts of characters:</p><p>Mesh_TarantulaFurlessLowPoly: 1979</p><p>Mesh_TarantulaFurlessMiddlePoly: 7914</p><p>Mesh_TarantulaWoolyLowPoly: 7165</p><p>Mesh_TarantulaWoolyMiddlePoly: 13388</p><p>Texture Resolutions:</p><p>Body Base color: 1024x1024</p><p>Body Normal map: 1024x1024</p><p>Body Roughness: 512x512</p><p>Fur Base Color: 256x256 or 512x512</p><p>Fur Normal map: 256x256 or 512x512</p><p>Number of Animations: 42</p><p>Animation types (Root Motion/In-place): Both (42 Animations &#43; 19 Root motion variations)</p><p>Supported Development Platforms: Windows, Mac OS</p><p>Supported Target Build Platforms: Windows, Mac OS</p><p>Documentation: <a href=\"http://eizouasobi.blogspot.jp/search/label/UnrealTarantula\" rel=\"nofollow\">http://eizouasobi.blogspot.jp/search/label/UnrealTarantula</a></p><p>Important/Additional Notes: Bone count 70</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b3d4468b-ce72-45fd-b3fa-60c1ac0aae57"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap8-1920x1080-2a830fd6a91b111409737c64e9d4e1f2.png",
+      "md5": "2a830fd6a91b111409737c64e9d4e1f2",
+      "size": 1167107,
+      "uploadedDate": "2018-04-23T07:41:28.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap7-1920x1080-b944a68108a4233ed18dc1b850e49c46.png",
+      "md5": "b944a68108a4233ed18dc1b850e49c46",
+      "size": 1164270,
+      "uploadedDate": "2018-04-23T07:41:28.991Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap6-1920x1080-d509ef0d3fe7dec0a8bcdef61e079922.png",
+      "md5": "d509ef0d3fe7dec0a8bcdef61e079922",
+      "size": 1177691,
+      "uploadedDate": "2018-04-23T07:41:29.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap5-1920x1080-68a8532505c65efab62305797015c851.png",
+      "md5": "68a8532505c65efab62305797015c851",
+      "size": 1187584,
+      "uploadedDate": "2018-04-23T07:41:29.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap4-1920x1080-9338ebfa836020c99d0fe54ea5cd58eb.png",
+      "md5": "9338ebfa836020c99d0fe54ea5cd58eb",
+      "size": 1257775,
+      "uploadedDate": "2018-04-23T07:41:29.512Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap9-1920x1080-969770aab22dc4fab86332a7e248f23c.png",
+      "md5": "969770aab22dc4fab86332a7e248f23c",
+      "size": 2132185,
+      "uploadedDate": "2018-04-23T07:41:29.707Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap10-1920x1080-492329133b4c5a4a1c13bfe528b9532e.png",
+      "md5": "492329133b4c5a4a1c13bfe528b9532e",
+      "size": 2377195,
+      "uploadedDate": "2018-04-23T07:41:29.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap2-1920x1080-d1cb7aa649f0837a29c43f931ef245e3.png",
+      "md5": "d1cb7aa649f0837a29c43f931ef245e3",
+      "size": 2718628,
+      "uploadedDate": "2018-04-23T07:41:30.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cap1-1920x1080-10813cecc8fec1c53795f4f66c508056.png",
+      "md5": "10813cecc8fec1c53795f4f66c508056",
+      "size": 1981494,
+      "uploadedDate": "2018-04-23T07:41:30.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Tarantula_thumb-284x284-115952a87010661758c2e1a241fb3501.png",
+      "md5": "115952a87010661758c2e1a241fb3501",
+      "size": 102745,
+      "uploadedDate": "2018-04-24T10:43:48.137Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Tarantula_featured-894x488-a86eafb6321a1bc17489ddec9b24c2e4.png",
+      "md5": "a86eafb6321a1bc17489ddec9b24c2e4",
+      "size": 419285,
+      "uploadedDate": "2018-04-24T10:43:48.247Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "e9832466697a4748b50bd3c0c5fd3b75"
+    }
+  ],
+  "catalogNs": null
+}

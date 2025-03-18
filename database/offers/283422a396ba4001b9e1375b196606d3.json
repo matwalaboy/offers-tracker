@@ -1,0 +1,176 @@
+{
+  "id": "283422a396ba4001b9e1375b196606d3",
+  "namespace": "ue",
+  "title": "The spider",
+  "description": "Cute low poly spider",
+  "longDescription": "<p>Cute low poly spider with all the basic movement and combat animations.</p><p>Animations: <a href=\"https://www.youtube.com/watch?v&#61;5dO_A26iiRY\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;5dO_A26iiRY</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-spider",
+  "creationDate": "2020-11-12T17:12:52.818Z",
+  "lastModifiedDate": "2024-09-29T16:53:16.621Z",
+  "effectiveDate": "2020-11-12T17:12:50.551Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58kma2wdqkpy9fk8tvrtsj62lq29ww",
+    "name": "HologramMonster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged: Yes</p><p>Animated: Yes</p><p>Number of Animations: 13</p><p>Animations by name:</p><ul><li>Idle</li><li>Walking</li><li>Running</li><li>Jumping</li><li>Turning (root motion)</li><li>Biting (root motion)</li><li>Spitting projectile (projectile not included)</li><li>Taking basic damage</li><li>Taking heavy damage (root motion)</li></ul><p>Number of characters: 1</p><p>Vertex counts of characters: </p><p>Number of Materials and Material Instances: 8</p><p>Number of Textures: 3</p><p>Texture Resolution: 2048</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: No</p><p>Video preview: https://www.youtube.com/watch?v&#61;5dO_A26iiRY</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6f5973f1-dadc-4651-a946-e6c8fb4994fc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Supercutesplash-1920x1080-0b01d3920c36b7a1bf53be4f32726880.jpg",
+      "md5": "0b01d3920c36b7a1bf53be4f32726880",
+      "size": 1452546,
+      "uploadedDate": "2020-11-12T13:58:33.057Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Supercute01-1920x1080-66d8c61be875e30a2f1ae55494d746da.jpg",
+      "md5": "66d8c61be875e30a2f1ae55494d746da",
+      "size": 1182552,
+      "uploadedDate": "2020-11-12T13:58:33.500Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Thespider_thumb-284x284-9136d81bcbd9fe5d4c0099c2ab977b8a.png",
+      "md5": "9136d81bcbd9fe5d4c0099c2ab977b8a",
+      "size": 142064,
+      "uploadedDate": "2020-11-12T13:58:33.845Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Thespider_featured-894x488-13c498a78ea4413f06b15ef61354daff.png",
+      "md5": "13c498a78ea4413f06b15ef61354daff",
+      "size": 540310,
+      "uploadedDate": "2020-11-12T13:58:33.962Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Supercutesplash-1920x1080-0b01d3920c36b7a1bf53be4f32726880_Snapshot.jpg",
+      "md5": "70ff7009de2ca2cc7b25c001e93dd632",
+      "size": 4559,
+      "uploadedDate": "2020-11-12T13:58:33.360Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Supercute01-1920x1080-66d8c61be875e30a2f1ae55494d746da_Snapshot.jpg",
+      "md5": "d0dfa69aa41db5b4dbb6f32e10fbb9e1",
+      "size": 5183,
+      "uploadedDate": "2020-11-12T13:58:33.771Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "67888fa3e6484b508de6059df5a38cb1"
+    }
+  ],
+  "catalogNs": null
+}

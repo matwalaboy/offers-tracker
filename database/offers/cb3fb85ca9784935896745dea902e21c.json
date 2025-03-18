@@ -1,0 +1,302 @@
+{
+  "id": "cb3fb85ca9784935896745dea902e21c",
+  "namespace": "ue",
+  "title": "Asian Portraits",
+  "description": "Asian Portraits pack with 90 images to enhance your game’s character visuals with culturally rich and detailed portraits.",
+  "longDescription": "<p>Bring cultural depth to your game with the Asian Portraits pack, featuring 90 high-resolution images (1024x1024). These portraits represent a variety of Asian-inspired characters, perfect for RPGs, strategy, or adventure games. Whether used for character profiles, avatars, or in-game dialogue, this collection offers rich and diverse visuals to enhance your game&#39;s world and provide an authentic cultural atmosphere.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "asian-portraits",
+  "creationDate": "2024-09-23T21:25:35.404Z",
+  "lastModifiedDate": "2024-09-30T20:20:37.506Z",
+  "effectiveDate": "2024-09-23T21:25:35.376Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolution:</strong> 1024 x 1024 pixels</li><li><strong>Total Images:</strong> 90</li><li><strong>File Format:</strong> PNG</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4d896146-c1b6-4678-852f-db09f10e0be5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview001-1920x1080-8ae99a5f12d219793e28902146152cee.jpeg",
+      "md5": "8ae99a5f12d219793e28902146152cee",
+      "size": 159463,
+      "uploadedDate": "2024-09-16T16:09:57.712Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview001-1920x1080-8ae99a5f12d219793e28902146152cee_Snapshot.jpeg",
+      "md5": "b64e025d26303683798d7dc2d21ea4dc",
+      "size": 5079,
+      "uploadedDate": "2024-09-16T16:09:57.973Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-a02a87253cfb8222c25ebd275826e4a1.jpeg",
+      "md5": "a02a87253cfb8222c25ebd275826e4a1",
+      "size": 253570,
+      "uploadedDate": "2024-09-16T16:09:58.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-a02a87253cfb8222c25ebd275826e4a1_Snapshot.jpeg",
+      "md5": "b5889b017e6ffbd115021ad72ee8ca60",
+      "size": 8265,
+      "uploadedDate": "2024-09-16T16:09:58.477Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-f766e2847f9f15ba8b8a220a045890ad.jpeg",
+      "md5": "f766e2847f9f15ba8b8a220a045890ad",
+      "size": 230104,
+      "uploadedDate": "2024-09-16T16:09:58.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-f766e2847f9f15ba8b8a220a045890ad_Snapshot.jpeg",
+      "md5": "949985866571739920d518a7aacea8ef",
+      "size": 7865,
+      "uploadedDate": "2024-09-16T16:09:58.838Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-aaa8da94ebb3b7d8cc0cb256c9c11b2a.jpeg",
+      "md5": "aaa8da94ebb3b7d8cc0cb256c9c11b2a",
+      "size": 209383,
+      "uploadedDate": "2024-09-16T16:09:58.998Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-aaa8da94ebb3b7d8cc0cb256c9c11b2a_Snapshot.jpeg",
+      "md5": "7b5936a8908e5bc4879b9f0896b393aa",
+      "size": 7391,
+      "uploadedDate": "2024-09-16T16:09:59.230Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-19aeadc0173c78ca849aee6d279377cf.jpeg",
+      "md5": "19aeadc0173c78ca849aee6d279377cf",
+      "size": 252433,
+      "uploadedDate": "2024-09-16T16:09:59.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-19aeadc0173c78ca849aee6d279377cf_Snapshot.jpeg",
+      "md5": "38b5ad64fa2368762fa7a2ceaeea4491",
+      "size": 8335,
+      "uploadedDate": "2024-09-16T16:09:59.649Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AsianPortraits_thumb-284x284-62d899ea4a34593c40b5e3d63d9d9e8e.png",
+      "md5": "62d899ea4a34593c40b5e3d63d9d9e8e",
+      "size": 90081,
+      "uploadedDate": "2024-09-16T16:09:59.981Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AsianPortraits_featured-894x488-5ff5fc43e0547ff459a29d312fc4bfff.png",
+      "md5": "5ff5fc43e0547ff459a29d312fc4bfff",
+      "size": 382885,
+      "uploadedDate": "2024-09-16T16:10:00.168Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "d86981d4f74e419f89829df45b4afa0e"
+    }
+  ],
+  "catalogNs": null
+}

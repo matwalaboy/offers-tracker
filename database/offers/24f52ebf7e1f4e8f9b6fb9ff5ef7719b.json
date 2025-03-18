@@ -1,0 +1,296 @@
+{
+  "id": "24f52ebf7e1f4e8f9b6fb9ff5ef7719b",
+  "namespace": "ue",
+  "title": "Ice elemental",
+  "description": "Low-poly animated ice elemental",
+  "longDescription": "<p>The Ice Elemental has 24 animations. The model contains customizable material. Visualization takes place due to materials and the Niagara particle system. Suitable for games of different genre: RPG, strategy, first-person etc. A detailed overview of project is presented in the video. </p><p><strong>The Niagara system for displaying fog and snow is present only in the project version starting from 4.26. In versions 4.18 - 4.25, only the skeletal mesh is present!</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ice-elemental",
+  "creationDate": "2023-01-23T00:24:09.396Z",
+  "lastModifiedDate": "2024-09-27T12:17:05.421Z",
+  "effectiveDate": "2023-01-23T00:24:09.344Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8n4xd4s5hmqabwdyavtt6zndv5k5d5",
+    "name": "SAN 3D Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://www.youtube.com/watch?v&#61;8AlqQOtcnXw\" rel=\"nofollow\"><strong>Unreal project demonstration</strong></a></p><p><br /></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (No)</p><p>Animated: (Yes)</p><p>Number of characters: 1</p><p>Vertex counts of characters:</p><p><br /></p><p>Total: verts 13844, tris 25044</p><p><br /></p><p>UV sets: 1</p><p>Number of Materials: 3 (1 for skeletal mesh and 2 for particle system)</p><p>Number of Material Instances: 3 (1 for skeletal mesh and 2 for particle system)</p><p>Texture Resolutions: from 64 x 64 to 4096 x 4096</p><p>Number of animations: 24</p><p><br /></p><p>Animations:</p><p>1) - Idle</p><p>2) - Battle Idle</p><p>3) - Attack 1</p><p>4) - Attack 2</p><p>5) - Battle roar</p><p>6) - Cast to target</p><p>7) - Cast up</p><p>8) - Get hit 1</p><p>9) - Get hit 2</p><p>10) - Get hit 3</p><p>11) - Cower</p><p>12) - Cast 2</p><p>13) - Cast 3</p><p>14) - Cast up start</p><p>15) - Cast to target start</p><p>16) - Death 1</p><p>17) - Death 2</p><p>18) - Dodge</p><p>19) - Stun</p><p>20) - Block</p><p>21) - Run</p><p>22) - Walk</p><p>23) - Fly</p><p>24) - Fly Idle</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Linux: (Yes)</p><p>Documentation: No link</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fbba3653-b413-4e19-9023-87a831841df3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/71-1920x1080-e773181b2474765e2d673ecb55884315.jpg",
+      "md5": "e773181b2474765e2d673ecb55884315",
+      "size": 529549,
+      "uploadedDate": "2023-01-22T11:31:51.518Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/21-1920x1080-42ef95bb0eb82aab063eb0626278cb1f.jpg",
+      "md5": "42ef95bb0eb82aab063eb0626278cb1f",
+      "size": 636778,
+      "uploadedDate": "2023-01-22T11:31:52.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/81-1920x1080-e41acb5e6eb10722699406767659072a.jpg",
+      "md5": "e41acb5e6eb10722699406767659072a",
+      "size": 524545,
+      "uploadedDate": "2023-01-22T11:31:53.142Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-10f4de062e107f013d5c0d66b8626208.jpg",
+      "md5": "10f4de062e107f013d5c0d66b8626208",
+      "size": 616706,
+      "uploadedDate": "2023-01-22T11:31:53.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/31-1920x1080-dca878b17b0a6d26e4408f3d0f715a0a.jpg",
+      "md5": "dca878b17b0a6d26e4408f3d0f715a0a",
+      "size": 754282,
+      "uploadedDate": "2023-01-22T11:31:54.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/41-1920x1080-a96a2135cdeb719a8b45fae265b381e5.jpg",
+      "md5": "a96a2135cdeb719a8b45fae265b381e5",
+      "size": 636809,
+      "uploadedDate": "2023-01-22T11:31:55.562Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/51-1920x1080-b52b8d82fa0b698d4274461570b3db82.jpg",
+      "md5": "b52b8d82fa0b698d4274461570b3db82",
+      "size": 394621,
+      "uploadedDate": "2023-01-22T11:31:56.294Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/61-1920x1080-6c8cda1515d7ae9e44bad12989107efd.jpg",
+      "md5": "6c8cda1515d7ae9e44bad12989107efd",
+      "size": 515111,
+      "uploadedDate": "2023-01-22T11:31:57.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Iceelemental_thumb-284x284-5b367d6637145e27891e2945e5ccce96.png",
+      "md5": "5b367d6637145e27891e2945e5ccce96",
+      "size": 141499,
+      "uploadedDate": "2023-01-22T11:31:57.651Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Iceelemental_featured-894x488-cc056400898e94f26640457508dd400e.png",
+      "md5": "cc056400898e94f26640457508dd400e",
+      "size": 488318,
+      "uploadedDate": "2023-01-22T11:31:57.811Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/71-1920x1080-e773181b2474765e2d673ecb55884315_Snapshot.jpg",
+      "md5": "8266d53935fe2a57a63e4e1804691449",
+      "size": 5346,
+      "uploadedDate": "2023-01-22T11:31:52.024Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/21-1920x1080-42ef95bb0eb82aab063eb0626278cb1f_Snapshot.jpg",
+      "md5": "49cf01c2eb0385aea9d371b1570e7dfe",
+      "size": 6325,
+      "uploadedDate": "2023-01-22T11:31:52.879Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/81-1920x1080-e41acb5e6eb10722699406767659072a_Snapshot.jpg",
+      "md5": "90e3d58202b690a01c8e35b583cfaed6",
+      "size": 5457,
+      "uploadedDate": "2023-01-22T11:31:53.645Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-10f4de062e107f013d5c0d66b8626208_Snapshot.jpg",
+      "md5": "7adbc211ee9a3ace4b3a287950863d83",
+      "size": 6563,
+      "uploadedDate": "2023-01-22T11:31:54.421Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/31-1920x1080-dca878b17b0a6d26e4408f3d0f715a0a_Snapshot.jpg",
+      "md5": "a527e0f8e2e9e447770d0f6a4e851e76",
+      "size": 6730,
+      "uploadedDate": "2023-01-22T11:31:55.287Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/41-1920x1080-a96a2135cdeb719a8b45fae265b381e5_Snapshot.jpg",
+      "md5": "2e1d5a75aafc3e78be45f67e4c863266",
+      "size": 5385,
+      "uploadedDate": "2023-01-22T11:31:56.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/51-1920x1080-b52b8d82fa0b698d4274461570b3db82_Snapshot.jpg",
+      "md5": "c2a402659fd393fb36d18e3147e853c7",
+      "size": 4921,
+      "uploadedDate": "2023-01-22T11:31:56.778Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/61-1920x1080-6c8cda1515d7ae9e44bad12989107efd_Snapshot.jpg",
+      "md5": "34da41596efd92bc6b036eee24121df2",
+      "size": 6294,
+      "uploadedDate": "2023-01-22T11:31:57.541Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e01ab7c3e9fc488d85ea2ccc26246298"
+    }
+  ],
+  "catalogNs": null
+}

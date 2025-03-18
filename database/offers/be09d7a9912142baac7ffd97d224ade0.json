@@ -1,0 +1,359 @@
+{
+  "id": "be09d7a9912142baac7ffd97d224ade0",
+  "namespace": "ue",
+  "title": "Ultimate Top Down Shooter kit",
+  "description": "A comprehensive package for creating top-down shooter games in Unreal.",
+  "longDescription": "<p>Looking for a quick and easy way to create a top down shooter? Look no further! This asset is for you. </p><p><br /></p><p><br /></p><h1><a href=\"https://www.mediafire.com/file_premium/8px038y2enr9f3p/TopDownShooter_Demo.rar/file\" rel=\"nofollow\">PLAYABLE DEMO</a></h1><p><br /></p><h1><a href=\"https://www.youtube.com/watch?v&#61;BFyTfYe_BdE&amp;ab_channel&#61;WildFox\" rel=\"nofollow\"><strong>DEMO VIDEO</strong></a></h1><p>This asset includes a player model and several examples of easily customizable enemies. You will also find different systems that will be useful to bring diversity such as:</p><p>-Puzzles.</p><p>-Doors that can be opened with a key.</p><p>-A store to buy improvements.</p><p>-Different Power Up.</p><p>-Skills.</p><p>-A loot system.</p><p>-Complete fight System.</p><p><br /></p><p>And thanks to its inspired damage system based on different type of damage (example : ice and fire damage. which can be disabled), your game will stand out for its dynamic and engaging gameplay.</p><p><br /></p><p>The projectiles being generated via niagara it is possible to have more than 100 000 projectiles on the screen without losing performance.</p><p><br /></p><p>Make the difference with this asset and create your Top Down Shooter easily.</p><p><br /></p><p>-The documentation can be found in the asset files.</p><p>-If you have a problem or a question a Discord server is available you can also ask me to add something in a update: <a href=\"https://discord.gg/HUuBFmDJgR\" rel=\"nofollow\">Here</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ultimate-top-down-shooter-kit",
+  "creationDate": "2023-01-11T11:43:02.306Z",
+  "lastModifiedDate": "2024-09-26T15:41:07.402Z",
+  "effectiveDate": "2023-01-11T11:43:02.243Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pfk5488r76mzp936w22nmr43pb9ygy",
+    "name": "WildFoxInt"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Player.</li><li> Ennemy.</li><li>Puzzles.</li><li>Doors that can be opened with a key.</li><li>A store to buy improvements.</li><li>Different Power Up.</li><li>Skills.</li><li>A loot system.</li><li>Complete fight System.</li></ul><p><br /></p><p>Number of Blueprints: 32</p><p>Input: Mouse/Keyboard.</p><p>The player will look the mouse while WASD are used to move around.</p><p>Right mouse button will shoot with a weapon and left mouse button will shoot with the other weapon.</p><p>Q is used to shoot the ultimate and E is used to spawn the shield.</p><p>Network Replicated: No</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: The Documentation is inside the file (use windows to find it)</p><p>This product supports Lumen for Unreal Engine 5.0&#43;</p><p><a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/\" rel=\"nofollow\">Instructions to enable lumen in your project</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "56250406-ac07-46b8-8dbf-1616f8ddb5c5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Main-1920x1080-35d09a7b4767dc5990dda8ffbd712abd.png",
+      "md5": "35d09a7b4767dc5990dda8ffbd712abd",
+      "size": 1975099,
+      "uploadedDate": "2023-01-07T19:46:21.571Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Skill-1920x1080-87527c6787a88ec26d6fd89eb626b376.png",
+      "md5": "87527c6787a88ec26d6fd89eb626b376",
+      "size": 1397271,
+      "uploadedDate": "2023-01-07T19:46:22.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/powerup and drop-1920x1080-a7bf68fb45b24804ec99e0e1d0752643.png",
+      "md5": "a7bf68fb45b24804ec99e0e1d0752643",
+      "size": 1129305,
+      "uploadedDate": "2023-01-07T19:46:23.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Interactable-1920x1080-0d101155a47f75a7d64f41d74734489a.png",
+      "md5": "0d101155a47f75a7d64f41d74734489a",
+      "size": 930956,
+      "uploadedDate": "2023-01-07T19:46:23.848Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/puzzle-1920x1080-d0e0899448118771e4449bc44d0c9878.png",
+      "md5": "d0e0899448118771e4449bc44d0c9878",
+      "size": 1083146,
+      "uploadedDate": "2023-01-07T19:46:24.314Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shopsys-1920x1080-7e451211a83d28fbf64293237a1e5f32.png",
+      "md5": "7e451211a83d28fbf64293237a1e5f32",
+      "size": 772604,
+      "uploadedDate": "2023-01-07T19:46:24.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fight-1920x1080-dfafb817e8dac67e6d204d1610c5f852.png",
+      "md5": "dfafb817e8dac67e6d204d1610c5f852",
+      "size": 1603830,
+      "uploadedDate": "2023-01-10T16:41:17.839Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UltimateTopDownShooterkit_thumb-284x284-1bcb2babbbe3841a89a7f8eea8a96bfe.png",
+      "md5": "1bcb2babbbe3841a89a7f8eea8a96bfe",
+      "size": 136881,
+      "uploadedDate": "2023-01-07T19:46:25.207Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UltimateTopDownShooterkit_featured-894x488-99212b86901e22520b8dba2625ddfb43.png",
+      "md5": "99212b86901e22520b8dba2625ddfb43",
+      "size": 650663,
+      "uploadedDate": "2023-01-07T19:46:25.355Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fight-1920x1080-dfafb817e8dac67e6d204d1610c5f852_Snapshot.png",
+      "md5": "1cfcc12da7fc103f416e260aafea13ce",
+      "size": 8473,
+      "uploadedDate": "2023-01-10T16:41:18.292Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Main-1920x1080-35d09a7b4767dc5990dda8ffbd712abd_Snapshot.png",
+      "md5": "c6f98f545b33d97eebb3dd212c986e10",
+      "size": 9945,
+      "uploadedDate": "2023-01-07T19:46:21.970Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/inspiration-1920x1080-fdfe459002017200934c09a168f19dc9_Snapshot.png",
+      "md5": "0dd91fc3410c06135ad1b6472dcef14e",
+      "size": 8716,
+      "uploadedDate": "2023-01-07T19:46:22.567Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Skill-1920x1080-87527c6787a88ec26d6fd89eb626b376_Snapshot.png",
+      "md5": "282f75cb2c880069faa120efc99b6923",
+      "size": 8007,
+      "uploadedDate": "2023-01-07T19:46:23.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/powerup and drop-1920x1080-a7bf68fb45b24804ec99e0e1d0752643_Snapshot.png",
+      "md5": "2d8f25ab5d5fa5679459103c9c40fe2f",
+      "size": 8461,
+      "uploadedDate": "2023-01-07T19:46:23.669Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Interactable-1920x1080-0d101155a47f75a7d64f41d74734489a_Snapshot.png",
+      "md5": "8ecabaecbc180e25f8b4ff62a35010b6",
+      "size": 8223,
+      "uploadedDate": "2023-01-07T19:46:24.143Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/puzzle-1920x1080-d0e0899448118771e4449bc44d0c9878_Snapshot.png",
+      "md5": "d952454762a31beeffd5645da6cd3230",
+      "size": 8630,
+      "uploadedDate": "2023-01-07T19:46:24.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shopsys-1920x1080-7e451211a83d28fbf64293237a1e5f32_Snapshot.png",
+      "md5": "381631ed91f4c3267de8e1477f4de222",
+      "size": 8551,
+      "uploadedDate": "2023-01-07T19:46:25.128Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fa1c37509d7a4cb09010ec1083435b3d"
+    }
+  ],
+  "catalogNs": null
+}

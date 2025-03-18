@@ -1,0 +1,185 @@
+{
+  "id": "ac59b0eead764499892f55af4bd605c4",
+  "namespace": "ue",
+  "title": "Smart Warfare-Drone",
+  "description": "Fully controllable fighter drone for any kind of war game",
+  "longDescription": "<p>Highly optimized customizable and drivable drone ready to use in game. It comes with two types of weapons.</p><p><a href=\"https://www.youtube.com/watch?v&#61;3GpE1vs4b_o\" rel=\"nofollow\">Video Preview</a></p><p><a href=\"https://drive.google.com/file/d/1fXjz9yX1ur0ot5PH-vbt7JAsYnOblDJY/view?usp&#61;sharing\" rel=\"nofollow\">Playable Demo Win 64</a></p><p>Controls-</p><p>Press Right mouse button to switch to gun camera</p><p>Roll mouse wheel to zoom in/out in gun camera mode</p><p>Press left mouse button to shoot</p><p>Press 1 to change weapon</p><p>Movement-</p><p>Press W/A to move forward/backward</p><p>Press A/D to move left/right</p><p>Press Q/E to turn left/right</p><p>Press L Shift/L Ctrl to move up/down</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "smart-warfare-drone",
+  "creationDate": "2021-10-21T14:12:45.689Z",
+  "lastModifiedDate": "2024-09-27T06:52:17.627Z",
+  "effectiveDate": "2021-10-21T14:12:45.651Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bbtpjtjasktu84xevt5e6deukac7hp",
+    "name": "Aurora Heaven"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Fully customizable</li><li> Laser and bomb</li><li> Laser point aiming</li><li> Modularly animated</li><li> Highly optimized</li></ul><p>Number of Unique Meshes:7</p><p>Collision: automatically generated</p><p>Vertex Count: 6429</p><p>Triangles Count: 12152</p><p>LODs: No</p><p>Number of Materials and Material Instances: 5 Materials and 3 Material Instances</p><p>Number of Textures: 12</p><p>Texture Resolutions: 7 (4096x4096), 3 (2048x2048), 1 (1024x1024) and 1 (512x512)</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "896633b9-2b33-4c85-8dc2-c07467b51594"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/item/ue/SmartWarfareDrone_featured-894x488-11ca822d943e56fe03d2a2f133fccaa8_894x488-694617952280f8d533fc211a12c0f174",
+      "md5": "694617952280f8d533fc211a12c0f174",
+      "size": 184634,
+      "uploadedDate": "2024-09-20T16:48:01.019Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Laserdotaimingsystem-1920x1080-626224cb30bda9016f08411b6e5440d5_1920x1080-40b26828488e7502f4467bcac8cee2af",
+      "md5": "40b26828488e7502f4467bcac8cee2af",
+      "size": 216302,
+      "uploadedDate": "2024-09-20T16:48:15.436Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/item/ue/Twotypesofweapon-1920x1080-79041dc69b888d9af42a4363dd23558d_1920x1080-f79e6d1e450dc5dcb4060303e83f2b4a",
+      "md5": "f79e6d1e450dc5dcb4060303e83f2b4a",
+      "size": 557754,
+      "uploadedDate": "2024-09-20T16:48:21.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Two types of weapon-1920x1080-79041dc69b888d9af42a4363dd23558d_Snapshot.png",
+      "md5": "aa7a26b92f371e96d42d3ae86b1d7bc7",
+      "size": 4808,
+      "uploadedDate": "2021-10-21T13:38:52.434Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Laser dot aiming system-1920x1080-626224cb30bda9016f08411b6e5440d5_Snapshot.png",
+      "md5": "7e97a30ee48270f4a8927dd2b2ccc35b",
+      "size": 4835,
+      "uploadedDate": "2021-10-21T13:36:24.595Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 296-1920x1080-b1b7932ffa0da534d7e26ff0c80c267a_Snapshot.png",
+      "md5": "9f882ae2db564c8bedcbd845b1fe3bc0",
+      "size": 2906,
+      "uploadedDate": "2021-10-14T15:53:52.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SmartWarfareDrone_thumb-284x284-0fa4d591f9ca0181aa4d87197ba0ef72.png",
+      "md5": "0fa4d591f9ca0181aa4d87197ba0ef72",
+      "size": 107709,
+      "uploadedDate": "2021-10-21T13:36:24.696Z",
+      "width": 284,
+      "height": 284
+    }
+  ],
+  "items": [
+    {
+      "id": "7d21c82d83ac41c7bcb8d2a647056017"
+    }
+  ],
+  "catalogNs": null
+}

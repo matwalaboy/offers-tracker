@@ -1,0 +1,431 @@
+{
+  "id": "fbc3f04ab1ed4284a2492f9df6143fb7",
+  "namespace": "ue",
+  "title": "Isle of Lore 2: Hex Tiles",
+  "description": "Hex tiles, locations, overlays and everything you need to create stunning fantasy maps!",
+  "longDescription": "<p><strong>Isle of Lore 2: Hex Tiles</strong> is fully packed with hex tiles, icons and overlays to create stunning fantasy maps for your video games!</p><p><br /></p><p><strong>Tiles:</strong></p><ul><li>10 tiles per biome, spanning forests, mountains and oceans</li><li>2160 tiles in total: please check the sample images for an overview of the tiles included</li><li>All tiles come in two orientations: flat-bottom and pointy-bottom</li><li>21 path, road and river overlays</li><li>Tiles come without any border around them, but you can overlay the borders included, if you want</li></ul><p><br /></p><p><strong>Elements:</strong></p><ul><li>All elements, like trees, mountains and bushes, are available as single files, with enough instances to ensure variety</li><li>30 location icons, like cities, farms and mines</li><li>60 flairs, for example to indicate the difficulty of a tile with a skull flair</li><li>60 markers, for example to indicate the player&#39;s current camp with a campfire marker</li></ul><p><br /></p><p>The tiles work great in combination with my other Isle of Lore 2 asset packs:</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/slug/ee898e7cf50c4a519a582605153c3555\" rel=\"nofollow\">Isle of Lore 2: Strategy Figures</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/7c81e88ef9e641459952176f98161f1f\" rel=\"nofollow\">Isle of Lore 2: RPG Item Icons</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/60f710100e084ffe8446af0a16f1f82f\" rel=\"nofollow\">Isle of Lore 2: Status Icons</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/1f39bced94804409b689f5800d6016db\" rel=\"nofollow\">Isle of Lore 2: Terrain Icons</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "isle-of-lore-2-hex-tiles-regular",
+  "creationDate": "2019-12-17T18:15:25.045Z",
+  "lastModifiedDate": "2024-09-26T17:24:54.049Z",
+  "effectiveDate": "2019-12-17T18:15:25.004Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2xmz2s9rsdw9qpkebk5ed5aepykhhd",
+    "name": "Steven Colling"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Tiles:</strong></p><ul><li>Tiles come as png exports and as a data file which can be re-exported together with my free tool Tile Builder (by Steven Colling)</li><li>2616 Tile Textures (including overlays) at 840x840 px (a flat-bottom tile with border is 795x688 px)</li><li>3x Border Textures (Flat Tile) at 795x688 px</li><li>3x Border Textures (Pointy Tile) at 688x795 px</li><li>8x Ground Textures (Flat Tile) at 725x628 px</li><li>8x Ground Textures (Pointy Tile) at 628x725 px</li></ul><p><br /></p><p><strong>Elements:</strong></p><ul><li>2622x Element Textures at 1008x416 px (waves, hills), 1296x1456 px (mountains), 800x500 px (locations) and 336x416 px (all other elements)</li><li>Krita (.kra) and Photoshop (.psd) source files with colors separated by layer</li><li>Compatible with my image batch editing tool Color Mapper (by Steven Colling)</li><li>Documentation included</li></ul><p><br /></p><p><strong>Total: 5260 Textures</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1106",
+      "name": "TOP-DOWN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:11.205Z",
+      "updated": "2019-06-20T11:59:11.205Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "27239940-0e4c-4dde-b8bd-b57fb354791f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot0-1920x1080-aa981b40150a115ffd80697394458d9d.png",
+      "md5": "aa981b40150a115ffd80697394458d9d",
+      "size": 826892,
+      "uploadedDate": "2024-01-17T11:46:41.353Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot1-1920x1080-41624c587c792c049e0a07b8b1d5e9e8.png",
+      "md5": "41624c587c792c049e0a07b8b1d5e9e8",
+      "size": 1565409,
+      "uploadedDate": "2024-01-17T11:46:41.896Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot2-1920x1080-d7a8721dc8001fd9bea9db6938594b36.png",
+      "md5": "d7a8721dc8001fd9bea9db6938594b36",
+      "size": 548310,
+      "uploadedDate": "2024-01-17T11:46:42.457Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot3-1920x1080-2f4acb51fe321f5a16403fdc78b34a79.png",
+      "md5": "2f4acb51fe321f5a16403fdc78b34a79",
+      "size": 526458,
+      "uploadedDate": "2024-01-17T11:46:43.010Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot4-1920x1080-6750323c0acdc071bd92b2148ef9cdc9.png",
+      "md5": "6750323c0acdc071bd92b2148ef9cdc9",
+      "size": 316986,
+      "uploadedDate": "2024-01-17T11:46:43.427Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot5-1920x1080-72a8493d9c663306933d1f9b80c8ad18.png",
+      "md5": "72a8493d9c663306933d1f9b80c8ad18",
+      "size": 462977,
+      "uploadedDate": "2024-01-17T11:46:43.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot6-1920x1080-a25fe6fcdf2ec5fb0f9982a1e128af72.png",
+      "md5": "a25fe6fcdf2ec5fb0f9982a1e128af72",
+      "size": 480890,
+      "uploadedDate": "2024-01-17T11:46:44.304Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot7-1920x1080-b9daaaf7141a56f490c38be79b68ba4c.png",
+      "md5": "b9daaaf7141a56f490c38be79b68ba4c",
+      "size": 318574,
+      "uploadedDate": "2024-01-17T11:46:44.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot8-1920x1080-e6e1876f1591d64c31e87bf6f165e20a.png",
+      "md5": "e6e1876f1591d64c31e87bf6f165e20a",
+      "size": 178871,
+      "uploadedDate": "2024-01-17T11:46:45.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot9-1920x1080-2411ab34a638f4dd98ca598a426f0ae9.png",
+      "md5": "2411ab34a638f4dd98ca598a426f0ae9",
+      "size": 287192,
+      "uploadedDate": "2024-01-17T11:46:45.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/IsleofLore2HexTiles_thumb-284x284-ef44a8b6d30efc24d87d8db2d9c1f3c0.png",
+      "md5": "ef44a8b6d30efc24d87d8db2d9c1f3c0",
+      "size": 115696,
+      "uploadedDate": "2024-01-17T11:46:46.097Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/IsleofLore2HexTiles_featured-894x488-446f50ad07f57ef1393ea4aa37a64dc9.png",
+      "md5": "446f50ad07f57ef1393ea4aa37a64dc9",
+      "size": 513088,
+      "uploadedDate": "2024-01-17T11:46:46.305Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot0-1920x1080-aa981b40150a115ffd80697394458d9d_Snapshot.png",
+      "md5": "cba59600a95a9387b4e6ade0ae3096ca",
+      "size": 4348,
+      "uploadedDate": "2024-01-17T11:46:41.682Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot1-1920x1080-41624c587c792c049e0a07b8b1d5e9e8_Snapshot.png",
+      "md5": "c0ceb182257a1922ac66c4ea35d008af",
+      "size": 9812,
+      "uploadedDate": "2024-01-17T11:46:42.348Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot2-1920x1080-d7a8721dc8001fd9bea9db6938594b36_Snapshot.png",
+      "md5": "e28feab8aa30e83d8efdd52096ca5c1f",
+      "size": 4167,
+      "uploadedDate": "2024-01-17T11:46:42.766Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot3-1920x1080-2f4acb51fe321f5a16403fdc78b34a79_Snapshot.png",
+      "md5": "2ca6ed167c3df58e91e97faf7a7cfc60",
+      "size": 4541,
+      "uploadedDate": "2024-01-17T11:46:43.299Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot4-1920x1080-6750323c0acdc071bd92b2148ef9cdc9_Snapshot.png",
+      "md5": "a8583060213cff2139086f5786eeefd8",
+      "size": 3190,
+      "uploadedDate": "2024-01-17T11:46:43.704Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot5-1920x1080-72a8493d9c663306933d1f9b80c8ad18_Snapshot.png",
+      "md5": "ccd3ea5d408e0ecc3d038b0211ea550f",
+      "size": 4120,
+      "uploadedDate": "2024-01-17T11:46:44.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot6-1920x1080-a25fe6fcdf2ec5fb0f9982a1e128af72_Snapshot.png",
+      "md5": "2157da2922161bebf38237aaa23d9ab2",
+      "size": 4091,
+      "uploadedDate": "2024-01-17T11:46:44.584Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot7-1920x1080-b9daaaf7141a56f490c38be79b68ba4c_Snapshot.png",
+      "md5": "d391d80a3788ad5a415692db531d641d",
+      "size": 2812,
+      "uploadedDate": "2024-01-17T11:46:45.007Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot8-1920x1080-e6e1876f1591d64c31e87bf6f165e20a_Snapshot.png",
+      "md5": "12c885041759e46c35b9de7b82ce9f49",
+      "size": 2846,
+      "uploadedDate": "2024-01-17T11:46:45.592Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot9-1920x1080-2411ab34a638f4dd98ca598a426f0ae9_Snapshot.png",
+      "md5": "f5054364b24f5287583853f38a8cc9ba",
+      "size": 4316,
+      "uploadedDate": "2024-01-17T11:46:45.995Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery0-1920x1080-e7c79771999980d1b261a4a5ed3f26c7_Snapshot.png",
+      "md5": "e726c455c12891e4a6f2361505765822",
+      "size": 3733,
+      "uploadedDate": "2019-12-04T21:35:54.522Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-5a6e9ae34b545fad5d38d8a25bbab003_Snapshot.png",
+      "md5": "0b7c0b6e2e817996674f17417988818a",
+      "size": 6999,
+      "uploadedDate": "2019-12-04T21:35:55.030Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-923a0282d8a0e26cf37ce4a9df099a4d_Snapshot.png",
+      "md5": "d0299da88e371817a5efb090d9f28aa4",
+      "size": 2371,
+      "uploadedDate": "2019-12-04T21:35:55.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery3-1920x1080-37da906ab930583100a0f1a19856c9f8_Snapshot.png",
+      "md5": "e775990d22a2006eb4ba4a46f5d2230b",
+      "size": 3131,
+      "uploadedDate": "2019-12-04T21:35:55.880Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery4-1920x1080-b78855be5b6b3e6a598c785f4c3cd38f_Snapshot.png",
+      "md5": "ed5fc6842452b982395a8449ef216496",
+      "size": 4442,
+      "uploadedDate": "2019-12-04T21:35:56.364Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery5-1920x1080-1aa2010bf4c10f02e3a5dcf5e1f5b2cb_Snapshot.png",
+      "md5": "60c297d7679465f7141f5cb0c0d5fc1b",
+      "size": 4348,
+      "uploadedDate": "2019-12-04T21:35:56.903Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery6-1920x1080-5882f7ac5cd47cf46c123214909f87ae_Snapshot.png",
+      "md5": "58051587437603394e068c020295bafc",
+      "size": 4008,
+      "uploadedDate": "2019-12-04T21:35:57.388Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b7c691e003bf4b98ae16d7b17d5ca998"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,326 @@
+{
+  "id": "d79b346bf94c446982935b6f51a48a80",
+  "namespace": "ue",
+  "title": "\"terrain materials\" pack of 21 materials",
+  "description": "\"terrain materials\" pack of 21 materials",
+  "longDescription": "<p>The package consists of 21 Materials. Materials have a Texture map (Base Color, Normal, Roughness, Height, and Ambient Occlusion). Resolution 2048x2048.</p><blockquote><strong>Video: </strong><a href=\"https://youtu.be/v0wBZTC0lYs\" rel=\"nofollow\">https://youtu.be/v0wBZTC0lYs</a></blockquote><blockquote><strong>Please</strong>, if you have any questions, write to me on the mail <strong>aleksandrbnet&#64;gmail.com</strong></blockquote><p><strong>P.S. </strong>this package does not contain landscape material, if you need landscape material write about it in the comments and I will update the package and add landscape material. Also write what materials to add to the package update. <strong>Thank you!</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "terrain-materials-pack-of-21-materials",
+  "creationDate": "2018-08-06T17:20:59.072Z",
+  "lastModifiedDate": "2024-09-30T18:54:55.778Z",
+  "effectiveDate": "2018-08-06T17:20:59.023Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-w37eww82mwxzzp6yl6ns98hkshz93p",
+    "name": "AleksandrIvanov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><p>The package consists of 21 Materials. Materials have a Texture map (Base Color, Normal, Roughness, Height, and Ambient Occlusion). Resolution 2048x2048.</p><p><strong>Materials:</strong></p><ul><li>Parallax material.</li><li>Displacement material (Distance Based tessellation).</li><li>3-Way Blend Materials (Displacement (Distance Based tessellation) ) (vertex painting).</li></ul><p><strong>Texture Resolutions:</strong> 2048x2048</p><p><strong>Number of Materials:</strong> 21</p><p><strong>Do Materials derive from a Master Material with instances as variation:</strong> Yes</p><p><strong>Number of Textures:</strong> 105</p><p>Materials have a Texture map (Base Color, Normal, Roughness, Height, and Ambient Occlusion)</p><p><strong>Supported Development Platforms:</strong> Windows, PS4, Xbox One</p><p><strong>Supported Target Build Platforms:</strong> 4.20/4.21</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c2ff4a26-f7de-4e78-a030-5c5dc0ac6aa8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-577d40a579bef5fa038106a57579bf4e.jpg",
+      "md5": "577d40a579bef5fa038106a57579bf4e",
+      "size": 1985451,
+      "uploadedDate": "2018-07-21T13:02:57.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-181ab73dc01d89a3f2d5797f824586a8.jpg",
+      "md5": "181ab73dc01d89a3f2d5797f824586a8",
+      "size": 1796752,
+      "uploadedDate": "2018-07-21T13:02:57.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-7a37f3d9df954d7005a87754c3120455.jpg",
+      "md5": "7a37f3d9df954d7005a87754c3120455",
+      "size": 1780979,
+      "uploadedDate": "2018-07-21T13:02:58.709Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-1e9526c51305e7e54bc9ee869c933c8b.jpg",
+      "md5": "1e9526c51305e7e54bc9ee869c933c8b",
+      "size": 1755145,
+      "uploadedDate": "2018-07-21T13:02:59.478Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-cd1c45c76264d95e3e0dd0076ff8637a.jpg",
+      "md5": "cd1c45c76264d95e3e0dd0076ff8637a",
+      "size": 1860493,
+      "uploadedDate": "2018-07-21T13:03:00.239Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-ec08001f1cb9afd54059dc621db5dc03.jpg",
+      "md5": "ec08001f1cb9afd54059dc621db5dc03",
+      "size": 1736406,
+      "uploadedDate": "2018-07-21T13:03:00.983Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-80bb3499a04228ebde55d2a84b8e4388.jpg",
+      "md5": "80bb3499a04228ebde55d2a84b8e4388",
+      "size": 1716198,
+      "uploadedDate": "2018-07-21T13:03:01.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-2d85ba9a27c2637b8f1cbba92d67822a.jpg",
+      "md5": "2d85ba9a27c2637b8f1cbba92d67822a",
+      "size": 1868010,
+      "uploadedDate": "2018-07-21T13:03:02.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-a553189478b1a1e3cfef60f6da42cf3f.jpg",
+      "md5": "a553189478b1a1e3cfef60f6da42cf3f",
+      "size": 1896005,
+      "uploadedDate": "2018-07-21T13:03:03.319Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-9dc57273c1341f7854c4f80cd64eb16e.jpg",
+      "md5": "9dc57273c1341f7854c4f80cd64eb16e",
+      "size": 1689214,
+      "uploadedDate": "2018-07-21T13:03:04.101Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-12546fabcfcc98ee07b62cb01eaa3520.jpg",
+      "md5": "12546fabcfcc98ee07b62cb01eaa3520",
+      "size": 1488411,
+      "uploadedDate": "2018-07-21T13:03:05.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-ed6c23105f850b53eef3eef5f8b9d4f8.jpg",
+      "md5": "ed6c23105f850b53eef3eef5f8b9d4f8",
+      "size": 1080650,
+      "uploadedDate": "2018-07-21T13:03:05.955Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/13-1920x1080-50c823331771d81654ce829c0cdae3e5.jpg",
+      "md5": "50c823331771d81654ce829c0cdae3e5",
+      "size": 1076273,
+      "uploadedDate": "2018-07-21T13:03:06.776Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/terrainmaterialspackof21materials_thumb-284x284-e7c161e43adbd50e83628e1eeda2e758.png",
+      "md5": "e7c161e43adbd50e83628e1eeda2e758",
+      "size": 206194,
+      "uploadedDate": "2018-07-21T13:03:07.320Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/terrainmaterialspackof21materials_featured-894x488-07a7a13967d8b019fdc069b93148156b.png",
+      "md5": "07a7a13967d8b019fdc069b93148156b",
+      "size": 761214,
+      "uploadedDate": "2018-07-21T13:03:07.432Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-577d40a579bef5fa038106a57579bf4e_Snapshot.jpg",
+      "md5": "1ad470834d78fcdc1ea339bc3e435023",
+      "size": 3784,
+      "uploadedDate": "2018-07-21T13:02:57.630Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-181ab73dc01d89a3f2d5797f824586a8_Snapshot.jpg",
+      "md5": "430fdaca7dfa580984b341403c9a7023",
+      "size": 3728,
+      "uploadedDate": "2018-07-21T13:02:58.428Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-7a37f3d9df954d7005a87754c3120455_Snapshot.jpg",
+      "md5": "8b4ac4204d1f86f1c69901b5059b0425",
+      "size": 3879,
+      "uploadedDate": "2018-07-21T13:02:59.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-1e9526c51305e7e54bc9ee869c933c8b_Snapshot.jpg",
+      "md5": "e20adbfb20c60aa83bb254a5c8cfc829",
+      "size": 4046,
+      "uploadedDate": "2018-07-21T13:02:59.948Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-cd1c45c76264d95e3e0dd0076ff8637a_Snapshot.jpg",
+      "md5": "942820143f911a9801a97fd07548fad0",
+      "size": 3844,
+      "uploadedDate": "2018-07-21T13:03:00.718Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-ec08001f1cb9afd54059dc621db5dc03_Snapshot.jpg",
+      "md5": "3b183f182dc476b74a64ebbd6472ebdd",
+      "size": 3864,
+      "uploadedDate": "2018-07-21T13:03:01.478Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-80bb3499a04228ebde55d2a84b8e4388_Snapshot.jpg",
+      "md5": "e6ba9ecbdfe0ec42ce36f4717118367c",
+      "size": 4101,
+      "uploadedDate": "2018-07-21T13:03:02.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-2d85ba9a27c2637b8f1cbba92d67822a_Snapshot.jpg",
+      "md5": "242ac71999f2e2a7bf1dd44151dbc27c",
+      "size": 4106,
+      "uploadedDate": "2018-07-21T13:03:03.016Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-a553189478b1a1e3cfef60f6da42cf3f_Snapshot.jpg",
+      "md5": "a72885a071cce6afcaba3a694fc620fc",
+      "size": 3929,
+      "uploadedDate": "2018-07-21T13:03:03.802Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-9dc57273c1341f7854c4f80cd64eb16e_Snapshot.jpg",
+      "md5": "065df5078c21b105788f82c56a5e522b",
+      "size": 4184,
+      "uploadedDate": "2018-07-21T13:03:04.585Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-12546fabcfcc98ee07b62cb01eaa3520_Snapshot.jpg",
+      "md5": "e57e70be298efd0adea17804f76b3598",
+      "size": 3938,
+      "uploadedDate": "2018-07-21T13:03:05.699Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-ed6c23105f850b53eef3eef5f8b9d4f8_Snapshot.jpg",
+      "md5": "b7c4ad05b5bf28794efcb258524aefef",
+      "size": 3299,
+      "uploadedDate": "2018-07-21T13:03:06.381Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/13-1920x1080-50c823331771d81654ce829c0cdae3e5_Snapshot.jpg",
+      "md5": "cf6809ce64e6eb65b8909a6b8bf4b287",
+      "size": 3102,
+      "uploadedDate": "2018-07-21T13:03:07.208Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "481e07a984cb417ba60b4a863188ef63"
+    }
+  ],
+  "catalogNs": null
+}

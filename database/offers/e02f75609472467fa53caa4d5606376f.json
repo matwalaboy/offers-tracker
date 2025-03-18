@@ -1,0 +1,254 @@
+{
+  "id": "e02f75609472467fa53caa4d5606376f",
+  "namespace": "ue",
+  "title": "52 Card Decks",
+  "description": "2 Game ready 52 Cards Decks",
+  "longDescription": "<p>2 Card decks in 2 color and 4 color variations and 4 back faces.</p><p>Game ready in 2 resolutions.</p><p>Good idea for our next release? Drop it in our support forums. We thank our customers for there endless support and patience.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "52-card-decks",
+  "creationDate": "2023-08-23T14:42:43.651Z",
+  "lastModifiedDate": "2024-09-27T00:16:37.260Z",
+  "effectiveDate": "2023-08-23T14:42:43.586Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tqrz3nrlsa7q3742pfd84sxa38u7lq",
+    "name": "More Than Just A Game"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>A pack of 4 card decks, available in 2 different resolutions in addition to 8 different stylish back faces</p><p> </p><p>Number of Textures: 432</p><p><br /></p><p>Texture Resolutions: </p><p>216 242x348 textures</p><p>216 242x1044 textures </p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Mobile: Yes</p><p>Support:</p><p>Please leave a review to check ownership and create a <a href=\"https://morethanjustagame.be/submit-ticket/\" rel=\"nofollow\">ticket with your username here</a></p><p><br /></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/More&#43;Than&#43;Just&#43;A&#43;Game?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Check out our card game products</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "57e8bc76-6f19-4b5e-bf09-e912eba4c88f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Tekengebied 123-1920x1080-4e556483e6c2e2e543ad4a49e4d7ea6c.png",
+      "md5": "4e556483e6c2e2e543ad4a49e4d7ea6c",
+      "size": 346686,
+      "uploadedDate": "2023-08-18T23:05:53.904Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Tekengebied 120-1920x1080-6adf660c5f592c44b82d81c0ae904028.png",
+      "md5": "6adf660c5f592c44b82d81c0ae904028",
+      "size": 214455,
+      "uploadedDate": "2023-08-18T23:05:54.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Tekengebied 121-1920x1080-96b02eaf7090b60373bdfce64156abdd.png",
+      "md5": "96b02eaf7090b60373bdfce64156abdd",
+      "size": 251776,
+      "uploadedDate": "2023-08-18T23:05:54.706Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/52CardDecks_thumb-284x284-e1753351b9906e589e2f80317ef9982b.png",
+      "md5": "e1753351b9906e589e2f80317ef9982b",
+      "size": 26379,
+      "uploadedDate": "2023-08-18T23:05:55.028Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/52CardDecks_featured-894x488-9765db17511f2ae15f1fe8dfec2b2af1.png",
+      "md5": "9765db17511f2ae15f1fe8dfec2b2af1",
+      "size": 121532,
+      "uploadedDate": "2023-08-18T23:05:55.104Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tekengebied 123-1920x1080-4e556483e6c2e2e543ad4a49e4d7ea6c_Snapshot.png",
+      "md5": "06d78fdd686fbc733edd52ff2a2ad0b4",
+      "size": 8519,
+      "uploadedDate": "2023-08-18T23:05:54.171Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tekengebied 120-1920x1080-6adf660c5f592c44b82d81c0ae904028_Snapshot.png",
+      "md5": "c1a55576ed29859deb2216e271468b0f",
+      "size": 11352,
+      "uploadedDate": "2023-08-18T23:05:54.590Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tekengebied 121-1920x1080-96b02eaf7090b60373bdfce64156abdd_Snapshot.png",
+      "md5": "a2a509c1c174dedb02fca001f7994fb2",
+      "size": 10382,
+      "uploadedDate": "2023-08-18T23:05:54.968Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4fafadcd5b664a22bbe57bc8aaf02dbb"
+    }
+  ],
+  "catalogNs": null
+}

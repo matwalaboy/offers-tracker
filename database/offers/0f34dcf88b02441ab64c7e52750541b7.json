@@ -1,0 +1,296 @@
+{
+  "id": "0f34dcf88b02441ab64c7e52750541b7",
+  "namespace": "ue",
+  "title": "Wood Material V2",
+  "description": "Wood Material V2",
+  "longDescription": "<p><strong>Welcome to the Wanderlust Team</strong>.</p><p><br /></p><ul><li>I would be very grateful if you rate the products you purchased with stars. I would like to correct my mistakes and produce better products. Your feedback is very valuable to me.</li><li>4K resolution</li><li>8 Material</li><li>Quality suitable for game, movie</li><li>Tileable Texture<strong> </strong></li><li>Game-ready materials with optimisation</li><li>Quality suitable for game, movie</li></ul><p><br /></p><p><strong>Our other projects:</strong></p><p>Wood Material Pack : <a href=\"https://www.unrealengine.com/marketplace/en-US/product/dd5524f285db4369958d6315e0004197\" rel=\"nofollow\">https://www.unrealengine.com/marketplace/en-US/product/dd5524f285db4369958d6315e0004197</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wood-material-v2",
+  "creationDate": "2023-07-14T16:14:19.755Z",
+  "lastModifiedDate": "2024-09-30T08:21:13.606Z",
+  "effectiveDate": "2023-07-14T16:14:19.707Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5nmf2b8scqy43bruzlvn4t9sdn8huz",
+    "name": "Wanderlust"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Unique Materials and Material Instances:8</p><p>Number of Textures:40</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Important/Additional Notes:No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "be118b24-e5e3-4241-af23-2a3b7d91abe1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0000-1920x1080-d1d41bd4732215efaf1e92655e0e3ced.jpeg",
+      "md5": "d1d41bd4732215efaf1e92655e0e3ced",
+      "size": 1494026,
+      "uploadedDate": "2023-07-14T07:26:10.082Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0006-1920x1080-13d82bc1f79383c1f83fef85427a04b3.jpeg",
+      "md5": "13d82bc1f79383c1f83fef85427a04b3",
+      "size": 2239586,
+      "uploadedDate": "2023-07-14T07:26:10.539Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0005-1920x1080-cd2762e1850401b9c4a5201108a03ef0.jpeg",
+      "md5": "cd2762e1850401b9c4a5201108a03ef0",
+      "size": 1323656,
+      "uploadedDate": "2023-07-14T07:26:11.050Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0001-1920x1080-be777966ff8676a6ac4e257826c34182.jpeg",
+      "md5": "be777966ff8676a6ac4e257826c34182",
+      "size": 1578251,
+      "uploadedDate": "2023-07-14T07:26:11.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0002-1920x1080-75dfc22efe3f061b4e3c140e3c92144e.jpeg",
+      "md5": "75dfc22efe3f061b4e3c140e3c92144e",
+      "size": 1001429,
+      "uploadedDate": "2023-07-14T07:26:12.044Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0003-1920x1080-bd6d7cff03050951b688e2bd45d1e4f2.jpeg",
+      "md5": "bd6d7cff03050951b688e2bd45d1e4f2",
+      "size": 1465370,
+      "uploadedDate": "2023-07-14T07:26:12.471Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0004-1920x1080-a68133e42edb1c8e9eb3fdc413ae7252.jpeg",
+      "md5": "a68133e42edb1c8e9eb3fdc413ae7252",
+      "size": 1801344,
+      "uploadedDate": "2023-07-14T07:26:12.941Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SequenceMaster.0007-1920x1080-d50847385a5cf8cb618a48e5ad4a76cb.jpeg",
+      "md5": "d50847385a5cf8cb618a48e5ad4a76cb",
+      "size": 1771684,
+      "uploadedDate": "2023-07-14T07:26:13.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WoodMaterialV2_thumb-284x284-2aa4f32210858d247356ee455e110052.png",
+      "md5": "2aa4f32210858d247356ee455e110052",
+      "size": 194010,
+      "uploadedDate": "2023-07-14T07:26:13.937Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WoodMaterialV2_featured-894x488-98837cf35193195a749dfa7f78cdd032.png",
+      "md5": "98837cf35193195a749dfa7f78cdd032",
+      "size": 760435,
+      "uploadedDate": "2023-07-14T07:26:14.072Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0000-1920x1080-d1d41bd4732215efaf1e92655e0e3ced_Snapshot.jpeg",
+      "md5": "1db4fe2885f9e984724a3e365b71df15",
+      "size": 6025,
+      "uploadedDate": "2023-07-14T07:26:10.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0006-1920x1080-13d82bc1f79383c1f83fef85427a04b3_Snapshot.jpeg",
+      "md5": "a0c6b1759a8fc89f3256eb250091a8c9",
+      "size": 7383,
+      "uploadedDate": "2023-07-14T07:26:10.846Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0005-1920x1080-cd2762e1850401b9c4a5201108a03ef0_Snapshot.jpeg",
+      "md5": "a0ffccbd554f567693da50dd36b178af",
+      "size": 6163,
+      "uploadedDate": "2023-07-14T07:26:11.332Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0001-1920x1080-be777966ff8676a6ac4e257826c34182_Snapshot.jpeg",
+      "md5": "abafb1562f7ce8a1e45fc5a4b54e53d6",
+      "size": 5778,
+      "uploadedDate": "2023-07-14T07:26:11.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0002-1920x1080-75dfc22efe3f061b4e3c140e3c92144e_Snapshot.jpeg",
+      "md5": "f4d3eb5aa0d51a4b0d8897d0bbf0763e",
+      "size": 3891,
+      "uploadedDate": "2023-07-14T07:26:12.313Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0003-1920x1080-bd6d7cff03050951b688e2bd45d1e4f2_Snapshot.jpeg",
+      "md5": "794caa53691036a23223d58a3e63400e",
+      "size": 6181,
+      "uploadedDate": "2023-07-14T07:26:12.768Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0004-1920x1080-a68133e42edb1c8e9eb3fdc413ae7252_Snapshot.jpeg",
+      "md5": "a9738c83e024607cb0c0260d2311ebdb",
+      "size": 7467,
+      "uploadedDate": "2023-07-14T07:26:13.245Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SequenceMaster.0007-1920x1080-d50847385a5cf8cb618a48e5ad4a76cb_Snapshot.jpeg",
+      "md5": "f19b48c993c34d662f1b4ae3f605dc22",
+      "size": 7015,
+      "uploadedDate": "2023-07-14T07:26:13.847Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dfef447c680249f38dec1cf77c47e835"
+    }
+  ],
+  "catalogNs": null
+}

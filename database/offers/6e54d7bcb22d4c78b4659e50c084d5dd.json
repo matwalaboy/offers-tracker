@@ -1,0 +1,308 @@
+{
+  "id": "6e54d7bcb22d4c78b4659e50c084d5dd",
+  "namespace": "ue",
+  "title": "Stylized Fantasy Character Pack",
+  "description": "It is a character assets pack for a pretty cartoon stylized action RPG.",
+  "longDescription": "<p><strong>Video Preview </strong>:</p><p><a href=\"https://youtu.be/YfDrhDuI-3o\" rel=\"nofollow\">Swordman</a></p><p><a href=\"https://youtu.be/keQXGGZMFsE\" rel=\"nofollow\">Wizard</a></p><p><a href=\"https://youtu.be/nG7-VOrrVNc\" rel=\"nofollow\">Thief</a></p><p><a href=\"https://youtu.be/OWgiyHo-Nyw\" rel=\"nofollow\">Priest</a></p><p><a href=\"https://youtu.be/TbeWgxUrmD8\" rel=\"nofollow\">Knight</a></p><p>--------------------------------------------------------------------------------------</p><p>This Asset is our series of characters all in one pack for use in your fantasy RPG.</p><p><br /></p><p>Jobs or classes included in the pack: Swordman, Wizard, Thief, Priest, and Knight.</p><p>We designed a male and female character on each job or class.</p><p>We created them with the concept of being a party member rather than a protagonist. All characters included melee or weapon props which are designed for minimal combat and magic actions.</p><p>Character and Animation Blueprints are set for all characters.</p><p><br /></p><p>In addition, five types of hairstyles for male and female were also prepared.</p><p>A stylized background asset is also included as a bonus.</p><p>Let&#96;s use this characters set to form a party with the protagonist character you designed.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-fantasy-character-pack",
+  "creationDate": "2019-12-27T09:16:25.429Z",
+  "lastModifiedDate": "2024-09-30T07:41:04.402Z",
+  "effectiveDate": "2019-12-27T09:16:25.378Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features </strong>:</p><ul><li>Swordman, Wizard, Thief, Priest, Knight character Included!</li><li>100% Blueprint</li><li>Male and Female Version</li><li>All Character Playable!</li><li>Basic animations Included</li><li>Physics supported hair and cloth</li><li>All Mobile ready!!</li></ul><p><br /></p><p><strong>Scaled to Epic skeleton</strong> : Yes</p><p><strong>Rigged </strong>: Yes</p><p><strong>Rigged to Epic skeleton</strong> : Yes</p><p><strong>Animated</strong> : Yes</p><p><strong>Number of characters</strong> : 10</p><p><strong>Vertex count of character</strong> : 12k total</p><p><strong>Texture resolution</strong> : 2048 each ( Head,Body,Hair )</p><p><strong>Number of animations</strong> : 142 (&#43;60 Montage)</p><p><strong>Animation types</strong> : Some of the attack motions are root motion. Others are in place.</p><p><strong>Intended Platform</strong> : All</p><p><strong>Platform Tested</strong> : Windows</p><p><strong>Documentation</strong> : No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4c57c834-f605-4990-8689-7d085ff1a367"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot04-1920x1080-5519a039424e901a96974a2e3a09fc60.png",
+      "md5": "5519a039424e901a96974a2e3a09fc60",
+      "size": 3085779,
+      "uploadedDate": "2019-11-29T07:10:14.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot01-1920x1080-5fb5d3f91efb66b02c8918324b7c5d37.png",
+      "md5": "5fb5d3f91efb66b02c8918324b7c5d37",
+      "size": 3123355,
+      "uploadedDate": "2019-11-29T07:10:14.752Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot02-1920x1080-84ac3a963859895776233f2f02a836e1.png",
+      "md5": "84ac3a963859895776233f2f02a836e1",
+      "size": 3079084,
+      "uploadedDate": "2019-11-29T07:10:15.413Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot03-1920x1080-23ea10d3a4e192b3bc50eb4134eb3c10.png",
+      "md5": "23ea10d3a4e192b3bc50eb4134eb3c10",
+      "size": 2414462,
+      "uploadedDate": "2019-11-29T07:10:16.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedFantasyCharacterPack_thumb-284x284-6200a73cbc611bae9c3aa1316c73b885.png",
+      "md5": "6200a73cbc611bae9c3aa1316c73b885",
+      "size": 181748,
+      "uploadedDate": "2019-11-29T07:10:16.506Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedFantasyCharacterPack_featured-894x488-47a6893db2579bbd08495798e6e7567e.png",
+      "md5": "47a6893db2579bbd08495798e6e7567e",
+      "size": 732577,
+      "uploadedDate": "2019-11-29T07:10:16.574Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot04-1920x1080-5519a039424e901a96974a2e3a09fc60_Snapshot.png",
+      "md5": "0ad5538db0688b189cc0cd0c9609ea52",
+      "size": 9092,
+      "uploadedDate": "2019-11-29T07:10:14.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot01-1920x1080-5fb5d3f91efb66b02c8918324b7c5d37_Snapshot.png",
+      "md5": "193c3d985af5e68fccd2639c09d47cf4",
+      "size": 8018,
+      "uploadedDate": "2019-11-29T07:10:15.170Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot02-1920x1080-84ac3a963859895776233f2f02a836e1_Snapshot.png",
+      "md5": "5039bb8cdb1b6a9af513d351053efa7b",
+      "size": 7810,
+      "uploadedDate": "2019-11-29T07:10:15.898Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot03-1920x1080-23ea10d3a4e192b3bc50eb4134eb3c10_Snapshot.png",
+      "md5": "be0160c14f96b503cae355d9ff452477",
+      "size": 5288,
+      "uploadedDate": "2019-11-29T07:10:16.433Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "3cddc605b13e47d38cbf12c670ff744d"
+    }
+  ],
+  "catalogNs": null
+}

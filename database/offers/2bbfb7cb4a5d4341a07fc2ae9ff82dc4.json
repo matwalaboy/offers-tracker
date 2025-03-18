@@ -1,0 +1,233 @@
+{
+  "id": "2bbfb7cb4a5d4341a07fc2ae9ff82dc4",
+  "namespace": "ue",
+  "title": "Desert Gas Station",
+  "description": "Desert gas station with large scale terrain, modular design, tweakable materials and dynamic lighting",
+  "longDescription": "<p>A modular desert gas station with a large-scale terrain and vegetation. The scene is setup with dynamic lighting with the ability to easy switch lighting setup. All assets are made with game production quality and standards.</p><p>Video: <a href=\"https://youtu.be/dCh1xlIKgJA\" rel=\"nofollow\">https://youtu.be/dCh1xlIKgJA</a></p><p>Info &amp; Images: <a href=\"https://www.artstation.com/artwork/1Pr48\" rel=\"nofollow\">https://www.artstation.com/artwork/1Pr48 </a></p><p>Breakdown: <a href=\"https://youtu.be/T1M3vx7Ogoc\" rel=\"nofollow\">https://youtu.be/T1M3vx7Ogoc</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "desert-gas-station",
+  "creationDate": "2018-01-20T12:18:18.033Z",
+  "lastModifiedDate": "2024-09-29T17:46:17.011Z",
+  "effectiveDate": "2018-01-20T12:18:17.942Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jby3npw456za4npqaww4ugwbvy8td9",
+    "name": "Joakim Stigsson"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Over 150 High Quality Assets</li><li>Large scale terrain with materials and tesselation setup</li><li>Master material with tweakable material instances</li><li>Decals for damage and dirt</li><li>Vegetation setup for fast foliage painting</li><li>Tilabe materials with vertex blend</li><li>Blueprints for tweakable assets</li><li>Dynamic lighting with four different lighting setups</li><li>Post process with colorgrading for each lighting</li></ul><p><br /></p><p>Texture Sizes: </p><ul><li>4096px &#61; 11 </li><li>2048px &#61; 89</li><li>1024px &#61; 88</li><li>512px &#61; 24</li><li>256px&#61; 22</li></ul><p><br /></p><p>Collision: Yes (Automatically generated)</p><p>Triange Count: 222,567 (All Assets)</p><p>LODs: Only Lod0 </p><p>Number of Meshes: <strong>162</strong></p><p>Number of Materials and Material Instances: <strong>144</strong></p><p>Number of Textures: <strong>267</strong></p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: All except mobile. </p><p>Additional Notes: Email joakim_stigsson&#64;hotmail.com for questions and support. </p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "757d05fd-ee2c-484e-b5a4-f1fb8ffe7643"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots02Marketplace-1920x1080-b003233c1bd6ee35e7d509e08faef836.jpg",
+      "md5": "b003233c1bd6ee35e7d509e08faef836",
+      "size": 1577143,
+      "uploadedDate": "2018-01-24T01:30:34.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots_10-1920x1080-d27f6de24b505f0c294205c9be7db533.jpg",
+      "md5": "d27f6de24b505f0c294205c9be7db533",
+      "size": 1609095,
+      "uploadedDate": "2017-12-13T01:28:04.035Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots07Marketplace-1920x1080-b07439b309a50ec2b68a4fc3fd2a8407.jpg",
+      "md5": "b07439b309a50ec2b68a4fc3fd2a8407",
+      "size": 1263074,
+      "uploadedDate": "2018-01-24T01:23:07.124Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots01Marketplace-1920x1080-ecb7acee24ca6df4bda91a2ec8459de8.jpg",
+      "md5": "ecb7acee24ca6df4bda91a2ec8459de8",
+      "size": 1359547,
+      "uploadedDate": "2018-01-24T01:23:06.657Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots05DuskMarketplace-1920x1080-57eb5e4ef77fa93d2ad114f4639bbe3d.jpg",
+      "md5": "57eb5e4ef77fa93d2ad114f4639bbe3d",
+      "size": 1689696,
+      "uploadedDate": "2018-01-24T01:23:06.855Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots16Marketplace-1920x1080-9f80ddefb1d26d2c857249099d83e52a.jpg",
+      "md5": "9f80ddefb1d26d2c857249099d83e52a",
+      "size": 1647313,
+      "uploadedDate": "2018-01-24T01:23:07.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot_Lighting_03-1920x1080-54204e2dd25d4185f9f25980fbadd812.jpg",
+      "md5": "54204e2dd25d4185f9f25980fbadd812",
+      "size": 1806711,
+      "uploadedDate": "2017-12-13T01:28:06.967Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot_Lighting_04-1920x1080-27b2c5755e92973c526ca0219a483454.jpg",
+      "md5": "27b2c5755e92973c526ca0219a483454",
+      "size": 1252864,
+      "uploadedDate": "2017-12-13T01:28:07.310Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots13Marketplace-1920x1080-c00581793cd41de0de7d476916b1a0f8.jpg",
+      "md5": "c00581793cd41de0de7d476916b1a0f8",
+      "size": 1210810,
+      "uploadedDate": "2018-01-24T01:23:07.860Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots_12-1920x1080-9c12a6c2601fd7881bf2e8aed63b363a.jpg",
+      "md5": "9c12a6c2601fd7881bf2e8aed63b363a",
+      "size": 1024574,
+      "uploadedDate": "2017-12-13T01:28:06.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots_14-1920x1080-544ac4d2ab25077fb53caad758132565.jpg",
+      "md5": "544ac4d2ab25077fb53caad758132565",
+      "size": 985095,
+      "uploadedDate": "2017-12-13T01:28:06.186Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshots11Marketplace-1920x1080-ecd05ec73a0edb9ef9a90009037df23d.jpg",
+      "md5": "ecd05ec73a0edb9ef9a90009037df23d",
+      "size": 1451022,
+      "uploadedDate": "2018-01-24T01:23:07.694Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenshotsAssets01Marketplace-1920x1080-51743cea776f9318bffe01a64adac9c6.jpg",
+      "md5": "51743cea776f9318bffe01a64adac9c6",
+      "size": 1416279,
+      "uploadedDate": "2018-01-24T01:23:08.120Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DesertGasStation_thumb-284x284-c3af2736e5ebab2bd1c710764fdcb87f.png",
+      "md5": "c3af2736e5ebab2bd1c710764fdcb87f",
+      "size": 181615,
+      "uploadedDate": "2018-01-24T01:50:22.908Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DesertGasStation_featured-894x488-264123946c283cc0d6b5655d32f4beff.png",
+      "md5": "264123946c283cc0d6b5655d32f4beff",
+      "size": 875769,
+      "uploadedDate": "2018-01-24T01:50:23.031Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "3e5800ccc38848899f509e438e140451"
+    }
+  ],
+  "catalogNs": null
+}

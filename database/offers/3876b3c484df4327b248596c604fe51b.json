@@ -1,0 +1,449 @@
+{
+  "id": "3876b3c484df4327b248596c604fe51b",
+  "namespace": "ue",
+  "title": "Shatter Stone: Fossil Collection",
+  "description": "Unearth these prehistoric relics. 6 node types, great shatter FX and easy to customize!",
+  "longDescription": "<p>Make an impact with your players with this collection of 6 prehistoric mining nodes that shatter into perfect fossils. With a ready to play simulation for shattering and spawning included, accompanied by subtle particle systems, as well as sprite textures to use in the UI - this pack ensures a smooth implementation process into any game and enhances your resource and collection mechanics.</p><p><br /></p><p>Materials are easily customizable to create many new collectibles, as well as the ability to tint the rock allowing you to blend the nodes into your environment.</p><p><br /></p><p>Check out the other Shatter Stone packs.</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/shatter-stone-minerals-and-crystals-resource-pack\" rel=\"nofollow\"><strong>Minerals &amp; Crystals</strong></a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/fc2cb68aaf004c94b37ceb1022cd6da2\" rel=\"nofollow\"><strong>Metal Ores</strong></a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/24f22618545a4649a4800832af35019c\" rel=\"nofollow\"><strong>Stones &amp; Rocks</strong></a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/17117bcc93754e57a109ac4e011fbe42\" rel=\"nofollow\"><strong>Low Poly</strong></a></p><p><br /></p><p>// Follow or Subscribe for future updates - including sales and new releases! //</p><p><a href=\"https://twitter.com/Matt_NV3D\" rel=\"nofollow\"><strong>X (Twitter)</strong></a></p><p><a href=\"https://www.threads.net/&#64;matt_nv3d\" rel=\"nofollow\"><strong>Threads</strong></a></p><p><a href=\"https://www.youtube.com/&#64;_NV3D\" rel=\"nofollow\"><strong>Youtube</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shatter-stone-fossil-collection",
+  "creationDate": "2023-12-06T17:02:42.468Z",
+  "lastModifiedDate": "2024-09-26T14:29:59.804Z",
+  "effectiveDate": "2023-12-06T17:02:42.425Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mpzbtqgvpuvuaapd6ycdxumrfzu58v",
+    "name": "NV3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li>6 fossil node meshes.</li><li>6x extracted fossils.</li><li>6x Sprite textures for each fossil, includes both transparent and opaque background versions.</li><li>Ready to play BP for shattering and spawning resources included.</li><li>PFX systems included to support the shatter and spawn FX.</li><li>Shattered node meshes included.</li></ul><p><br /></p><p>Number of Unique Meshes: 18</p><p>Collision: Yes</p><p>Vertex Count: 500-1500 per node</p><p>LODs: No</p><p>Number of Materials: 6 node materials &#43; 5 PFX materials</p><p>Number of Textures: 40</p><p>Texture Resolutions: 2048x2048 for stone nodes, 512x512 for sprites and particle textures</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1257",
+      "name": "ROBOTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.108Z",
+      "updated": "2019-06-20T12:00:26.108Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "758923e9-c043-464a-b4aa-384386101f3e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 7-1920x1080-5091e8d3a0668b90b55a1d0a3bb3b406.png",
+      "md5": "5091e8d3a0668b90b55a1d0a3bb3b406",
+      "size": 1998561,
+      "uploadedDate": "2023-12-01T14:08:36.062Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 11-1920x1080-18a535a1ec2ec653eb2bfabf59abe5ef.png",
+      "md5": "18a535a1ec2ec653eb2bfabf59abe5ef",
+      "size": 2204060,
+      "uploadedDate": "2023-12-01T14:08:36.735Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 8-1920x1080-e36d58aed5642102998aa99cca008e4f.png",
+      "md5": "e36d58aed5642102998aa99cca008e4f",
+      "size": 2058721,
+      "uploadedDate": "2023-12-01T14:08:37.304Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 2-1920x1080-44a8c2d062450ce65793942d01d3a387.png",
+      "md5": "44a8c2d062450ce65793942d01d3a387",
+      "size": 2119223,
+      "uploadedDate": "2023-12-01T14:08:37.898Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 3-1920x1080-3b42a089e72f25b1074e427cd5ce7d92.png",
+      "md5": "3b42a089e72f25b1074e427cd5ce7d92",
+      "size": 1848260,
+      "uploadedDate": "2023-12-01T14:08:38.628Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 4-1920x1080-33e2a78f6ab880bd2f1c8a616c9017cf.png",
+      "md5": "33e2a78f6ab880bd2f1c8a616c9017cf",
+      "size": 2185193,
+      "uploadedDate": "2023-12-01T14:08:39.254Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 5-1920x1080-377399cfa396831ef4d5fb607214f56b.png",
+      "md5": "377399cfa396831ef4d5fb607214f56b",
+      "size": 1866756,
+      "uploadedDate": "2023-12-01T14:08:39.906Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 6-1920x1080-7846d583ef842683a883a86ac706ac2e.png",
+      "md5": "7846d583ef842683a883a86ac706ac2e",
+      "size": 1885261,
+      "uploadedDate": "2023-12-01T14:08:40.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 9-1920x1080-eb563f8d904160344571bc9dc17c98ae.png",
+      "md5": "eb563f8d904160344571bc9dc17c98ae",
+      "size": 2181428,
+      "uploadedDate": "2023-12-01T14:08:41.188Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Gallery 1-1920x1080-3ddff4cd63a1a8df7184d39687f85d85.png",
+      "md5": "3ddff4cd63a1a8df7184d39687f85d85",
+      "size": 2726681,
+      "uploadedDate": "2024-04-12T08:01:04.148Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShatterStoneFossilCollection_thumb-284x284-eaaff35bf853064c6a549f4318511a02.png",
+      "md5": "eaaff35bf853064c6a549f4318511a02",
+      "size": 147010,
+      "uploadedDate": "2024-04-12T08:01:04.761Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShatterStoneFossilCollection_featured-894x488-c1da947810d80be382e75841b180ca01.png",
+      "md5": "c1da947810d80be382e75841b180ca01",
+      "size": 778801,
+      "uploadedDate": "2024-04-12T08:01:04.941Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 1-1920x1080-3ddff4cd63a1a8df7184d39687f85d85_Snapshot.png",
+      "md5": "689cbff87d0a1ee83b1b447b26e12050",
+      "size": 7710,
+      "uploadedDate": "2024-04-12T08:01:04.598Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 1-1920x1080-1f3cadcf2e63da01f10cf21f66a3b2e9_Snapshot.png",
+      "md5": "5b3d1e03a29e36d67aadf450133e9736",
+      "size": 6923,
+      "uploadedDate": "2023-12-01T14:08:35.809Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 7-1920x1080-5091e8d3a0668b90b55a1d0a3bb3b406_Snapshot.png",
+      "md5": "0e4c218ed739522e2d7bb5ae4929054c",
+      "size": 6120,
+      "uploadedDate": "2023-12-01T14:08:36.487Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 11-1920x1080-18a535a1ec2ec653eb2bfabf59abe5ef_Snapshot.png",
+      "md5": "76c7c75cb7d2c5b8ad598eda64f4ff49",
+      "size": 5656,
+      "uploadedDate": "2023-12-01T14:08:37.139Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 8-1920x1080-e36d58aed5642102998aa99cca008e4f_Snapshot.png",
+      "md5": "8187ed4282f0daadaeecbcc5a55793da",
+      "size": 5558,
+      "uploadedDate": "2023-12-01T14:08:37.680Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 2-1920x1080-44a8c2d062450ce65793942d01d3a387_Snapshot.png",
+      "md5": "050dccda0966939fdaabd5043f373652",
+      "size": 4050,
+      "uploadedDate": "2023-12-01T14:08:38.394Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 3-1920x1080-3b42a089e72f25b1074e427cd5ce7d92_Snapshot.png",
+      "md5": "2e78ce4a821e9e7c9cfc84e47454201d",
+      "size": 4074,
+      "uploadedDate": "2023-12-01T14:08:39.018Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 4-1920x1080-33e2a78f6ab880bd2f1c8a616c9017cf_Snapshot.png",
+      "md5": "30c49f309c5c73f38f884af5f7b08edb",
+      "size": 4118,
+      "uploadedDate": "2023-12-01T14:08:39.691Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 5-1920x1080-377399cfa396831ef4d5fb607214f56b_Snapshot.png",
+      "md5": "b61c4d1bfba8cf9d599e7b4aee4f7f2b",
+      "size": 3777,
+      "uploadedDate": "2023-12-01T14:08:40.278Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 6-1920x1080-7846d583ef842683a883a86ac706ac2e_Snapshot.png",
+      "md5": "2db6fa236cd88f23f8d288f662e4b4d1",
+      "size": 4340,
+      "uploadedDate": "2023-12-01T14:08:40.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Gallery 9-1920x1080-eb563f8d904160344571bc9dc17c98ae_Snapshot.png",
+      "md5": "aad4c1f60050912bef9bc11daba8c1e5",
+      "size": 4594,
+      "uploadedDate": "2023-12-01T14:08:41.610Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4518739ae61f4f9593c598b0edc561d7"
+    }
+  ],
+  "catalogNs": null
+}

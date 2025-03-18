@@ -1,0 +1,458 @@
+{
+  "id": "e47ddbb1083b438d831ba56f03e8cbf0",
+  "namespace": "ue",
+  "title": "TUNDRA VOL2: TUNDRA TOPOGRAPHY",
+  "description": "5 Super Realistic Tundra( VOL2:Tundra Topography) Materials for all platforms. All Textures have their own 8K, 4K, 2K, and 1K version and ready for every kind of project.",
+  "longDescription": "<p><strong>--------------------------------------------EPIC MEGAGRANT PROJECT---------------------------------------------------</strong></p><p><br /></p><p>Hello, I&#39;m here with a new concept. I have provided you with a concept about tundra climates and topography. (<strong>Vol1: Mountain Slope).</strong></p><p><br /></p><p>The <strong>first concept</strong> was designed with reference to the <strong>colder mountain slopes</strong>. More <strong>flat areas were taken as reference in this concept.</strong> Places where <strong>plant and algae are formed</strong>. Such places are more conducive to life, usually higher areas have <strong>shattered stones with water and cold effects</strong>. These <strong>rocks have a blackish color</strong>. <strong>Blackened and difficult winter conditions</strong> form the<strong> main character of tundra climates and topography.</strong></p><p><br /></p><p><strong>Some important detail---------</strong></p><p>All images are in .tga file format and not compressed. As you know, tga is the best image format.<strong>I also add 32-bit .EXR Displacement alpha true</strong> for making <strong>your job more flexible.</strong></p><p><strong>also I look forward to your feedback and advice. Thank you</strong>, for any problems, help, or suggestions, mail me at <strong>conceptaart&#64;gmail.com</strong></p><p>------<a href=\"https://unrealengine.com/marketplace/en-US/profile/ConceptAArt?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">CAA ALL PRODUCTS</a>------</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tundra-vol2-tundra-topography",
+  "creationDate": "2020-03-27T16:57:45.630Z",
+  "lastModifiedDate": "2024-09-29T21:39:20.208Z",
+  "effectiveDate": "2020-03-27T16:57:44.012Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9n6g7u3e4azeds85xcrfryuf7xyllx",
+    "name": "ConceptAArt"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li><strong>Designed for all platforms</strong>. Pack includes 1K, 2K, 4K, &amp; 8K Texture versions so you can use it on every platform, <strong>(only 4.24 or newer supports all platforms including mobile. 4.22 and 4.23 versions only tested in Windows and does not support mobile.)</strong></li><li><strong>Unique Concept</strong></li><li><strong>Real world based</strong></li><li><strong>ALL TEXTURES ARE TARGA FILE FORMAT .TGA</strong>-uncompressed</li><li><strong>32-bit .EXR Displacement alpha true</strong> (pack include both tga and exr displacement files for all resolutions.)</li><li><strong>Over 20 parameters for adjustments.</strong></li><li><strong>30 8K Textures, 30 4K Textures, 30 2K Textures, and 30 1K Textures. Plus 20 .EXR Displacemet files.</strong></li><li><strong>Materials and Material Instances</strong>: 5 Master 10 Instances</li></ul><p><strong>Number of Textures: </strong>140</p><ul><li>30 8K Textures <strong>(8196x8196)</strong>, 30 4K Textures <strong>(4096x4096)</strong>, 30 2K Textures <strong>(2048x2048)</strong>, 30 1K Textures <strong>(1024x1024) &#43;20 Displacement32Bit for each pack and each version.[every pack has 4 extra displacement32bit.exr ( 1k,2k,4k adn 8k)]</strong></li></ul><p><strong>Supported Development Platforms</strong>:</p><ul><li>4.24 version supports all platforms (tested on mobile and Windows). 4.22 and 4.23 versions only tested on Windows and does not support mobile.</li><li><strong>Windows and Mac</strong>: Yes</li></ul><p><strong>Doc</strong>: Not finished yet(ask for documentation with mail after they are complete I will add them)</p><p><strong>1-CAA_Usage 2-CAA_Quality and Performance in Games 3-CAA_Complate Asset List 4-CAA_Mobile Usage and Performance Optimization</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1219",
+      "name": "MARS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:07.083Z",
+      "updated": "2019-06-20T12:00:07.083Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "337ded73-9d07-401d-9860-2e83f0bcafe6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920-1920x1080-1d7ec2bcd93a299652dfdff53a1562df.jpg",
+      "md5": "1d7ec2bcd93a299652dfdff53a1562df",
+      "size": 2030557,
+      "uploadedDate": "2020-03-14T11:54:13.544Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-5454f9a1025beeed9a4b0a85cd2b5525.jpg",
+      "md5": "5454f9a1025beeed9a4b0a85cd2b5525",
+      "size": 1948508,
+      "uploadedDate": "2020-03-14T11:54:14.105Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot008-1920x1080-8b020a22552568a86293bef36f9834a6.png",
+      "md5": "8b020a22552568a86293bef36f9834a6",
+      "size": 2198415,
+      "uploadedDate": "2020-03-14T11:54:14.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22222-1920x1080-77e49f41e9a20ae7401cd8aab05b7d9b.jpg",
+      "md5": "77e49f41e9a20ae7401cd8aab05b7d9b",
+      "size": 1540520,
+      "uploadedDate": "2020-03-14T11:54:15.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot007-1920x1080-5776d84e31482f7fa2dcec15dd7ceb61.png",
+      "md5": "5776d84e31482f7fa2dcec15dd7ceb61",
+      "size": 2030156,
+      "uploadedDate": "2020-03-14T11:54:15.774Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot012-1920x1080-3066898352c1aac77ace8c6deec16de1.png",
+      "md5": "3066898352c1aac77ace8c6deec16de1",
+      "size": 3022386,
+      "uploadedDate": "2020-03-14T11:54:16.407Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/EWF-1920x1080-a8da541c9444958eab3c062e86bc25be.png",
+      "md5": "a8da541c9444958eab3c062e86bc25be",
+      "size": 1817075,
+      "uploadedDate": "2020-03-14T11:54:17.029Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot011-1920x1080-167204074e3469e98b431a2f487649f2.png",
+      "md5": "167204074e3469e98b431a2f487649f2",
+      "size": 3068685,
+      "uploadedDate": "2020-03-14T11:54:17.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot006-1920x1080-8217a4d73c9756599f4a5ffeb3c01e90.png",
+      "md5": "8217a4d73c9756599f4a5ffeb3c01e90",
+      "size": 1838426,
+      "uploadedDate": "2020-03-14T11:54:18.218Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot013-1920x1080-41183b9afef2e46245135c1b41f93887.png",
+      "md5": "41183b9afef2e46245135c1b41f93887",
+      "size": 2990611,
+      "uploadedDate": "2020-03-14T11:54:18.944Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot005-1920x1080-e5142e25d4e8c3700fbcbf217c8c8b04.png",
+      "md5": "e5142e25d4e8c3700fbcbf217c8c8b04",
+      "size": 1856739,
+      "uploadedDate": "2020-03-14T11:54:19.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TUNDRAVOL2TUNDRATOPOGRAPHY_thumb-284x284-11f28289a22f4f0044d0414aca7b9ea1.png",
+      "md5": "11f28289a22f4f0044d0414aca7b9ea1",
+      "size": 208884,
+      "uploadedDate": "2020-03-14T11:54:19.943Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TUNDRAVOL2TUNDRATOPOGRAPHY_featured-894x488-4bbf7f6c60ca55f43d878554eeb2eb2d.png",
+      "md5": "4bbf7f6c60ca55f43d878554eeb2eb2d",
+      "size": 862476,
+      "uploadedDate": "2020-03-14T11:54:20.058Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920-1920x1080-1d7ec2bcd93a299652dfdff53a1562df_Snapshot.jpg",
+      "md5": "27ac3273f78682341cccf21329e3a27c",
+      "size": 8155,
+      "uploadedDate": "2020-03-14T11:54:13.904Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-5454f9a1025beeed9a4b0a85cd2b5525_Snapshot.jpg",
+      "md5": "b495087a59e2dca3158f69335a15bcff",
+      "size": 7540,
+      "uploadedDate": "2020-03-14T11:54:14.530Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot008-1920x1080-8b020a22552568a86293bef36f9834a6_Snapshot.png",
+      "md5": "53aca8a7eed59e549606beadd5806e2b",
+      "size": 4625,
+      "uploadedDate": "2020-03-14T11:54:15.077Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22222-1920x1080-77e49f41e9a20ae7401cd8aab05b7d9b_Snapshot.jpg",
+      "md5": "a1d74b05653bb6cf7af4883ab32a0fd7",
+      "size": 6226,
+      "uploadedDate": "2020-03-14T11:54:15.583Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot007-1920x1080-5776d84e31482f7fa2dcec15dd7ceb61_Snapshot.png",
+      "md5": "4e9b5fd497b15b1828846b6a65fedfdb",
+      "size": 4134,
+      "uploadedDate": "2020-03-14T11:54:16.163Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot012-1920x1080-3066898352c1aac77ace8c6deec16de1_Snapshot.png",
+      "md5": "c5355fdf955d26ef46fc65a4b88fb36f",
+      "size": 5904,
+      "uploadedDate": "2020-03-14T11:54:16.820Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/EWF-1920x1080-a8da541c9444958eab3c062e86bc25be_Snapshot.png",
+      "md5": "8f90fc84af47dce4a2cd3f84c29d2f02",
+      "size": 3856,
+      "uploadedDate": "2020-03-14T11:54:17.404Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot011-1920x1080-167204074e3469e98b431a2f487649f2_Snapshot.png",
+      "md5": "0a6a91f906deed853f337e15af4a58f5",
+      "size": 4676,
+      "uploadedDate": "2020-03-14T11:54:18.050Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot006-1920x1080-8217a4d73c9756599f4a5ffeb3c01e90_Snapshot.png",
+      "md5": "4715c5bf80d1c94e0c23453ce7cfbc15",
+      "size": 3283,
+      "uploadedDate": "2020-03-14T11:54:18.708Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot013-1920x1080-41183b9afef2e46245135c1b41f93887_Snapshot.png",
+      "md5": "df7f1b31a0c1eabe6ec68f899e99238d",
+      "size": 6012,
+      "uploadedDate": "2020-03-14T11:54:19.347Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot005-1920x1080-e5142e25d4e8c3700fbcbf217c8c8b04_Snapshot.png",
+      "md5": "cd2264613f5f5d9ad417d3b7db48c39f",
+      "size": 3820,
+      "uploadedDate": "2020-03-14T11:54:19.876Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "01ecfb9ad4054439bd1fffc62fc79ec4"
+    }
+  ],
+  "catalogNs": null
+}

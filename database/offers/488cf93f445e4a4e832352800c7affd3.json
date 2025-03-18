@@ -1,0 +1,254 @@
+{
+  "id": "488cf93f445e4a4e832352800c7affd3",
+  "namespace": "ue",
+  "title": "Sci-Fi Fly By Sound Library",
+  "description": "Enrich cutscenes, trailers and environments with 660 futuristic vehicle and spacecraft fly-by sounds.",
+  "longDescription": "<p><strong>Sci-Fi Fly By</strong> is packed full of ready-to-use one-shot (non-looping) audio assets ideal for bringing sci-fi cutscenes, environmental ambience and trailers to life.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;KJ1Y8a15E1I\" rel=\"nofollow\">Watch the trailer</a></p><p><br /></p><p><strong>Convey the rush of spacecraft rocketing through the skies and over land with:</strong></p><ul><li>An assortment of <strong>small to large spacecraft and vehicle fly-bys</strong></li><li><strong>Short and long variants</strong> for most sounds</li><li>A mix of <strong>stereo and centred fly-bys </strong>(flying across screen and into the distance)</li><li><strong>A range of styles</strong> including conventional, alien energy, mechanical, rotor blades, engine strain, pulses and more</li></ul><p><br /></p><p><strong>Layer multiple fly-bys</strong> to create thousands of uniquely detailed spacecraft!</p><p><br /></p><p>The library can be used standalone or as a companion to <a href=\"https://www.unrealengine.com/marketplace/slug/c7665336850e418890cff60e6422b81b\" rel=\"nofollow\"><strong>Sci-Fi Spacecraft</strong></a> – many of the fly-bys are modelled on engine loops from <strong>Sci-Fi Spacecraft </strong>ensuring compatibility. If you require looping assets designed primarily for use in gameplay then <strong>Sci-Fi Spacecraft</strong> will better suit your needs.</p><p><br /></p><p>Please note 176 of 663 fly-by sounds are included in<strong> </strong>Sci-Fi Spacecraft – if you already have Sci-Fi Spacecraft, 487 sounds in Sci-Fi Fly By will be new.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-fly-by-sound-library",
+  "creationDate": "2024-08-27T23:20:17.588Z",
+  "lastModifiedDate": "2024-09-29T09:12:36.491Z",
+  "effectiveDate": "2024-08-27T23:20:17.548Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ebs2kscjws6nptf8rk4mmnqrhxke47",
+    "name": "Shapeforms Audio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Audio Waves: 663</p><p>Number of Audio Cues: 663</p><p>Sample rate / bit rate: 44kHz / 16-bit (UE4.17 to 5.3); 48kHz / 24-bit (UE5.4 and above)</p><p>Do Sound FX loop: No (one-shot sound effects only)</p><p>Supported Development Platforms: All</p><p>Documentation: <a href=\"https://icedrive.net/s/Qj26BPVRbbgWDBhSy5jCR2xSxWt5\" rel=\"nofollow\">PDF Manual</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dfd13b13-5fab-4cf2-995a-2c34d8cbee91"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sffbcoverimageunity-1920x1080-c041afb8e19c6d47d943e5b2f3aa52da.jpg",
+      "md5": "c041afb8e19c6d47d943e5b2f3aa52da",
+      "size": 268963,
+      "uploadedDate": "2024-08-25T12:14:49.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiFlyBySoundLibrary_thumb-284x284-559e2763a8b881786b11a71b8a7602b8.png",
+      "md5": "559e2763a8b881786b11a71b8a7602b8",
+      "size": 90159,
+      "uploadedDate": "2024-08-25T12:14:49.775Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SciFiFlyBySoundLibrary_featured-894x488-6d34e6f4d0a63eb436fe982daad8eea9.png",
+      "md5": "6d34e6f4d0a63eb436fe982daad8eea9",
+      "size": 425647,
+      "uploadedDate": "2024-08-25T12:14:50.090Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sffbcoverimageunity-1920x1080-c041afb8e19c6d47d943e5b2f3aa52da_Snapshot.jpg",
+      "md5": "7bdd47680215b4ea47d17e5c5657b35f",
+      "size": 6189,
+      "uploadedDate": "2024-08-25T12:14:49.736Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f1e1b412847c4e5db2fa1a354a1bbefa"
+    }
+  ],
+  "catalogNs": null
+}

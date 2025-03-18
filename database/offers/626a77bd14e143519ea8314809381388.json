@@ -1,0 +1,329 @@
+{
+  "id": "626a77bd14e143519ea8314809381388",
+  "namespace": "ue",
+  "title": "Modular Replicated Stamina System",
+  "description": "Fully replicated Stamina system with a simple setup and easily extensible API",
+  "longDescription": "<p>This is a simple plugin that will allow beginners to implement a stamina system into their games, with ease of use and expandable components. All you will need to do is add the Stamina Component to an actor that you want to be able to use Stamina. It deals with the decay and regeneration of stamina, using timers, as well as the authority checks with the server to ensure that your players cannot cheat even if you are using a listen server.</p><p><br /></p><p>To enable sprint, add a Sprint Component to an actor with a character movement component and stamina component and the system will automatically grab the references required. </p><p><br /></p><p>This was developed to be used in our own games, so it will receive some updates. We aim to keep it backwards compatible so you will require minimal updates on your end whenever we release a new version.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-replicated-stamina-system",
+  "creationDate": "2023-05-12T17:03:56.356Z",
+  "lastModifiedDate": "2024-09-29T23:26:36.323Z",
+  "effectiveDate": "2023-05-12T17:03:56.319Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-f9ac5ex4f7qv323vxld4vvkmxedgeq",
+    "name": "SpyderWeb Studios Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Replicated Stamina</li><li> Easy RPCs and built in Authority Checks</li><li> Compatible with Single Player, Listen Server &amp; Dedicated Server models.</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> Stamina : Runtime</li><li> Helper : Runtime</li></ul><p>Number of Blueprints: 3</p><p>Number of C&#43;&#43; Classes: 5</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: (Game, Server, Client)</p><p>Supported Target Build Platforms: (&#34;Win64&#34;, &#34;Win32&#34;, &#34;Linux&#34;, &#34;Mac&#34;, &#34;Android&#34;, &#34;IOS&#34;, &#34;PS4&#34;, &#34;XboxOne&#34;, &#34;Switch&#34;)</p><p>Documentation: https://spyderweb-replicated-stamina-docs.netlify.app/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d0230a24-d761-4078-a9d4-05b150df58b5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Widget-1920x1080-c8e81a7e5983d959e6cd31ff59d2b951.png",
+      "md5": "c8e81a7e5983d959e6cd31ff59d2b951",
+      "size": 591476,
+      "uploadedDate": "2023-05-02T18:02:29.144Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/InGameView-1920x1080-ed7e55a3d83d022ca9ebbbbe24abb8f5.png",
+      "md5": "ed7e55a3d83d022ca9ebbbbe24abb8f5",
+      "size": 2172233,
+      "uploadedDate": "2023-05-02T18:02:29.638Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DetailPanel-1920x1080-0b8bc7524929277dd46c75688f72897d.png",
+      "md5": "0b8bc7524929277dd46c75688f72897d",
+      "size": 206154,
+      "uploadedDate": "2023-05-02T18:02:30.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Overview-1920x1080-46e94a0cc00127bfc0e813df59c18c79.png",
+      "md5": "46e94a0cc00127bfc0e813df59c18c79",
+      "size": 577384,
+      "uploadedDate": "2023-05-04T18:00:17.140Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModularReplicatedStaminaSystem_thumb-284x284-c9e80a8e8dd3dd7302e83e8baa35030c.png",
+      "md5": "c9e80a8e8dd3dd7302e83e8baa35030c",
+      "size": 97744,
+      "uploadedDate": "2023-07-30T12:50:06.576Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleMultiplayerStamina_featured-894x488-0c6d5a6c060e732f5171517175bc8735.png",
+      "md5": "0c6d5a6c060e732f5171517175bc8735",
+      "size": 208083,
+      "uploadedDate": "2023-05-04T18:00:17.632Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Overview-1920x1080-46e94a0cc00127bfc0e813df59c18c79_Snapshot.png",
+      "md5": "77c7153a97e9f93129e57aa8d22f5e72",
+      "size": 4339,
+      "uploadedDate": "2023-05-04T18:00:17.437Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Widget-1920x1080-c8e81a7e5983d959e6cd31ff59d2b951_Snapshot.png",
+      "md5": "b53505416022f2ba0f2512ada6364ba8",
+      "size": 4449,
+      "uploadedDate": "2023-05-02T18:02:29.448Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/InGameView-1920x1080-ed7e55a3d83d022ca9ebbbbe24abb8f5_Snapshot.png",
+      "md5": "f721e3ea82518402ff10e63e2fb748a9",
+      "size": 5989,
+      "uploadedDate": "2023-05-02T18:02:30.067Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DetailPanel-1920x1080-0b8bc7524929277dd46c75688f72897d_Snapshot.png",
+      "md5": "195c57e909973669cb23f2bdb68496c9",
+      "size": 3667,
+      "uploadedDate": "2023-05-02T18:02:30.503Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Overview-1920x1080-6909bbb93221dcf41463586425f797e8_Snapshot.png",
+      "md5": "b7c9ce3bed60ca3448b946c0649f5500",
+      "size": 5867,
+      "uploadedDate": "2023-05-02T18:02:31.054Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "5bb8679313014434a734ec9afdfc2f6c"
+    }
+  ],
+  "catalogNs": null
+}

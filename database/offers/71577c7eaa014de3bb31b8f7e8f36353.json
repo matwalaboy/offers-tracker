@@ -1,0 +1,278 @@
+{
+  "id": "71577c7eaa014de3bb31b8f7e8f36353",
+  "namespace": "ue",
+  "title": "SCL House 003",
+  "description": "Interior house scene for Unreal Engine",
+  "longDescription": "<p>This is an unreal project of a bedroom scene.</p><p><em>&#34;Project and Textures were created by the Content Creator. Please visit www.sclartist.com for the more information.&#34;</em></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "scl-house-02",
+  "creationDate": "2019-06-10T01:20:57.679Z",
+  "lastModifiedDate": "2024-09-30T10:49:23.165Z",
+  "effectiveDate": "2019-06-10T01:30:55.701Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fez55g33agf557n9q6xcnaqjhfrskm",
+    "name": "SCL"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Texture Size</strong>: 512 - 2048</p><p><strong>Collision</strong>: Yes, Automatically Generated</p><p><strong>LODs</strong>: No</p><p><strong>Number of Meshes</strong>: 32</p><p><strong>Number of Materials and Material Instances</strong>: 45</p><p><strong>Number of Textures</strong>: 35</p><p><strong>Supported Development Platforms</strong>: PC</p><p><strong>Supported Target Build Platforms</strong>: PC, Windows</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/archvis"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "11fa5ed3-e0c4-4e96-b94d-4df91e002c69"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00301-1920x1080-166988965767ec1c4c8fe5c87d911bd0.jpg",
+      "md5": "166988965767ec1c4c8fe5c87d911bd0",
+      "size": 1514210,
+      "uploadedDate": "2019-05-15T01:06:03.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00302-1920x1080-fbeb5e825166e08d7d947a20ec852752.jpg",
+      "md5": "fbeb5e825166e08d7d947a20ec852752",
+      "size": 1215828,
+      "uploadedDate": "2019-05-15T01:06:04.907Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00303-1920x1080-dc9ae3582c6c179a6c86a979e5fe174b.jpg",
+      "md5": "dc9ae3582c6c179a6c86a979e5fe174b",
+      "size": 1575764,
+      "uploadedDate": "2019-05-15T01:06:06.234Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00304-1920x1080-39a4e709da0f5fab55919a6784dd2b81.jpg",
+      "md5": "39a4e709da0f5fab55919a6784dd2b81",
+      "size": 1347905,
+      "uploadedDate": "2019-05-15T01:06:07.591Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00305-1920x1080-c82c70ee8ad7e2a402853635f5157037.jpg",
+      "md5": "c82c70ee8ad7e2a402853635f5157037",
+      "size": 1455162,
+      "uploadedDate": "2019-05-15T01:06:09.015Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00306-1920x1080-d6370d1c6e8084252e320f593164f0d5.jpg",
+      "md5": "d6370d1c6e8084252e320f593164f0d5",
+      "size": 1670232,
+      "uploadedDate": "2019-05-15T01:06:10.439Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00307-1920x1080-4061ee8c22d177dc882bdf22243b66a9.jpg",
+      "md5": "4061ee8c22d177dc882bdf22243b66a9",
+      "size": 1496386,
+      "uploadedDate": "2019-05-15T01:06:11.815Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00308-1920x1080-12fe6783b99a857efb3be76c1642b592.jpg",
+      "md5": "12fe6783b99a857efb3be76c1642b592",
+      "size": 786253,
+      "uploadedDate": "2019-05-15T01:06:13.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/SCLHouse00309-1920x1080-ced62e4abb2de1ae0de73f754918083e.jpg",
+      "md5": "ced62e4abb2de1ae0de73f754918083e",
+      "size": 704198,
+      "uploadedDate": "2019-05-15T01:06:14.256Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SCLHouse003_thumb-284x284-e4e337ea06154b260df77b6600a4033b.png",
+      "md5": "e4e337ea06154b260df77b6600a4033b",
+      "size": 137770,
+      "uploadedDate": "2019-06-10T01:18:23.108Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SCLHouse003_featured-894x488-defba34569516177cbb764341a9c5d26.png",
+      "md5": "defba34569516177cbb764341a9c5d26",
+      "size": 657171,
+      "uploadedDate": "2019-05-15T01:10:20.619Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00301-1920x1080-166988965767ec1c4c8fe5c87d911bd0_Snapshot.jpg",
+      "md5": "cb621a27349a6082ebb39c3a7b957f04",
+      "size": 3750,
+      "uploadedDate": "2019-05-15T01:06:04.398Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00302-1920x1080-fbeb5e825166e08d7d947a20ec852752_Snapshot.jpg",
+      "md5": "28465ba8c54020dc3d7da79a66fe9614",
+      "size": 2395,
+      "uploadedDate": "2019-05-15T01:06:05.721Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00303-1920x1080-dc9ae3582c6c179a6c86a979e5fe174b_Snapshot.jpg",
+      "md5": "233f80c2b2705617eb4095d576f8991c",
+      "size": 3298,
+      "uploadedDate": "2019-05-15T01:06:07.129Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00304-1920x1080-39a4e709da0f5fab55919a6784dd2b81_Snapshot.jpg",
+      "md5": "085b51347c159df6b9c204bd6283421a",
+      "size": 2948,
+      "uploadedDate": "2019-05-15T01:06:08.483Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00305-1920x1080-c82c70ee8ad7e2a402853635f5157037_Snapshot.jpg",
+      "md5": "29c559769e9cc1f938e422eb74a965d3",
+      "size": 3377,
+      "uploadedDate": "2019-05-15T01:06:09.896Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00306-1920x1080-d6370d1c6e8084252e320f593164f0d5_Snapshot.jpg",
+      "md5": "df782ddedc1ecc91ec6644e6824aadf9",
+      "size": 3305,
+      "uploadedDate": "2019-05-15T01:06:11.349Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00307-1920x1080-4061ee8c22d177dc882bdf22243b66a9_Snapshot.jpg",
+      "md5": "96532e9e72e1029c669118bd5b747011",
+      "size": 3648,
+      "uploadedDate": "2019-05-15T01:06:12.685Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00308-1920x1080-12fe6783b99a857efb3be76c1642b592_Snapshot.jpg",
+      "md5": "7a5b88347e698f49d6d0bec453b3ab5a",
+      "size": 3195,
+      "uploadedDate": "2019-05-15T01:06:13.800Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/SCLHouse00309-1920x1080-ced62e4abb2de1ae0de73f754918083e_Snapshot.jpg",
+      "md5": "f09c9692ec559821ee3af86b844eecd5",
+      "size": 3188,
+      "uploadedDate": "2019-05-15T01:06:14.927Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e493413ab5f74982903d3278be93481c"
+    }
+  ],
+  "catalogNs": null
+}

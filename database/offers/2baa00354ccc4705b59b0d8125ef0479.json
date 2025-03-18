@@ -1,0 +1,266 @@
+{
+  "id": "2baa00354ccc4705b59b0d8125ef0479",
+  "namespace": "ue",
+  "title": "Dark Light - Dark Fantasy Tension & Combat Music",
+  "description": "A pack containing high quality music tracks inspired by dark fantasy RPGs which can be used from pre-combat tension to full blown boss battles.",
+  "longDescription": "<p>Inspired by AAA dark fantasy RPGs these tracks are suitable for the different pre-combat and combat scenarios in such styles of games. These tracks can also be used for any other game if it suits the aesthetic. The pack contains a variety of tracks with different edits to allow for adaptive music systems. A user manual is provided.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;JsoeClf7Jro\" rel=\"nofollow\">Listen to Tracks Previews here</a></p><p><br /></p><p><strong><u>Track Names:</u></strong></p><p><br /></p><p><strong>Horrors  from the Deep </strong>- Full Track [2:16}</p><p><strong>Echoes  of the Lost Souls</strong> - Full Track [1:38]</p><p><strong>Battle  at the Great Gate</strong> - Full Track [1:58]</p><p><strong>Cemetery  of Chaos</strong> - Vertical Layering [Loops]</p><p><strong>For  Glory</strong> - Vertical Layering [3:56]</p><p><strong>Twisted  Faith </strong>- Horizontal Resequencing [Loops]</p><p><strong>Drums of  War</strong> -Tension Loop/Vertical Layering [2:58]</p><p><strong>Forsaken  Land</strong> -Tension Loop/Vertical Layering [4:18]</p><p><strong>Stories  from the Past</strong> - Ambient Track [4:18]</p><p><br /></p><p>Track length is indicated in brackets. For tracks which use vertical layering, looping and horizontal resequencing, this is not indicative of the full length. However, some tracks contain a full realized rendition of how a full track would be heard for easy implementation.</p><p><br /></p><p><strong>Disclaimer:</strong> Although several edits were made to make the music easily implemented within the Unreal Engine, it is highly recommended to use audio middleware such as FMOD or Wwise to implement the music.</p><p><br /></p><p>For inquiries and suggestions email: daniel.sinagra&#64;hotmail.com</p><p><br /></p><p><strong>Art: </strong></p><p>Background Image - Adobe Stock</p><p>Text - Travis Gerada https://www.behance.net/travisgerada?log_shim_removal&#61;1</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dark-light-tension-and-combat-adaptive-music-systems",
+  "creationDate": "2023-09-22T09:14:26.992Z",
+  "lastModifiedDate": "2024-09-27T17:57:06.123Z",
+  "effectiveDate": "2023-09-22T09:24:48.356Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zaqwkkuf5tdmz86z8kztzgtrs5c7kn",
+    "name": "Daniel Sinagra"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Number of Audio Wavs:</strong> 130</p><p><strong>Sample rate / bit rate:</strong> 44,100 Hz/ 16 bit</p><p><strong>Does music loop:</strong> Yes</p><p><strong>Minutes of audio provided:</strong> 168 Minutes</p><p><strong>Documentation:</strong> <a href=\"https://drive.google.com/file/d/1uMsjQbvd0UEG_nzC1tLrazValck-84SX/view\" rel=\"nofollow\">User Manual</a></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "16025c04-9c73-4689-a9c2-5378dac9dacd"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920x1080-1920x1080-e0ae4e7bc648f3a174ae96971165269a.png",
+      "md5": "e0ae4e7bc648f3a174ae96971165269a",
+      "size": 2696505,
+      "uploadedDate": "2023-09-17T08:57:04.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DarkLightTensionandCombatAdaptiveMusicSystems_thumb-284x284-23b8876f57283909d86b6a1adde80474.png",
+      "md5": "23b8876f57283909d86b6a1adde80474",
+      "size": 166810,
+      "uploadedDate": "2023-09-17T08:57:05.515Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DarkLightTensionandCombatAdaptiveMusicSystems_featured-894x488-2876732aa56a05ac796f15ca65d9da08.png",
+      "md5": "2876732aa56a05ac796f15ca65d9da08",
+      "size": 853328,
+      "uploadedDate": "2023-09-17T08:57:05.726Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080-1920x1080-e0ae4e7bc648f3a174ae96971165269a_Snapshot.png",
+      "md5": "4398d89c01ecd765f097bc464829a12a",
+      "size": 8400,
+      "uploadedDate": "2023-09-17T08:57:05.406Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a84217dd12f44615961fd444350a41c2"
+    }
+  ],
+  "catalogNs": null
+}

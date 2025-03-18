@@ -1,0 +1,308 @@
+{
+  "id": "e5eeaa97a7d64af88f37cc114220b728",
+  "namespace": "ue",
+  "title": "Fish Icons Game SET",
+  "description": "This pack contains 100 fish and marine inhabitants",
+  "longDescription": "<p>Set of 100 high quality icons: fish, algae, shells, jellyfish, shrimp, starfish, jellyfish, corals. 100 unique icons 250x250 px &#43; empty cell &#43; 4 frames 270x270 px.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fish-icons-game-set",
+  "creationDate": "2023-07-10T11:31:04.428Z",
+  "lastModifiedDate": "2024-09-30T00:02:53.991Z",
+  "effectiveDate": "2023-07-10T11:31:04.386Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9xfelz6r7tktyf259lazdf4gx9fn7d",
+    "name": "eflaxy"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>2D Icons</li><li>Blue background</li><li>50 fish</li><li>50 marine inhabitants</li><li>4 frames</li><li>1 empty cell</li></ul><p>Number of Textures: 105</p><p>Texture Resolutions: 250x250 px, 270x270 px.</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1202",
+      "name": "THRILLER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:58.684Z",
+      "updated": "2019-06-20T11:59:58.684Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "258f4fc1-b7fc-4ff0-8c0b-8d33e6f6cdfc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-b4519cc6c6240eb60f57e0af2fad553f.jpg",
+      "md5": "b4519cc6c6240eb60f57e0af2fad553f",
+      "size": 744455,
+      "uploadedDate": "2023-07-07T19:15:45.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-f0d77aadc9a04b328ee4f4058a017ef0.jpg",
+      "md5": "f0d77aadc9a04b328ee4f4058a017ef0",
+      "size": 1187449,
+      "uploadedDate": "2023-07-07T19:15:46.290Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-524738fc09ebd4703b653e15911adf3b.jpg",
+      "md5": "524738fc09ebd4703b653e15911adf3b",
+      "size": 1063414,
+      "uploadedDate": "2023-07-07T19:15:46.938Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-a78685c8b3f6867d2f91df657eb6959a.jpg",
+      "md5": "a78685c8b3f6867d2f91df657eb6959a",
+      "size": 370461,
+      "uploadedDate": "2023-07-07T19:15:47.435Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FishIconsGameSET_thumb-284x284-5b12d1c891655d60d685e2da63701666.png",
+      "md5": "5b12d1c891655d60d685e2da63701666",
+      "size": 106883,
+      "uploadedDate": "2023-07-07T19:15:47.741Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FishIconsGameSET_featured-894x488-3d5d939a6ee1a0bd1cee1345a72549ac.png",
+      "md5": "3d5d939a6ee1a0bd1cee1345a72549ac",
+      "size": 345130,
+      "uploadedDate": "2023-07-07T19:15:47.859Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-b4519cc6c6240eb60f57e0af2fad553f_Snapshot.jpg",
+      "md5": "8c04f8877e1a385423076a7a4cb26507",
+      "size": 8315,
+      "uploadedDate": "2023-07-07T19:15:46.120Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-f0d77aadc9a04b328ee4f4058a017ef0_Snapshot.jpg",
+      "md5": "941b92809a022858531837c1274f5bef",
+      "size": 8813,
+      "uploadedDate": "2023-07-07T19:15:46.719Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-524738fc09ebd4703b653e15911adf3b_Snapshot.jpg",
+      "md5": "c0ee72a6aef1273823c30b024e6a07ab",
+      "size": 8727,
+      "uploadedDate": "2023-07-07T19:15:47.201Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-a78685c8b3f6867d2f91df657eb6959a_Snapshot.jpg",
+      "md5": "cf1f8a880439dcf8fd59ebd3ea9c1ea5",
+      "size": 4417,
+      "uploadedDate": "2023-07-07T19:15:47.664Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dfcb432acd8e4dd3936fe964de9634c6"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,242 @@
+{
+  "id": "319f6c3d48bc4b3598465309b17e2b2a",
+  "namespace": "ue",
+  "title": "Valkyries",
+  "description": "Meet the fearless maidens of war, guarding the justice of the nine worlds!",
+  "longDescription": "<p>The set includes 300 images of Valkyries in various styles. The images can be used as avatars for characters in your game.</p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "valkyries",
+  "creationDate": "2024-04-21T15:09:29.958Z",
+  "lastModifiedDate": "2024-09-27T15:38:46.823Z",
+  "effectiveDate": "2024-04-21T15:09:29.926Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Textures: 300</p><p>Texture Resolutions: 512x1024</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Dream AI</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c80eca3a-bb11-4410-96e6-2bcee24b80f3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/valkyrielogo-1920x1080-64350b17e1b588f79dd513a5d7b6a2ea.jpg",
+      "md5": "64350b17e1b588f79dd513a5d7b6a2ea",
+      "size": 2284830,
+      "uploadedDate": "2024-04-19T17:27:40.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/valkyrielogo2-1920x1080-cafb4686eadc4a01d289cac757d9125d.jpg",
+      "md5": "cafb4686eadc4a01d289cac757d9125d",
+      "size": 1345089,
+      "uploadedDate": "2024-04-19T17:27:41.929Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/valkyrielogo3-1920x1080-689f3f8b0be3047edd360d369252b7da.jpg",
+      "md5": "689f3f8b0be3047edd360d369252b7da",
+      "size": 2693876,
+      "uploadedDate": "2024-04-19T17:27:42.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/valkyrielogo4-1920x1080-9376ca215c47bab798c3dd4904b01d02.jpg",
+      "md5": "9376ca215c47bab798c3dd4904b01d02",
+      "size": 2410948,
+      "uploadedDate": "2024-04-19T17:27:43.599Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/valkyrielogo5-1920x1080-0ec3040ebabceb90e61451c885212369.jpg",
+      "md5": "0ec3040ebabceb90e61451c885212369",
+      "size": 1493343,
+      "uploadedDate": "2024-04-19T17:27:44.477Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Valkyries_thumb-284x284-bae19f818db99488130acc1ea0f769a6.png",
+      "md5": "bae19f818db99488130acc1ea0f769a6",
+      "size": 186856,
+      "uploadedDate": "2024-04-19T17:27:45.081Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Valkyries_featured-894x488-726fc82c52ba0047588a759f2b80acea.png",
+      "md5": "726fc82c52ba0047588a759f2b80acea",
+      "size": 957673,
+      "uploadedDate": "2024-04-19T17:27:45.237Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/valkyrielogo-1920x1080-64350b17e1b588f79dd513a5d7b6a2ea_Snapshot.jpg",
+      "md5": "41a55f73cacc4c3cd7ca7f040d317b90",
+      "size": 10923,
+      "uploadedDate": "2024-04-19T17:27:41.573Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/valkyrielogo2-1920x1080-cafb4686eadc4a01d289cac757d9125d_Snapshot.jpg",
+      "md5": "1e87c31b3b95fc7faf046a353cee129d",
+      "size": 10985,
+      "uploadedDate": "2024-04-19T17:27:42.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/valkyrielogo3-1920x1080-689f3f8b0be3047edd360d369252b7da_Snapshot.jpg",
+      "md5": "e76c4f447c6abf70f156439db228b752",
+      "size": 12924,
+      "uploadedDate": "2024-04-19T17:27:43.291Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/valkyrielogo4-1920x1080-9376ca215c47bab798c3dd4904b01d02_Snapshot.jpg",
+      "md5": "6bd9b73b17a735bffb47fba6a13aca86",
+      "size": 13305,
+      "uploadedDate": "2024-04-19T17:27:44.194Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/valkyrielogo5-1920x1080-0ec3040ebabceb90e61451c885212369_Snapshot.jpg",
+      "md5": "d93aa8dfb6e04586e7cd5f488efe945b",
+      "size": 12594,
+      "uploadedDate": "2024-04-19T17:27:44.969Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f7f52c66a6764cd7a9e996d36f12a5ec"
+    }
+  ],
+  "catalogNs": null
+}

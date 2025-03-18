@@ -1,0 +1,368 @@
+{
+  "id": "53676c92a7eb4c8ca408d86a4d42e0ac",
+  "namespace": "ue",
+  "title": "Universal MP Indicator",
+  "description": "Universal On and Off Screen Indicator for an Actor or Target location.",
+  "longDescription": "<p><a href=\"https://youtu.be/_ILWYnWNtOs\" rel=\"nofollow\">Preview:</a></p><p><a href=\"https://youtu.be/CstKtGoNVAA\" rel=\"nofollow\">How to use Video:</a></p><p><a href=\"https://docs.google.com/document/d/1ZaLk0eYxwFqTZ1PERzB6GyKYRUfj79QhDFOrKr9iUqw/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation:</a></p><p>This is a plugin that tracks an actor or position and works in two ways: on screen and off screen. They have most customizable features and can use images or materials and animate it. Can be used as a position, NPC, enemy, damage indicator, or any target.</p><p><br /></p><p>Everything is written in C&#43;&#43; and optimized for direct use in the game using blueprints.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "universal-mp-indicator",
+  "creationDate": "2023-04-01T18:33:49.134Z",
+  "lastModifiedDate": "2024-09-27T19:45:16.982Z",
+  "effectiveDate": "2023-04-01T18:33:49.086Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vana9b4aqj8haaee5yf4zwmantls28",
+    "name": "UnexGames"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Version 1.0 (UE 4.27-5.1):</p><ul><li> Written in C&#43;&#43;,</li><li> Simple to use with blueprint,</li><li> Widget(2D Screen Space) based,</li><li>Supports all game modes,</li><li>Actor bound offset,</li><li>Have Scale, rotation, opacity, pulse and other effects,</li><li>UI materials are supported,</li><li>Customizable texture, size, pivot, color, location, materials and other,</li><li>Two Off-Screen modes: Circle and on Screen Edge,</li><li>Distance based visibility,</li><li>Reach System,</li><li>Life Span,</li><li>Circular Type,</li><li>Data Table Usage Included,</li><li>A lot of demo Indicators with image or materials,</li><li>A lot of demo Data Table Presets.</li></ul><p>Version 1.1 (UE 5.2):</p><ul><li><a href=\"https://discord.com/channels/1072770331724501023/1072770754892026016/1193137785243181207\" rel=\"nofollow\">Discord Support Server</a></li></ul><p>Version 1.2 (UE 5.3):</p><ul><li><a href=\"https://discord.com/channels/1072770331724501023/1072770754892026016/1193137785243181207\" rel=\"nofollow\">Discord Support Server</a></li></ul><p><br /></p><p>Code Modules:</p><ul><li> UniversalMPIndicator (RunTime)</li></ul><p><br /></p><p>Number of Blueprints: 1 [DataTable] 1 [Widget]</p><p>Number of C&#43;&#43; Classes: 15</p><p>Number of Textures: 16</p><p>Texture Resolutions: (256 x 256)</p><p>Number of Materials: 1 (MasterMaterial) 9 (Material Instances)</p><p>Network Replicated: (Owner Only)</p><p>Supported Development Platforms: (Windows, MacOS)</p><p>Supported Target Build Platforms: (Windows, MacOS)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6d676b66-d7bf-4f86-8f03-7083106333cb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image-1920x1080-17f22c0826ef6a95734ce32d5d666194.png",
+      "md5": "17f22c0826ef6a95734ce32d5d666194",
+      "size": 1994168,
+      "uploadedDate": "2023-03-25T12:19:36.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled1-1920x1080-2dc8663a980a778666c216afd3ea4a1f.png",
+      "md5": "2dc8663a980a778666c216afd3ea4a1f",
+      "size": 2643495,
+      "uploadedDate": "2023-03-25T15:04:35.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled2 1-1920x1080-22cf711593c2aa052737ccd304bde16d.png",
+      "md5": "22cf711593c2aa052737ccd304bde16d",
+      "size": 1774004,
+      "uploadedDate": "2023-03-25T15:04:34.917Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled3 1-1920x1080-f7e9d2702ae745061d05f52031e6354f.png",
+      "md5": "f7e9d2702ae745061d05f52031e6354f",
+      "size": 1531385,
+      "uploadedDate": "2023-03-25T15:04:34.419Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Untitled4 2-1920x1080-6afcdda1a1c38aa3c1252fb28205a18d.png",
+      "md5": "6afcdda1a1c38aa3c1252fb28205a18d",
+      "size": 1584879,
+      "uploadedDate": "2023-03-25T15:04:33.965Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/image2-1920x1080-8c41650b2898e0fd8f29de7b732d1a52.png",
+      "md5": "8c41650b2898e0fd8f29de7b732d1a52",
+      "size": 398914,
+      "uploadedDate": "2023-03-25T13:56:48.450Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image3-1920x1080-719f109354ae6fda38e9df8a28bc6a9e.png",
+      "md5": "719f109354ae6fda38e9df8a28bc6a9e",
+      "size": 545607,
+      "uploadedDate": "2023-03-25T13:56:48.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UniversalMPIndicator_thumb-284x284-7d0dc9b5c10047bcd376cca1654b4f46.png",
+      "md5": "7d0dc9b5c10047bcd376cca1654b4f46",
+      "size": 108179,
+      "uploadedDate": "2023-03-25T12:18:10.239Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UniversalMPIndicator_featured-894x488-1b4d830c48539ae90d29c05ea384062d.png",
+      "md5": "1b4d830c48539ae90d29c05ea384062d",
+      "size": 457575,
+      "uploadedDate": "2023-03-25T12:18:10.366Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled4 2-1920x1080-6afcdda1a1c38aa3c1252fb28205a18d_Snapshot.png",
+      "md5": "32dfb1398c0938f27f2050f112f30316",
+      "size": 4530,
+      "uploadedDate": "2023-03-25T15:04:34.247Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled3 1-1920x1080-f7e9d2702ae745061d05f52031e6354f_Snapshot.png",
+      "md5": "4465c977baa70342f2886788946b8786",
+      "size": 5778,
+      "uploadedDate": "2023-03-25T15:04:34.709Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled2 1-1920x1080-22cf711593c2aa052737ccd304bde16d_Snapshot.png",
+      "md5": "4eab7e9023851ddb54ae10a44ee2f128",
+      "size": 6871,
+      "uploadedDate": "2023-03-25T15:04:35.269Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Untitled1-1920x1080-2dc8663a980a778666c216afd3ea4a1f_Snapshot.png",
+      "md5": "dc859f3840c4cffef8b48c5cb0ee0c4d",
+      "size": 4667,
+      "uploadedDate": "2023-03-25T15:04:35.808Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image4-1920x1080-a9b2f64cf896ba9a312e41ca73fe8947_Snapshot.png",
+      "md5": "08ce581d624ad24796ce6097f629b86d",
+      "size": 3494,
+      "uploadedDate": "2023-03-25T15:04:36.109Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image3-1920x1080-719f109354ae6fda38e9df8a28bc6a9e_Snapshot.png",
+      "md5": "815429b36f55af75ff8a720177c61e00",
+      "size": 4594,
+      "uploadedDate": "2023-03-25T13:56:48.331Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image2-1920x1080-8c41650b2898e0fd8f29de7b732d1a52_Snapshot.png",
+      "md5": "e3c7a1544fc5a9cb48ee12ab28d35f67",
+      "size": 4153,
+      "uploadedDate": "2023-03-25T13:56:48.649Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/image-1920x1080-17f22c0826ef6a95734ce32d5d666194_Snapshot.png",
+      "md5": "f9354b34c64c3158cea5642825e6673f",
+      "size": 6136,
+      "uploadedDate": "2023-03-25T12:19:36.932Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/StatPureFunctionList-1920x1080-f46f0c9033aad8d797e1616cba1e75e5_Snapshot.png",
+      "md5": "2ae18f36751370a14d22f9fdc6bacd0f",
+      "size": 3691,
+      "uploadedDate": "2023-03-24T15:27:24.378Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "658f4ce504974079a5496ab910811850"
+    }
+  ],
+  "catalogNs": null
+}

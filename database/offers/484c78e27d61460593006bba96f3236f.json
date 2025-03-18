@@ -1,0 +1,320 @@
+{
+  "id": "484c78e27d61460593006bba96f3236f",
+  "namespace": "ue",
+  "title": "Stylized Background Pixel Art 50",
+  "description": "A set of 50 background stylized pixel images of nature and architecture.",
+  "longDescription": "<p>This set includes over 50 pixelated 2D images of nature and architecture in different styles - from classic to modern pixel solutions.</p><p><br /></p><p>Various landscapes: mountains, forests, seas, lakes, deserts, fields, waterfalls, villages, cities in the daytime, sunset and evening. Each image is 5824x3264 pixels.</p><p><br /></p><p>This pack is perfect to use as pixel backgrounds for games, applications, visual novels, character backgrounds, theme backgrounds, loading page, dialogue page.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-background-pixel-art-50",
+  "creationDate": "2023-06-09T21:18:47.768Z",
+  "lastModifiedDate": "2024-09-30T09:29:57.421Z",
+  "effectiveDate": "2023-06-09T21:18:47.721Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2rxhppg7mzhrxuxtegucekfhwaf6zs",
+    "name": "morgansovka"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Resolutions 5824x3264 pixels</li><li>Number of Icons: 50</li><li>Supported Development Platforms:</li><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1221",
+      "name": "BULLET TIME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.164Z",
+      "updated": "2019-06-20T12:00:08.164Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1237",
+      "name": "STORY RICH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.304Z",
+      "updated": "2023-08-01T18:12:20.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 157,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1238",
+      "name": "WORLD WAR I",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.794Z",
+      "updated": "2019-06-20T12:00:16.794Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "29b02ade-3544-469d-9308-ca3ffb0dc179"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-376f92a69df78e1265a4b3b2b5ce9939.jpg",
+      "md5": "376f92a69df78e1265a4b3b2b5ce9939",
+      "size": 656217,
+      "uploadedDate": "2023-06-05T15:16:37.508Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MyCollages 20-1920x1080-007440a148f5ef7ad6cc216ba3bba08b.jpg",
+      "md5": "007440a148f5ef7ad6cc216ba3bba08b",
+      "size": 580430,
+      "uploadedDate": "2023-06-05T15:16:38.238Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MyCollages 19-1920x1080-ddf01343932e34230fd432eafcc3cc29.jpg",
+      "md5": "ddf01343932e34230fd432eafcc3cc29",
+      "size": 599525,
+      "uploadedDate": "2023-06-05T15:16:38.701Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MyCollages 18-1920x1080-1d8df32cf3a98a56028cd7e35ecc6c9f.jpg",
+      "md5": "1d8df32cf3a98a56028cd7e35ecc6c9f",
+      "size": 1324679,
+      "uploadedDate": "2023-06-05T15:16:39.288Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedBackgroundPixelArt50_thumb-284x284-ff30639e0fccd10d87240c406de71169.png",
+      "md5": "ff30639e0fccd10d87240c406de71169",
+      "size": 95442,
+      "uploadedDate": "2023-06-05T15:16:39.961Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedBackgroundPixelArt50_featured-894x488-41cf19e310bfb20f839708edd5a4ae20.png",
+      "md5": "41cf19e310bfb20f839708edd5a4ae20",
+      "size": 420315,
+      "uploadedDate": "2023-06-05T15:16:40.014Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-376f92a69df78e1265a4b3b2b5ce9939_Snapshot.jpg",
+      "md5": "e7335e8b09372c9bc2f349aa4a477837",
+      "size": 8019,
+      "uploadedDate": "2023-06-05T15:16:38.085Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MyCollages 20-1920x1080-007440a148f5ef7ad6cc216ba3bba08b_Snapshot.jpg",
+      "md5": "7d5bce0063dcc4b5e9467d6f4f5611a0",
+      "size": 8739,
+      "uploadedDate": "2023-06-05T15:16:38.563Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MyCollages 19-1920x1080-ddf01343932e34230fd432eafcc3cc29_Snapshot.jpg",
+      "md5": "c77de07ef89d880b88e01b6e83aa4a88",
+      "size": 9022,
+      "uploadedDate": "2023-06-05T15:16:39.006Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MyCollages 18-1920x1080-1d8df32cf3a98a56028cd7e35ecc6c9f_Snapshot.jpg",
+      "md5": "85e7c37bb58748d42b64df09f5a5f2a9",
+      "size": 8958,
+      "uploadedDate": "2023-06-05T15:16:39.912Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c328eab1d7ae4b9bb591842aca3d6011"
+    }
+  ],
+  "catalogNs": null
+}

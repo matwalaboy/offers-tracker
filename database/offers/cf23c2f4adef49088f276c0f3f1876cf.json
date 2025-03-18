@@ -1,0 +1,248 @@
+{
+  "id": "cf23c2f4adef49088f276c0f3f1876cf",
+  "namespace": "ue",
+  "title": "Stylized Rings - Icons Pack",
+  "description": "100 stylized rings pictures without backgrounds",
+  "longDescription": "<p>This collection features 100 stylized rings artworks. Includes a variety of different appearances, outfits, expressions, and poses. Ideal for Visual Novels, Character Profiles, Themed Stories, Storytelling, Store Listings, Role-Playing Games (RPG), Adventure Games, Main Characters, Loading Screens, Dialogue Pages, Trading Card Games (TCG), User Interfaces (UI), and more.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-rings",
+  "creationDate": "2024-05-27T20:20:11.813Z",
+  "lastModifiedDate": "2024-09-30T20:37:48.779Z",
+  "effectiveDate": "2024-05-27T20:20:11.781Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>100 high-quality stylized rings picture</li><li>Diverse designs with different seasons, colors, outfits, and expressions</li><li>Various character poses and interactions</li></ul><p>Number of all textures: 300</p><p>256*256 - 100 png images</p><p>515*512 - 100 png images</p><p>1024*1024 - 100 png images</p><p><br /></p><p>Texture Resolutions: 1024*1024</p><p>Supported Development Platforms:</p><ul><li>Windows: Yes</li><li>Mac: Yes</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9de5e9aa-67e7-43ce-8386-e4aeb4c380eb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-82f89b0d5fdda5f8b3297999f492dc7a.jpg",
+      "md5": "82f89b0d5fdda5f8b3297999f492dc7a",
+      "size": 143458,
+      "uploadedDate": "2024-05-27T17:45:02.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-9a8767c29d7a59568fc64634b0c49225.jpg",
+      "md5": "9a8767c29d7a59568fc64634b0c49225",
+      "size": 221199,
+      "uploadedDate": "2024-05-27T17:45:02.554Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedRings_thumb-284x284-aa7d2f763682bb5b73df8c6c9c871068.png",
+      "md5": "aa7d2f763682bb5b73df8c6c9c871068",
+      "size": 86858,
+      "uploadedDate": "2024-05-27T18:53:30.038Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedRings_featured-894x488-82fab13a4e42c8205849a5a38498f39e.png",
+      "md5": "82fab13a4e42c8205849a5a38498f39e",
+      "size": 366325,
+      "uploadedDate": "2024-05-27T17:45:03.072Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-82f89b0d5fdda5f8b3297999f492dc7a_Snapshot.jpg",
+      "md5": "6dd7f38cda090eee74548bdce570207e",
+      "size": 6038,
+      "uploadedDate": "2024-05-27T17:45:02.392Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-9a8767c29d7a59568fc64634b0c49225_Snapshot.jpg",
+      "md5": "a58c87da5b0a41111dabb68732cdb63f",
+      "size": 9693,
+      "uploadedDate": "2024-05-27T17:45:02.861Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6c3366f57e9a420c92e68776e6713460"
+    }
+  ],
+  "catalogNs": null
+}

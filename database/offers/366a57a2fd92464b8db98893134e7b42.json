@@ -1,0 +1,326 @@
+{
+  "id": "366a57a2fd92464b8db98893134e7b42",
+  "namespace": "ue",
+  "title": "Fantasy Realm City Pack",
+  "description": "Whether you're building expansive open worlds or intricately detailed linear levels, this pack provides everything you need to bring your vision to life.",
+  "longDescription": "<p><a href=\"https://youtu.be/0rbgmc5U4b4\" rel=\"nofollow\">Video Walkthrough</a></p><p><a href=\"https://youtu.be/O3Ez59o5jjk\" rel=\"nofollow\">Pack breakdown</a></p><p><br /></p><p>Embark on a journey of limitless imagination with our exquisite Fantasy Realm City Pack, featuring an extensive collection of 100 meticulously designed assets. Whether you&#39;re building expansive open worlds or intricately detailed linear levels, this pack provides everything you need to bring your vision to life.</p><p>‌</p><p>Discover a treasure trove of uniquely crafted meshes, each thoughtfully equipped with materials, textures, lods, and collision setups to ensure unparalleled performance. Our modular design approach simplifies the creative process, making it as easy as drag-and-drop to craft the level of your dreams.</p><p>‌</p><p>To fuel your inspiration, we&#39;ve included an awe-inspiring example level, showcasing the breathtaking possibilities at your fingertips. Enhanced with stunning lighting and post-processing effects, you&#39;ll find yourself immersed in game-ready art, mirroring the captivating scenes displayed in our vibrant screen shots.</p><p>‌</p><p>Unleash your creativity and forge your own fantastical realms with the Fantasy Realm City Pack today! Your imagination knows no bounds!</p><p><br /></p><p><a href=\"https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/\" rel=\"nofollow\">This product supports Lumen for Unreal Engine 5.0&#43;</a></p><p>This product supports Nanite for Unreal Engine 5.0&#43;</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-realm-city-pack",
+  "creationDate": "2023-08-23T18:23:41.944Z",
+  "lastModifiedDate": "2024-09-30T11:28:13.022Z",
+  "effectiveDate": "2023-08-23T18:23:41.908Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3gw8zexfa3s4awxy625lb8f9knepfd",
+    "name": "CrescentDialGames"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Key Features:</strong></p><ul><li>Modular components - Just drag and drop</li><li>Lots of props included allowing you to personalize to your own taste</li><li>Lighting and post-processing included in example map</li><li>Parallax occlusion shaders and height maps added for extra level of detail</li></ul><p><br /></p><p>Number of Unique Meshes: 100</p><p>Collision: Automatically generated</p><p><br /></p><p><strong>Asset list</strong></p><p>28 Building components with detailed building for close up detail and lower for more distance buildings including shop signs and attachments. Vertex Count: High detail buildings: 2000 - 5,000, Low detail buildings: 300 - 600, Signs and attachments: 32-400</p><p><br /></p><p>8 foliage assets including trees, bushes, plants and grass with numerous variations allowing you to create the over grow levels with an organic feel. Vertex Count, Trees: 500 - 13,000, Plants / Bushes: 200 - 500, Grass : 100-1000</p><p><br /></p><p>2 Organic assets such as rocks &amp; grounds. Vertex Count: Rocks: 1000 - 1500, Grounds: 400 - 600</p><p><br /></p><p>13 Ground assets with damage, bridges, turns and hill variants. Vertex Count: Roads:400 - 2000</p><p><br /></p><p>61 Props and structures ranging from sandbags and barb wire, to dumpsters and rubbish adding the finishing details to this post-apocalyptic living breathing world. Vertex Count: Roads:200 - 3000</p><p><br /></p><p><strong>Materials/Textures</strong></p><p>Number of Materials: 7</p><p>Material Instances: 58</p><p>Number of Textures: 106</p><p><br /></p><p><strong>Texture Resolutions:</strong></p><p>8192 for large rock/cliff</p><p>4096 trim textures for large buildings, structures</p><p>2048, 1024, 512 for smaller deco, props, and foliage</p><p><br /></p><p><strong>Supported Development Platforms:</strong></p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "88529829-9e3c-4610-a1af-70e053de4859"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 5-1920x1080-426c71f2fb61128b94973d60d8cf1b9a.png",
+      "md5": "426c71f2fb61128b94973d60d8cf1b9a",
+      "size": 2697655,
+      "uploadedDate": "2023-08-07T13:22:57.718Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 4B-1920x1080-494b94a00fc9640685361fd375e01e75.png",
+      "md5": "494b94a00fc9640685361fd375e01e75",
+      "size": 2811879,
+      "uploadedDate": "2023-08-20T09:47:52.121Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 6-1920x1080-4dc4ee7d141b9ac485963bf70e888bc1.png",
+      "md5": "4dc4ee7d141b9ac485963bf70e888bc1",
+      "size": 2239785,
+      "uploadedDate": "2023-08-07T13:22:59.141Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 7-1920x1080-e18fc23922ef9ff1b4f2213c0711d10c.png",
+      "md5": "e18fc23922ef9ff1b4f2213c0711d10c",
+      "size": 2944844,
+      "uploadedDate": "2023-08-07T13:22:59.917Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 9-1920x1080-f52acd12361b582e16e373b2387d754a.png",
+      "md5": "f52acd12361b582e16e373b2387d754a",
+      "size": 2650080,
+      "uploadedDate": "2023-08-07T13:23:01.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 10-1920x1080-e379c1122270a45456763f8cf4a839aa.png",
+      "md5": "e379c1122270a45456763f8cf4a839aa",
+      "size": 2453108,
+      "uploadedDate": "2023-08-07T13:23:02.048Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 11-1920x1080-117ed07541d94ef6273beac7bb8f2f97.png",
+      "md5": "117ed07541d94ef6273beac7bb8f2f97",
+      "size": 2090456,
+      "uploadedDate": "2023-08-07T13:23:02.776Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Frame 8B-1920x1080-d265012315f1a45cb27ba95c855d705c.png",
+      "md5": "d265012315f1a45cb27ba95c855d705c",
+      "size": 2271867,
+      "uploadedDate": "2023-08-20T09:47:52.817Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyRealmCityPack_thumb-284x284-e5ce6e78d602e562db8a670f4ecc9e79.png",
+      "md5": "e5ce6e78d602e562db8a670f4ecc9e79",
+      "size": 178445,
+      "uploadedDate": "2023-08-07T13:23:03.286Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyRealmCityPack_featured-894x488-4b563ef7806028c8b0b2cb87bbeaa140.png",
+      "md5": "4b563ef7806028c8b0b2cb87bbeaa140",
+      "size": 854439,
+      "uploadedDate": "2023-08-07T13:23:03.464Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 4B-1920x1080-494b94a00fc9640685361fd375e01e75_Snapshot.png",
+      "md5": "1c1620cd2594e8b52bfe4d721a46533f",
+      "size": 9596,
+      "uploadedDate": "2023-08-20T09:47:52.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 8B-1920x1080-d265012315f1a45cb27ba95c855d705c_Snapshot.png",
+      "md5": "cc547664f9db74a15a3078c1871d2afa",
+      "size": 7054,
+      "uploadedDate": "2023-08-20T09:47:53.252Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 5-1920x1080-426c71f2fb61128b94973d60d8cf1b9a_Snapshot.png",
+      "md5": "260111bc1713397753068eb4aebd8d7e",
+      "size": 9228,
+      "uploadedDate": "2023-08-07T13:22:58.159Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 4-1920x1080-ae7edd3921d6c9fe10d2e0386e975d86_Snapshot.png",
+      "md5": "364314eef2f63d781496828374865f21",
+      "size": 9643,
+      "uploadedDate": "2023-08-07T13:22:58.931Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 6-1920x1080-4dc4ee7d141b9ac485963bf70e888bc1_Snapshot.png",
+      "md5": "5090d77a1fc6865bb90a80f25441841d",
+      "size": 7638,
+      "uploadedDate": "2023-08-07T13:22:59.593Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 7-1920x1080-e18fc23922ef9ff1b4f2213c0711d10c_Snapshot.png",
+      "md5": "c8d0958c0ba886fdb2bae649c2a763d5",
+      "size": 10215,
+      "uploadedDate": "2023-08-07T13:23:00.373Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 8-1920x1080-4105a4c1d624c496fabc27736ee412bd_Snapshot.png",
+      "md5": "edb099d0468b64acdc0e1aece6da5e91",
+      "size": 7253,
+      "uploadedDate": "2023-08-07T13:23:01.093Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 9-1920x1080-f52acd12361b582e16e373b2387d754a_Snapshot.png",
+      "md5": "ac32c6e5e0ba10619ba0ef521293377e",
+      "size": 9168,
+      "uploadedDate": "2023-08-07T13:23:01.790Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 10-1920x1080-e379c1122270a45456763f8cf4a839aa_Snapshot.png",
+      "md5": "8e286240c143042e762783be28638197",
+      "size": 8216,
+      "uploadedDate": "2023-08-07T13:23:02.535Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Frame 11-1920x1080-117ed07541d94ef6273beac7bb8f2f97_Snapshot.png",
+      "md5": "7ef12f4c5fa53289740621adee7ba302",
+      "size": 7252,
+      "uploadedDate": "2023-08-07T13:23:03.200Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "18cf56f9872a4e85a4238395d8ad33d6"
+    }
+  ],
+  "catalogNs": null
+}

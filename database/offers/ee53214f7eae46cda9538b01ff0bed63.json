@@ -1,0 +1,230 @@
+{
+  "id": "ee53214f7eae46cda9538b01ff0bed63",
+  "namespace": "ue",
+  "title": "Vegetation Vol.3 - Stones",
+  "description": "This pack includes 50 meshes ideal for populating and bringing life to your scene.",
+  "longDescription": "<p>This pack is designed to enrich your natural environments with a unique style, ideal for developers looking to add an artistic and authentic touch to their settings.</p><p><strong>Artwork created by the team at Six Sides Studios.</strong></p><p><strong>Featuring the unique stylized visual signature exclusive to Six Sides Studios.</strong></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vegetation-vol-3-stones",
+  "creationDate": "2024-08-19T17:55:55.699Z",
+  "lastModifiedDate": "2024-09-26T19:14:47.945Z",
+  "effectiveDate": "2024-08-19T17:55:55.670Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2xe7xcjyj784j3wa85bnl8m6mhkkrk",
+    "name": "Six Sides Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>39 Rocks</li><li>8 Foliage</li><li>5 Ivy</li><li>RVT (Included, eligible)</li></ul><p><br /></p><p>Static Meshes: 50</p><p>Collision: Yes, (Use Default Collision)</p><p>LODs: Yes - 4 LOD levels</p><p>Master Materials: 6</p><p>Material Instances: 18</p><p>Material Functions: 14 (For Impostor in Foliage)</p><p>Textures: 36</p><p>Texture Resolutions: 512X512, 1024X1024, 2048X2048</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "694d5ea9-764f-458c-b1c2-f520562908ec"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IStonesA1-1920x1080-f8dc081a0dad069526b6f721bbbe25e4.jpg",
+      "md5": "f8dc081a0dad069526b6f721bbbe25e4",
+      "size": 656877,
+      "uploadedDate": "2024-08-06T12:15:44.934Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IStonesA2-1920x1080-ff30ba706a68ac6a42d9677c483fe28c.jpg",
+      "md5": "ff30ba706a68ac6a42d9677c483fe28c",
+      "size": 532711,
+      "uploadedDate": "2024-08-06T12:15:45.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IStonesA4-1920x1080-4b5e33a96aecbfd076311172bd12cfdc.jpg",
+      "md5": "4b5e33a96aecbfd076311172bd12cfdc",
+      "size": 725021,
+      "uploadedDate": "2024-08-06T12:15:46.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IStonesA5-1920x1080-22caec6e6fff8102fe9a91737fe5093d.jpg",
+      "md5": "22caec6e6fff8102fe9a91737fe5093d",
+      "size": 634026,
+      "uploadedDate": "2024-08-06T12:15:47.733Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IStonesCapaA2-1920x1080-86bffdc81cfb87a784660340447da844.jpg",
+      "md5": "86bffdc81cfb87a784660340447da844",
+      "size": 692813,
+      "uploadedDate": "2024-08-06T12:27:05.716Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VegetationVol3Stones_thumb-284x284-37a58166b3f8ed63588e3e620e28b7cc.png",
+      "md5": "37a58166b3f8ed63588e3e620e28b7cc",
+      "size": 160727,
+      "uploadedDate": "2024-08-06T12:27:06.522Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VegetationVol3Stones_featured-894x488-6a99cec23ef9a98459931132c1a49fe0.png",
+      "md5": "6a99cec23ef9a98459931132c1a49fe0",
+      "size": 541492,
+      "uploadedDate": "2024-08-06T12:27:06.690Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IStonesCapaA2-1920x1080-86bffdc81cfb87a784660340447da844_Snapshot.jpg",
+      "md5": "93b6746391fabc11d776605c06d26e84",
+      "size": 5797,
+      "uploadedDate": "2024-08-06T12:27:06.266Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IStonesA1-1920x1080-f8dc081a0dad069526b6f721bbbe25e4_Snapshot.jpg",
+      "md5": "4a2b705022dc444c6d8add276b968604",
+      "size": 4467,
+      "uploadedDate": "2024-08-06T12:15:45.484Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IStonesA2-1920x1080-ff30ba706a68ac6a42d9677c483fe28c_Snapshot.jpg",
+      "md5": "d1a6adbd2367780f7269287803978c1f",
+      "size": 3789,
+      "uploadedDate": "2024-08-06T12:15:46.343Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IStonesA4-1920x1080-4b5e33a96aecbfd076311172bd12cfdc_Snapshot.jpg",
+      "md5": "bbd952279438bc33057233f3205cd4cd",
+      "size": 4612,
+      "uploadedDate": "2024-08-06T12:15:47.433Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IStonesA5-1920x1080-22caec6e6fff8102fe9a91737fe5093d_Snapshot.jpg",
+      "md5": "10bf6b35a42a274bf22e72b7d1d1dc4a",
+      "size": 5262,
+      "uploadedDate": "2024-08-06T12:15:48.317Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dcb1ec7d1b2b4f6f93eea49daf032a1f"
+    }
+  ],
+  "catalogNs": null
+}

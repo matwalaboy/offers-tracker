@@ -1,0 +1,233 @@
+{
+  "id": "210d43aa33504d7984e2199a989cf9fe",
+  "namespace": "ue",
+  "title": "Simple Asset Naming Tool",
+  "description": "A simple tool for naming assets in content browser",
+  "longDescription": "<p>Simple Asset Naming Tool (SANT) is a tool for naming assets in content browser. Easy to use!</p><p><a href=\"https://youtu.be/uSUunGUUBJs\" rel=\"nofollow\">Intro Video</a> | <a href=\"https://youtu.be/xp7gr8C8YFU\" rel=\"nofollow\">V1.1 Update</a></p><p>Any technical support or suggestion can send email to tagtocis.noah&#64;proton.me</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-asset-naming-tool",
+  "creationDate": "2020-07-11T00:13:44.702Z",
+  "lastModifiedDate": "2024-09-29T22:31:27.848Z",
+  "effectiveDate": "2020-07-11T00:13:42.435Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dmfx5hxtdl78fmbvx3vytntc9t447c",
+    "name": "TNoah"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Batch Naming</li><li> Prefix &amp; Suffix</li><li> Numbering</li><li> Reordering</li><li> Final Modify</li></ul><p>Code Modules:</p><ul><li> SimpleAssetNamingTool (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Supported Development Platforms: Window</p><p>Supported Target Build Platforms: Editor Only</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9343b261-f320-4d2c-ba8e-a840496d146d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/v1.3-1920x1080-61ace8981d3553ab97ec7bb3c92fd6c0.png",
+      "md5": "61ace8981d3553ab97ec7bb3c92fd6c0",
+      "size": 440509,
+      "uploadedDate": "2024-09-22T09:10:40.277Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleAssetNamingTool_thumb-284x284-526fc7be48a37170e0fb2f1c73df4a4c.png",
+      "md5": "526fc7be48a37170e0fb2f1c73df4a4c",
+      "size": 10760,
+      "uploadedDate": "2020-07-10T18:05:13.991Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleAssetNamingTool_featured-894x488-e232f51da7aaac0380088f875022e2e0.png",
+      "md5": "e232f51da7aaac0380088f875022e2e0",
+      "size": 41742,
+      "uploadedDate": "2020-07-10T18:05:14.065Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/v1.3-1920x1080-61ace8981d3553ab97ec7bb3c92fd6c0_Snapshot.png",
+      "md5": "b12432faed76103d49ae6db2fa99ab71",
+      "size": 5020,
+      "uploadedDate": "2024-09-22T09:10:40.555Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featurenumbering-1920x1080-33458640db4201e4e93eb7561e509731_Snapshot.png",
+      "md5": "cca25a376630278d7f204a0666741e43",
+      "size": 4048,
+      "uploadedDate": "2020-07-11T10:55:41.950Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featureprefixsuffix-1920x1080-d243ab4d8350eaacce5ac51ed8aee48a_Snapshot.png",
+      "md5": "472728340290a943ae2fc31fcfe0ebdf",
+      "size": 4207,
+      "uploadedDate": "2020-07-11T10:55:42.458Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featurereordering-1920x1080-3927d8464f316a6c2a1c978d345caa50_Snapshot.png",
+      "md5": "36114e11400403454baf6a54f7378039",
+      "size": 4141,
+      "uploadedDate": "2020-07-11T10:55:42.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featurefinalmodify-1920x1080-b0be4ae38225287e7e6dc60550880937_Snapshot.png",
+      "md5": "02a745b6bcd45134006ec23797113141",
+      "size": 4451,
+      "uploadedDate": "2020-07-11T10:55:43.375Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featurenumbering-1920x1080-e1de729312290c7544db82aed68e3f7d_Snapshot.png",
+      "md5": "19d80c788a97755cc6e7f7a53550b7ff",
+      "size": 3538,
+      "uploadedDate": "2020-07-10T18:05:12.909Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featureprefixsuffix-1920x1080-b4c1c6adc9c58334f31d52d24143b69c_Snapshot.png",
+      "md5": "b37bf1f29dd673154f0aa6b713a9b34b",
+      "size": 3787,
+      "uploadedDate": "2020-07-10T18:05:13.366Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/featurefinalmodify-1920x1080-ed878e6dfb47f171a20ff4d990e9ecfb_Snapshot.png",
+      "md5": "04731144f9d4dc27da93a9f530f0fba0",
+      "size": 3820,
+      "uploadedDate": "2020-07-10T18:05:13.918Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "64ac5e0b16a84f74a27e012cf7717705"
+    }
+  ],
+  "catalogNs": null
+}

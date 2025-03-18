@@ -1,0 +1,332 @@
+{
+  "id": "25186f13f3c34e7eb49bade19fccb783",
+  "namespace": "ue",
+  "title": "Platformer Hearts and Valentines Pack",
+  "description": "Platformer Hearts and Valentines Pack Is a collection of triple-A assets allowing users to easily and quickly decorate their levels",
+  "longDescription": "<p>Platformer Hearts and Valentines Pack includes decorative Valentines props to add some seasonal flair to your levels or games. Assets come in variety of sizes for decorating but can also be used as power up and health items. The choice is yours!</p><p><br /></p><p>Combine this pack with our other packs for even more assets and let your imagination run free</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/platformer-starter-pack\" rel=\"nofollow\">Platformer Starter Pack</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/platformer-starter-pack-01\" rel=\"nofollow\">Platformer Starter Pack 2</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/slug/platformer-starter-pack-02\" rel=\"nofollow\">Platformer Starter Pack 3</a></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/platformer-christmas-pack\" rel=\"nofollow\">Platformer Christmas Pack</a></li></ul><p><br /></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "platformer-hearts-and-valentines-pack",
+  "creationDate": "2018-01-18T00:23:38.956Z",
+  "lastModifiedDate": "2024-09-27T03:32:12.304Z",
+  "effectiveDate": "2018-01-18T00:23:38.863Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7fabaf0a1d414da80a37995b6ae2e4",
+    "name": "Platfunner"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Includes 58 meshes and 7 Blueprints</li><li> Example level showing you basic uses of all the assets</li><li> Accurate collision on all objects</li><li>PBR Materials</li><li>Customizable Materials</li></ul><p>Texture Sizes:</p><ul><li>28 x (2048x2048)</li><li>2 x (1024x1024) </li></ul><p>Scaled to Epic skeleton: Yes</p><p>Collision: Yes - custom collision on all assets</p><p>Vertex Count: Majority of assets under 600 verts</p><p>LODs: Yes</p><p>Number of Meshes: 58</p><p>Number of Materials and Material Instances: 23</p><p>Number of Textures: 30 PBR Textures</p><p>Supported Development Platforms: Windows, Consoles and possibly mobile</p><p>Supported Target Build Platforms: Windows</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2bd66b3c-dab5-4b9c-87cd-91918dcf81ee"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot01-1920x1080-957981dc2390687f15cda16664ca9457.jpg",
+      "md5": "957981dc2390687f15cda16664ca9457",
+      "size": 797658,
+      "uploadedDate": "2018-01-10T04:28:21.067Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot03-1920x1080-46a8a3588d634fee702c74de99e83d0d.jpg",
+      "md5": "46a8a3588d634fee702c74de99e83d0d",
+      "size": 1567121,
+      "uploadedDate": "2018-01-10T04:28:21.343Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot02-1920x1080-ec06e33a836c6283ffa3d75d0a0fb866.jpg",
+      "md5": "ec06e33a836c6283ffa3d75d0a0fb866",
+      "size": 1347728,
+      "uploadedDate": "2018-01-10T04:28:21.636Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot04-1920x1080-825a089807a1ccf09f21a1655227c396.jpg",
+      "md5": "825a089807a1ccf09f21a1655227c396",
+      "size": 1775737,
+      "uploadedDate": "2018-01-10T04:28:22.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot05-1920x1080-41947468860cffcafd3d11c59692c2a8.jpg",
+      "md5": "41947468860cffcafd3d11c59692c2a8",
+      "size": 2329072,
+      "uploadedDate": "2018-01-10T04:28:22.560Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot06-1920x1080-66e6efe1d3bc4d0f628b0b31ac28b75a.jpg",
+      "md5": "66e6efe1d3bc4d0f628b0b31ac28b75a",
+      "size": 1593907,
+      "uploadedDate": "2018-01-10T04:28:22.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot07-1920x1080-e74b9d345a67539f32bcd897b2573b0b.jpg",
+      "md5": "e74b9d345a67539f32bcd897b2573b0b",
+      "size": 1622561,
+      "uploadedDate": "2018-01-10T04:28:23.149Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot08-1920x1080-c87886538540c2f176ed87b9e322786a.jpg",
+      "md5": "c87886538540c2f176ed87b9e322786a",
+      "size": 1059997,
+      "uploadedDate": "2018-01-10T04:28:23.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/PlatformerHeartandValentinesPack_thumb-284x284-d88ebc506ccce631068f864e39fcb109.png",
+      "md5": "d88ebc506ccce631068f864e39fcb109",
+      "size": 172409,
+      "uploadedDate": "2018-01-10T04:28:23.430Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/PlatformerHeartandValentinesPack_featured-894x488-88b53148985873214b7c84dc22a32f3f.png",
+      "md5": "88b53148985873214b7c84dc22a32f3f",
+      "size": 989635,
+      "uploadedDate": "2018-01-10T04:28:23.566Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "12db1a33ae21498d9b69099c378e5f83"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "fe9e0ea7ef2041689a94f4bca8c74391",
+  "namespace": "ue",
+  "title": "SuperDemon2",
+  "description": "Low-poly model of the character DemonBoss 2 Suitable for games of different genre: RPG, strategy, first-person shooter, etc.",
+  "longDescription": "<p>Textures pack 4096x4096</p><p>3 skins</p><p>materials 6</p><p>textures 27</p><p>extra joins</p><p>Jaw_joint1</p><p>Tail_joint</p><p>Tail_joint1</p><p>Tail_joint2</p><p>Tail_joint3</p><p>Tail_joint4</p><p>Tail_joint5</p><p>Tail_joint6</p><p>Tail_joint7</p><p><br /></p><p>Used UE Sceketon version4</p><p><br /></p><p>the version for the unreal engine contains an epic skeleton and tuned tissue physics</p><p><br /></p><p>The model contains 31</p><p>attack (x7)</p><p>walking (x5)</p><p>running (x2)</p><p>Straif LR (x2)</p><p>idle (x4)</p><p>death (x4)</p><p>gethit (x4)</p><p>rage (x2)</p><p>turn180</p><p><br /></p><p>faces 19311</p><p>verts 18478</p><p>tris 35304</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "superdemon2",
+  "creationDate": "2023-02-18T20:02:00.958Z",
+  "lastModifiedDate": "2024-09-26T16:32:13.120Z",
+  "effectiveDate": "2023-02-18T20:02:00.898Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jpna6b6uhx9v56hxs8gp6tuu7hkfrb",
+    "name": "Panchenko Lyudmila"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>video preview <a href=\"https://www.youtube.com/watch?v&#61;DgxMqgypJIw\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;DgxMqgypJIw</a></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>\tIf rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (Yes)</p><p>Number of Animations: 31</p><p>Animation types (Root Motion/In-place 31 ):</p><p>Number of characters: 1</p><p>Vertex counts of characters: 18478</p><p>Number of Materials and Material Instances: 6</p><p>Number of Textures: 27</p><p>Texture Resolutions: (4096 x 4096 )</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: Link No</p><p>Important/Additional Notes:</p><p>extra joins</p><p>Jaw_joint1</p><p>Tail_joint</p><p>Tail_joint1</p><p>Tail_joint2</p><p>Tail_joint3</p><p>Tail_joint4</p><p>Tail_joint5</p><p>Tail_joint6</p><p>Tail_joint7</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1f4da588-8635-4ceb-8d02-62cfda106ffa"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zzzz 4-1920x1080-547a1c917f76def135316a3321449c24.jpg",
+      "md5": "547a1c917f76def135316a3321449c24",
+      "size": 1120386,
+      "uploadedDate": "2023-02-09T19:38:21.110Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-cb08cca01483c572ad5215ab373306bc.jpg",
+      "md5": "cb08cca01483c572ad5215ab373306bc",
+      "size": 815982,
+      "uploadedDate": "2023-02-09T19:38:21.973Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22-1920x1080-a3863643b995ab02ac562b42f39e359a.jpg",
+      "md5": "a3863643b995ab02ac562b42f39e359a",
+      "size": 919521,
+      "uploadedDate": "2023-02-09T19:38:22.809Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/222-1920x1080-76ee5b72f3a278ed154012195b3f58d3.jpg",
+      "md5": "76ee5b72f3a278ed154012195b3f58d3",
+      "size": 713802,
+      "uploadedDate": "2023-02-09T19:38:23.663Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2222-1920x1080-647d9fd34bbac18cec79139279ce6eed.jpg",
+      "md5": "647d9fd34bbac18cec79139279ce6eed",
+      "size": 923843,
+      "uploadedDate": "2023-02-09T19:38:24.536Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zzzz 1-1920x1080-00c1ca236d2219dc232c6659911171ab.jpg",
+      "md5": "00c1ca236d2219dc232c6659911171ab",
+      "size": 1249430,
+      "uploadedDate": "2023-02-09T19:38:25.405Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zzzz 1-1920x1080-56775da59a3ec6707e0463c008ac0d5d.png",
+      "md5": "56775da59a3ec6707e0463c008ac0d5d",
+      "size": 2640047,
+      "uploadedDate": "2023-02-09T19:38:26.206Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zzzz 2-1920x1080-c23ad5062b877cfad686c6412bd72a8f.jpg",
+      "md5": "c23ad5062b877cfad686c6412bd72a8f",
+      "size": 1364155,
+      "uploadedDate": "2023-02-09T19:38:26.901Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zzzz 3-1920x1080-537ce4b14b21ff2c61d4c2c59fd30db2.jpg",
+      "md5": "537ce4b14b21ff2c61d4c2c59fd30db2",
+      "size": 1183896,
+      "uploadedDate": "2023-02-09T19:38:27.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SuperDemon2_thumb-284x284-e8dc773b9393eccc0e0b58f4839fea41.png",
+      "md5": "e8dc773b9393eccc0e0b58f4839fea41",
+      "size": 136751,
+      "uploadedDate": "2023-02-09T19:38:28.555Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SuperDemon2_featured-894x488-988f8dcd2657634b1c63e4c5e33a7a7d.png",
+      "md5": "988f8dcd2657634b1c63e4c5e33a7a7d",
+      "size": 707335,
+      "uploadedDate": "2023-02-09T19:38:28.700Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zzzz 4-1920x1080-547a1c917f76def135316a3321449c24_Snapshot.jpg",
+      "md5": "03a3cb4b96879f50e792937a623c4cce",
+      "size": 7051,
+      "uploadedDate": "2023-02-09T19:38:21.655Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-cb08cca01483c572ad5215ab373306bc_Snapshot.jpg",
+      "md5": "01158b3c616ba4eb3dc608de9e45a785",
+      "size": 4466,
+      "uploadedDate": "2023-02-09T19:38:22.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22-1920x1080-a3863643b995ab02ac562b42f39e359a_Snapshot.jpg",
+      "md5": "25054dcfdb8256cdc207a671e4925f0f",
+      "size": 4640,
+      "uploadedDate": "2023-02-09T19:38:23.374Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/222-1920x1080-76ee5b72f3a278ed154012195b3f58d3_Snapshot.jpg",
+      "md5": "9496c48b056b3bb2cebeaa166c96a490",
+      "size": 3310,
+      "uploadedDate": "2023-02-09T19:38:24.205Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2222-1920x1080-647d9fd34bbac18cec79139279ce6eed_Snapshot.jpg",
+      "md5": "3125b1222874dfaec1feb0e30da61956",
+      "size": 4785,
+      "uploadedDate": "2023-02-09T19:38:25.106Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zzzz 1-1920x1080-00c1ca236d2219dc232c6659911171ab_Snapshot.jpg",
+      "md5": "156d880f342cf00b3d7b85f7eb1a939d",
+      "size": 6906,
+      "uploadedDate": "2023-02-09T19:38:25.962Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zzzz 1-1920x1080-56775da59a3ec6707e0463c008ac0d5d_Snapshot.png",
+      "md5": "90f56a24a1e7200d71bb2bad1a9defe1",
+      "size": 4767,
+      "uploadedDate": "2023-02-09T19:38:26.584Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zzzz 2-1920x1080-c23ad5062b877cfad686c6412bd72a8f_Snapshot.jpg",
+      "md5": "b0917797f02ab640f1131f5aec40bc19",
+      "size": 6707,
+      "uploadedDate": "2023-02-09T19:38:27.466Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zzzz 3-1920x1080-537ce4b14b21ff2c61d4c2c59fd30db2_Snapshot.jpg",
+      "md5": "5bc6b996ca7c2233213b0314519b3d32",
+      "size": 6966,
+      "uploadedDate": "2023-02-09T19:38:28.425Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "756abc763b6b459fbcc8dbfa6191eb24"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,242 @@
+{
+  "id": "8cc59ea7b678423eb220576c1bc593f6",
+  "namespace": "ue",
+  "title": "Fruits & Berries",
+  "description": "Don't pass by an excellent selection of ripe fruits and juicy berries!",
+  "longDescription": "<p>The set contains images of fruits and berries that can be used by you to create an arcade, strategy, role-playing game or games in other genres. Resources are perfect as a visual display of collected items, in a character’s inventory, etc.</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fruits-berries",
+  "creationDate": "2024-06-06T01:08:08.752Z",
+  "lastModifiedDate": "2024-09-27T15:30:45.326Z",
+  "effectiveDate": "2024-06-06T01:08:08.722Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>The set contains 278 images of the following fruits and berries: </p><p>apple; </p><p>banana; </p><p>blackberry; </p><p>blueberry; </p><p>cherry; </p><p>coconut; </p><p>cowberry; </p><p>cranberry; </p><p>currant; </p><p>gooseberry; </p><p>grape; </p><p>grapefruit; </p><p>kiwi; </p><p>lemon; </p><p>lime; </p><p>mango; </p><p>orange; </p><p>passion fruit; </p><p>pear; </p><p>a pineapple; </p><p>pomegranate; </p><p>raspberries; </p><p>sea ​​​​buckthorn; </p><p>strawberry.</p><p><br /></p><p>Number of Textures: 278.</p><p>Texture Resolutions: 512 x 512 px</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Recraft.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d68eb82a-4287-4780-9c9b-8f9a791256d0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fruitlogo5-1920x1080-774ca8a6d5ecb39753cfbd2c3b1ad06b.jpg",
+      "md5": "774ca8a6d5ecb39753cfbd2c3b1ad06b",
+      "size": 635536,
+      "uploadedDate": "2024-06-02T18:23:07.469Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fruitlogo4-1920x1080-ef55bf91f19ea67836718bf06786b6f2.jpg",
+      "md5": "ef55bf91f19ea67836718bf06786b6f2",
+      "size": 584855,
+      "uploadedDate": "2024-06-02T18:23:08.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fruitlogo3-1920x1080-e858e089afc22c26b9691899c6307a81.jpg",
+      "md5": "e858e089afc22c26b9691899c6307a81",
+      "size": 564229,
+      "uploadedDate": "2024-06-02T18:23:09.218Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fruitlogo2-1920x1080-80fe6d9e4b349253dcf4b021f87b8069.jpg",
+      "md5": "80fe6d9e4b349253dcf4b021f87b8069",
+      "size": 667548,
+      "uploadedDate": "2024-06-02T18:23:10.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fruitlogo-1920x1080-0fe205e703d1fbf1600d4b6c43930ca4.jpg",
+      "md5": "0fe205e703d1fbf1600d4b6c43930ca4",
+      "size": 628310,
+      "uploadedDate": "2024-06-02T18:23:10.857Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FruitsBerries_thumb-284x284-4e295443bf125028f38764d48d90c91e.png",
+      "md5": "4e295443bf125028f38764d48d90c91e",
+      "size": 84028,
+      "uploadedDate": "2024-06-02T18:23:11.446Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FruitsBerries_featured-894x488-58c9b2c0667218ff23478d74fd0284b8.png",
+      "md5": "58c9b2c0667218ff23478d74fd0284b8",
+      "size": 573978,
+      "uploadedDate": "2024-06-02T18:23:11.571Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fruitlogo5-1920x1080-774ca8a6d5ecb39753cfbd2c3b1ad06b_Snapshot.jpg",
+      "md5": "fc96b990497db14f760f16173e98f014",
+      "size": 6350,
+      "uploadedDate": "2024-06-02T18:23:07.978Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fruitlogo4-1920x1080-ef55bf91f19ea67836718bf06786b6f2_Snapshot.jpg",
+      "md5": "5982df94390da096aeb6a139c7703627",
+      "size": 6518,
+      "uploadedDate": "2024-06-02T18:23:08.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fruitlogo3-1920x1080-e858e089afc22c26b9691899c6307a81_Snapshot.jpg",
+      "md5": "d8f0ef3f25d9634828e741b4c96b93f1",
+      "size": 6498,
+      "uploadedDate": "2024-06-02T18:23:09.753Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fruitlogo2-1920x1080-80fe6d9e4b349253dcf4b021f87b8069_Snapshot.jpg",
+      "md5": "e682e308e576d8dd9562f5cac36630a6",
+      "size": 6465,
+      "uploadedDate": "2024-06-02T18:23:10.577Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fruitlogo-1920x1080-0fe205e703d1fbf1600d4b6c43930ca4_Snapshot.jpg",
+      "md5": "bef90278dcd534d4ee9e169b8a728ff0",
+      "size": 6128,
+      "uploadedDate": "2024-06-02T18:23:11.365Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b5e85890f14f4f448cec082b1f26f327"
+    }
+  ],
+  "catalogNs": null
+}

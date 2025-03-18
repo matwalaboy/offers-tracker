@@ -1,0 +1,443 @@
+{
+  "id": "fc4d8684cf7f4f1793ea2471a103d591",
+  "namespace": "ue",
+  "title": "Male avatar with facial blendshapes",
+  "description": "A stylized male character with ARKit LiveLinkFace connectivity, compatible with other PO-Art assets.",
+  "longDescription": "<p>This bundle consists of a modular male character and costume. The face has the full set of 52 ARKit morphs.<strong> It doesn&#39;t require any extra joints for eyes or jaw</strong>, making it directly compatible with any animation content from the marketplace without the need to retarget or modify skeletons.</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;Y9Khj65Xoj8\" rel=\"nofollow\">Blendshapes preview</a></p><p><br /></p><p>Skinny and Athletic versions are provided, with Athletic being compatible with all other PO-Art male characters and outfits.</p><p><br /></p><p>Besides compatibility with other PO-Art assets, a special set of &#34;floating heads&#34; models are provided including a universal head with just neck and head bones, which can be plugged onto any other character from the marketplace after scaling their head bone to 0 in animation blueprint and attaching the custom head to neck_01 (an example is provided, plugging the head onto the default Epic Mannequin).</p><p><br /></p><p>A green-screen dedicated version of the head is also provided, with a &#34;Vtuber&#34; demo map.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "male-avatar",
+  "creationDate": "2022-02-18T19:25:13.204Z",
+  "lastModifiedDate": "2024-09-27T11:38:05.744Z",
+  "effectiveDate": "2022-02-18T19:25:13.165Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2ff838f2bc4c25a73c54ace505046d",
+    "name": "PO-Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Full LiveLinkFace ARkit support with 52 morphs, including tongeOut</li><li> Includes an universal pluggable head model which can be attached to any character from the marketplace</li><li>Character provided as standalone and modular (head - upper - lower - hands - feet)</li><li>Special &#34;Vtuber&#34; map included with a floating head ready for greenscreen</li></ul><p><br /></p><p>Rigged to Epic skeleton: Yes</p><p>Animated: Yes. LiveLink support, and custom idle and run animations included.</p><p>Number of characters: 1, modular</p><p>Vertex counts of characters: depending on variant, from 17977 tris to 27759 tris</p><p>Texture Resolutions: 2048</p><p>Supported Development Platforms: All</p><p><br /></p><p>How to use : Import/migrate the contents into the desired project. Any third-party model intended for the Epic Mannequin can be driven by the fully compatible SKEL_Male_FORMS skeleton from this bundle.</p><p><br /></p><p><a href=\"https://drive.google.com/file/d/1BC3g6-HXbUKWZ2DjWASYrXfdccuQ3ras/view?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;Pd3GWyuVmvQ\" rel=\"nofollow\">Tutorial on how to use a custom character model with a character controller &#43; assembling multiple parts</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6c605c26-8ee4-47d1-a54d-4454006dfb09"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 016-1920x1080-a94575509ffdf40d7ca9a2095359ba4e.jpg",
+      "md5": "a94575509ffdf40d7ca9a2095359ba4e",
+      "size": 568986,
+      "uploadedDate": "2022-02-17T23:51:36.597Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 004-1920x1080-d0c51a049aaa9e1e47582782ac33f1c2.jpg",
+      "md5": "d0c51a049aaa9e1e47582782ac33f1c2",
+      "size": 370110,
+      "uploadedDate": "2022-02-17T23:43:15.366Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 005-1920x1080-f5e07b2c3affac94c4e678ca409eab82.jpg",
+      "md5": "f5e07b2c3affac94c4e678ca409eab82",
+      "size": 357067,
+      "uploadedDate": "2022-02-17T23:43:16.049Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 001-1920x1080-2f3593d123d579f06b3b9963cad90ff0.jpg",
+      "md5": "2f3593d123d579f06b3b9963cad90ff0",
+      "size": 376551,
+      "uploadedDate": "2022-02-17T23:43:16.754Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 002-1920x1080-2ecb8243172779da00d22a35e2821962.jpg",
+      "md5": "2ecb8243172779da00d22a35e2821962",
+      "size": 445408,
+      "uploadedDate": "2022-02-17T23:43:17.552Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 013-1920x1080-cd8b7ae8ff608285ed4ccd0aed578984.jpg",
+      "md5": "cd8b7ae8ff608285ed4ccd0aed578984",
+      "size": 218102,
+      "uploadedDate": "2022-02-17T23:43:18.264Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 006-1920x1080-83cc9cd8d3e3ac6760b08aef846e98b4.jpg",
+      "md5": "83cc9cd8d3e3ac6760b08aef846e98b4",
+      "size": 348199,
+      "uploadedDate": "2022-02-17T23:43:18.888Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 017-1920x1080-69cd71784c28ca9259a00c4c8b18020f.jpg",
+      "md5": "69cd71784c28ca9259a00c4c8b18020f",
+      "size": 618495,
+      "uploadedDate": "2022-02-17T23:53:59.884Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 007-1920x1080-00c0c7852b065eb022969f3a0c283bb3.jpg",
+      "md5": "00c0c7852b065eb022969f3a0c283bb3",
+      "size": 319115,
+      "uploadedDate": "2022-02-17T23:43:19.585Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 009-1920x1080-2082b10ecb174b6a9edb642bd17d3ce1.jpg",
+      "md5": "2082b10ecb174b6a9edb642bd17d3ce1",
+      "size": 572323,
+      "uploadedDate": "2022-02-17T23:43:21.005Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 014-1920x1080-5fa0a80a9b90a2ac4643516e64c1fcf5.jpg",
+      "md5": "5fa0a80a9b90a2ac4643516e64c1fcf5",
+      "size": 397826,
+      "uploadedDate": "2022-02-17T23:43:21.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Male Broadcaster 018-1920x1080-ddd03a55edaec0977322e7b33ad86e89.jpg",
+      "md5": "ddd03a55edaec0977322e7b33ad86e89",
+      "size": 521047,
+      "uploadedDate": "2022-02-18T22:04:48.631Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MaleAvatar_thumb-284x284-b9ea34e2470306d9928c639b6c1d5f78.png",
+      "md5": "b9ea34e2470306d9928c639b6c1d5f78",
+      "size": 143353,
+      "uploadedDate": "2022-02-18T16:45:44.167Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MaleAvatar_featured-894x488-d63c99e4cd2f2ac949c581266824360e.png",
+      "md5": "d63c99e4cd2f2ac949c581266824360e",
+      "size": 585908,
+      "uploadedDate": "2022-02-18T16:45:44.247Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 018-1920x1080-ddd03a55edaec0977322e7b33ad86e89_Snapshot.jpg",
+      "md5": "144d4b67c99667a59ee5d9570cceb86b",
+      "size": 7027,
+      "uploadedDate": "2022-02-18T22:04:49.091Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 017-1920x1080-69cd71784c28ca9259a00c4c8b18020f_Snapshot.jpg",
+      "md5": "df246958d99a57beb5ea6fa2e8e83971",
+      "size": 6017,
+      "uploadedDate": "2022-02-17T23:54:00.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 016-1920x1080-a94575509ffdf40d7ca9a2095359ba4e_Snapshot.jpg",
+      "md5": "c4a14a492bd37281936e7198eaa6954c",
+      "size": 8589,
+      "uploadedDate": "2022-02-17T23:51:37.112Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 015-1920x1080-6d81ecfa4ad61ff9e021696971306c15_Snapshot.jpg",
+      "md5": "f79f68b5ab038fb8614fdbeba4c84936",
+      "size": 6822,
+      "uploadedDate": "2022-02-17T23:48:31.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 003-1920x1080-133d948f1379c439cdda75bcecedca7c_Snapshot.jpg",
+      "md5": "c58c0b681003030b07e0a3a37ba04058",
+      "size": 6609,
+      "uploadedDate": "2022-02-17T23:43:15.111Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 004-1920x1080-d0c51a049aaa9e1e47582782ac33f1c2_Snapshot.jpg",
+      "md5": "0e24b06673d96f5b34b2bc4d3c10ef31",
+      "size": 5811,
+      "uploadedDate": "2022-02-17T23:43:15.815Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 005-1920x1080-f5e07b2c3affac94c4e678ca409eab82_Snapshot.jpg",
+      "md5": "3f8fef6b6d978cafb271d72468b73a1c",
+      "size": 6313,
+      "uploadedDate": "2022-02-17T23:43:16.497Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 001-1920x1080-2f3593d123d579f06b3b9963cad90ff0_Snapshot.jpg",
+      "md5": "430ada949fa5def0220564910af61785",
+      "size": 6471,
+      "uploadedDate": "2022-02-17T23:43:17.315Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 002-1920x1080-2ecb8243172779da00d22a35e2821962_Snapshot.jpg",
+      "md5": "1322b39dc9bd4977969fc1546324b173",
+      "size": 6799,
+      "uploadedDate": "2022-02-17T23:43:18.005Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 013-1920x1080-cd8b7ae8ff608285ed4ccd0aed578984_Snapshot.jpg",
+      "md5": "bc69e0e2e0f5948d21dcb65e79d8237d",
+      "size": 4639,
+      "uploadedDate": "2022-02-17T23:43:18.687Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 006-1920x1080-83cc9cd8d3e3ac6760b08aef846e98b4_Snapshot.jpg",
+      "md5": "6678a80af40cae9e50f66f7a875c5d8a",
+      "size": 7388,
+      "uploadedDate": "2022-02-17T23:43:19.339Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 007-1920x1080-00c0c7852b065eb022969f3a0c283bb3_Snapshot.jpg",
+      "md5": "dc7631631ec314f5693559afb0dc3fec",
+      "size": 4495,
+      "uploadedDate": "2022-02-17T23:43:20.033Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 008-1920x1080-82d27e49164eee0a10e037c19a7205dd_Snapshot.jpg",
+      "md5": "66d5c16d28dd052c5781940d5feb5115",
+      "size": 4787,
+      "uploadedDate": "2022-02-17T23:43:20.751Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 009-1920x1080-2082b10ecb174b6a9edb642bd17d3ce1_Snapshot.jpg",
+      "md5": "9401b504e349d308215c03811aca1644",
+      "size": 7699,
+      "uploadedDate": "2022-02-17T23:43:21.504Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Male Broadcaster 014-1920x1080-5fa0a80a9b90a2ac4643516e64c1fcf5_Snapshot.jpg",
+      "md5": "a6d4f815fb7c264d20266130c0d29ea7",
+      "size": 7093,
+      "uploadedDate": "2022-02-17T23:43:22.259Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cef8deb8c3b74b6f9ca82acb8e1fc335"
+    }
+  ],
+  "catalogNs": null
+}

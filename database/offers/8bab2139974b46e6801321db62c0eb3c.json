@@ -1,0 +1,116 @@
+{
+  "id": "8bab2139974b46e6801321db62c0eb3c",
+  "namespace": "ue",
+  "title": "Alice Mini Toolset",
+  "description": "The Alice Mini Toolset is an editor mini toolset that is updated irregularly, designed to integrate and release a series of simple and useful free editor tools.",
+  "longDescription": "<p>The <strong>Alice Mini Toolset</strong> is an editor mini toolset that is updated irregularly, designed to integrate and release a series of simple and useful free editor tools. Currently, it includes two tools: &#34;Details Size Input&#34; and &#34;Language Switch Tool.&#34;</p><p><br /></p><p>If you find that you have any small needs regarding the Unreal Engine editor, and if you believe that they can be developed into simple and valuable tools, feel free to contact us. We will create and add them to this free toolset.</p><p><br /></p><p>Documentation (Github): <a href=\"https://github.com/Helooooooooo/AliceMiniToolsetDocument\" rel=\"nofollow\">https://github.com/Helooooooooo/AliceMiniToolsetDocument</a></p><p>Documentation (Zhihu): <a href=\"https://zhuanlan.zhihu.com/p/720637960\" rel=\"nofollow\">https://zhuanlan.zhihu.com/p/720637960</a></p><p><br /></p><p>Update v1.01:</p><ul><li><strong>Language Switch Tool</strong>: Supports more mainstream languages.</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "alice-mini-toolset",
+  "creationDate": "2024-09-21T01:55:42.498Z",
+  "lastModifiedDate": "2024-09-29T23:16:00.567Z",
+  "effectiveDate": "2024-09-21T01:55:42.468Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-phw6hg5nqdn98hg7ycuwmn2c8dxlk2",
+    "name": "Helo"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> <strong>Details Size Input</strong> : The Details Size Input tool adds a Size input to the SceneComponent details panel, allowing you to directly preview or edit the actual size of the SceneComponent in the level.</li><li> <strong>Language Switch Tool</strong> : The Language Switch Tool allows you to easily switch the display language of the Unreal Engine editor. You can set two target languages and toggle between them using a button or a keyboard shortcut.</li></ul><p><br /></p><p>Code Modules: </p><ul><li> AliceMiniToolset (Runtime)</li><li> AliceMiniToolsetEditor (Editor)</li><li> AliceDetailsSizeInput (Editor)</li><li> AliceLanguageSwitchTool (Editor)</li></ul><p><br /></p><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 11</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "356dd3c2-3b22-438e-8c4c-51eb0d9801c4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY01-1920x1080-e342fe25a2975ba88bc6151d4144b9ae.png",
+      "md5": "e342fe25a2975ba88bc6151d4144b9ae",
+      "size": 56297,
+      "uploadedDate": "2024-09-18T01:49:09.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY02-1920x1080-75ae4019cfab48b90ce845eb315f4619.png",
+      "md5": "75ae4019cfab48b90ce845eb315f4619",
+      "size": 27936,
+      "uploadedDate": "2024-09-18T01:49:09.995Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AliceMiniToolset_thumb-284x284-f075c075ca3d9225decdd6c9dcc91105.png",
+      "md5": "f075c075ca3d9225decdd6c9dcc91105",
+      "size": 12433,
+      "uploadedDate": "2024-09-18T01:49:10.302Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AliceMiniToolset_featured-894x488-3d7c55b32a37cc06136ae10c05bf2f70.png",
+      "md5": "3d7c55b32a37cc06136ae10c05bf2f70",
+      "size": 47450,
+      "uploadedDate": "2024-09-18T01:49:10.342Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY01-1920x1080-e342fe25a2975ba88bc6151d4144b9ae_Snapshot.png",
+      "md5": "46cb3e223b74efd7b2cc5ce65cbaf3e3",
+      "size": 3932,
+      "uploadedDate": "2024-09-18T01:49:09.934Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY02-1920x1080-75ae4019cfab48b90ce845eb315f4619_Snapshot.png",
+      "md5": "8e67c4dec0a39fde1339e2b2350c5aef",
+      "size": 1925,
+      "uploadedDate": "2024-09-18T01:49:10.220Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "59be46b4f74e479fb483ffa84132eb04"
+    }
+  ],
+  "catalogNs": null
+}

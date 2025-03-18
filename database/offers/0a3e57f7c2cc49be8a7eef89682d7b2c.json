@@ -1,0 +1,194 @@
+{
+  "id": "0a3e57f7c2cc49be8a7eef89682d7b2c",
+  "namespace": "ue",
+  "title": "Mobile Quick Capture",
+  "description": "Integrate camera functionality into your iOS projects with ease.",
+  "longDescription": "<p>Integrate camera functionality into your iOS projects with ease. Capture high-resolution photos and use Blueprint methods to save and manage these images efficiently. Plus, handle your photos and files with a comprehensive set of Blueprint utilities.</p><p><br /></p><p>Key Features</p><ul><li><strong>Easy Camera Integration</strong>: Capture high-resolution photos directly within your app.</li><li><strong>Automatic Permissions Handling</strong>: Manages permissions automatically.</li><li><strong>Blueprint Utilities</strong>: Save images to the camera roll, load them as textures, and manage files with nodes for moving, copying, renaming, and checking file sizes.</li><li><strong>Optimized Performance:</strong> Lightweight and optimized to keep your app running smoothly.</li><li><strong>Demo Scene:</strong> Included to get you up and running quickly.</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mobile-quick-capture",
+  "creationDate": "2024-09-27T12:56:57.827Z",
+  "lastModifiedDate": "2024-09-27T14:59:38.298Z",
+  "effectiveDate": "2024-09-27T12:56:57.778Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-b74d6jv7qggkzaxmgrut7mczxqrzfb",
+    "name": "Hero Code"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Code Modules: </p><ul><li> MobileQuickCapture (Runtime)</li></ul><p>Number of Blueprints: 2&#43;</p><p>Number of C&#43;&#43; Classes: 3&#43;</p><p>Supported Development Platforms: Windows &amp; Mac</p><p>Supported Target Build Platforms: iOS</p><p>Documentation: [ <a href=\"https://www.herocode.us/mobilequickcapture/mobilequickcapture.pdf\" rel=\"nofollow\">Plugin Documentation</a> ]</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b289e6ca-fb3b-4a3b-90eb-6bf0ef7b9fc3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image Gallery 1-1920x1080-4f53e3f35c0d9aec66a5621bbee126f0.png",
+      "md5": "4f53e3f35c0d9aec66a5621bbee126f0",
+      "size": 492577,
+      "uploadedDate": "2024-09-19T18:46:34.193Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MobileQuickCapture_thumb-284x284-2b1068efee965dd5a80001c3a7ba4fe9.png",
+      "md5": "2b1068efee965dd5a80001c3a7ba4fe9",
+      "size": 83109,
+      "uploadedDate": "2024-09-19T18:46:34.592Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MobileQuickCapture_featured-894x488-4b438d74cb5414e97345e93b8d460a87.png",
+      "md5": "4b438d74cb5414e97345e93b8d460a87",
+      "size": 292506,
+      "uploadedDate": "2024-09-19T18:46:34.783Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image Gallery 1-1920x1080-4f53e3f35c0d9aec66a5621bbee126f0_Snapshot.png",
+      "md5": "7600e17305162b953430169126f62372",
+      "size": 6675,
+      "uploadedDate": "2024-09-19T18:46:34.504Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c9da7ec0130f4a729011533c41e9fbf1"
+    }
+  ],
+  "catalogNs": null
+}

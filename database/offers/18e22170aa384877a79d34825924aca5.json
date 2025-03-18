@@ -1,0 +1,146 @@
+{
+  "id": "18e22170aa384877a79d34825924aca5",
+  "namespace": "ue",
+  "title": "Environment Themes SV",
+  "description": "Collection of Music Tracks for Games - 11 original songs",
+  "longDescription": "<p>A mix of psychedelic, music tracks with electronic elements and arrangement to adventure, RPG, boss fight scenes, opening themes, end credits, and movie trailers.</p><p><a href=\"https://youtu.be/Ucz1v0Z8H9U\" rel=\"nofollow\">VIDEO MUSIC</a></p><p><br /></p><p>11 Original high-quality music tracks</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "environment-themes-sv",
+  "creationDate": "2022-05-24T14:21:56.913Z",
+  "lastModifiedDate": "2024-09-27T16:48:15.110Z",
+  "effectiveDate": "2022-05-24T14:21:56.848Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-unhv4b7b7p2428nprju6evv5tu463v",
+    "name": "SyllasVieira"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>0- West</p><p>1- Mystery</p><p>2- Adventure</p><p>3- Investigator</p><p>4- Dark</p><p>5- Metal</p><p>6- Psychedelic</p><p>7- Other Dimension</p><p>8- Space</p><p>9- Obscure</p><p>10- Mystical Cave Sounds</p><p><br /></p><p>Number of Audio Wavs: 11</p><p>Number of Audio Cues: 11</p><p>Sample rate / bit rate: (44,100 Hz)</p><p>Does music loop: (Yes)</p><p>Time: 21:33min of audio</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b6c7115e-2024-49a8-939f-50bd1875932d"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/environment theme-1920x1080-74f3fe9dafe4a16355f595d57d3accec.png",
+      "md5": "74f3fe9dafe4a16355f595d57d3accec",
+      "size": 2713818,
+      "uploadedDate": "2022-05-22T19:09:36.486Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EnvironmentThemesSV_thumb-284x284-031e5390092a78b80d5b429b99a07811.png",
+      "md5": "031e5390092a78b80d5b429b99a07811",
+      "size": 160628,
+      "uploadedDate": "2022-05-22T19:09:36.949Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EnvironmentThemesSV_featured-894x488-1e061bc63a372c6fb9f900bb161f44c5.png",
+      "md5": "1e061bc63a372c6fb9f900bb161f44c5",
+      "size": 739119,
+      "uploadedDate": "2022-05-22T19:09:37.103Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/environment theme-1920x1080-74f3fe9dafe4a16355f595d57d3accec_Snapshot.png",
+      "md5": "31285756e07db48c2b3a4db119d3a45b",
+      "size": 5867,
+      "uploadedDate": "2022-05-22T19:09:36.857Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6ce76ef7d4274aad8257dc1d7104782f"
+    }
+  ],
+  "catalogNs": null
+}

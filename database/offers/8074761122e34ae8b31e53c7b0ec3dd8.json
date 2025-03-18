@@ -1,0 +1,356 @@
+{
+  "id": "8074761122e34ae8b31e53c7b0ec3dd8",
+  "namespace": "ue",
+  "title": "Modular Sci-Fi Environment: Engineer",
+  "description": "A set of high quality modular assets for creating sci-fi engineer/industrial environments.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;I76YZQZLG6w\" rel=\"nofollow\">youtube.com/watch?v&#61;I76YZQZLG6w</a></p><p><br /></p><p>A set of high quality modular assets for creating sci-fi engineer/industrial environments. All modular elements are with proper scaling to fit grid snapping.</p><p>The kit if suitable for creating both first/third person games and top-down games.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-sci-fi-environment-engineer",
+  "creationDate": "2019-02-04T00:28:30.057Z",
+  "lastModifiedDate": "2024-09-30T01:20:11.360Z",
+  "effectiveDate": "2019-02-04T01:01:05.482Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dxyk6tfzyg3d4v5xqmvd627smh4tuv",
+    "name": "Martin Mitov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li> High quality static meshes with customizable colors;</li><li> Variety of modules for creating a rich and diverse environment;</li><li> All modules are in a specific metric for grid snapping;</li></ul><p><strong>Texture Sizes</strong>: From 512x512 to 1024x1024</p><p><strong>Collision</strong>: Yes, Custom</p><p><strong>Triangles Count</strong>: Assets range from 12 - 12 908</p><p><strong>LODs</strong>: No</p><p><strong>Number of Meshes</strong>: 107</p><p><strong>Number of Materials and Material Instances</strong>: 100</p><p><strong>Number of Textures</strong>: 408</p><p><strong>Supported Development Platforms</strong>: Windows</p><p><strong>Supported Target Build Platforms</strong>: Windows and Consoles</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8579eef9-563a-41af-b244-f9dbc6719c8a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-3a7d665da31d5f547b3154a68cf15624.jpg",
+      "md5": "3a7d665da31d5f547b3154a68cf15624",
+      "size": 898376,
+      "uploadedDate": "2019-01-13T21:27:30.094Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-6e6b258df71d754e783a8a958220ddd0.jpg",
+      "md5": "6e6b258df71d754e783a8a958220ddd0",
+      "size": 812255,
+      "uploadedDate": "2019-01-13T21:27:31.486Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-327ac157a611899146d1bbd836e7e428.jpg",
+      "md5": "327ac157a611899146d1bbd836e7e428",
+      "size": 822922,
+      "uploadedDate": "2019-01-13T21:27:32.725Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08-1920x1080-0a4755f6b978f61240989f1fda518f5b.jpg",
+      "md5": "0a4755f6b978f61240989f1fda518f5b",
+      "size": 902683,
+      "uploadedDate": "2019-01-13T21:27:34.015Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-c3a937ea2d8941350571c23ba19b85bb.jpg",
+      "md5": "c3a937ea2d8941350571c23ba19b85bb",
+      "size": 550786,
+      "uploadedDate": "2019-01-13T21:27:35.453Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-8087e647d6889261ccf85bc21674277f.jpg",
+      "md5": "8087e647d6889261ccf85bc21674277f",
+      "size": 835341,
+      "uploadedDate": "2019-01-13T21:27:36.686Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-d1ab2288e6d618ea1071fc5b64f79610.jpg",
+      "md5": "d1ab2288e6d618ea1071fc5b64f79610",
+      "size": 523857,
+      "uploadedDate": "2019-01-13T21:27:37.891Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/12-1920x1080-dcdc49362abae35adee7249f3d0ffa66.jpg",
+      "md5": "dcdc49362abae35adee7249f3d0ffa66",
+      "size": 742577,
+      "uploadedDate": "2019-01-13T23:28:11.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-ae49354280a85487c0971638037445f2.jpg",
+      "md5": "ae49354280a85487c0971638037445f2",
+      "size": 1338401,
+      "uploadedDate": "2019-01-13T21:27:39.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-522d2c769be657bc5bdb2c363479ee7f.jpg",
+      "md5": "522d2c769be657bc5bdb2c363479ee7f",
+      "size": 576985,
+      "uploadedDate": "2019-01-13T21:27:40.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-a75f4c12d9d31c2a9e345c9ed721f010.jpg",
+      "md5": "a75f4c12d9d31c2a9e345c9ed721f010",
+      "size": 380220,
+      "uploadedDate": "2019-01-13T21:27:41.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/09-1920x1080-a83fb6c30d181407fa77d7ced2ceb37b.jpg",
+      "md5": "a83fb6c30d181407fa77d7ced2ceb37b",
+      "size": 425632,
+      "uploadedDate": "2019-01-13T21:27:42.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ModularSciFiEnvironmentEngineer_thumb-284x284-150c23b1c745c1aa97ea32a682a4d24a.png",
+      "md5": "150c23b1c745c1aa97ea32a682a4d24a",
+      "size": 189971,
+      "uploadedDate": "2019-01-13T21:27:43.410Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ModularSciFiEnvironmentEngineer_featured-894x488-23fbbc3436ed23bee56dff1a98a8279d.png",
+      "md5": "23fbbc3436ed23bee56dff1a98a8279d",
+      "size": 824918,
+      "uploadedDate": "2019-01-13T21:27:43.533Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/12-1920x1080-dcdc49362abae35adee7249f3d0ffa66_Snapshot.jpg",
+      "md5": "afd4d707a7046ed45e602132f9bfb80b",
+      "size": 2176,
+      "uploadedDate": "2019-01-13T23:28:12.117Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-3a7d665da31d5f547b3154a68cf15624_Snapshot.jpg",
+      "md5": "96da95575fcd09bd9070d0384880b255",
+      "size": 2723,
+      "uploadedDate": "2019-01-13T21:27:30.907Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-6e6b258df71d754e783a8a958220ddd0_Snapshot.jpg",
+      "md5": "2244cf7db0326ab92541fb94edd880fa",
+      "size": 2562,
+      "uploadedDate": "2019-01-13T21:27:32.266Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-327ac157a611899146d1bbd836e7e428_Snapshot.jpg",
+      "md5": "15c35813f9c2bfd015fb2d00357a29a9",
+      "size": 2328,
+      "uploadedDate": "2019-01-13T21:27:33.515Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-1920x1080-0a4755f6b978f61240989f1fda518f5b_Snapshot.jpg",
+      "md5": "dd6826c4cf3b21b126070d1881cfcdc9",
+      "size": 2497,
+      "uploadedDate": "2019-01-13T21:27:35.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-c3a937ea2d8941350571c23ba19b85bb_Snapshot.jpg",
+      "md5": "3744ac41831f2624992676b13f9cabe5",
+      "size": 1640,
+      "uploadedDate": "2019-01-13T21:27:36.201Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-8087e647d6889261ccf85bc21674277f_Snapshot.jpg",
+      "md5": "e04707ccda68e3d3af0e085a0f662f2b",
+      "size": 2531,
+      "uploadedDate": "2019-01-13T21:27:37.458Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-d1ab2288e6d618ea1071fc5b64f79610_Snapshot.jpg",
+      "md5": "c4a13d25eeaf9bfe84434d21065e73cf",
+      "size": 1904,
+      "uploadedDate": "2019-01-13T21:27:38.629Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-ae49354280a85487c0971638037445f2_Snapshot.jpg",
+      "md5": "a86756ebb9fba5c11feb872a69727e0c",
+      "size": 3813,
+      "uploadedDate": "2019-01-13T21:27:39.917Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-522d2c769be657bc5bdb2c363479ee7f_Snapshot.jpg",
+      "md5": "900289050c0561de3692bca6ff79428a",
+      "size": 2722,
+      "uploadedDate": "2019-01-13T21:27:41.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-a75f4c12d9d31c2a9e345c9ed721f010_Snapshot.jpg",
+      "md5": "597cf2f0e2e803dc3f18096ab8391e79",
+      "size": 1870,
+      "uploadedDate": "2019-01-13T21:27:42.203Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/09-1920x1080-a83fb6c30d181407fa77d7ced2ceb37b_Snapshot.jpg",
+      "md5": "ef7cfa8310a74d0654841c4d19111215",
+      "size": 2158,
+      "uploadedDate": "2019-01-13T21:27:43.327Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f3ef73c7c05d4653acfff5ed598774b2"
+    }
+  ],
+  "catalogNs": null
+}

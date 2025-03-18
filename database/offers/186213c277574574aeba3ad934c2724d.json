@@ -1,0 +1,209 @@
+{
+  "id": "186213c277574574aeba3ad934c2724d",
+  "namespace": "ue",
+  "title": "8-Bit Reward Sounds",
+  "description": "Fifty 8-bit, arcade and retro style reward sounds created from scratch in the Great Heights Audio studio.",
+  "longDescription": "<p>Fifty 8-bit, arcade and retro style reward sounds created from scratch in the Great Heights Audio studio.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "8-bit-reward-sounds",
+  "creationDate": "2018-02-07T15:57:23.518Z",
+  "lastModifiedDate": "2024-09-30T13:47:28.707Z",
+  "effectiveDate": "2018-02-07T15:57:23.481Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-82a6408ea5414b933db237e3198a10",
+    "name": "Great Heights Audio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Audio Preview: <a href=\"https://youtu.be/bc9QEuFxsw4\" rel=\"nofollow\">https://youtu.be/bc9QEuFxsw4</a></p><p>Features:</p><ul><li> Add some proper retro flair to your 8-bit or arcade style games.</li><li> Each sound was created from scratch using synthesis.</li></ul><p><br /></p><p>Number of Audio Waves: 50</p><p>Number of Audio Cues: 50</p><p>Sample rate / bit rate: 44.1 kHz, 16bit Stereo WAVs</p><p><br /></p><p>Supported Development Platforms: All</p><p>Supported Target Build Platforms: All</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "94a86570-52ac-4ef5-9530-7989b1497cd1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-bit reward sounds artwork - Unreal Gallery-1920x1080-5a4a32e39ce80bf3303c26acece8af0b.jpg",
+      "md5": "5a4a32e39ce80bf3303c26acece8af0b",
+      "size": 150115,
+      "uploadedDate": "2018-02-01T15:09:52.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/8BitRewardSounds_thumb-284x284-9dbf6280162eed424c8a2e069c2ace8a.png",
+      "md5": "9dbf6280162eed424c8a2e069c2ace8a",
+      "size": 12290,
+      "uploadedDate": "2018-02-01T15:09:52.136Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/8BitRewardSounds_featured-894x488-de16c74a053883a1d6d002122c2f9d62.png",
+      "md5": "de16c74a053883a1d6d002122c2f9d62",
+      "size": 30011,
+      "uploadedDate": "2018-02-01T15:09:52.180Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "8f27ae65491d4f2a9a1862ea07e14518"
+    }
+  ],
+  "catalogNs": null
+}

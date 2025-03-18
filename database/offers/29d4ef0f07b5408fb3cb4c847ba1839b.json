@@ -1,0 +1,254 @@
+{
+  "id": "29d4ef0f07b5408fb3cb4c847ba1839b",
+  "namespace": "ue",
+  "title": "Actor Pooling Subsystem",
+  "description": "An automated actor pooling subsystem for optimizing actor spawning/destruction",
+  "longDescription": "<p>An automated actor pooling subsystem for optimizing actor spawning/destruction. Includes delegates to broadcast when an Actor is Spawned or Returned to the pool, and an Interface to call custom OnCreate and OnDestory events within your actors when they are spawned/returned. Additionally, contains a spawn point actor component, and automatic actor optimizations on return to pool, and automatic Safe flush between level loads. Detailed documentation included</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "actor-pooling-subsystem",
+  "creationDate": "2023-01-21T19:47:13.850Z",
+  "lastModifiedDate": "2024-09-29T15:33:44.138Z",
+  "effectiveDate": "2023-01-21T19:47:13.815Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-j8mb53rdjcllj7janj6wr869erp2xx",
+    "name": "LairdS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Automated actor pooling subsystem</li><li> Subsystem accessible from almost any Blueprint graph (just click and type &#34;ActorPoolSubsystem&#34;)</li><li> Interface for custom logic implementation</li><li>Spawn point actor component included</li><li>Extensive Documentation</li></ul><p>Code Modules:</p><ul><li> ActorPoolingSubsystem [Runtime]</li></ul><p>Number of Blueprints: 3</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows confirmed, contact me if support is required for other platforms</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1QIEf1_gd1MOHTInSB_gxplM50Ol9dDspg4kEXlOQDiI/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p>Example Project: <a href=\"https://drive.google.com/file/d/1UhDRQaNMfMwTEscdk3g053J3x0Mn-mFm/view?usp&#61;share_link\" rel=\"nofollow\">Sample</a> level also available with plugin for informative purposes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1376",
+      "name": "DESTRUCTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:25.382Z",
+      "updated": "2019-06-20T12:01:25.382Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f4529bb0-3fbf-4ee0-9c92-3f18cd4a8821"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Functions-1920x1080-94b894f810f9391416c5dd0a3a7ec8b9.png",
+      "md5": "94b894f810f9391416c5dd0a3a7ec8b9",
+      "size": 202327,
+      "uploadedDate": "2023-01-17T20:37:57.947Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OutputExample-1920x1080-e6dd27a9603ef6d96ed96bd73251978e.png",
+      "md5": "e6dd27a9603ef6d96ed96bd73251978e",
+      "size": 2793190,
+      "uploadedDate": "2023-01-17T20:37:58.446Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/interface events-1920x1080-205a4154bf1b99ded09bb0bd57d4d70e.png",
+      "md5": "205a4154bf1b99ded09bb0bd57d4d70e",
+      "size": 393435,
+      "uploadedDate": "2023-01-17T20:37:58.926Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Delegate-1920x1080-96464b1c07028c42fd91d8886e8a42be.png",
+      "md5": "96464b1c07028c42fd91d8886e8a42be",
+      "size": 559751,
+      "uploadedDate": "2023-01-17T20:37:59.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemonstrationTypes-1920x1080-e57796e9484980c178d9d6ec98a0ce59.png",
+      "md5": "e57796e9484980c178d9d6ec98a0ce59",
+      "size": 648147,
+      "uploadedDate": "2023-01-17T20:37:59.801Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ActorPoolingSubsystem_thumb-284x284-50f2dfe06d4669e8216b7b55a74fe3d9.png",
+      "md5": "50f2dfe06d4669e8216b7b55a74fe3d9",
+      "size": 26117,
+      "uploadedDate": "2023-01-17T20:38:00.123Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ActorPoolingSubsystem_featured-894x488-abfa2e2165856c4777e3ccff8e639b15.png",
+      "md5": "abfa2e2165856c4777e3ccff8e639b15",
+      "size": 102808,
+      "uploadedDate": "2023-01-17T20:38:00.168Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Functions-1920x1080-94b894f810f9391416c5dd0a3a7ec8b9_Snapshot.png",
+      "md5": "3c3eaa9bf7c51b27812a323233bebaf0",
+      "size": 3350,
+      "uploadedDate": "2023-01-17T20:37:58.199Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OutputExample-1920x1080-e6dd27a9603ef6d96ed96bd73251978e_Snapshot.png",
+      "md5": "cb317a130e6d8fc4ae576efe4afafea7",
+      "size": 4114,
+      "uploadedDate": "2023-01-17T20:37:58.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/interface events-1920x1080-205a4154bf1b99ded09bb0bd57d4d70e_Snapshot.png",
+      "md5": "cbed19f0186dd95e9dd5e586e701c805",
+      "size": 3749,
+      "uploadedDate": "2023-01-17T20:37:59.160Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Delegate-1920x1080-96464b1c07028c42fd91d8886e8a42be_Snapshot.png",
+      "md5": "1f0a89ae078267a13ed631dde0eb10f7",
+      "size": 4910,
+      "uploadedDate": "2023-01-17T20:37:59.581Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemonstrationTypes-1920x1080-e57796e9484980c178d9d6ec98a0ce59_Snapshot.png",
+      "md5": "850cc8a9ca1f20b39d0dc0817d55d269",
+      "size": 4481,
+      "uploadedDate": "2023-01-17T20:38:00.065Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "36a85bf88c974b7bb2438fd340802256"
+    }
+  ],
+  "catalogNs": null
+}

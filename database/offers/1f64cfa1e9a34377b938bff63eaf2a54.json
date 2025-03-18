@@ -1,0 +1,326 @@
+{
+  "id": "1f64cfa1e9a34377b938bff63eaf2a54",
+  "namespace": "ue",
+  "title": "Key Pack",
+  "description": "A set of 196 icons. All icons are of high quality.  All icons have transparent backgrounds, so you can place them on any surface you need.",
+  "longDescription": "<p>1、Overall good stylized look, maintained on all icons.</p><p>2、All come with background and no background versions.Each icon is 512x512 pixels size (PNG and PSD).</p><p>3、Publisher provides pngs so you can edit and adjust icons.</p><p>4、Wide range of themed icons with variations and vivid colors.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "key-pack",
+  "creationDate": "2023-07-07T03:11:08.664Z",
+  "lastModifiedDate": "2024-09-27T08:55:47.825Z",
+  "effectiveDate": "2023-07-07T03:11:08.596Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83vhy8a5we7mlr8zj94al9tj4s2rzx",
+    "name": "ChessStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>All Icons have transparent and grey background</li><li>  Each icon is 512x512 pixels size (PNG and PSD)</li><li> 196 unique icons in total</li></ul><p>Number of Textures: 588</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "Metroidvania",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2023-07-31T20:24:00.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 257,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "15c15c1d-7ecc-4719-8898-fab300e4f7f5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/32-1920x1080-1fcee05364f5dfff41abb184b5931e7b.png",
+      "md5": "1fcee05364f5dfff41abb184b5931e7b",
+      "size": 2065894,
+      "uploadedDate": "2023-07-06T09:24:31.911Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1.b-1920x1080-faa63395cedb97777c38fb2cdcf3a312.png",
+      "md5": "faa63395cedb97777c38fb2cdcf3a312",
+      "size": 2971878,
+      "uploadedDate": "2023-07-06T09:24:32.627Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1.h-1920x1080-0cc2e05a4e21a6c5af8882f51cfaf41d.png",
+      "md5": "0cc2e05a4e21a6c5af8882f51cfaf41d",
+      "size": 2921334,
+      "uploadedDate": "2023-07-06T09:24:33.382Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1.v-1920x1080-5c657b21d7155d4037beeb36243eb8c7.png",
+      "md5": "5c657b21d7155d4037beeb36243eb8c7",
+      "size": 2886175,
+      "uploadedDate": "2023-07-06T09:24:34.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1.x-1920x1080-a93923e15daadbf2141e138728448b19.png",
+      "md5": "a93923e15daadbf2141e138728448b19",
+      "size": 2899868,
+      "uploadedDate": "2023-07-06T09:24:35.007Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/KeyPack_thumb-284x284-197f4830c9d9c50813405439d5298875.png",
+      "md5": "197f4830c9d9c50813405439d5298875",
+      "size": 113604,
+      "uploadedDate": "2023-07-06T09:24:35.513Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/KeyPack_featured-894x488-009a46f71c2fb40cf8c1eacfd027e4b6.png",
+      "md5": "009a46f71c2fb40cf8c1eacfd027e4b6",
+      "size": 689404,
+      "uploadedDate": "2023-07-06T09:24:35.639Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/32-1920x1080-1fcee05364f5dfff41abb184b5931e7b_Snapshot.png",
+      "md5": "bb9c853b06d46ad11a37a78affe64930",
+      "size": 8665,
+      "uploadedDate": "2023-07-06T09:24:32.316Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1.b-1920x1080-faa63395cedb97777c38fb2cdcf3a312_Snapshot.png",
+      "md5": "36fb49e0077c15297be7970531540a3a",
+      "size": 8814,
+      "uploadedDate": "2023-07-06T09:24:33.118Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1.h-1920x1080-0cc2e05a4e21a6c5af8882f51cfaf41d_Snapshot.png",
+      "md5": "ce1b887cc82e36f5120947ef49f22486",
+      "size": 8909,
+      "uploadedDate": "2023-07-06T09:24:33.857Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1.v-1920x1080-5c657b21d7155d4037beeb36243eb8c7_Snapshot.png",
+      "md5": "f752d342d38a6965f9a91ea152aef299",
+      "size": 8465,
+      "uploadedDate": "2023-07-06T09:24:34.652Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1.x-1920x1080-a93923e15daadbf2141e138728448b19_Snapshot.png",
+      "md5": "73f24590c362ed86183545f826e95fd8",
+      "size": 8709,
+      "uploadedDate": "2023-07-06T09:24:35.474Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2a98767f6de34a9397897d55d8ab7c3f"
+    }
+  ],
+  "catalogNs": null
+}

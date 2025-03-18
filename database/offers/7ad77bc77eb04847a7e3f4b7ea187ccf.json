@@ -1,0 +1,356 @@
+{
+  "id": "7ad77bc77eb04847a7e3f4b7ea187ccf",
+  "namespace": "ue",
+  "title": "Abandoned Buildings Pack",
+  "description": "Abandoned buildings and other elements for your game.",
+  "longDescription": "<p>Abandoned buildings and other elements for your game. The scene can be used in your post-apocalyptic, horror, action and adventure games.</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "abandoned-buildings-pack",
+  "creationDate": "2022-06-15T14:05:49.196Z",
+  "lastModifiedDate": "2024-09-30T17:15:16.549Z",
+  "effectiveDate": "2022-06-15T14:05:49.127Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-unhv4b7b7p2428nprju6evv5tu463v",
+    "name": "SyllasVieira"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Totaling 51 meshes for use.</p><p>Among them are: Drums, roofs, building, houses, asphalt, trees, and more...</p><p>Video demo: <a href=\"https://youtu.be/PtALqQX5w4k\" rel=\"nofollow\">https://youtu.be/PtALqQX5w4k</a></p><p><br /></p><p>Number of Unique Meshes: 44</p><p>Collision: (Yes)</p><p>Vertex Count: 24 to 25,000</p><p>LODs: (Yes)</p><p>Number of Materials and Material Instances: 111</p><p>Material Functions: 5</p><p>Number of Textures: 137</p><p>Texture Resolutions: (512 to 4096)</p><p>Supported Development Platforms: Windows: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "476e4c6c-28ba-41bd-99f1-b876cc88aa8a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned0-1920x1080-d70b87c8763594c480f0d73005291f7d.png",
+      "md5": "d70b87c8763594c480f0d73005291f7d",
+      "size": 1514380,
+      "uploadedDate": "2022-06-13T16:27:54.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned2-1920x1080-50e800db343c936af919947a4dfe1379.png",
+      "md5": "50e800db343c936af919947a4dfe1379",
+      "size": 1479212,
+      "uploadedDate": "2022-06-13T16:27:54.946Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned6-1920x1080-5207db7881f20ce28dcdc359e3b28b9b.png",
+      "md5": "5207db7881f20ce28dcdc359e3b28b9b",
+      "size": 1393641,
+      "uploadedDate": "2022-06-13T16:27:56.766Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned3-1920x1080-05d8c6a3d105f4229f594d5afaac8e16.png",
+      "md5": "05d8c6a3d105f4229f594d5afaac8e16",
+      "size": 1805594,
+      "uploadedDate": "2022-06-13T16:27:55.373Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned7-1920x1080-5156c06617829b47e466df249c7b71ab.png",
+      "md5": "5156c06617829b47e466df249c7b71ab",
+      "size": 1425038,
+      "uploadedDate": "2022-06-13T16:27:57.299Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned4-1920x1080-7b8b34cb97d15e28e387ddddacf7243b.png",
+      "md5": "7b8b34cb97d15e28e387ddddacf7243b",
+      "size": 1385945,
+      "uploadedDate": "2022-06-13T16:27:55.832Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Abandoned5-1920x1080-c5fba91e2c3df6a48b5f42e9ee0a8ddf.png",
+      "md5": "c5fba91e2c3df6a48b5f42e9ee0a8ddf",
+      "size": 1309487,
+      "uploadedDate": "2022-06-13T16:27:56.303Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AB2-1920x1080-1f13a067f777cd013fd0078f51c8b5a1.jpg",
+      "md5": "1f13a067f777cd013fd0078f51c8b5a1",
+      "size": 552145,
+      "uploadedDate": "2022-06-17T15:04:50.605Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AB1-1920x1080-ec900b6e17487bca2cf59d8a5e1430ab.jpg",
+      "md5": "ec900b6e17487bca2cf59d8a5e1430ab",
+      "size": 475540,
+      "uploadedDate": "2022-06-17T15:04:51.066Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AB3-1920x1080-36d94d9b18534b55a64291ddbbc69911.jpg",
+      "md5": "36d94d9b18534b55a64291ddbbc69911",
+      "size": 469378,
+      "uploadedDate": "2022-06-17T15:04:51.459Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AB4-1920x1080-a64a537e6a97e4faaedccaf7e3523e9f.jpg",
+      "md5": "a64a537e6a97e4faaedccaf7e3523e9f",
+      "size": 289271,
+      "uploadedDate": "2022-06-17T15:04:51.835Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AB5-1920x1080-f56bb647f80c18353a96f04feef8e469.jpg",
+      "md5": "f56bb647f80c18353a96f04feef8e469",
+      "size": 229533,
+      "uploadedDate": "2022-06-17T15:04:52.197Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AbandonedBuildingsPack_thumb-284x284-91816db03b66b1717842ab924b22ed38.png",
+      "md5": "91816db03b66b1717842ab924b22ed38",
+      "size": 138234,
+      "uploadedDate": "2022-06-13T16:39:01.615Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AbandonedBuildingsPack_featured-894x488-7dd26c12891c57c4f9e205f4cad5d9d0.png",
+      "md5": "7dd26c12891c57c4f9e205f4cad5d9d0",
+      "size": 452499,
+      "uploadedDate": "2022-06-13T16:27:57.794Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AB2-1920x1080-1f13a067f777cd013fd0078f51c8b5a1_Snapshot.jpg",
+      "md5": "eab248aec097e4b023790a788d570cef",
+      "size": 5077,
+      "uploadedDate": "2022-06-17T15:04:50.889Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AB1-1920x1080-ec900b6e17487bca2cf59d8a5e1430ab_Snapshot.jpg",
+      "md5": "a92a4a03886c150e47cae6d2793781fa",
+      "size": 5492,
+      "uploadedDate": "2022-06-17T15:04:51.302Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AB3-1920x1080-36d94d9b18534b55a64291ddbbc69911_Snapshot.jpg",
+      "md5": "935882a5832087646cc3ee0ea1f80b6b",
+      "size": 5830,
+      "uploadedDate": "2022-06-17T15:04:51.699Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AB4-1920x1080-a64a537e6a97e4faaedccaf7e3523e9f_Snapshot.jpg",
+      "md5": "aa2b021db2d9fdde0dc100d18d733cf8",
+      "size": 4889,
+      "uploadedDate": "2022-06-17T15:04:52.089Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AB5-1920x1080-f56bb647f80c18353a96f04feef8e469_Snapshot.jpg",
+      "md5": "34b4dc4cd471a0308e829fde383cbffa",
+      "size": 4778,
+      "uploadedDate": "2022-06-17T15:04:52.416Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned0-1920x1080-d70b87c8763594c480f0d73005291f7d_Snapshot.png",
+      "md5": "b72c76e20772ab75b9ad3113b4700e84",
+      "size": 5150,
+      "uploadedDate": "2022-06-13T16:27:54.789Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned2-1920x1080-50e800db343c936af919947a4dfe1379_Snapshot.png",
+      "md5": "1d46d18d509fc35f2c79e5dc277870cb",
+      "size": 4661,
+      "uploadedDate": "2022-06-13T16:27:55.241Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned3-1920x1080-05d8c6a3d105f4229f594d5afaac8e16_Snapshot.png",
+      "md5": "d80d9cb43b91cee77483469c0582b732",
+      "size": 5522,
+      "uploadedDate": "2022-06-13T16:27:55.665Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned4-1920x1080-7b8b34cb97d15e28e387ddddacf7243b_Snapshot.png",
+      "md5": "c69edf18212beee7305c0e1f6c38492a",
+      "size": 4357,
+      "uploadedDate": "2022-06-13T16:27:56.128Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned5-1920x1080-c5fba91e2c3df6a48b5f42e9ee0a8ddf_Snapshot.png",
+      "md5": "3d85c3cb66c0e10c039f5e7cffcb9b0c",
+      "size": 4311,
+      "uploadedDate": "2022-06-13T16:27:56.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned6-1920x1080-5207db7881f20ce28dcdc359e3b28b9b_Snapshot.png",
+      "md5": "f3f740358c1820822b8c8400461b4936",
+      "size": 4695,
+      "uploadedDate": "2022-06-13T16:27:57.112Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Abandoned7-1920x1080-5156c06617829b47e466df249c7b71ab_Snapshot.png",
+      "md5": "74ff300144786cff56b838fc4fe03561",
+      "size": 4592,
+      "uploadedDate": "2022-06-13T16:27:57.584Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fc43265c2e9a471bbb8e50a9d50f3493"
+    }
+  ],
+  "catalogNs": null
+}

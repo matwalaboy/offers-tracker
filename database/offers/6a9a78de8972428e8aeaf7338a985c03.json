@@ -1,0 +1,404 @@
+{
+  "id": "6a9a78de8972428e8aeaf7338a985c03",
+  "namespace": "ue",
+  "title": "Super UI Effect Materials",
+  "description": "With just one material, you can create a variety of rich effects. Through different parameter combinations, achieve endless variations. The only limit to this material’s effects is your imagination!",
+  "longDescription": "<p>Hello everyone! It’s time! Shed your worries, and with just one material, you can create a variety of rich effects. </p><p>Through different parameter combinations, achieve endless variations. The only limit to this material’s effects is your imagination! </p><p>Enhance your UI interface, effects, animations, and widget in UMG with dazzling effects! Supports UE4.18 to UE5.x. </p><p>Thank you for your support!</p><p><a href=\"https://youtu.be/KauX1piaI9g\" rel=\"nofollow\">YouTube</a></p><p><a href=\"https://www.bilibili.com/video/BV1sr421x749/?vd_source&#61;83e9d7ce07dc7a79b22ba02af9867a50\" rel=\"nofollow\">bilibili</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "super-ui-effect-materials",
+  "creationDate": "2024-04-15T00:34:39.506Z",
+  "lastModifiedDate": "2024-09-30T16:28:38.922Z",
+  "effectiveDate": "2024-04-15T00:34:39.440Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ac65hpy28kcxmaz8ryq55kmgqz35yz",
+    "name": "ViK"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><a href=\"https://1drv.ms/b/s!As-_uvvSUxHAlG39oNWCkhmO7LEg?e&#61;f41Izh\" rel=\"nofollow\"><strong>Super UI Effect Materials Documentation</strong></a></h2><p>-----------------------------------------------------------------------------------------------------------</p><p>Features:</p><ul><li>The effect is abundant</li><li>Parameter combinations</li><li>Texture tiling can be controlled to tile or not tile as desired</li><li>With just one material, you can create a variety of rich effects</li><li>The material can be used in 3D scenes and UI interfaces</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances: 95</p><p>Number of Textures: 25</p><p>Texture Resolutions: 8*8, 128*128, 256*256, 512*128, 512*512, 616*380, 512*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p><p><strong>Note</strong>: not all Materials included tile</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fbc38cb0-6b56-491a-9ed9-258c40463359"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-e5060a7a7477074d923f49a5cf5e3d38.png",
+      "md5": "e5060a7a7477074d923f49a5cf5e3d38",
+      "size": 1664775,
+      "uploadedDate": "2024-04-11T04:08:51.982Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-0426071e464ea7e85fa525ab8dcefe37.png",
+      "md5": "0426071e464ea7e85fa525ab8dcefe37",
+      "size": 1681108,
+      "uploadedDate": "2024-04-11T04:08:52.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-c9fe037ae4ea538485904084835b9161.png",
+      "md5": "c9fe037ae4ea538485904084835b9161",
+      "size": 1812333,
+      "uploadedDate": "2024-04-11T04:08:53.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-5f5b8355a8340e15f59863a64532e9f0.png",
+      "md5": "5f5b8355a8340e15f59863a64532e9f0",
+      "size": 986142,
+      "uploadedDate": "2024-04-11T04:08:53.905Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-03d78bb5de951140dba7ab8beaae7516.png",
+      "md5": "03d78bb5de951140dba7ab8beaae7516",
+      "size": 813540,
+      "uploadedDate": "2024-04-11T04:08:54.496Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-980989038fc44465bf66814949a117ab.png",
+      "md5": "980989038fc44465bf66814949a117ab",
+      "size": 1207069,
+      "uploadedDate": "2024-04-11T04:08:55.096Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08-1920x1080-64da2a44eee7c5048baee351ee4a2da8.png",
+      "md5": "64da2a44eee7c5048baee351ee4a2da8",
+      "size": 1001555,
+      "uploadedDate": "2024-04-11T04:08:55.708Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/09-1920x1080-2474d1bd8eb941678c9857305054b0b7.png",
+      "md5": "2474d1bd8eb941678c9857305054b0b7",
+      "size": 922936,
+      "uploadedDate": "2024-04-11T04:08:56.259Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SuperUIEffectMaterials_thumb-284x284-666dda86197afaf5f6fc4fdcb60e1af8.png",
+      "md5": "666dda86197afaf5f6fc4fdcb60e1af8",
+      "size": 112536,
+      "uploadedDate": "2024-04-11T04:08:56.741Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SuperUIEffectMaterials_featured-894x488-c9751172aca3eb65fb879a8e158c6f90.png",
+      "md5": "c9751172aca3eb65fb879a8e158c6f90",
+      "size": 572090,
+      "uploadedDate": "2024-04-11T04:08:56.869Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-e5060a7a7477074d923f49a5cf5e3d38_Snapshot.png",
+      "md5": "ac3130caf9b8dad33e9622c2ca120551",
+      "size": 7690,
+      "uploadedDate": "2024-04-11T04:08:52.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-0426071e464ea7e85fa525ab8dcefe37_Snapshot.png",
+      "md5": "78f3972f235b29c4ba06b3749b84eb6f",
+      "size": 7021,
+      "uploadedDate": "2024-04-11T04:08:52.997Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-c9fe037ae4ea538485904084835b9161_Snapshot.png",
+      "md5": "1ca84b07b3a9f7a6d634188e7dfe79ac",
+      "size": 7396,
+      "uploadedDate": "2024-04-11T04:08:53.627Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-5f5b8355a8340e15f59863a64532e9f0_Snapshot.png",
+      "md5": "8355a36f4e298832e2c7beb6d374b220",
+      "size": 4851,
+      "uploadedDate": "2024-04-11T04:08:54.289Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-03d78bb5de951140dba7ab8beaae7516_Snapshot.png",
+      "md5": "17a7aa1973a4baa509bbfe9d9333a359",
+      "size": 4772,
+      "uploadedDate": "2024-04-11T04:08:54.832Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-980989038fc44465bf66814949a117ab_Snapshot.png",
+      "md5": "38d4ad8ff782b77f9be445ab6c4dbed1",
+      "size": 5078,
+      "uploadedDate": "2024-04-11T04:08:55.481Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-1920x1080-64da2a44eee7c5048baee351ee4a2da8_Snapshot.png",
+      "md5": "30a2b497bfe2ed4d9ef6f312b004c53d",
+      "size": 4540,
+      "uploadedDate": "2024-04-11T04:08:56.055Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/09-1920x1080-2474d1bd8eb941678c9857305054b0b7_Snapshot.png",
+      "md5": "c9aa27bb1b74c40d37e95bd1592ce44d",
+      "size": 4612,
+      "uploadedDate": "2024-04-11T04:08:56.622Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "56c0f81e0a2b461aa64604396be58c24"
+    }
+  ],
+  "catalogNs": null
+}

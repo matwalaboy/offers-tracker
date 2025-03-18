@@ -1,0 +1,164 @@
+{
+  "id": "ce8a5936d39f4a7c97594512d93d2746",
+  "namespace": "ue",
+  "title": "Speech Recognition System",
+  "description": "Offline Multilanguage Speech Recognition System",
+  "longDescription": "<p>Speech Recognition System is an offline speech recognition plugin for Unreal Engine which is based on Vosk-Api</p><p><br /></p><p><a href=\"https://drive.google.com/file/d/1HeelSLSMDARF4QXcQAJGdNi-ZvWepkXw/view?usp&#61;sharing\" rel=\"nofollow\"><strong>Documentation</strong></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;3nkMRHWu0bw\" rel=\"nofollow\"><strong>Demo Video</strong></a></p><p><a href=\"https://www.youtube.com/watch?v&#61;ZNvF_qS1oWY\" rel=\"nofollow\"><strong>Video. AI assistant</strong></a></p><p><br /></p><p><strong>IMPORTANT:</strong></p><p>Before using, download the additional <a href=\"https://drive.google.com/file/d/1X4TNPlXfMlVkMP1uZWgLMJbhzG-nKzFn/view?usp&#61;sharing\" rel=\"nofollow\"><strong>libraries</strong></a>  and extract the <strong>ThirdParty </strong>directory to the <strong>UE_5.x/Engine/Plugins/Marketplace/SrsPlugin/Binaries/</strong> directory.</p><p>We will solve this problem as soon as possible.</p><p><u>Thank you for your patience</u></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "speech-recognition-system",
+  "creationDate": "2022-10-17T14:33:16.193Z",
+  "lastModifiedDate": "2024-09-26T20:27:34.657Z",
+  "effectiveDate": "2022-10-17T14:37:41.366Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-x46b3slkken6hjw2k3jwuse3lpaebh",
+    "name": "Stendhal Syndrome Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><p>• Does <u>not require</u> Internet connection;</p><p>• <u>High quality and speed</u> of speech recognition;</p><p>• Supports <strong>23&#43;</strong> languages and dialects;</p><p>• Portable per-language models are only <strong>50Mb</strong> each, but there are much bigger models available</p><p>• Easiness of integration.</p><p><br /></p><p><strong>Code Modules:</strong></p><p>• VoskPlugin (Runtime)</p><p><br /></p><p><strong>Number of Blueprints:</strong> 1</p><p><strong>Number of C&#43;&#43; Classes:</strong> 1</p><p><br /></p><p><strong>Network Replicated:</strong> No</p><p><strong>Supported Development Platforms: </strong>Windows 10 (x64)</p><p><strong>Supported Target Build Platforms: </strong>Windows 10 (x64)</p><p><br /></p><p><a href=\"https://github.com/MimusTriurus/unreal_srs_demo/tree/master\" rel=\"nofollow\"><strong>Example Project UE 5</strong></a></p><p><a href=\"https://github.com/MimusTriurus/Unreal_SRS_example/tree/release_ue_4.27\" rel=\"nofollow\"><strong>Example Project UE 4.27</strong></a></p><p><br /></p><p><em><u>After packing the project, remember to copy the language model folder (e.g. english small) to the Content folder.</u></em></p><p><br /></p><p>Feel free to contact us: <strong>stendhal.syndrome.studio&#64;gmail.com</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "96959d66-ab4a-4dc3-b416-385d46982bf8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920x1080-1920x1080-d16cf48c9f38a29dcb06efc3591796b6.png",
+      "md5": "d16cf48c9f38a29dcb06efc3591796b6",
+      "size": 153099,
+      "uploadedDate": "2022-10-08T15:57:27.647Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2024-03-1908-54-40-1920x1080-369fd0a432034fb498fc9d73a4d51c33.png",
+      "md5": "369fd0a432034fb498fc9d73a4d51c33",
+      "size": 1198719,
+      "uploadedDate": "2024-03-19T08:57:19.605Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SpeechRecognitionSystem_thumb-284x284-2f54741f0285c7f43f88389c08435ae8.png",
+      "md5": "2f54741f0285c7f43f88389c08435ae8",
+      "size": 27147,
+      "uploadedDate": "2022-10-08T15:57:27.949Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SpeechRecognitionSystem_featured-894x488-dc378cba41d2b6b966d19e01c496bcb2.png",
+      "md5": "dc378cba41d2b6b966d19e01c496bcb2",
+      "size": 111996,
+      "uploadedDate": "2022-10-08T15:57:28.006Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2024-03-1908-54-40-1920x1080-369fd0a432034fb498fc9d73a4d51c33_Snapshot.png",
+      "md5": "49796bcbaecbe5742c4cf2ebadaca637",
+      "size": 6235,
+      "uploadedDate": "2024-03-19T08:57:20.022Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920x1080-1920x1080-d16cf48c9f38a29dcb06efc3591796b6_Snapshot.png",
+      "md5": "9a76a196046dbe1a19368f3117a045cd",
+      "size": 4441,
+      "uploadedDate": "2022-10-08T15:57:27.868Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "779980948cf646e88f64d55bc48c1d9c"
+    }
+  ],
+  "catalogNs": null
+}

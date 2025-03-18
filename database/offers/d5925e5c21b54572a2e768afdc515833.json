@@ -1,0 +1,341 @@
+{
+  "id": "d5925e5c21b54572a2e768afdc515833",
+  "namespace": "ue",
+  "title": "OAuth++",
+  "description": "The OAuth++ offers a seamless integration of the various authentication protocols, allowing for secure and efficient connection to a third-party identity provider.",
+  "longDescription": "<p><strong>Description:</strong></p><p>OAuth&#43;&#43; enables users to easily log in through different platforms such as Facebook, Google, and more, without the need to manually enter login credentials each time. The integration of the OAuth 2.0 protocol ensures that personal information is protected and exchanged securely, providing an added level of security for both the user and the identity provider. Furthermore, this plugin enables the authorization for the user to access different APIs on behalf of them, for example, share on Facebook. This plugin not only streamlines the authentication process, but also allows for easy access to multiple services and platforms, making it a convenient and efficient solution for connecting to third-party identity providers.</p><p><br /></p><p><strong>Current Features:</strong></p><ul><li>Login using the platform&#39;s browser. (e.g. Chrome).</li><li>Login using the embedded browser from UE.</li><li>Support for Facebook, Google and Twitch. (Other providers should work, but not tested).</li><li>Support for multiple logins at the same time.</li></ul><p><br /></p><p><strong>Planned features:</strong></p><ul><li>Auto re-log based on refresh token</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "openid-client-plugin",
+  "creationDate": "2019-09-09T06:50:40.677Z",
+  "lastModifiedDate": "2024-09-27T10:22:05.470Z",
+  "effectiveDate": "2019-09-09T06:56:12.361Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-un536k63kzpz4csqw3jna3mja9xf32",
+    "name": "taigi100"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Documentation</strong>: <a href=\"https://taigi100.github.io/OpenID_Docs/\" rel=\"nofollow\">https://taigi100.github.io/OpenID_Docs/</a></p><p><strong>OAuth2 Specs</strong>: <a href=\"https://oauth.net/2/\" rel=\"nofollow\">https://oauth.net/2/</a></p><p><strong>OpenID Specs</strong>: <a href=\"https://openid.net/developers/specs/\" rel=\"nofollow\">https://openid.net/developers/specs/</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1148",
+      "name": "SEQUEL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:32.238Z",
+      "updated": "2019-06-20T11:59:32.238Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ededcd3b-001b-4cf1-b23e-1aecd42d3842"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fullhdfeatured-1920x1080-44bb98ff605801d52efe4c96309ef294.png",
+      "md5": "44bb98ff605801d52efe4c96309ef294",
+      "size": 89589,
+      "uploadedDate": "2023-12-13T19:09:22.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Google Login-1920x1080-3a0b29c1a88caf2565189cb5ecdb2f36.png",
+      "md5": "3a0b29c1a88caf2565189cb5ecdb2f36",
+      "size": 55047,
+      "uploadedDate": "2020-02-12T13:00:54.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/FB login-1920x1080-03b1eca797217688440797f8082ffd74.png",
+      "md5": "03b1eca797217688440797f8082ffd74",
+      "size": 67386,
+      "uploadedDate": "2020-02-12T13:00:54.323Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Annotation 2019-12-09 214244-1920x1080-f4bd07ab4ab5dfdff8d0b8b353de67e8.png",
+      "md5": "f4bd07ab4ab5dfdff8d0b8b353de67e8",
+      "size": 112345,
+      "uploadedDate": "2019-12-09T21:21:12.820Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2023-12-09 222025-1920x1080-d10fa34a74741cdc786c9a32f601ef06.png",
+      "md5": "d10fa34a74741cdc786c9a32f601ef06",
+      "size": 247870,
+      "uploadedDate": "2023-12-10T08:34:20.678Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OAuth_thumb-284x284-f987e0e94e744981db10de85ad348ef9.png",
+      "md5": "f987e0e94e744981db10de85ad348ef9",
+      "size": 53773,
+      "uploadedDate": "2023-12-10T08:34:21.018Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OAuth_featured-894x488-5840106011d957272e81123638bc2992.png",
+      "md5": "5840106011d957272e81123638bc2992",
+      "size": 87622,
+      "uploadedDate": "2023-12-10T08:34:21.103Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fullhdfeatured-1920x1080-44bb98ff605801d52efe4c96309ef294_Snapshot.png",
+      "md5": "fcdd90cd2b994b292937d925882cca0b",
+      "size": 4700,
+      "uploadedDate": "2023-12-13T19:09:23.159Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2023-12-09 222025-1920x1080-d10fa34a74741cdc786c9a32f601ef06_Snapshot.png",
+      "md5": "2f6beca5543c07ccbec5eb0fb5187302",
+      "size": 4187,
+      "uploadedDate": "2023-12-10T08:34:20.952Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/FB login-1920x1080-03b1eca797217688440797f8082ffd74_Snapshot.png",
+      "md5": "606b9bfb007591295bf8c9907fa19297",
+      "size": 3204,
+      "uploadedDate": "2020-02-12T13:00:54.587Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Google Login-1920x1080-3a0b29c1a88caf2565189cb5ecdb2f36_Snapshot.png",
+      "md5": "b10b70aa68aff5fd95082c0a4bd75fb5",
+      "size": 2224,
+      "uploadedDate": "2020-02-12T13:00:54.963Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Annotation 2019-12-09 214244-1920x1080-f4bd07ab4ab5dfdff8d0b8b353de67e8_Snapshot.png",
+      "md5": "39f9e0d303a1cf5814cab76116108dae",
+      "size": 3460,
+      "uploadedDate": "2019-12-09T21:21:13.047Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Annotation 2019-08-16 202848-1920x1080-a007b21e3f22db9453cd3762713724ff_Snapshot.png",
+      "md5": "507d0e7b318bfeccb4f4fb3e0af03c27",
+      "size": 4547,
+      "uploadedDate": "2019-08-16T20:01:20.124Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Annotation 2019-08-16 202941-1920x1080-b3aac16bce1fbcf7f2e557d536edb8e6_Snapshot.png",
+      "md5": "946e6aa45a79e3d30a3b632c3525f8b3",
+      "size": 4373,
+      "uploadedDate": "2019-08-16T20:01:20.454Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Annotation 2019-08-16 203012-1920x1080-4766b7691c03f7f5c36bd24b5c9b4a29_Snapshot.png",
+      "md5": "6c999f3ce963a98b8bbf0db190bb6ef0",
+      "size": 3512,
+      "uploadedDate": "2019-08-16T20:01:20.790Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2a8dc3f20bb141c7bb5f0cad1270859c"
+    }
+  ],
+  "catalogNs": null
+}

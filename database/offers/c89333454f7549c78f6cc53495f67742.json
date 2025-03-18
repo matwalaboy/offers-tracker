@@ -1,0 +1,134 @@
+{
+  "id": "c89333454f7549c78f6cc53495f67742",
+  "namespace": "ue",
+  "title": "Animation Cutter",
+  "description": "Faster Animation cut workflow",
+  "longDescription": "<p>Feel obligated with low functionality? Animators bullying you? Find yourself having not enough animation editing tools? Oh I have awesome deal for you!</p><p>Automate your animation cut workflow with Animation Cutter! Create a configuration file, click RMB on sequence you wanna cut and wuala!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "animation-cutter",
+  "creationDate": "2022-02-20T19:06:17.559Z",
+  "lastModifiedDate": "2024-09-26T17:49:50.454Z",
+  "effectiveDate": "2022-02-20T19:06:17.503Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-utb37bnnh4gvxf6evzlx8gppp3t9xa",
+    "name": "Mebebonk"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Cut animations (can be accessed via RMB menu on anim sequence)</li></ul><p>Code Modules:</p><ul><li> Animation Cutter (UncookedOnly)</li></ul><p>Number of C&#43;&#43; Classes: 10</p><p>Network Replicated: No</p><p>Supported Development Platforms: Any</p><p>Supported Target Build Platforms: Any (except HTML5)</p><p><br /></p><p>To use animation cutter you will need:</p><ul><li>Animation sequence</li><li>JSON settings preset file</li></ul><p>Right click on the animation sequence you want to cut, then select existing JSON file to use with.</p><p><a href=\"https://youtu.be/Kjjeju0Yl9Q\" rel=\"nofollow\">Plugin demonstration</a>.</p><p>All settings for JSON you can find here:</p><p>Documentation: <a href=\"https://github.com/Mebebonk/AnimationCutterPublic/wiki\" rel=\"nofollow\">JSON settings</a>.</p><p><a href=\"https://github.com/Mebebonk/AnimationCutterSettingsGenerator\" rel=\"nofollow\">Json generator</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b0a56cd7-68f6-4e81-9022-255440a12abe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AnimationCutter-1920x1080-04f286ecf36a3c9c3b6cd3257a3251f3.png",
+      "md5": "04f286ecf36a3c9c3b6cd3257a3251f3",
+      "size": 1262342,
+      "uploadedDate": "2022-02-12T11:16:26.060Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AnimationCutter_thumb-284x284-55785173264b16e66f77ff9a0201fca1.png",
+      "md5": "55785173264b16e66f77ff9a0201fca1",
+      "size": 47687,
+      "uploadedDate": "2022-02-12T11:16:26.410Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AnimationCutter_featured-894x488-3d4adbf7cc35cd50b554c7a3d51f0cb1.png",
+      "md5": "3d4adbf7cc35cd50b554c7a3d51f0cb1",
+      "size": 269554,
+      "uploadedDate": "2022-02-12T11:16:26.504Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AnimationCutter-1920x1080-04f286ecf36a3c9c3b6cd3257a3251f3_Snapshot.png",
+      "md5": "76b7fb2741e8b9e3c14b30eb93f11a8c",
+      "size": 4331,
+      "uploadedDate": "2022-02-12T11:16:26.369Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "115a619f5ddd42e488c4865e14ada9f4"
+    }
+  ],
+  "catalogNs": null
+}

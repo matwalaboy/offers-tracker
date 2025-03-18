@@ -1,0 +1,539 @@
+{
+  "id": "3783b7e6a6464a43a7870ae41d68557b",
+  "namespace": "ue",
+  "title": "Dungeon Mega Bundle (Modular Dungeon, Medieval Dungeon, Fantasy Dungeon)",
+  "description": "2 Unreal Engine 5 Dungeon Packs At A Heavily Discounted Price! (Fantasy, Medieval, Modular Dungeon, Dungeon, Dungeons, Gothic, Dark Fantasy, Crypt, Tomb, Hall, Catacombs, Lair, Cave, Fantasy Dungeon, Temple, Gothic Cathedral, Victorian Cathedral)",
+  "longDescription": "<h3><strong>&#x1f4f7; </strong><a href=\"https://www.youtube.com/watch?v&#61;fh5KkGGb8A0&amp;list&#61;PLAm2EV6aBXWYBmA1O6q6T4rXMyYo0FSgr\" rel=\"nofollow\"><strong>WATCH THE TRAILERS</strong></a><strong> </strong>| <strong>Playable Demos Available Inside Each Product Link Below </strong></h3><p><br /></p><p><strong>*Send us a message on </strong><a href=\"https://discord.com/invite/YagNDw9xzw\" rel=\"nofollow\"><strong>discord </strong></a><strong>to receive all individual packs straight to your vault.</strong></p><p><br /></p><h3>&#x1f381; <strong>Limited time bonus!</strong></h3><p><strong>Get </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/product/0df48f9ed5f74503bfe915447d5ce48d\" rel=\"nofollow\"><strong>Nanite Medieval Blacksmith Kit</strong></a><strong> for free when buying this pack. </strong><a href=\"https://discord.com/invite/YagNDw9xzw\" rel=\"nofollow\"><strong>Join Our Discord</strong></a><strong> to receive your bonus :)</strong></p><p><br /></p><p><br /></p><h3><strong>&#x1f3f7;️ Save 60$ (Original Price 160$ Now 100$)</strong></h3><p><br /></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Hivemind?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\"><strong>&#x1f6d2;</strong></a><strong> Find More Assets For Your Game </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Hivemind?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\"><strong>Here!</strong></a></p><p><br /></p><p><br /></p><p><strong>The Bundle includes 2 Dungeon / Dark Fantasy packs, get them for a discounted price exclusively on this bundle! (100$ instead of 160$)</strong></p><p><br /></p><ul><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/662936120db34c0d99d5a4486c3bac23\" rel=\"nofollow\"><strong>Modular Dungeon / Dungeon Building Kit</strong></a><strong> (79.99$)</strong></li><li><a href=\"https://www.unrealengine.com/marketplace/en-US/product/482b1ed3e50444faae3a2befba3f0075\" rel=\"nofollow\"><strong>Modular Dungeon: Temple Of Cthulhu</strong></a><strong> (79.99$)</strong></li></ul><p><br /></p><p><br /></p><p><br /></p><ul><li><strong>This product uses </strong><a href=\"https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/\" rel=\"nofollow\"><strong>Lumen </strong></a><strong>and </strong><a href=\"https://docs.unrealengine.com/5.0/en-US/nanite-virtualized-geometry-in-unreal-engine/\" rel=\"nofollow\"><strong>Nanite </strong></a><strong>(Enable SM6)</strong></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ultimate-dungeon-bundle-01",
+  "creationDate": "2024-09-10T18:35:46.868Z",
+  "lastModifiedDate": "2024-09-29T15:42:40.895Z",
+  "effectiveDate": "2024-09-10T18:35:46.827Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6cw582rx26cgubn5y63bnvdl25r5k6",
+    "name": "Hivemind"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Collision: Yes, custom and automatically generated</p><p><br /></p><p>Vertex Count :14-428207</p><p><br /></p><p>LODs: Yes</p><p><br /></p><p>Number of Materials and Material Instances: 31 materials and 88 instances</p><p><br /></p><p>Number of Textures: 184</p><p><br /></p><p>Texture Resolutions: 256x256 to 4096x4096</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d1ef855b-f88a-4d1d-b783-32274bbac379"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/The Fantasy Mega Bundle 894 x 488 px 1920 x 1080 px 3-1920x1080-aed9ef6ad2dc4fd4cfa4ac27f2a3722d.png",
+      "md5": "aed9ef6ad2dc4fd4cfa4ac27f2a3722d",
+      "size": 824276,
+      "uploadedDate": "2024-09-10T18:31:32.870Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 10 1-1920x1080-4a57d4a469e8aa4e995de0e6bd2c85bd-1920x1080-4a57d4a469e8aa4e995de0e6bd2c85bd.png",
+      "md5": "4a57d4a469e8aa4e995de0e6bd2c85bd",
+      "size": 2814912,
+      "uploadedDate": "2024-09-10T18:19:17.373Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Cthulhu-1920x1080-384b3d3671f22bf5b727751acfa459eb-1920x1080-384b3d3671f22bf5b727751acfa459eb.png",
+      "md5": "384b3d3671f22bf5b727751acfa459eb",
+      "size": 1013750,
+      "uploadedDate": "2024-09-10T18:19:10.565Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 3-1920x1080-8554f346732a02fb921391f2804f30bb-1920x1080-8554f346732a02fb921391f2804f30bb.png",
+      "md5": "8554f346732a02fb921391f2804f30bb",
+      "size": 2625217,
+      "uploadedDate": "2024-09-10T18:19:16.565Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 5-1920x1080-23b761cfc7bd9d56784c232d289eb87f 1-1920x1080-23b761cfc7bd9d56784c232d289eb87f.png",
+      "md5": "23b761cfc7bd9d56784c232d289eb87f",
+      "size": 3089074,
+      "uploadedDate": "2024-09-10T18:19:13.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10-1920x1080-2d51055e4c171131e2d2fa747eaecb2f-1920x1080-2d51055e4c171131e2d2fa747eaecb2f.png",
+      "md5": "2d51055e4c171131e2d2fa747eaecb2f",
+      "size": 910957,
+      "uploadedDate": "2024-09-10T18:19:11.095Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/9-1920x1080-8013a666e6defaed824c2fff742fcb2a-1920x1080-8013a666e6defaed824c2fff742fcb2a.png",
+      "md5": "8013a666e6defaed824c2fff742fcb2a",
+      "size": 902565,
+      "uploadedDate": "2024-09-10T18:19:10.312Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 7-1920x1080-3313209abf6cb73435311d11922bc212-1920x1080-3313209abf6cb73435311d11922bc212.png",
+      "md5": "3313209abf6cb73435311d11922bc212",
+      "size": 2669564,
+      "uploadedDate": "2024-09-10T18:19:12.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-cbdd7d6e99c157d2e123bd6df2997351-1920x1080-cbdd7d6e99c157d2e123bd6df2997351.png",
+      "md5": "cbdd7d6e99c157d2e123bd6df2997351",
+      "size": 1014061,
+      "uploadedDate": "2024-09-10T18:19:11.802Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 8-1920x1080-c4cfbf53a58b6976b37604fc6c195165-1920x1080-c4cfbf53a58b6976b37604fc6c195165.png",
+      "md5": "c4cfbf53a58b6976b37604fc6c195165",
+      "size": 2309195,
+      "uploadedDate": "2024-09-10T18:19:12.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 4-1920x1080-cd4547197121bb799e014cb81dfa9be4-1920x1080-cd4547197121bb799e014cb81dfa9be4.png",
+      "md5": "cd4547197121bb799e014cb81dfa9be4",
+      "size": 2649825,
+      "uploadedDate": "2024-09-10T18:19:14.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dark halls 10-1920x1080-cb4dd11a5d2feb5dd9733e11f2f86100-1920x1080-cb4dd11a5d2feb5dd9733e11f2f86100.png",
+      "md5": "cb4dd11a5d2feb5dd9733e11f2f86100",
+      "size": 2991048,
+      "uploadedDate": "2024-09-10T18:19:15.627Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-56710ea40cc2fcb85976c610b3e3d986-1920x1080-56710ea40cc2fcb85976c610b3e3d986.png",
+      "md5": "56710ea40cc2fcb85976c610b3e3d986",
+      "size": 1125547,
+      "uploadedDate": "2024-09-10T18:19:11.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-02035172106ffbc48253ac93acad3941-1920x1080-02035172106ffbc48253ac93acad3941.png",
+      "md5": "02035172106ffbc48253ac93acad3941",
+      "size": 1114481,
+      "uploadedDate": "2024-09-10T18:19:10.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/UltimateDungeonBundle_thumb-284x284-f2aaa405d079cb730a7030a02f78589c.png",
+      "md5": "f2aaa405d079cb730a7030a02f78589c",
+      "size": 159853,
+      "uploadedDate": "2024-09-10T18:19:18.140Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/UltimateDungeonBundle_featured-894x488-8af3bbe9b45d607b8cc0b8399e2e464c.png",
+      "md5": "8af3bbe9b45d607b8cc0b8399e2e464c",
+      "size": 749209,
+      "uploadedDate": "2024-09-10T18:19:18.211Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/The Fantasy Mega Bundle 894 x 488 px 1920 x 1080 px 3-1920x1080-aed9ef6ad2dc4fd4cfa4ac27f2a3722d_Snapshot.png",
+      "md5": "975311730f55148041ad5f45e2912aea",
+      "size": 7061,
+      "uploadedDate": "2024-09-10T18:31:32.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/9-1920x1080-8013a666e6defaed824c2fff742fcb2a-1920x1080-8013a666e6defaed824c2fff742fcb2a_Snapshot.png",
+      "md5": "74bc1104044a8524a378a9aaa5de12b2",
+      "size": 4484,
+      "uploadedDate": "2024-09-10T18:19:10.403Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Cthulhu-1920x1080-384b3d3671f22bf5b727751acfa459eb-1920x1080-384b3d3671f22bf5b727751acfa459eb_Snapshot.png",
+      "md5": "331088331db80e0d127a2a0f30d70b35",
+      "size": 4746,
+      "uploadedDate": "2024-09-10T18:19:10.662Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-02035172106ffbc48253ac93acad3941-1920x1080-02035172106ffbc48253ac93acad3941_Snapshot.png",
+      "md5": "a4eb3aa995c3fbbece0c4d54846e8867",
+      "size": 5451,
+      "uploadedDate": "2024-09-10T18:19:10.960Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10-1920x1080-2d51055e4c171131e2d2fa747eaecb2f-1920x1080-2d51055e4c171131e2d2fa747eaecb2f_Snapshot.png",
+      "md5": "312ab52d738c17f34a1eb45bb3001534",
+      "size": 5955,
+      "uploadedDate": "2024-09-10T18:19:11.189Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-56710ea40cc2fcb85976c610b3e3d986-1920x1080-56710ea40cc2fcb85976c610b3e3d986_Snapshot.png",
+      "md5": "c410ef81bc423c6f34bc6683833ac52c",
+      "size": 5196,
+      "uploadedDate": "2024-09-10T18:19:11.672Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-cbdd7d6e99c157d2e123bd6df2997351-1920x1080-cbdd7d6e99c157d2e123bd6df2997351_Snapshot.png",
+      "md5": "2fe509378a2d6788080276ef1dda530f",
+      "size": 6167,
+      "uploadedDate": "2024-09-10T18:19:11.899Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 8-1920x1080-c4cfbf53a58b6976b37604fc6c195165-1920x1080-c4cfbf53a58b6976b37604fc6c195165_Snapshot.png",
+      "md5": "5e6e89cca2a4432efb878ecaeb7b6583",
+      "size": 5052,
+      "uploadedDate": "2024-09-10T18:19:12.646Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 7-1920x1080-3313209abf6cb73435311d11922bc212-1920x1080-3313209abf6cb73435311d11922bc212_Snapshot.png",
+      "md5": "fc980cd1b581aebfa44aa201e6b47b5e",
+      "size": 5028,
+      "uploadedDate": "2024-09-10T18:19:13.498Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 5-1920x1080-23b761cfc7bd9d56784c232d289eb87f 1-1920x1080-23b761cfc7bd9d56784c232d289eb87f_Snapshot.png",
+      "md5": "44704702cb16de086570bd2538f8c2e6",
+      "size": 6139,
+      "uploadedDate": "2024-09-10T18:19:14.394Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 4-1920x1080-cd4547197121bb799e014cb81dfa9be4-1920x1080-cd4547197121bb799e014cb81dfa9be4_Snapshot.png",
+      "md5": "8a5dd7675bf8afc37dab4343c0f35bc1",
+      "size": 4797,
+      "uploadedDate": "2024-09-10T18:19:15.285Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 10-1920x1080-cb4dd11a5d2feb5dd9733e11f2f86100-1920x1080-cb4dd11a5d2feb5dd9733e11f2f86100_Snapshot.png",
+      "md5": "6eabfb7398ef0a3abda6d0c165a4d6c3",
+      "size": 6042,
+      "uploadedDate": "2024-09-10T18:19:16.258Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 3-1920x1080-8554f346732a02fb921391f2804f30bb-1920x1080-8554f346732a02fb921391f2804f30bb_Snapshot.png",
+      "md5": "ac6f07c36f7402857795061aefb13948",
+      "size": 4818,
+      "uploadedDate": "2024-09-10T18:19:17.088Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 10 1-1920x1080-4a57d4a469e8aa4e995de0e6bd2c85bd-1920x1080-4a57d4a469e8aa4e995de0e6bd2c85bd_Snapshot.png",
+      "md5": "a806c8e6fd923bd4ee73f57fa27c5e71",
+      "size": 6267,
+      "uploadedDate": "2024-09-10T18:19:17.905Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dark halls 5-1920x1080-23b761cfc7bd9d56784c232d289eb87f-1920x1080-23b761cfc7bd9d56784c232d289eb87f_Snapshot.png",
+      "md5": "44704702cb16de086570bd2538f8c2e6",
+      "size": 6139,
+      "uploadedDate": "2024-08-25T08:51:13.399Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-6664404d4b16b9163cdecfd5c7e66354-1920x1080-54cbc8d4e252e8f0c15760b6042c477c_Snapshot.png",
+      "md5": "b1092ac4efa2c79e789012366578a490",
+      "size": 8876,
+      "uploadedDate": "2024-08-23T20:23:50.632Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-09b32c92f256cf7311fa576c358d5ca9-1920x1080-09b32c92f256cf7311fa576c358d5ca9_Snapshot.png",
+      "md5": "c7a988d6566591e9bb798649d8ee9e2b",
+      "size": 8416,
+      "uploadedDate": "2024-08-23T19:38:38.970Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "94aa307d3f2946659b2d0ec63ee5744e"
+    }
+  ],
+  "catalogNs": null
+}

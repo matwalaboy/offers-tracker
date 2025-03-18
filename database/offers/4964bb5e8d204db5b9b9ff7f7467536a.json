@@ -1,0 +1,314 @@
+{
+  "id": "4964bb5e8d204db5b9b9ff7f7467536a",
+  "namespace": "ue",
+  "title": "Shields Pack Variations",
+  "description": "This pack contains a good variation of game shields.",
+  "longDescription": "<p>In this package you will have 10 shields plus 3 variations of them, from futuristic to classic.</p><p><br /></p><p>Video: <a href=\"https://youtu.be/bupKlb6IM-w\" rel=\"nofollow\">https://youtu.be/bupKlb6IM-w</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shields-pack-variations",
+  "creationDate": "2023-05-07T17:55:59.126Z",
+  "lastModifiedDate": "2024-09-30T17:13:29.258Z",
+  "effectiveDate": "2023-05-07T17:55:59.094Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-unhv4b7b7p2428nprju6evv5tu463v",
+    "name": "SyllasVieira"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 13 Shields</li><li> 1 Texture wall</li><li> 2 meshes wall</li></ul><p><br /></p><p>Number of Unique Meshes: 15</p><p>Collision: (Yes)</p><p>Vertex Count: (1,107 to 11,570)</p><p>LODs: (No)</p><p>Number of Materials and Material Instances: 44</p><p>Number of Textures: 63</p><p>Texture Resolutions: 1024, 2048, 4096</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8179fdc0-a29c-416d-8fb4-b24c8b775f39"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 05-1920x1080-9ca14eb039e65c04c571445f1243d0bc.jpg",
+      "md5": "9ca14eb039e65c04c571445f1243d0bc",
+      "size": 694925,
+      "uploadedDate": "2023-05-06T15:26:04.351Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 06-1920x1080-e9eba555c0de7368c9fcd282ce5956b8.jpg",
+      "md5": "e9eba555c0de7368c9fcd282ce5956b8",
+      "size": 755262,
+      "uploadedDate": "2023-05-06T15:26:02.632Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 01-1920x1080-52ebee86c368eac0efad102d2649ba9c.jpg",
+      "md5": "52ebee86c368eac0efad102d2649ba9c",
+      "size": 567449,
+      "uploadedDate": "2023-05-06T15:26:03.028Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 04-1920x1080-d5da9111a99a45cdcdecae106a53f336.jpg",
+      "md5": "d5da9111a99a45cdcdecae106a53f336",
+      "size": 701419,
+      "uploadedDate": "2023-05-06T15:26:03.457Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 02-1920x1080-d382e95dc8392bf525269fd29a6ac06a.jpg",
+      "md5": "d382e95dc8392bf525269fd29a6ac06a",
+      "size": 681415,
+      "uploadedDate": "2023-05-06T15:26:02.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 07-1920x1080-058174eb1275a83fa07932d3fb4a3f52.jpg",
+      "md5": "058174eb1275a83fa07932d3fb4a3f52",
+      "size": 718760,
+      "uploadedDate": "2023-05-06T15:26:03.966Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 03-1920x1080-3dd9319b63490b75d3d7285579a2b00d.jpg",
+      "md5": "3dd9319b63490b75d3d7285579a2b00d",
+      "size": 711177,
+      "uploadedDate": "2023-05-06T15:26:04.795Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield 08-1920x1080-40210226ba0e189c288bbeb462c58bbc.jpg",
+      "md5": "40210226ba0e189c288bbeb462c58bbc",
+      "size": 866570,
+      "uploadedDate": "2023-05-06T15:26:05.271Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shield011-1920x1080-4e7dd8633aad57d0d47392ca42ed6831.jpg",
+      "md5": "4e7dd8633aad57d0d47392ca42ed6831",
+      "size": 807881,
+      "uploadedDate": "2023-05-06T15:26:05.648Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShieldsPackVariations_thumb-284x284-2db5e1f60f325b831a31929e9f99821b.png",
+      "md5": "2db5e1f60f325b831a31929e9f99821b",
+      "size": 176904,
+      "uploadedDate": "2023-05-06T15:26:06.033Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShieldsPackVariations_featured-894x488-f813d260c0f43791a9f6ab05e4d7e311.png",
+      "md5": "f813d260c0f43791a9f6ab05e4d7e311",
+      "size": 698177,
+      "uploadedDate": "2023-05-06T15:26:06.137Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 02-1920x1080-d382e95dc8392bf525269fd29a6ac06a_Snapshot.jpg",
+      "md5": "27166781c95291d4d2337727bbea40b2",
+      "size": 7113,
+      "uploadedDate": "2023-05-06T15:26:02.427Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 06-1920x1080-e9eba555c0de7368c9fcd282ce5956b8_Snapshot.jpg",
+      "md5": "c31ce1653e6bc6e9e783a814b4989904",
+      "size": 7110,
+      "uploadedDate": "2023-05-06T15:26:02.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 01-1920x1080-52ebee86c368eac0efad102d2649ba9c_Snapshot.jpg",
+      "md5": "958dd773351f8504739d7bab378a6c51",
+      "size": 7039,
+      "uploadedDate": "2023-05-06T15:26:03.295Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 04-1920x1080-d5da9111a99a45cdcdecae106a53f336_Snapshot.jpg",
+      "md5": "caba52091d6fe465465c0ce495195798",
+      "size": 6532,
+      "uploadedDate": "2023-05-06T15:26:03.718Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 07-1920x1080-058174eb1275a83fa07932d3fb4a3f52_Snapshot.jpg",
+      "md5": "98f148434b42d400df4eef021e6bad38",
+      "size": 6796,
+      "uploadedDate": "2023-05-06T15:26:04.228Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 05-1920x1080-9ca14eb039e65c04c571445f1243d0bc_Snapshot.jpg",
+      "md5": "7e400ce77bc9e13a68f09b5b3f0bf512",
+      "size": 7164,
+      "uploadedDate": "2023-05-06T15:26:04.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 03-1920x1080-3dd9319b63490b75d3d7285579a2b00d_Snapshot.jpg",
+      "md5": "c12b989d2643b5a453012356cfa3ed80",
+      "size": 6516,
+      "uploadedDate": "2023-05-06T15:26:05.040Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield 08-1920x1080-40210226ba0e189c288bbeb462c58bbc_Snapshot.jpg",
+      "md5": "ae5bcc771d883f6bf5a85ea3400f28d9",
+      "size": 6338,
+      "uploadedDate": "2023-05-06T15:26:05.520Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shield011-1920x1080-4e7dd8633aad57d0d47392ca42ed6831_Snapshot.jpg",
+      "md5": "3c42eba5b1d0c386abb971e513bc0bc7",
+      "size": 6399,
+      "uploadedDate": "2023-05-06T15:26:05.908Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9b199be4c24c4c67b06d221bd1bfff42"
+    }
+  ],
+  "catalogNs": null
+}

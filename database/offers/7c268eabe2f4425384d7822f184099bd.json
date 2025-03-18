@@ -1,0 +1,425 @@
+{
+  "id": "7c268eabe2f4425384d7822f184099bd",
+  "namespace": "ue",
+  "title": "Camera Control Manager",
+  "description": "Camera Control Manager is the camera free movement for your projects. RTS, TopDown, ArchViz, Fighting and etc",
+  "longDescription": "<p><a href=\"https://youtu.be/bqgAe5ClPT8\" rel=\"nofollow\">Preview video</a> &#43; <a href=\"https://youtu.be/D0Hv-_IDhJE\" rel=\"nofollow\">Update video</a> &#43; <a href=\"https://youtu.be/TuNeqznaCQI\" rel=\"nofollow\">Fighting game camera</a> &#43; <a href=\"https://youtu.be/GjpU_F_YC3c\" rel=\"nofollow\">Network Support</a></p><p><a href=\"https://drive.google.com/open?id&#61;1OQ9Pb0-_J5aUx9CGcZWq1tM1YnpnoKOp\" rel=\"nofollow\">Download demo project</a></p><p><a href=\"https://drive.google.com/open?id&#61;1aihJ_DDb5hYrepwn6Ir2mmR1CCwqCzIw\" rel=\"nofollow\">Download for Archviz demo</a></p><p><a href=\"https://discord.gg/p8NbUxPBxM\" rel=\"nofollow\">Discord support</a></p><p><br /></p><p>Camera Control Manager is the camera free movement for your projects.</p><ul><li>The usual control of the camera - as in the editor UE4</li><li>Moving forward - backward, left - right, up - down</li><li>Camera zoom</li><li>Camera follows target</li><li>Cancel follows target</li><li>Move camera for mouse</li><li>If you use (Move camera for mouse) and hover the mouse over the UI, the camera stops moving</li><li>Movement camera click and drag</li><li>Camera rotation.</li><li><a href=\"https://youtu.be/t3BoDWaLJv0?si&#61;OXUk1eKIX1Qkrlm_\" rel=\"nofollow\">Centering the camera for multiple characters and automatic zoom for multiple characters</a></li><li><a href=\"https://youtu.be/HVbkNb6aifA\" rel=\"nofollow\">Auto rotation to keep two characters in screen</a></li><li>The camera takes into account the height of the landscape and does not pass through him</li><li>All this is tailored to your needs.</li><li>The camera has a number of settings. Easy to connect.</li></ul><p>Great for RTS, TopDown, Visual architecture, Fighting game and other projects.</p><p><br /></p><p><u>If you only want a fighting camera, you can buy it at a lower price</u> <a href=\"https://www.unrealengine.com/marketplace/en-US/product/fighting-camera-manager\" rel=\"nofollow\">here</a></p><p><br /></p><p>Last Update History:</p><p>Update 10 - what new:</p><p>Added logic for fighting game.</p><p>Now 2 modes are available</p><p>Playing in 2D aka (2.5D) and 3D modes</p><p><a href=\"https://youtu.be/GjpU_F_YC3c\" rel=\"nofollow\">Full network support</a></p><p><br /></p><p>Update 9 - what new:</p><p>Smoother control and movement</p><p>Full gamepad support with demo interface</p><p>The new target selection algorithm for the gamepad</p><p>Algorithm for maintaining altitude with uneven terrain added</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "camera-control-manager",
+  "creationDate": "2019-07-11T14:23:48.044Z",
+  "lastModifiedDate": "2024-09-30T16:54:26.812Z",
+  "effectiveDate": "2019-07-11T14:24:23.347Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-45481a1e034356acea308ee8ba1933",
+    "name": "Sergio Cavalli"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Number of Blueprints</strong>: 3</p><p><strong>Number of Components</strong>: 1</p><p><strong>Animations</strong>: default for demo</p><p><strong>Input</strong>: None required, though demo uses keyboard, mouse and gamepad inputs.</p><p><strong>Network Replicated</strong>: (Yes)</p><p><strong>Supported Development Platforms</strong>: (Windows, Mac)</p><p><strong>Supported Target Build Platforms</strong>: (Windows, Mac)</p><p><strong>Documentation: </strong><a href=\"https://docs.google.com/document/d/1HDCDcOpXLau9VXA9DHxDPpqw_5v6Kk-82FZa8LXsbj4/edit?usp&#61;sharing\" rel=\"nofollow\"><strong>Link</strong></a></p><p><strong>If you need use for mobile: Turn on Touch interface</strong></p><p><strong><u>Important: The product don&#39;t have a map ArchViz because it has a large size of 550 MB. You can download this scene using the launcher.</u></strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1099",
+      "name": "EMOTIONAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:07.804Z",
+      "updated": "2019-06-20T11:59:07.804Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d921f6e1-28b7-49e0-80b8-18167824601e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-764468cc09034e7c077db94504b57cfb.png",
+      "md5": "764468cc09034e7c077db94504b57cfb",
+      "size": 2415745,
+      "uploadedDate": "2019-06-25T12:38:20.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-06-2512-40-57-1920x1080-d11e40601bccecc4e0b8506531748c0f.png",
+      "md5": "d11e40601bccecc4e0b8506531748c0f",
+      "size": 1706353,
+      "uploadedDate": "2019-06-25T12:38:20.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-07-1117-15-29-1920x1080-c72063541a0897bbae1eb83f4cca57d3.png",
+      "md5": "c72063541a0897bbae1eb83f4cca57d3",
+      "size": 1674175,
+      "uploadedDate": "2019-07-11T14:19:02.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-07-1117-14-17-1920x1080-f7a6fbe1833cb78850917c7ba3f097fc.png",
+      "md5": "f7a6fbe1833cb78850917c7ba3f097fc",
+      "size": 1729424,
+      "uploadedDate": "2019-07-11T14:19:02.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-07-1117-18-13-1920x1080-cb0799dd53038d247490e81c9c8bd87a.png",
+      "md5": "cb0799dd53038d247490e81c9c8bd87a",
+      "size": 362967,
+      "uploadedDate": "2019-07-11T14:19:03.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-10-1603-01-26-1920x1080-7ec8cecb7e48f59023cb207d97167a26.png",
+      "md5": "7ec8cecb7e48f59023cb207d97167a26",
+      "size": 2389435,
+      "uploadedDate": "2019-10-16T00:04:30.067Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-10-1603-00-51-1920x1080-9a0a8a52633fd0ddecd9952e738d7455.png",
+      "md5": "9a0a8a52633fd0ddecd9952e738d7455",
+      "size": 2415617,
+      "uploadedDate": "2019-10-16T00:04:30.589Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2019-10-1603-06-09-1920x1080-f32f25b8d5edbb77db55601c2dc9d7a5.png",
+      "md5": "f32f25b8d5edbb77db55601c2dc9d7a5",
+      "size": 3044185,
+      "uploadedDate": "2019-10-16T00:07:48.055Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-dc362d8ecfd8c1d94c969a91d3faf2d7.png",
+      "md5": "dc362d8ecfd8c1d94c969a91d3faf2d7",
+      "size": 2351222,
+      "uploadedDate": "2022-10-16T22:58:13.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-84f64556f5f5c7e09629c447e15fc216.png",
+      "md5": "84f64556f5f5c7e09629c447e15fc216",
+      "size": 2347900,
+      "uploadedDate": "2022-10-16T22:58:13.175Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CameraControlManager_thumb-284x284-0d8bd0a0dd26e147fc173d6419700810.png",
+      "md5": "0d8bd0a0dd26e147fc173d6419700810",
+      "size": 148200,
+      "uploadedDate": "2019-06-25T12:38:22.701Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CameraControlManager_featured-894x488-e1aadd7e518f0be049002f551cca0640.png",
+      "md5": "e1aadd7e518f0be049002f551cca0640",
+      "size": 703405,
+      "uploadedDate": "2019-06-25T12:38:22.820Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-84f64556f5f5c7e09629c447e15fc216_Snapshot.png",
+      "md5": "aad6bef8aa3bd72e588a72f3e62fb48d",
+      "size": 5594,
+      "uploadedDate": "2022-10-16T22:58:13.526Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-dc362d8ecfd8c1d94c969a91d3faf2d7_Snapshot.png",
+      "md5": "a1f88d566e1ed4b2ea1f6ecc5fa83880",
+      "size": 4452,
+      "uploadedDate": "2022-10-16T22:58:14.016Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-d9807fa8bc575ef19eb75dfaf1a4ffab_Snapshot.png",
+      "md5": "2e36a19dbf886f5808c361ae0e7ff0a9",
+      "size": 3570,
+      "uploadedDate": "2022-05-17T17:38:03.355Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-10-1603-06-09-1920x1080-f32f25b8d5edbb77db55601c2dc9d7a5_Snapshot.png",
+      "md5": "4cb40c8844b80941ed2ee0b6daef9218",
+      "size": 6641,
+      "uploadedDate": "2019-10-16T00:07:48.469Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-10-1603-01-26-1920x1080-7ec8cecb7e48f59023cb207d97167a26_Snapshot.png",
+      "md5": "7092aff55f817e916a4873c9358bb670",
+      "size": 6379,
+      "uploadedDate": "2019-10-16T00:04:30.400Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-10-1603-00-51-1920x1080-9a0a8a52633fd0ddecd9952e738d7455_Snapshot.png",
+      "md5": "7eca9ba2527639238cc9f26c0307a980",
+      "size": 6093,
+      "uploadedDate": "2019-10-16T00:04:30.912Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-07-1117-15-29-1920x1080-c72063541a0897bbae1eb83f4cca57d3_Snapshot.png",
+      "md5": "67b989647c95443740e5d5a511e26389",
+      "size": 5529,
+      "uploadedDate": "2019-07-11T14:19:02.529Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-07-1117-14-17-1920x1080-f7a6fbe1833cb78850917c7ba3f097fc_Snapshot.png",
+      "md5": "08fce5cf735fdd7fb82ba1012a09ad44",
+      "size": 6158,
+      "uploadedDate": "2019-07-11T14:19:02.939Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-07-1117-18-13-1920x1080-cb0799dd53038d247490e81c9c8bd87a_Snapshot.png",
+      "md5": "4ed21ba42686cad3dcc08637c2cd0751",
+      "size": 6068,
+      "uploadedDate": "2019-07-11T14:19:03.243Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-764468cc09034e7c077db94504b57cfb_Snapshot.png",
+      "md5": "de7ebb20c5c8c82bb4a63b0830c4a7f4",
+      "size": 8625,
+      "uploadedDate": "2019-06-25T12:38:20.841Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-06-2512-40-57-1920x1080-d11e40601bccecc4e0b8506531748c0f_Snapshot.png",
+      "md5": "780393af13e3413eeec600c0ec10a3c7",
+      "size": 5614,
+      "uploadedDate": "2019-06-25T12:38:21.260Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-06-2512-38-41-1920x1080-56745269cfbec121ac346f1ac1237849_Snapshot.png",
+      "md5": "00dbd1c33f34d98a7c2934850e87a1d8",
+      "size": 5282,
+      "uploadedDate": "2019-06-25T12:38:21.630Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-06-2512-39-00-1920x1080-44bc9e9bcf465605a83c44307167319e_Snapshot.png",
+      "md5": "cf1ca81c7b7eb16485529060693c1ae6",
+      "size": 5608,
+      "uploadedDate": "2019-06-25T12:38:21.887Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-06-2512-39-40-1920x1080-8a48f454ae4ecbb7bcd24df18b7ec03b_Snapshot.png",
+      "md5": "a09151db7e561c8050bf6801ea73d928",
+      "size": 5171,
+      "uploadedDate": "2019-06-25T12:38:22.221Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2019-06-2512-37-10-1920x1080-005e727d8a40d89b139b82ebdd96c1a6_Snapshot.png",
+      "md5": "2ddabcbc9b91b6547034995b0990b9ff",
+      "size": 5183,
+      "uploadedDate": "2019-06-25T12:38:22.615Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a202a97d74a046e9a4a82010784d8013"
+    }
+  ],
+  "catalogNs": null
+}

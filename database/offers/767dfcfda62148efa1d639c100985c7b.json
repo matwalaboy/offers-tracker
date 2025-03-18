@@ -1,0 +1,218 @@
+{
+  "id": "767dfcfda62148efa1d639c100985c7b",
+  "namespace": "ue",
+  "title": "Medhue Ant",
+  "description": "3D animated Ant with PBR materials, 11 animations, and Blueprints.",
+  "longDescription": "<p>This is a 3d Ant with PBR textures and 11 different animations.. Efficiently modeled with only 3276 triangles. A basic AI system for the Ant with Ant_Blueprint, Ant_AnimBlueprint, Ant_AI, and Ant_Enum are included to help you set up the Ant quickly for your game or project. Drag and drop the Ant_Blueprint into your map, with a Navmesh, and your Ant is ready to go! The AI system can&#39;t cover all your custom needs for your game or project, but meant to help you design your own AI or quickly use for prototyping or envisioning your world.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "medhue-ant",
+  "creationDate": "2022-03-19T18:47:44.121Z",
+  "lastModifiedDate": "2024-09-29T01:54:36.448Z",
+  "effectiveDate": "2022-03-19T18:47:44.067Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-djf2f876mgmwyzqk74yc52dkt66n4t",
+    "name": "Medhue"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><a href=\"https://youtu.be/1RVLcLtAOUs\" rel=\"nofollow\">Ant Demo Video</a></h2><p>This product is also included in my <a href=\"https://www.unrealengine.com/marketplace/en-US/product/b491eb6e80d2475b9fe50b3438f94fe7\" rel=\"nofollow\">Insect Pack</a>.</p><p><br /></p><p>Features:</p><ul><li>Efficiently made mesh</li><li>PBR Materials</li><li>11 animations</li><li>Ant_Blueprint, Ant_AnimBlueprint, Ant_AI, and Ant_Enum</li></ul><p><br /></p><p>Animations:</p><ul><li>Attack</li><li>Dead</li><li>Death</li><li>Idle1</li><li>Idle2</li><li>Idle3</li><li>Idle4</li><li>Run</li><li>TurnLeft</li><li>TurnRight</li><li>Walk</li></ul><p><br /></p><p>Rigged: (Yes)</p><p>Animated: (Yes)</p><p>Number of Animations: 11</p><p>Animation types: In place</p><p>Number of characters: 1</p><p>Triangle count of character: 3276</p><p>Vertex count of character: 1973</p><p>Number of Materials and Material Instances: 4</p><p>Number of Textures: 6</p><p>Texture Resolutions: 2048x2048</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "bb13e68f-95c2-42dc-975e-ec84d1c55285"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AntGallery1Unreal-1920x1080-65aab65030ffb921387ea7761ed08d18.jpg",
+      "md5": "65aab65030ffb921387ea7761ed08d18",
+      "size": 263681,
+      "uploadedDate": "2022-03-17T20:24:50.196Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AntGallery2Unreal-1920x1080-a0b55126dc22fee9bc18b14eb0de8369.jpg",
+      "md5": "a0b55126dc22fee9bc18b14eb0de8369",
+      "size": 417669,
+      "uploadedDate": "2022-03-17T20:24:48.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AntGallery5Unreal-1920x1080-e579d9fe848b15f828e484f85a2d2005.jpg",
+      "md5": "e579d9fe848b15f828e484f85a2d2005",
+      "size": 436558,
+      "uploadedDate": "2022-03-17T20:24:49.442Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AntGallery3Unreal-1920x1080-65e0cf2c505f98d35ff66497e22bcea4.jpg",
+      "md5": "65e0cf2c505f98d35ff66497e22bcea4",
+      "size": 398967,
+      "uploadedDate": "2022-03-17T20:24:50.965Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AntGallery4Unreal-1920x1080-a71077bfc45734a39fc167292c501644.jpg",
+      "md5": "a71077bfc45734a39fc167292c501644",
+      "size": 466392,
+      "uploadedDate": "2022-03-17T20:24:51.730Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MedhueAnt_thumb-284x284-a55ed9122970b6da496db8cf43f01d5b.png",
+      "md5": "a55ed9122970b6da496db8cf43f01d5b",
+      "size": 65856,
+      "uploadedDate": "2022-03-17T20:24:52.287Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MedhueAnt_featured-894x488-102fd139682002f895d751cca45d08de.png",
+      "md5": "102fd139682002f895d751cca45d08de",
+      "size": 257864,
+      "uploadedDate": "2022-03-17T20:24:52.394Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AntGallery2Unreal-1920x1080-a0b55126dc22fee9bc18b14eb0de8369_Snapshot.jpg",
+      "md5": "aa188680a0fff20353e4586541bb0f07",
+      "size": 3348,
+      "uploadedDate": "2022-03-17T20:24:49.137Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AntGallery5Unreal-1920x1080-e579d9fe848b15f828e484f85a2d2005_Snapshot.jpg",
+      "md5": "ba872dd42ad12ac7c358904359b0e42d",
+      "size": 3749,
+      "uploadedDate": "2022-03-17T20:24:49.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AntGallery1Unreal-1920x1080-65aab65030ffb921387ea7761ed08d18_Snapshot.jpg",
+      "md5": "cd1bc46efcaf35ae86896830863ab5a6",
+      "size": 4388,
+      "uploadedDate": "2022-03-17T20:24:50.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AntGallery3Unreal-1920x1080-65e0cf2c505f98d35ff66497e22bcea4_Snapshot.jpg",
+      "md5": "beb9da3c6a2ecd80dba41a21488e062e",
+      "size": 3238,
+      "uploadedDate": "2022-03-17T20:24:51.455Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AntGallery4Unreal-1920x1080-a71077bfc45734a39fc167292c501644_Snapshot.jpg",
+      "md5": "3d0546a9e7e3e5c841fad1be5be93484",
+      "size": 4495,
+      "uploadedDate": "2022-03-17T20:24:52.235Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f819e46023034306aaa93b68ac56b6d5"
+    }
+  ],
+  "catalogNs": null
+}

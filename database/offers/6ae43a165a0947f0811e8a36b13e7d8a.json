@@ -1,0 +1,314 @@
+{
+  "id": "6ae43a165a0947f0811e8a36b13e7d8a",
+  "namespace": "ue",
+  "title": "Advanced Multiplayer Spectator System",
+  "description": "Advanced System for adding Spectator Mode to your project with tons of modular options for your needs. The System supports Multiplayer Projects and All Templates (Third Person, First Person). [100% BP]",
+  "longDescription": "<h2>&#x1f3ae; Watch &amp; Play</h2><ul><li><a href=\"https://bit.ly/3AoTnQu\" rel=\"nofollow\">Trailer Video</a> | <a href=\"https://bit.ly/3yx2OfD\" rel=\"nofollow\">Playable Demo</a></li></ul><p><br /></p><h2>&#x1f393; Documents</h2><ul><li><a href=\"https://bit.ly/SpectatorSystemDocumentation\" rel=\"nofollow\">Documentation</a></li></ul><p><br /></p><h2>❓ Have a question?</h2><ul><li><a href=\"https://discord.com/invite/anpDN9F\" rel=\"nofollow\">Discord</a> with 1500&#43; Members</li></ul><p><br /></p><p><strong>Description:</strong></p><p>Advanced Spectator Mode that allows you to Spectate <strong>Online Players</strong> and <strong>AIs</strong> real-time in game.</p><p>The System is fully <strong>Replicated</strong> and supports all <strong>Multiplayer/Singleplayer</strong> Templates. (First Person, Third Person and etc.)</p><p>It is Optimized, Ping Friendly and super simple to Use/Modify.</p><p><br /></p><p><u>Integration tutorial</u> is located inside <a href=\"https://bit.ly/3y9wpKu\" rel=\"nofollow\"><strong><u>Documentation</u></strong></a>. (Very Simple)</p><p><strong>3 Spectators Mode: </strong>[Free Camera] [Follow Player] [Locked Camera]</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-multiplayer-spectator-system",
+  "creationDate": "2022-07-02T15:51:40.132Z",
+  "lastModifiedDate": "2024-09-29T16:09:46.252Z",
+  "effectiveDate": "2022-07-02T15:51:40.054Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-paph9ju77zbmrxxt8rh95sksxrjurd",
+    "name": "Dreamrise Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>  3 Spectators Modes</li><li>  Multiplayer Support</li><li>  Animated HUD</li><li>  Other Spectators Visibility</li><li>  Smooth Transitions</li><li>  Optimized</li><li>  Tons of Modular Options</li><li>  Easy to Use/Modify</li><li>  Super Simple Integration</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p><strong>Network Replicated: Yes</strong></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Other: Not Tested Yet</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1282",
+      "name": "DYSTOPIAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.742Z",
+      "updated": "2019-06-20T12:00:38.742Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "94462d67-c15e-4f07-9745-e54b8d656044"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Picture01-1920x1080-d5b0f8d37922b6dceeb34063d4705824.png",
+      "md5": "d5b0f8d37922b6dceeb34063d4705824",
+      "size": 1588044,
+      "uploadedDate": "2022-06-30T21:27:07.195Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Picture02-1920x1080-b4800d4215f482b9aa6ad29b6a885589.png",
+      "md5": "b4800d4215f482b9aa6ad29b6a885589",
+      "size": 1674989,
+      "uploadedDate": "2022-06-30T21:27:07.874Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Picture03-1920x1080-b2f27b7b434fbc2d6d38c2b8f0cb5ea6.png",
+      "md5": "b2f27b7b434fbc2d6d38c2b8f0cb5ea6",
+      "size": 2136132,
+      "uploadedDate": "2022-06-30T21:27:08.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedMultiplayerSpectatorSystem_thumb-284x284-002a7bc108a1a4136ce21c40ceefec0c.png",
+      "md5": "002a7bc108a1a4136ce21c40ceefec0c",
+      "size": 17651,
+      "uploadedDate": "2022-06-30T21:27:09.588Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedMultiplayerSpectatorSystem_featured-894x488-ca5c005262abf3083008e0f124598d83.png",
+      "md5": "ca5c005262abf3083008e0f124598d83",
+      "size": 51895,
+      "uploadedDate": "2022-06-30T21:27:09.716Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Picture01-1920x1080-d5b0f8d37922b6dceeb34063d4705824_Snapshot.png",
+      "md5": "0766e667b2b00028f284da1b0668c12c",
+      "size": 3750,
+      "uploadedDate": "2022-06-30T21:27:07.550Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Picture02-1920x1080-b4800d4215f482b9aa6ad29b6a885589_Snapshot.png",
+      "md5": "ed4742fcf4c7d965bf8005450b0d53ba",
+      "size": 4067,
+      "uploadedDate": "2022-06-30T21:27:08.244Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Picture03-1920x1080-b2f27b7b434fbc2d6d38c2b8f0cb5ea6_Snapshot.png",
+      "md5": "514638cb37bd1f0352a00f0566c33261",
+      "size": 5045,
+      "uploadedDate": "2022-06-30T21:27:09.451Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "073f3e7dbb364d41bccb1694004289f7"
+    }
+  ],
+  "catalogNs": null
+}

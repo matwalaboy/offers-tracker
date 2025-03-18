@@ -1,0 +1,146 @@
+{
+  "id": "7338fe4160784081bebe76f5aa4854e5",
+  "namespace": "ue",
+  "title": "Music - Background - Christmas Vol1",
+  "description": "Celebrate the festive season with this pack of 20 exclusive Christmas songs. Enhance the Christmas atmosphere of your games with enchanting, high-quality soundtracks!",
+  "longDescription": "<p><strong>Christmas Music Pack for Games</strong> &#x1f384;</p><p><br /></p><p>Youtube Demo: <a href=\"https://youtu.be/jNM0fz79Q3Y\" rel=\"nofollow\">here</a></p><p><br /></p><p>Celebrate the magic of Christmas in your games with our exclusive pack of 20 Christmas songs. Each track has been carefully composed to capture the joy and spirit of Christmas, providing an immersive festive atmosphere for players.</p><p><br /></p><p>This pack is perfect for a variety of game scenarios, from snow-covered cities to cozy country houses by the fireplace. The songs vary in style and pace, ensuring you have the perfect soundtrack for every moment of your game.</p><p><br /></p><p>The tracks are fully compatible with Unreal Engine and can be easily integrated into your project. Plus, all songs are royalty-free, so you can use them in your games without any additional worries.</p><p><br /></p><p>Give your players the gift of Christmas music and let your game shine even brighter this Christmas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "music-background-christmas-vol1",
+  "creationDate": "2024-04-20T15:02:50.155Z",
+  "lastModifiedDate": "2024-09-27T12:47:58.239Z",
+  "effectiveDate": "2024-04-20T15:46:39.360Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-vm3mwunu72wfwmbvhwzyw7sttp8yyp",
+    "name": "Captain Thatch"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> <strong>Channel: </strong>2 channels</li><li> <strong>Additional: </strong>Stereo</li><li><strong>Encoding:</strong> PCM</li></ul><p>Number of Audio Wavs: 20</p><p>Number of Audio Cues: 20</p><p>Sample rate / bit rate: 44,100 Hz/16 bit</p><p>Does music loop: No</p><p>Minutes of audio provided: 43:27</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: https://captainthatch.forgedream.com</p><p>Important/Additional Notes:</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4d74f97e-e699-4350-94e7-44dbdc01bb9b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/GALLERY Music - Background BG - Christmas Vol1-1920x1080-0b778a525da21e675acb50514f8ecc00.png",
+      "md5": "0b778a525da21e675acb50514f8ecc00",
+      "size": 476232,
+      "uploadedDate": "2024-04-07T15:14:47.697Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MusicBackgroundBGChristmasVol1_thumb-284x284-9d39a71a91b64c991e34db06fd90f39a.png",
+      "md5": "9d39a71a91b64c991e34db06fd90f39a",
+      "size": 60108,
+      "uploadedDate": "2024-04-07T15:14:48.046Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MusicBackgroundBGChristmasVol1_featured-894x488-66c09a1382fed0c6cffd331d613968f8.png",
+      "md5": "66c09a1382fed0c6cffd331d613968f8",
+      "size": 170313,
+      "uploadedDate": "2024-04-07T15:14:48.160Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/GALLERY Music - Background BG - Christmas Vol1-1920x1080-0b778a525da21e675acb50514f8ecc00_Snapshot.png",
+      "md5": "bec92dfc6d57333e5b0136c4b748a65f",
+      "size": 6638,
+      "uploadedDate": "2024-04-07T15:14:47.948Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "04d97a8a1dc8438cbb75d0fbcf4e4a5f"
+    }
+  ],
+  "catalogNs": null
+}

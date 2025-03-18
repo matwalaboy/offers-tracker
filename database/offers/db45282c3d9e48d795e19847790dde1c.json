@@ -1,0 +1,281 @@
+{
+  "id": "db45282c3d9e48d795e19847790dde1c",
+  "namespace": "ue",
+  "title": "Simple VR Collision Plugin",
+  "description": "An easy to use plugin for handling smooth VR camera collisions.",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;wBbECRJl02I\" rel=\"nofollow\">Showcase</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/7935f7f3f16d49a38f4dd8cdb9430ffe\" rel=\"nofollow\">Checkout my climbing plugin</a></p><p>This plugin enables a room-scale VR character to have smooth collisions.</p><p>The player can also crawl under tight spaces without his view clipping through the roof or floor.</p><p>To use the plugin, simply add it to your existing Character. Also make sure to use the component hierarchy as shown in the screenshot.</p><p><br /></p><p>In the Begin Play function, call the &#34;Setup VR Components&#34; function from the &#34;Simple VR Collision&#34; component.</p><p>The minimum inputs which are required, are the Collision Capsule Component, VROrigin (Scene Component), and the Camera Component.</p><p><br /></p><p>If you want to make the Character fit into more narrow spaces you can simply adjust the Capsule Component Radius.</p><p><br /></p><p>IMPORTANT: This component is currently intended to work with Characters. You may find a workaround for Pawns but this cannot yet be guaranteed.</p><p>Bonus: Demo Character Blueprint with smooth locomotion logic.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "simple-vr-collision-plugin",
+  "creationDate": "2024-09-16T10:51:25.364Z",
+  "lastModifiedDate": "2024-09-28T09:24:09.679Z",
+  "effectiveDate": "2024-09-16T10:58:40.257Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-57f60036dc48c880344ad2892058c5",
+    "name": "Slightly Ambitious Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://www.youtube.com/watch?v&#61;wBbECRJl02I\" rel=\"nofollow\">Setup</a></p><p>Features:</p><ul><li> Handles VR camera collisions in all directions</li><li> Dynamically adjusts Collision Capsule height</li><li>Use BodyZOffset variable to manually adjust the character&#39;s height, e.g. useful for seated gameplay or crouching by pressing a button. </li></ul><p>Code Modules:</p><ul><li> Simple VR Collision (Actor Component), Type: Runtime</li></ul><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Example Project: Included in the plugin content folder (See Screenshot)</p><p>Important/Additional Notes: This component is currently intended to work with Characters. You may find a workaround for Pawns but this cannot yet be guaranteed.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4ae3bd7a-13fa-418a-802d-a886cc733ee6"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoPreview04-1920x1080-d9d5a4c188de7d7c5e0bdc7e95d9f05c.png",
+      "md5": "d9d5a4c188de7d7c5e0bdc7e95d9f05c",
+      "size": 577686,
+      "uploadedDate": "2024-09-16T17:43:59.001Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoCharacterSetup-1920x1080-07c94467e954186ac712c8a69cfcfd6c.png",
+      "md5": "07c94467e954186ac712c8a69cfcfd6c",
+      "size": 347681,
+      "uploadedDate": "2024-09-10T20:58:07.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoLevelContentBrowser-1920x1080-21beb35ab6bd86c7f9bab62a875af6d5.png",
+      "md5": "21beb35ab6bd86c7f9bab62a875af6d5",
+      "size": 479605,
+      "uploadedDate": "2024-09-10T20:58:08.421Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoPreview01-1920x1080-f570188f37af306cb4a890e7bfe2542a.png",
+      "md5": "f570188f37af306cb4a890e7bfe2542a",
+      "size": 1022765,
+      "uploadedDate": "2024-09-10T20:58:08.912Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoPreview02-1920x1080-c8641efffdee63f6a76d8df6d0b3f9be.png",
+      "md5": "c8641efffdee63f6a76d8df6d0b3f9be",
+      "size": 1224245,
+      "uploadedDate": "2024-09-10T20:58:09.473Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/DemoPreview03-1920x1080-c094c7f3d8acebe8b0c35186d28beed3.png",
+      "md5": "c094c7f3d8acebe8b0c35186d28beed3",
+      "size": 649541,
+      "uploadedDate": "2024-09-16T17:43:59.669Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SimpleVRCollisionPlugin_thumb-284x284-ca1d05cdcc72482306d163315e4f8dad.png",
+      "md5": "ca1d05cdcc72482306d163315e4f8dad",
+      "size": 43089,
+      "uploadedDate": "2024-09-16T17:28:22.191Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SimpleVRCollisionPlugin_featured-894x488-6fde240767243d77e67530b25c525bdb.png",
+      "md5": "6fde240767243d77e67530b25c525bdb",
+      "size": 330862,
+      "uploadedDate": "2024-09-10T20:58:10.046Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoCharacterBodyZOffset-1920x1080-0666f8e9316f5ea1f9fda8ed62fd0300_Snapshot.png",
+      "md5": "aa3b0c6b6ca943dd29bf106a7a9f23bd",
+      "size": 4193,
+      "uploadedDate": "2024-09-16T18:40:03.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoPreview04-1920x1080-d9d5a4c188de7d7c5e0bdc7e95d9f05c_Snapshot.png",
+      "md5": "60fab7a9a0f90d8eccc01b3a4845b088",
+      "size": 4008,
+      "uploadedDate": "2024-09-16T17:43:59.352Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoPreview03-1920x1080-c094c7f3d8acebe8b0c35186d28beed3_Snapshot.png",
+      "md5": "a965a09a3503650a89a52491d0c64893",
+      "size": 4062,
+      "uploadedDate": "2024-09-16T17:44:00.011Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoCharacterSetup-1920x1080-07c94467e954186ac712c8a69cfcfd6c_Snapshot.png",
+      "md5": "43b60411ade3ddaee67ad652b1c81705",
+      "size": 5084,
+      "uploadedDate": "2024-09-10T20:58:08.279Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoLevelContentBrowser-1920x1080-21beb35ab6bd86c7f9bab62a875af6d5_Snapshot.png",
+      "md5": "c72dd4873494079157b12f7c786b4520",
+      "size": 4440,
+      "uploadedDate": "2024-09-10T20:58:08.728Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoPreview01-1920x1080-f570188f37af306cb4a890e7bfe2542a_Snapshot.png",
+      "md5": "45bee2a08001dab49e41459eda70fed8",
+      "size": 6110,
+      "uploadedDate": "2024-09-10T20:58:09.260Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/DemoPreview02-1920x1080-c8641efffdee63f6a76d8df6d0b3f9be_Snapshot.png",
+      "md5": "b487e07d43dea49db28313351157b4f8",
+      "size": 6554,
+      "uploadedDate": "2024-09-10T20:58:09.877Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b80eacbc4a0c4982926ffdb92f170432"
+    }
+  ],
+  "catalogNs": null
+}

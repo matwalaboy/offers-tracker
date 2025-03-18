@@ -1,0 +1,305 @@
+{
+  "id": "3df1e4cd6f774e74a31bd114fb8bf1a1",
+  "namespace": "ue",
+  "title": "The spider bundle",
+  "description": "Cute low poly spider bundle.",
+  "longDescription": "<p>Bundle version of cute low poly spider. Characters have all the basic movement and combat animations. Bundle includes all the 3 levels of super cute spider.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "the-spider-bundle",
+  "creationDate": "2021-05-25T06:58:35.826Z",
+  "lastModifiedDate": "2024-09-29T17:01:05.436Z",
+  "effectiveDate": "2021-05-25T06:58:35.786Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-58kma2wdqkpy9fk8tvrtsj62lq29ww",
+    "name": "HologramMonster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Rigged:</strong> Yes</p><p><strong>Animated:</strong> Yes</p><p><strong>Number of Animations:</strong></p><p>Level 1: 13</p><p>Level 2: 14</p><p>Level 3: 14</p><p><strong>Animations by name:</strong></p><ul><li>Idle</li><li>Walking</li><li>Running</li><li>Jumping</li><li>Turning (root motion)</li><li>Attack - leap (root motion)</li><li>Attack - spitting projectile (projectile not included)</li><li>Attack - tail projectile (lvl2-3)(projectile not included)</li><li>Take light damage</li><li>Take heavy damage (root motion)</li></ul><p><br /></p><p><strong>Number of characters:</strong> 3</p><p><strong>Tri-count:</strong></p><p>Level 1: 1738</p><p>Level 2: 2936</p><p>Level 3: 5642</p><p><strong>Number of Materials and Material Instances:</strong> 18</p><p><strong>Number of Textures:</strong> 4</p><p><strong>Texture Resolution:</strong> 1024</p><p><strong>Supported Development Platforms:</strong></p><p>Windows: Yes</p><p>Mac: No</p><p><strong>Video preview:</strong></p><p>Animations level 1:<a href=\"https://youtu.be/0LEK8YJSy2U\" rel=\"nofollow\"> </a><a href=\"https://www.youtube.com/watch?v&#61;5dO_A26iiRY\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;5dO_A26iiRY</a></p><p>Animations level 2:<a href=\"https://youtu.be/0LEK8YJSy2U\" rel=\"nofollow\"> https://youtu.be/0LEK8YJSy2U</a></p><p>Animations level 3:<a href=\"https://youtu.be/0LEK8YJSy2U\" rel=\"nofollow\"> </a><a href=\"https://youtu.be/a2-sChHi0JE\" rel=\"nofollow\">https://youtu.be/a2-sChHi0JE</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7eceae6f-b7e6-495c-9303-518447f46582"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Supercutebundlesplash-1920x1080-49b4478c4a20c6505c448a9f0f9837d3.jpg",
+      "md5": "49b4478c4a20c6505c448a9f0f9837d3",
+      "size": 1637639,
+      "uploadedDate": "2021-05-24T11:09:40.386Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Supercutebundle01-1920x1080-c2269ff33b714d44477278475a344c6e.jpg",
+      "md5": "c2269ff33b714d44477278475a344c6e",
+      "size": 1572363,
+      "uploadedDate": "2021-05-24T11:09:40.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thespiderlvl1img01-1920x1080-66d8c61be875e30a2f1ae55494d746da.jpg",
+      "md5": "66d8c61be875e30a2f1ae55494d746da",
+      "size": 1182552,
+      "uploadedDate": "2021-05-24T12:07:33.722Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thespiderlvl201-1920x1080-483f55e2a8967ecf5dcca6b974dbd116.jpg",
+      "md5": "483f55e2a8967ecf5dcca6b974dbd116",
+      "size": 679459,
+      "uploadedDate": "2021-05-24T12:20:10.565Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Thespiderlvl301-1920x1080-bc478fe72a7e3baf344f05c6ecf24284.jpg",
+      "md5": "bc478fe72a7e3baf344f05c6ecf24284",
+      "size": 1590754,
+      "uploadedDate": "2021-05-24T12:07:35.171Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Thespiderbundle_thumb-284x284-5e1deb7e810ed0bd02b135bc4d10823d.png",
+      "md5": "5e1deb7e810ed0bd02b135bc4d10823d",
+      "size": 165078,
+      "uploadedDate": "2021-05-24T11:09:41.246Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Thespiderbundle_featured-894x488-debc31ebf01e446a2cb73ee6fdbcec3c.png",
+      "md5": "debc31ebf01e446a2cb73ee6fdbcec3c",
+      "size": 624081,
+      "uploadedDate": "2021-05-24T11:09:41.355Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl201-1920x1080-483f55e2a8967ecf5dcca6b974dbd116_Snapshot.jpg",
+      "md5": "bf145b3895c7b18c19489dc080a36d3b",
+      "size": 5534,
+      "uploadedDate": "2021-05-24T12:20:11.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl1img01-1920x1080-66d8c61be875e30a2f1ae55494d746da_Snapshot.jpg",
+      "md5": "d0dfa69aa41db5b4dbb6f32e10fbb9e1",
+      "size": 5183,
+      "uploadedDate": "2021-05-24T12:07:34.007Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl2img01-1920x1080-0e76813ee877357901b79752d9533eab_Snapshot.jpg",
+      "md5": "e5938fbfbd1265da891dba85c489c160",
+      "size": 5512,
+      "uploadedDate": "2021-05-24T12:07:35.042Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl301-1920x1080-bc478fe72a7e3baf344f05c6ecf24284_Snapshot.jpg",
+      "md5": "8b96fd56464db6c37b482fd1c1b98771",
+      "size": 5945,
+      "uploadedDate": "2021-05-24T12:07:35.465Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Supercutebundlesplash-1920x1080-49b4478c4a20c6505c448a9f0f9837d3_Snapshot.jpg",
+      "md5": "2a5e84da5ce98980933b9fb5c85daf2c",
+      "size": 5970,
+      "uploadedDate": "2021-05-24T11:09:40.677Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Supercutebundle01-1920x1080-c2269ff33b714d44477278475a344c6e_Snapshot.jpg",
+      "md5": "f7453611ea80029e7e4b36bd15b3285e",
+      "size": 6218,
+      "uploadedDate": "2021-05-24T11:09:41.146Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Supercutebundlesplash-1920x1080-43e01782658d2cd12cffb2f68a0f4822_Snapshot.jpg",
+      "md5": "38e60e69f48dc079b8b269cee55b67f7",
+      "size": 5847,
+      "uploadedDate": "2021-05-24T10:54:32.495Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Thespiderlvl3splash-1920x1080-cd43021de5cdf3975030687562b44333_Snapshot.jpg",
+      "md5": "62f785d151955121e327f87bc763abc0",
+      "size": 6138,
+      "uploadedDate": "2021-05-21T12:42:42.554Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f99dfaa03ae74b729db315de973e3427"
+    }
+  ],
+  "catalogNs": null
+}

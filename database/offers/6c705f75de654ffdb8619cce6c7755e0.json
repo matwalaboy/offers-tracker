@@ -1,0 +1,182 @@
+{
+  "id": "6c705f75de654ffdb8619cce6c7755e0",
+  "namespace": "ue",
+  "title": "Animals Avatars Pack",
+  "description": "This set of impressive animal avatars was created to add originality and vibrant design to your game!",
+  "longDescription": "<p>The set includes 275 icons of various animals: bear, cat, dog, eagle, fox, monkey, mouse, owl, raccoon, tiger, wolf.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "animals-avatars-pack",
+  "creationDate": "2023-12-10T02:34:29.361Z",
+  "lastModifiedDate": "2024-09-27T15:23:58.521Z",
+  "effectiveDate": "2023-12-10T02:34:29.321Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>20 bear icons;</p><p>40 cat icons;</p><p>20 dog icons;</p><p>25 eagle icons;</p><p>30 fox icons;</p><p>25 monkey icons;</p><p>20 mouse icons;</p><p>20 owl icons;</p><p>25 raccoon icons;</p><p>20 tiger icons;</p><p>30 wolf icons.</p><p>Number of Textures: 275</p><p>Texture Resolutions: 1024 x 1024 px</p><p>File format: PNG</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Playground AI</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f80a3ac4-67e4-43d8-86f1-7a0a8f3e30e0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/animlogo3-1920x1080-063869bcfe0959d4b0b5ca27c539dca5.png",
+      "md5": "063869bcfe0959d4b0b5ca27c539dca5",
+      "size": 2489852,
+      "uploadedDate": "2023-12-08T08:05:39.576Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/animlogo2-1920x1080-b43f2d21468a75ef05f5e51939d38c7e.png",
+      "md5": "b43f2d21468a75ef05f5e51939d38c7e",
+      "size": 2617565,
+      "uploadedDate": "2023-12-08T08:05:40.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/animlogo-1920x1080-99719f15db9f59d404863b89f4ace2c0.png",
+      "md5": "99719f15db9f59d404863b89f4ace2c0",
+      "size": 2732701,
+      "uploadedDate": "2023-12-08T08:05:41.013Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AnimalsAvatarsPack_thumb-284x284-017a3eff2d98c3ee739c372468892f96.png",
+      "md5": "017a3eff2d98c3ee739c372468892f96",
+      "size": 141239,
+      "uploadedDate": "2023-12-08T08:05:41.499Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AnimalsAvatarsPack_featured-894x488-ab76b3ff527e31b5473e0a153ad46d09.png",
+      "md5": "ab76b3ff527e31b5473e0a153ad46d09",
+      "size": 842452,
+      "uploadedDate": "2023-12-08T08:05:41.699Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/animlogo3-1920x1080-063869bcfe0959d4b0b5ca27c539dca5_Snapshot.png",
+      "md5": "46f4d9b0f67fdc70a1c33132b811dc2e",
+      "size": 11019,
+      "uploadedDate": "2023-12-08T08:05:39.970Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/animlogo2-1920x1080-b43f2d21468a75ef05f5e51939d38c7e_Snapshot.png",
+      "md5": "66060e0a9eab0fc7d7a562a95d0eaaa7",
+      "size": 10783,
+      "uploadedDate": "2023-12-08T08:05:40.798Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/animlogo-1920x1080-99719f15db9f59d404863b89f4ace2c0_Snapshot.png",
+      "md5": "74e1228f56eef377a865ae2f88dceb3c",
+      "size": 11128,
+      "uploadedDate": "2023-12-08T08:05:41.454Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "152fb53d35a546e9b33581925fce0fb9"
+    }
+  ],
+  "catalogNs": null
+}

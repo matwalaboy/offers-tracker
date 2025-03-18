@@ -1,0 +1,275 @@
+{
+  "id": "8af0da00ef64438484d9dc6e7e3b860c",
+  "namespace": "ue",
+  "title": "Space Nebula and Starfield V2 (V3)",
+  "description": "Universal Creation and Rendering of Volumetric Nebulas with a gazillion Stars!",
+  "longDescription": "<h1><strong>Space Nebula and Starfield</strong> for Unreal Engine</h1><p><br /></p><p>A fully open ray-cast renderer for translucent volumetrics. It is used to visualize nebulas or clouds, but it is actually a lot more than this. It is a low-level access to layered-3d and true 3d-textures and allows general GPU computation (e.g. fluid simulations) by introducing a dynamic creation-pipeline.</p><p>The Nebula Generation Algorithm is independent procedural framework to distribute density and color over a 3d-space. This concerns the artistic and realism aspects and results may vary. Nebulas within the game exist as procedural seeds (parameter combination) or as textures.</p><p>A high-performance, multi-threaded starfield that enables deterministic positioning to allow accurate large-scale star representations.</p><p><br /></p><p><br /></p><h2><strong>✧ [ </strong><a href=\"https://photos.app.goo.gl/AeGD1LX4MTYn1Unj6\" rel=\"nofollow\"><strong>Gallery</strong></a><strong> ] ✧</strong></h2><p><br /></p><p>[<strong> Latest News and Screenshot </strong>]</p><p>On our <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/95980-plugin-volumetric-space-cloud-and-nebula-starfield-v2\" rel=\"nofollow\">Official Forum Site</a></p><p>&#43; The Ray-Caster/Marcher is now also completely implemented in BP and Material system, using code is optional.</p><p>&#43; V3 with a lot of improved features is now included in experimental status!</p><p><br /></p><p>✧ [<strong> V2 Features </strong>] ✧</p><p><em>&#43; Volumetric-Rendering of Space-Nebulas, single Clouds, Interstellar-Medium...</em></p><p><em>&#43; Procedural-Creation-System for 3D Density- and Color-Structures</em></p><p><em>&#43; Lighting and God-Ray Creation</em></p><p><em>&#43; Randomizer and Static-Texture-Baking</em></p><p><em>&#43; Optimized for Real-Time</em></p><p><em>&#43; Animated Microstructure</em></p><p><em>&#43; Procedural and deterministic Starfield with millions of stars</em></p><p><br /></p><p>✧ [<strong> V2 Features </strong>] ✧</p><p>&#43; When using V2 with Resolution-Buffer enabled, the AspectRatio_MaintainXFOV should be set in the Camera settings or the DefaultEngine.ini</p><p><br /></p><p>✧ [<strong> V2 Interactive Demos</strong> ] ✧</p><p><a href=\"https://drive.google.com/open?id&#61;1Woxd1stTQ1X8-0OwIc1JKtTvYfLp6SYm\" rel=\"nofollow\">Download V1/V2 Demo</a> (Win, 99 MB)</p><p><a href=\"https://drive.google.com/file/d/1pd6SrT2waPdXw92mw1i91UFH0Onrr7HK\" rel=\"nofollow\">Download V3 Content-Examples</a> (Win, 540 MB)</p><p><br /></p><p>✧ [<strong> V2 How-To </strong>] ✧</p><p><a href=\"https://drive.google.com/open?id&#61;1cQPy3tzST0pKDWtKPv1Q_W4Lj-3VAkVC\" rel=\"nofollow\">Documentation Handbook </a>✧</p><p><a href=\"http://youtu.be/ulkF1yxq9qI\" rel=\"nofollow\">Tutorial and Showcase Video</a> ✧</p><p><em>&#43; the plugin is vastly commented</em></p><p><br /></p><p><strong>✧ [ V3 is now including Experimental] ✧</strong></p><p><em>&#43; Space Nebula and Starfield V3 is now included as Experimental for UE4.25&#43; (UE5 proofed)</em></p><p><em>&#43; Install: Update the Plugin from the Epic Launcher to access V3 in your project (V2 stays as it is)</em></p><p><em>&#43; Basic principles remain: the Creation and Visualization of Volume-Textures</em></p><p><em>&#43; Faster, simpler and generalized through low-level C&#43;&#43;/Compute-Shader implementation</em></p><p><em>&#43; Procedural Volume-Creation in the Level via customizable Pipeline (Play/Runtime and Editor)</em></p><p><em>&#43; Different Creation-Stages to specify the Volume-Creation process: Material, Brush, Flow-Simulation, Lightsource, Blurs, ...</em></p><p><em>&#43; Different Volume Raymarching-Modules: Advanced, Within, Simple, Block, Signed-Distancefield</em></p><p><em>&#43; 3D Cellular-Automatas to have fun with</em></p><p><em>&#43; Create Volume-Textures and 3D-Vectorfields for UE&#39;s Volume- and Particle-Renderers:</em></p><p><em>&#43;&#43;&#43; Niagara</em></p><p><em>&#43;&#43;&#43; Volumetric-Clouds</em></p><p><em>&#43;&#43;&#43; Volumetric-Fogs</em></p><p><em>&#43;&#43;&#43; Heterogenous Volumes</em></p><p><em>&#43; Comes with a lot of </em><a href=\"https://drive.google.com/file/d/1pd6SrT2waPdXw92mw1i91UFH0Onrr7HK\" rel=\"nofollow\"><em>Content-Examples</em></a><em> (Nebula-Alpha, -Omega, -Zed, -Kappa, -Sigma, Galaxy, Sun, Gas-Planet, Atmospheric-Cloud, Polar-Lights, Rainbow, 3D-Paint, Niagara, Brain, CA, CCA, CNN, Metaballs, Fluid-Ball, Fluid-Surface, Universe, Detailers)</em></p><p><br /></p><p>❉</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "space-nebula-and-starfield-v2",
+  "creationDate": "2018-06-12T20:32:40.556Z",
+  "lastModifiedDate": "2024-09-27T08:57:02.713Z",
+  "effectiveDate": "2018-06-12T20:32:40.524Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-68f055fe2b4a3da47385ece4981771",
+    "name": "Thauros-Development"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>✧ [ V2 <strong>Content </strong>] ✧</p><p><em>&#43; &#34;Space-Nebula and Starfield&#34;-Actor to easily apply in your Level</em></p><p><em>&#43; &#34;Space-Nebula-Creator&#34;-Actor to generate custom 3D Nebula-Textures</em></p><p><em>&#43; Various Procedural Creation Presets for usage and examples: </em></p><p><em> &#43;&#43; Multiple Nebulae, Galaxy, Sun, Gas-Planet, Medical-Scans and Atmospheric-Clouds and more...</em></p><p><em> &#43;&#43; Lightsources, Dark-Matter, Blur</em></p><p><br /></p><p>✧ [V2 <strong> Technical Features </strong>] ✧</p><p><em>&#43; Raymarching-Renderer for semi-translucent objects</em></p><p><em>&#43; Pseudo-Volumetric Textures (4k, 8k)</em></p><p><em>&#43; Color-ransfer with interactive Color-Lookup</em></p><p><em>&#43; Optimization by Distancefield and Adaptive Sampling</em></p><p><em>&#43; Resolution-Buffer</em></p><p><em>&#43; Speed-modulated 3D-Offset as real-time Micro-Stucture</em></p><p><em>&#43; Multi-Threading / parallelized GPU Utilization</em></p><p><em>&#43; Procedural and interactive Texture- and Color-Composition</em></p><p><em>&#43; Procedural and scalable Starfield with 3D-Binarytree</em></p><p><em>&#43; Blueprint queryable Nebula Information (Color, Density, Gradient from Volume)</em></p><p><em>&#43; Blueprint queryable (clickable) Stars / Star-Position</em></p><p><em>&#43; Customizable Star Motion Blur (Star Trek and Star Wars Presets)</em></p><p><br /></p><p><strong>Platforms: </strong>Win64, Win32, Linux</p><p><strong>Engine:</strong> 4.19&#43;&#43;</p><p><br /></p><p><em>For newest Information, please visit our </em></p><p><a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/95980-plugin-volumetric-space-cloud-and-nebula-starfield-v2\" rel=\"nofollow\">Official UE4 Forum Presence</a> ✧</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1088",
+      "name": "Turn-Based Strategy",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2023-08-21T13:03:30.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 90,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fa195a46-e4f2-4c32-ba64-e09ab2835717"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00004 -1920x1080-ab868e8ad27b4145847c630cfc41592e.png",
+      "md5": "ab868e8ad27b4145847c630cfc41592e",
+      "size": 505622,
+      "uploadedDate": "2018-02-16T18:09:13.408Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot0000-1920x1080-5a6d404334a917931ef5ec8e16578ca8.png",
+      "md5": "5a6d404334a917931ef5ec8e16578ca8",
+      "size": 2002612,
+      "uploadedDate": "2018-02-16T18:09:12.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00002 -1920x1080-8958d75d67615250e36b83f263f88109.png",
+      "md5": "8958d75d67615250e36b83f263f88109",
+      "size": 974339,
+      "uploadedDate": "2018-02-16T18:09:13.037Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00003 -1920x1080-7bc6381da961a0de4fc5091cbf53ddf8.png",
+      "md5": "7bc6381da961a0de4fc5091cbf53ddf8",
+      "size": 806139,
+      "uploadedDate": "2018-02-16T18:09:13.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00001 -1920x1080-43e614baab5a5d72dfef876d59821910.png",
+      "md5": "43e614baab5a5d72dfef876d59821910",
+      "size": 1400359,
+      "uploadedDate": "2018-02-16T18:09:12.833Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00000.-1920x1080-2e2ca7ebb550ba682c027189a0f708ed.png",
+      "md5": "2e2ca7ebb550ba682c027189a0f708ed",
+      "size": 955467,
+      "uploadedDate": "2018-02-16T18:09:12.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920 ScreenShot00005 -1920x1080-021a87d058a1ae0f18ea1c4de3dbe7de.png",
+      "md5": "021a87d058a1ae0f18ea1c4de3dbe7de",
+      "size": 1153959,
+      "uploadedDate": "2018-02-16T18:09:13.608Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SpaceNebulaandStarfieldV2_thumb-284x284-c8b606b11d374b3ab40caada0525e5bb.png",
+      "md5": "c8b606b11d374b3ab40caada0525e5bb",
+      "size": 60387,
+      "uploadedDate": "2018-05-14T20:10:49.489Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SpaceNebulaandStarfieldV2_featured-894x488-142358776ffff34cbe94f10e3afce188.png",
+      "md5": "142358776ffff34cbe94f10e3afce188",
+      "size": 153688,
+      "uploadedDate": "2018-05-14T20:10:49.565Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "8984a12864fa4efdbfda63d9d8531425"
+    }
+  ],
+  "catalogNs": null
+}

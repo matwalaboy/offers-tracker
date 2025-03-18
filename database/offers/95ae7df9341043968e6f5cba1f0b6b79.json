@@ -1,0 +1,266 @@
+{
+  "id": "95ae7df9341043968e6f5cba1f0b6b79",
+  "namespace": "ue",
+  "title": "Weapon Pack",
+  "description": "This set includes icons of 4 types of weapons: axes, hammers, knives and swords.",
+  "longDescription": "<p>The set contains a total of 700 beautifully illustrated weapon icons. Such a wide selection will allow you to easily select the necessary icons for the main character’s inventory in your game, for example, if you are developing a role-playing game.</p><p>On the other hand, the set of icons is also perfect for developers of games of other genres, for example, quests.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "weapon-pack-01",
+  "creationDate": "2024-01-09T15:44:28.603Z",
+  "lastModifiedDate": "2024-09-27T15:52:47.243Z",
+  "effectiveDate": "2024-01-09T15:44:28.560Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>119 axe icons;</p><p>154 hammer icons;</p><p>137 knife icons;</p><p>290 sword icons.</p><p>Number of Textures: 700.</p><p>Texture Resolutions: 512 x 512 px.</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Recraft.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "660f266e-545e-4e3f-8cbf-ef50398767bb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/weaponlogo-1920x1080-96d067099829714cae72a82fd5dd49fb.png",
+      "md5": "96d067099829714cae72a82fd5dd49fb",
+      "size": 3075267,
+      "uploadedDate": "2024-01-08T13:46:02.543Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/swordslogo-1920x1080-75dc20ad4177f20ef5429f2c698157aa.png",
+      "md5": "75dc20ad4177f20ef5429f2c698157aa",
+      "size": 2513997,
+      "uploadedDate": "2024-01-08T13:46:03.314Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/kniveslogo-1920x1080-067cf9ac884b3dc873110d48bd17a291.png",
+      "md5": "067cf9ac884b3dc873110d48bd17a291",
+      "size": 2832655,
+      "uploadedDate": "2024-01-08T13:46:03.990Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hammerslogo-1920x1080-26b483f86e84a4f58380b646fb152013.png",
+      "md5": "26b483f86e84a4f58380b646fb152013",
+      "size": 2585097,
+      "uploadedDate": "2024-01-08T13:46:04.682Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/axeslogo-1920x1080-1cbcb8128f1a7a070ac98e223539cdce.png",
+      "md5": "1cbcb8128f1a7a070ac98e223539cdce",
+      "size": 2799840,
+      "uploadedDate": "2024-01-08T13:46:05.393Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WeaponPack_thumb-284x284-e673136f662faa95b204650599c3ff0b.png",
+      "md5": "e673136f662faa95b204650599c3ff0b",
+      "size": 170959,
+      "uploadedDate": "2024-01-08T13:46:05.899Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WeaponPack_featured-894x488-a58ac95eea070455680ccd7581846922.png",
+      "md5": "a58ac95eea070455680ccd7581846922",
+      "size": 871894,
+      "uploadedDate": "2024-01-08T13:46:06.016Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/weaponlogo-1920x1080-96d067099829714cae72a82fd5dd49fb_Snapshot.png",
+      "md5": "1df1a7d4c3097f694a060a98b15c138b",
+      "size": 9425,
+      "uploadedDate": "2024-01-08T13:46:03.016Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/swordslogo-1920x1080-75dc20ad4177f20ef5429f2c698157aa_Snapshot.png",
+      "md5": "9404057dc423a8d0ed669091ad67c75f",
+      "size": 7128,
+      "uploadedDate": "2024-01-08T13:46:03.679Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/kniveslogo-1920x1080-067cf9ac884b3dc873110d48bd17a291_Snapshot.png",
+      "md5": "4b91e74eefcd66e480245f993bd7a7bf",
+      "size": 8100,
+      "uploadedDate": "2024-01-08T13:46:04.411Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/hammerslogo-1920x1080-26b483f86e84a4f58380b646fb152013_Snapshot.png",
+      "md5": "18ab6a5a9d0cc21f224d6d07b618781b",
+      "size": 7250,
+      "uploadedDate": "2024-01-08T13:46:05.084Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/axeslogo-1920x1080-1cbcb8128f1a7a070ac98e223539cdce_Snapshot.png",
+      "md5": "19ed93b95b0a06173562bdfa695e5cb4",
+      "size": 7984,
+      "uploadedDate": "2024-01-08T13:46:05.810Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d98a27745b134af8b4f2eec527e8ebb3"
+    }
+  ],
+  "catalogNs": null
+}

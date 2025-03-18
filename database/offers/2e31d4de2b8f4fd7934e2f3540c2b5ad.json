@@ -1,0 +1,290 @@
+{
+  "id": "2e31d4de2b8f4fd7934e2f3540c2b5ad",
+  "namespace": "ue",
+  "title": "Game Doll Portraits",
+  "description": "Game Doll Portraits pack with 100 images to enhance your game’s character visuals with detailed doll-style portraits.",
+  "longDescription": "<p>Bring your characters to life with the Game Doll Portraits pack, featuring 100 high-resolution images (1024x1024). These portraits capture the charm and style of doll-like characters, perfect for RPGs, casual, and simulation games. Whether for character profiles, avatars, or in-game dialogue scenes, this collection provides the detailed and unique visuals needed to create engaging and captivating character designs in your game.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "game-doll-portraits",
+  "creationDate": "2024-09-17T21:25:54.100Z",
+  "lastModifiedDate": "2024-09-30T20:25:52.087Z",
+  "effectiveDate": "2024-09-17T21:25:54.050Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolution:</strong> 1024 x 1024 pixels</li><li><strong>Total Images:</strong> 100</li><li><strong>File Format:</strong> PNG</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0a784afa-c6f9-4679-98b3-a42916ef5c9a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview000-1920x1080-0018c60424cd59def88fd2e80045abf8.jpeg",
+      "md5": "0018c60424cd59def88fd2e80045abf8",
+      "size": 141300,
+      "uploadedDate": "2024-09-10T12:51:58.775Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview000-1920x1080-0018c60424cd59def88fd2e80045abf8_Snapshot.jpeg",
+      "md5": "4cc6fdf124ec7b6337fb3e4677933734",
+      "size": 4297,
+      "uploadedDate": "2024-09-10T12:51:59.016Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-9de7188dfa8a1556b9aca1fd32ff0f23.jpeg",
+      "md5": "9de7188dfa8a1556b9aca1fd32ff0f23",
+      "size": 275023,
+      "uploadedDate": "2024-09-10T12:51:59.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-9de7188dfa8a1556b9aca1fd32ff0f23_Snapshot.jpeg",
+      "md5": "9cd747d8db2a0ee1b0eb7807fa6ea6d4",
+      "size": 8595,
+      "uploadedDate": "2024-09-10T12:51:59.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-f2fa282e5c0763f29a150e1f135a5aa6.jpeg",
+      "md5": "f2fa282e5c0763f29a150e1f135a5aa6",
+      "size": 304828,
+      "uploadedDate": "2024-09-10T12:51:59.644Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-f2fa282e5c0763f29a150e1f135a5aa6_Snapshot.jpeg",
+      "md5": "2a8f3eb9ab7e7878bb81e6e462137a60",
+      "size": 8745,
+      "uploadedDate": "2024-09-10T12:51:59.882Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-e811e09e3479b8b4cd6b87e6ec881a3e.jpeg",
+      "md5": "e811e09e3479b8b4cd6b87e6ec881a3e",
+      "size": 284727,
+      "uploadedDate": "2024-09-10T12:51:59.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-e811e09e3479b8b4cd6b87e6ec881a3e_Snapshot.jpeg",
+      "md5": "5914a5961fd6cd59cbef96c46f6b12f8",
+      "size": 8779,
+      "uploadedDate": "2024-09-10T12:52:00.187Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-ac3a36da38d45eaa2c2fe952f2f9ba17.jpeg",
+      "md5": "ac3a36da38d45eaa2c2fe952f2f9ba17",
+      "size": 279931,
+      "uploadedDate": "2024-09-10T12:52:00.323Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-ac3a36da38d45eaa2c2fe952f2f9ba17_Snapshot.jpeg",
+      "md5": "a5e3815cae74a2709f42d7d5ce78badd",
+      "size": 8773,
+      "uploadedDate": "2024-09-10T12:52:00.550Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GameDollPortraits_thumb-284x284-f29d7390059b5f441d04249a50ed5247.png",
+      "md5": "f29d7390059b5f441d04249a50ed5247",
+      "size": 135826,
+      "uploadedDate": "2024-09-10T12:52:00.766Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GameDollPortraits_featured-894x488-0bc453f08615dd8b1289a07543666de8.png",
+      "md5": "0bc453f08615dd8b1289a07543666de8",
+      "size": 328378,
+      "uploadedDate": "2024-09-10T12:52:00.828Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "498ba88512f34b8e8d592b3e470785b0"
+    }
+  ],
+  "catalogNs": null
+}

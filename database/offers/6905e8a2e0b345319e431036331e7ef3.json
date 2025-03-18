@@ -1,0 +1,158 @@
+{
+  "id": "6905e8a2e0b345319e431036331e7ef3",
+  "namespace": "ue",
+  "title": "Patch notes generator tool",
+  "description": "Patch notes generator",
+  "longDescription": "<p>Feel obligated with low functionality? Seamstresses bullying you? Find yourself having not enough automation tools? Oh I have awesome deal for you!</p><p>Patch notes generator tool lets you create patch notes for your project and you don&#39;t even have to exit Unreal Engine</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "patch-notes-generator-tool",
+  "creationDate": "2022-04-16T15:37:48.644Z",
+  "lastModifiedDate": "2024-09-26T17:47:38.084Z",
+  "effectiveDate": "2022-04-16T15:37:48.610Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-utb37bnnh4gvxf6evzlx8gppp3t9xa",
+    "name": "Mebebonk"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Create and edit your own patchnotes</li></ul><p>Code Modules:</p><ul><li> Patch Notes (Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 21</p><p>Network Replicated: No</p><p>Supported Development Platforms: Any</p><p>Supported Target Build Platforms: Any (except HTML5)</p><p>Documentation: <a href=\"https://github.com/Mebebonk/PatchNotesPluginPublic/wiki\" rel=\"nofollow\">Link</a>, <a href=\"https://www.youtube.com/watch?v&#61;aoe7a6HlVrQ\" rel=\"nofollow\">video</a>.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1338",
+      "name": "TOP-DOWN SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:06.404Z",
+      "updated": "2019-06-20T12:01:06.404Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6d82dc03-4292-4b78-a305-d3b0e80ac6ae"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/unknown 1-1920x1080-798c4facf57a08b453bfe34c2d8bae5a.png",
+      "md5": "798c4facf57a08b453bfe34c2d8bae5a",
+      "size": 67191,
+      "uploadedDate": "2022-04-05T16:00:55.108Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/unknown-1920x1080-2035fd38ed1513680240df7538d40d1b.png",
+      "md5": "2035fd38ed1513680240df7538d40d1b",
+      "size": 960834,
+      "uploadedDate": "2022-04-05T16:00:55.541Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/unknown 2 1-1920x1080-b8ba04614b9d8ab1c6d368944e5c0deb.png",
+      "md5": "b8ba04614b9d8ab1c6d368944e5c0deb",
+      "size": 639183,
+      "uploadedDate": "2022-04-05T16:00:55.953Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Patchnotesgeneratortool_thumb-284x284-b17e34449df538820ff3d74de4ce01a1.png",
+      "md5": "b17e34449df538820ff3d74de4ce01a1",
+      "size": 31668,
+      "uploadedDate": "2022-04-15T22:40:10.250Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Patchnotesgeneratortool_featured-894x488-dd4b31275dae139ad632c2e202670d8b.png",
+      "md5": "dd4b31275dae139ad632c2e202670d8b",
+      "size": 192971,
+      "uploadedDate": "2022-04-15T22:40:10.384Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/unknown 1-1920x1080-798c4facf57a08b453bfe34c2d8bae5a_Snapshot.png",
+      "md5": "2cb7cbf2899e30510f496d225da74014",
+      "size": 1650,
+      "uploadedDate": "2022-04-05T16:00:55.340Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/unknown-1920x1080-2035fd38ed1513680240df7538d40d1b_Snapshot.png",
+      "md5": "c447eab359d3b5f504cdba8114c757ca",
+      "size": 4227,
+      "uploadedDate": "2022-04-05T16:00:55.793Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/unknown 2 1-1920x1080-b8ba04614b9d8ab1c6d368944e5c0deb_Snapshot.png",
+      "md5": "72abc007faab4e30c0f6cc5d3ad2fe5f",
+      "size": 7605,
+      "uploadedDate": "2022-04-05T16:00:56.046Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b6de23869188458885525913db7b6af3"
+    }
+  ],
+  "catalogNs": null
+}

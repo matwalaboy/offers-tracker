@@ -1,0 +1,320 @@
+{
+  "id": "929bc013e948410eac7ae3fe33438a0b",
+  "namespace": "ue",
+  "title": "Enchanted Chests",
+  "description": "Enchanted Chests pack with 145 images to enhance your game’s UI with magical and treasure-themed icons.",
+  "longDescription": "<p>Enhance your game’s user interface with the Enchanted Chests pack, featuring 145 meticulously designed images in three different resolutions: 256x256, 512x512, and 1024x1024. These icons depict a variety of magical chests, perfect for use in fantasy, RPG, and adventure games. Whether you&#39;re creating inventory items, loot boxes, or treasure rewards, this collection provides the detailed and enchanting visuals needed to bring a sense of mystery and wealth to your game.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "enchanted-chests",
+  "creationDate": "2024-09-02T11:03:04.842Z",
+  "lastModifiedDate": "2024-09-30T20:35:53.332Z",
+  "effectiveDate": "2024-09-02T11:03:04.807Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolutions:</strong> 256x256, 512x512, 1024x1024 pixels</li><li><strong>Total Images:</strong> 145</li><li><strong>File Format:</strong> PNG</li></ul><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fae2a39a-8465-4465-98e6-1da8e64a2e0a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview000-1920x1080-7af695b37abbe1859cb948a274016ff8.jpeg",
+      "md5": "7af695b37abbe1859cb948a274016ff8",
+      "size": 106762,
+      "uploadedDate": "2024-08-30T11:22:01.263Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview000-1920x1080-7af695b37abbe1859cb948a274016ff8_Snapshot.jpeg",
+      "md5": "fab87d22f4187cd030c23d52cddab2ea",
+      "size": 2989,
+      "uploadedDate": "2024-08-30T11:22:01.493Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-8fe9311f67030894dbddd816fbdcf41a.jpeg",
+      "md5": "8fe9311f67030894dbddd816fbdcf41a",
+      "size": 241871,
+      "uploadedDate": "2024-08-30T11:22:01.719Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-8fe9311f67030894dbddd816fbdcf41a_Snapshot.jpeg",
+      "md5": "fc72b7bcb826acd3157762d6306962b5",
+      "size": 7432,
+      "uploadedDate": "2024-08-30T11:22:01.942Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-5bafd16897fa7b192e7510cb7ae6856a.jpeg",
+      "md5": "5bafd16897fa7b192e7510cb7ae6856a",
+      "size": 246076,
+      "uploadedDate": "2024-08-30T11:22:02.164Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-5bafd16897fa7b192e7510cb7ae6856a_Snapshot.jpeg",
+      "md5": "4d7629718f00b2b96bfdf384799233b9",
+      "size": 7633,
+      "uploadedDate": "2024-08-30T11:22:02.413Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-8bffd80b7033732c136182a9aba0a960.jpeg",
+      "md5": "8bffd80b7033732c136182a9aba0a960",
+      "size": 245922,
+      "uploadedDate": "2024-08-30T11:22:02.526Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-8bffd80b7033732c136182a9aba0a960_Snapshot.jpeg",
+      "md5": "9aa3af88436396586017ddc68ac5d88f",
+      "size": 7714,
+      "uploadedDate": "2024-08-30T11:22:02.751Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-bfd31d9ba324d7933a41ea6a06aa27f5.jpeg",
+      "md5": "bfd31d9ba324d7933a41ea6a06aa27f5",
+      "size": 252094,
+      "uploadedDate": "2024-08-30T11:22:02.942Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-bfd31d9ba324d7933a41ea6a06aa27f5_Snapshot.jpeg",
+      "md5": "46fdcb3dd448b179fc598df699a0b662",
+      "size": 7776,
+      "uploadedDate": "2024-08-30T11:22:03.161Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm005-1920x1080-7e258aa667c444f5312510de9ff14b21.jpeg",
+      "md5": "7e258aa667c444f5312510de9ff14b21",
+      "size": 232412,
+      "uploadedDate": "2024-08-30T11:22:03.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm005-1920x1080-7e258aa667c444f5312510de9ff14b21_Snapshot.jpeg",
+      "md5": "0be4913b6390be6479e3afe3fad7d9fd",
+      "size": 7446,
+      "uploadedDate": "2024-08-30T11:22:03.536Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EnchantedChests_thumb-284x284-f20b9ccc5b42897deb5a0658c2eb1c26.png",
+      "md5": "f20b9ccc5b42897deb5a0658c2eb1c26",
+      "size": 107415,
+      "uploadedDate": "2024-08-30T11:22:03.650Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EnchantedChests_featured-894x488-8fbe5241eac0dc7933e0f9b4738d4374.png",
+      "md5": "8fbe5241eac0dc7933e0f9b4738d4374",
+      "size": 202341,
+      "uploadedDate": "2024-08-30T11:22:03.762Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "3d686dfa583c4585aa47b0360dd84d05"
+    }
+  ],
+  "catalogNs": null
+}

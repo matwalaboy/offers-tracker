@@ -1,0 +1,221 @@
+{
+  "id": "3b443148f2654951a5d64e878fdbe6a0",
+  "namespace": "ue",
+  "title": "Auto Folder Setup",
+  "description": "With the click of a button you can create your desired content folder structure.",
+  "longDescription": "<p>V1.02</p><ul><li>Added one more level of Subfolders</li><li>Added ability to set color for each Folder manually</li><li>Added Support for UE5.X</li></ul><p><br /></p><p>With the click of a button you can create your desired content folder structure.</p><p>Simple but effective.</p><p><a href=\"https://youtu.be/BNseTrps1ok\" rel=\"nofollow\">Video Showcase</a></p><p><a href=\"https://docs.google.com/document/d/1A6cZjE_KDPDBRJbqQ2sB1e0iqul7r9YW0IDA3tqB3TY\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>**free editor utility plugin must be enabled on UE4**</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "auto-folder-setup",
+  "creationDate": "2022-06-22T21:21:11.298Z",
+  "lastModifiedDate": "2024-09-26T22:49:48.759Z",
+  "effectiveDate": "2022-06-22T21:21:11.236Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4acjg67p7t9j63sva6wgrhfejm9e4e",
+    "name": "marvelmaster"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>automatically create desired folder structures</li><li>save folder patterns engine version wide for access from all projects</li><li>projects are not dependent on the plugin(no packaging no project breaking)</li><li>includes folder pattern creator</li><li>two subfolder per folder</li><li>automatic folder coloring</li><li>adds editor button to open plugin window</li><li>ability to reverse last created folder setup</li></ul><p><br /></p><p>Code Modules:</p><ul><li> AutoFolderSetup(Editor)</li></ul><p><br /></p><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 2</p><p>Supported Development Platforms: Windows</p><p>Documentation: https://docs.google.com/document/d/1A6cZjE_KDPDBRJbqQ2sB1e0iqul7r9YW0IDA3tqB3TY/edit?usp&#61;sharing</p><p>Important/Additional Notes:</p><ul><li>free editor utility plugin must be enabled on UE4</li><li>Plugin is intended to be used first when setting up a new project</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3f4eebda-f686-4b0e-a3b3-27564ce89e2c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/AFS Image-1920x1080-b893c0735756acbf4e5e5c4788924f0c.jpg",
+      "md5": "b893c0735756acbf4e5e5c4788924f0c",
+      "size": 838768,
+      "uploadedDate": "2022-06-20T22:34:32.207Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Plugin Window-1920x1080-2d5cd0733c14ecf87b5a227bc5b022d1.jpg",
+      "md5": "2d5cd0733c14ecf87b5a227bc5b022d1",
+      "size": 443655,
+      "uploadedDate": "2022-06-20T22:34:32.625Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Plugin function-1920x1080-e9eedeb6aa5608f5d56efbba43e27db9.jpg",
+      "md5": "e9eedeb6aa5608f5d56efbba43e27db9",
+      "size": 509813,
+      "uploadedDate": "2022-06-20T22:34:33.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Create custom patterns-1920x1080-cf4f8479fa68e70d71ea179fa6547973.jpg",
+      "md5": "cf4f8479fa68e70d71ea179fa6547973",
+      "size": 556687,
+      "uploadedDate": "2022-06-25T00:42:43.433Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Asset Creator-1920x1080-d736ad7fce04da4d9e827f3987bd8c83.jpg",
+      "md5": "d736ad7fce04da4d9e827f3987bd8c83",
+      "size": 271824,
+      "uploadedDate": "2022-06-20T22:34:33.713Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Colored Folders-1920x1080-20dcaccefb5b7048c5ac7f3b941c99d8.jpg",
+      "md5": "20dcaccefb5b7048c5ac7f3b941c99d8",
+      "size": 506436,
+      "uploadedDate": "2022-06-20T22:34:34.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AutoFolderSetup_thumb-284x284-328c5ce63b04360dcc5c14f4927c06e2.png",
+      "md5": "328c5ce63b04360dcc5c14f4927c06e2",
+      "size": 98850,
+      "uploadedDate": "2022-06-20T22:34:34.443Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AutoFolderSetup_featured-894x488-1c6c15dbe97b4e9e294e7061e46693df.png",
+      "md5": "1c6c15dbe97b4e9e294e7061e46693df",
+      "size": 443092,
+      "uploadedDate": "2022-06-20T22:34:34.580Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Create custom patterns-1920x1080-cf4f8479fa68e70d71ea179fa6547973_Snapshot.jpg",
+      "md5": "6dd0476ed0fc9ede1493c12c499ec6b7",
+      "size": 6523,
+      "uploadedDate": "2022-06-25T00:42:43.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/AFS Image-1920x1080-b893c0735756acbf4e5e5c4788924f0c_Snapshot.jpg",
+      "md5": "e492c892b0ffb94231edd47b11e953b2",
+      "size": 7510,
+      "uploadedDate": "2022-06-20T22:34:32.470Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Plugin Window-1920x1080-2d5cd0733c14ecf87b5a227bc5b022d1_Snapshot.jpg",
+      "md5": "d7260c20a0da0f579435e9f8dd1f7677",
+      "size": 5118,
+      "uploadedDate": "2022-06-20T22:34:32.868Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Plugin function-1920x1080-e9eedeb6aa5608f5d56efbba43e27db9_Snapshot.jpg",
+      "md5": "d056ec71fd4be140acba191bdc1a711c",
+      "size": 6014,
+      "uploadedDate": "2022-06-20T22:34:33.251Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Create custom patterns-1920x1080-4c19aca7fcdcb88b531cf69b6229dd6b_Snapshot.jpg",
+      "md5": "e95cc0a383926776de65f9c901b80508",
+      "size": 5943,
+      "uploadedDate": "2022-06-20T22:34:33.624Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Asset Creator-1920x1080-d736ad7fce04da4d9e827f3987bd8c83_Snapshot.jpg",
+      "md5": "d74084521678b9515f4e699779536862",
+      "size": 3340,
+      "uploadedDate": "2022-06-20T22:34:33.928Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Colored Folders-1920x1080-20dcaccefb5b7048c5ac7f3b941c99d8_Snapshot.jpg",
+      "md5": "69a1b9d129731d79d97a329b33bd2087",
+      "size": 6034,
+      "uploadedDate": "2022-06-20T22:34:34.384Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ab4e969a6d614c39bfd70fa770182d9f"
+    }
+  ],
+  "catalogNs": null
+}

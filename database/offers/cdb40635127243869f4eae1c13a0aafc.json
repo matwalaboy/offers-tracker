@@ -1,0 +1,227 @@
+{
+  "id": "cdb40635127243869f4eae1c13a0aafc",
+  "namespace": "ue",
+  "title": "Dark Portal",
+  "description": "Dark Portal Fantasy Low Poly with basic FX and animated materials.",
+  "longDescription": "Preview: <a href=\"https://youtu.be/Mpalur6c5Gs\" rel=\"nofollow\">https://youtu.be/Mpalur6c5Gs</a><br /><br />This is a stylized Dark Portal Fantasy, very low poly composed of five assets (1 scale, 1 banner, 1 Portal, 1 autel, 1 ribs corridor) <br />Every asset as a little FX light or animated material activated by overlapping trigger (short Level Blueprint).This launch some little animation. <br />Watch the video for more details.<br /><br />Banner is supplied with 4 Blazons (coats of arms) -double axes, double swords, portal sign an skull Head. Possibility to customize banner if needed, please contact me for more information. <br /><br />Every texture is optimized, generally less than 1mo.<br /><br />I am currently working on a Heaven version of the portal. <br />And I can do more if there is a request ( elemental, fire, earth etc...)<br /><br />- Gate activation <br />(Watch video) Animated portal mat launches by trigger overlapping and short Blueprint change map (level) when you cross the gate.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "darkportal-01",
+  "creationDate": "2017-03-02T19:28:50.514Z",
+  "lastModifiedDate": "2024-09-27T06:53:42.777Z",
+  "effectiveDate": "2017-03-08T00:00:00.000Z",
+  "viewableDate": "2017-03-08T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2c4a807a8a477da564f9239c3574c5",
+    "name": "Kouza Corp"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Physically Based Rendering: Yes <br />Number of Textures: 26 textures (base-color, normal map, roughness, metallic ) &#43; I propose 4 set (Blazon) for banner asset 16 textures 1024 <br />Texture Size: 43 &#61;2048x2048 16&#61;1024 <br />Collision: Yes, custom meshes <br />Number of Meshes: 5 <br />Intended Platform: PC, XBOX, PS4 <br />Platforms Tested: PC <br />(Test on engine 4.13.1 to 4.15)<br /><br />- Portal 1mo fbx about 11000 vertices ,3x normal map 2048, 3 materials <br />- Ribs 400 ko fbx (1/ 2), 5000 vertices, 1x normal map 2048, 1 material <br />- Socle 110 ko fbx, 1000 vertices, 1x normal map 2048, 1 material <br />- Autel 180 ko fbx, 959 vertices, 1x normal map 2048, 1 material <br />- Banner 200 ko fbx ,2700 vertices 2x normal map 1x2048 1x1024, 2 materials",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "de56b44a-d68e-4706-b9aa-991f9fdf556e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Autel_screenshot1-1920x1080-39f9ab77248c26371ea47ba069a38356.png",
+      "md5": "39f9ab77248c26371ea47ba069a38356",
+      "size": 999325,
+      "uploadedDate": "2017-03-02T19:20:42.382Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Autel_screenshot2-1920x1080-b1f50ca309b3d6b9734b4ab3061cfd4c.png",
+      "md5": "b1f50ca309b3d6b9734b4ab3061cfd4c",
+      "size": 595296,
+      "uploadedDate": "2017-03-02T19:20:39.080Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Banner_screenshot1-1920x1080-de62ac9e391b99dbfa0dcf782dd7228a.png",
+      "md5": "de62ac9e391b99dbfa0dcf782dd7228a",
+      "size": 699684,
+      "uploadedDate": "2017-03-02T19:20:35.117Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Banner_screenshot2-1920x1080-925f7c0458898660f1813bc91488c1d1.png",
+      "md5": "925f7c0458898660f1813bc91488c1d1",
+      "size": 1005487,
+      "uploadedDate": "2017-03-02T19:20:31.235Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_Screenshot._unmodified_overview_map-1920x1080-19d7c55730ea8d838c15416b382b89d8.png",
+      "md5": "19d7c55730ea8d838c15416b382b89d8",
+      "size": 706452,
+      "uploadedDate": "2017-03-02T19:20:26.059Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_screenshot1-1920x1080-098aa1fc2f98923dbf86ed3c7a53e304.png",
+      "md5": "098aa1fc2f98923dbf86ed3c7a53e304",
+      "size": 1082148,
+      "uploadedDate": "2017-03-02T19:20:21.482Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_screenshot2-1920x1080-d049d3823f6f4a763105066da928537e.png",
+      "md5": "d049d3823f6f4a763105066da928537e",
+      "size": 1008528,
+      "uploadedDate": "2017-03-02T19:20:17.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_screenshot3-1920x1080-7943a9772746eaff10e66fc5214425e1.png",
+      "md5": "7943a9772746eaff10e66fc5214425e1",
+      "size": 986881,
+      "uploadedDate": "2017-03-02T19:20:14.963Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_screenshot4-1920x1080-4baba6fed32783b97233a7bbc0dc3650.png",
+      "md5": "4baba6fed32783b97233a7bbc0dc3650",
+      "size": 730655,
+      "uploadedDate": "2017-03-02T19:20:10.943Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Ribs_screenshot1-1920x1080-fac3648a3e8c860ddff1cbf87d6f6199.png",
+      "md5": "fac3648a3e8c860ddff1cbf87d6f6199",
+      "size": 496305,
+      "uploadedDate": "2017-03-02T19:20:07.275Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Socle_screenshot1-1920x1080-d747aeec3026d808885b01adc38a5bd6.png",
+      "md5": "d747aeec3026d808885b01adc38a5bd6",
+      "size": 629711,
+      "uploadedDate": "2017-03-02T19:20:04.351Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_Thumb-248x248-915f7679ecea7cd17584fdafb9650b70.png",
+      "md5": "915f7679ecea7cd17584fdafb9650b70",
+      "size": 110577,
+      "uploadedDate": "2017-03-02T19:20:46.083Z",
+      "width": 248,
+      "height": 248
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/DarkPortal_FeaturedNew-894x488-a18186dd197caa51e0462dc066e8906a.png",
+      "md5": "a18186dd197caa51e0462dc066e8906a",
+      "size": 514072,
+      "uploadedDate": "2017-03-02T19:20:51.473Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "1b017945a916409b9b75fbde080780bb"
+    }
+  ],
+  "catalogNs": null
+}

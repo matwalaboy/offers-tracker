@@ -1,0 +1,188 @@
+{
+  "id": "3862a635707c40658b107b7a8f5c4756",
+  "namespace": "ue",
+  "title": "System Drag Drop File For Windows",
+  "description": "After packing the running window and the message that the system file is dragged to the window in the PIE mode, the corresponding file address and folder address are obtained.",
+  "longDescription": "<p>在打包后的运行窗口和在PIE模式下窗口接收到系统文件拖动到窗口的消息&#xff0c;并获取到相应的文件地址和文件夹地址。</p><p>After packing the running window and the message that the system file is dragged to the window in the PIE mode, the corresponding file address and folder address are obtained.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "system-drag-drop-file-for-windows",
+  "creationDate": "2023-03-07T01:25:13.235Z",
+  "lastModifiedDate": "2024-09-27T04:20:06.953Z",
+  "effectiveDate": "2023-03-07T01:25:13.194Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gc7x6nj7qlfarb37kchme2thh48ltv",
+    "name": "DT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>DTSystemDragDropFileComponent</li><li> OnSystemDragDropFile</li></ul><p>Code Modules:</p><ul><li> Runtime &#xff1a;DTDragDropFile&#xff0c;DTDragDropMonitor</li></ul><p><br /></p><p>Number of Blueprints: 2</p><p>Number of C&#43;&#43; Classes: 4</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://blog.csdn.net/wmy19890322/article/details/129351176\" rel=\"nofollow\">English</a> / <a href=\"https://blog.csdn.net/wmy19890322/article/details/129350965\" rel=\"nofollow\">中文</a></p><p>Example Project: <a href=\"https://github.com/wmy19890322/UEDragDropFile\" rel=\"nofollow\">GitHub</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fca53f70-488d-40d0-bc6e-0c74cfa117e3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-763044173e2e00341c8389c98341589c.png",
+      "md5": "763044173e2e00341c8389c98341589c",
+      "size": 236790,
+      "uploadedDate": "2023-03-05T14:31:49.443Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/22-1920x1080-74f059007a6be1e2851fc7e1d7a608ea.png",
+      "md5": "74f059007a6be1e2851fc7e1d7a608ea",
+      "size": 1179908,
+      "uploadedDate": "2023-03-05T14:31:49.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SystemDragDropFileForWindows_thumb-284x284-71a19b7aa5f7744d2ff3a37db7ee859f.png",
+      "md5": "71a19b7aa5f7744d2ff3a37db7ee859f",
+      "size": 7874,
+      "uploadedDate": "2023-03-05T14:31:50.293Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SystemDragDropFileForWindows_featured-894x488-31b2692b3052ad0caf9de009941322ee.png",
+      "md5": "31b2692b3052ad0caf9de009941322ee",
+      "size": 96956,
+      "uploadedDate": "2023-03-05T14:31:50.343Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-763044173e2e00341c8389c98341589c_Snapshot.png",
+      "md5": "877cad9d954c9ed65c45881e66004e71",
+      "size": 3842,
+      "uploadedDate": "2023-03-05T14:31:49.702Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/22-1920x1080-74f059007a6be1e2851fc7e1d7a608ea_Snapshot.png",
+      "md5": "32f12f214450e539a475ced6120fb4c7",
+      "size": 5420,
+      "uploadedDate": "2023-03-05T14:31:50.256Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1a7e4e499bc24f9a96fd379a77ed402d"
+    }
+  ],
+  "catalogNs": null
+}

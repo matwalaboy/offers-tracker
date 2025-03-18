@@ -1,0 +1,254 @@
+{
+  "id": "c825738332c8437b8c4ba2c48aa7bb35",
+  "namespace": "ue",
+  "title": "Beam Weapons",
+  "description": "Beam Weapons! Includes hilt, beams, materials to control size, sound effects and basic blueprints! Bjoom! Bjoom!",
+  "longDescription": "<p><a href=\"https://youtu.be/yeVu86gox_k\" rel=\"nofollow\">Video Preview</a></p><p>This asset package contains 10 unique beam weapon models, that are either combined with the blade or just the hilt with the blade being separate.</p><p>The blades are fitted with a material that emits the light but also controls the size of the beam so that you can control it at the material level directly.</p><p>There are 5 sound effects: toggle on, toggle off, and 3 swings.</p><p>It comes with one animation and a montage to showcase the blades.</p><p>Works out of the box!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "beam-weapons",
+  "creationDate": "2021-03-01T20:14:41.276Z",
+  "lastModifiedDate": "2024-09-29T16:07:40.219Z",
+  "effectiveDate": "2021-03-01T20:14:38.253Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ux5ul79mncz6kb4t9hbl2su8rtsbsr",
+    "name": "ProjectZero"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://youtu.be/yeVu86gox_k\" rel=\"nofollow\">Video Preview</a></p><p>Features:</p><ul><li> 10 hilts static meshes - 1 master material for the hilts</li><li> 10 hilts with blades static meshes</li><li> 1 master material with 5 instances for the beams</li><li>a single blade blueprint base - this has 7 children</li><li>a dual blade blueprint base - this has 3 children</li><li>a swing animation with montage</li><li>a test character</li><li>a BPI with 3 functions for toggling on and off the beam and to enable/disable the trail effects</li><li>a trail material and instance</li><li>a trail cascade particle system</li><li>5 sounds: 2 for toggling and 3 swings</li></ul><p>Number of Unique Meshes: 28</p><p>Collision: Yes - automatically generated</p><p>Vertex Count:</p><p>Hilts: 4759, 3403, 9591, 3704, 19452, 8761, 5967, 4781, 12447, 4646</p><p>Hilts and blades: 5093, 3511, 10237, 3740, 19864, 8833, 6171, 5018, 13047, 5074</p><p>Blades: 334, 108, 42, 84, 72, 36, 237, 224</p><p>LODs: NO</p><p>Number of Materials and Material Instances: 11</p><p>Number of Textures: 1</p><p>Texture Resolutions: 256x256</p><p>Supported Development Platforms: All</p><p>Windows: YES</p><p>Mac: YES</p><p>Documentation: <a href=\"https://drive.google.com/file/d/1pnb3o9xMdGGAos00h8JcAkgpZj4zdGfN/view?usp&#61;sharing\" rel=\"nofollow\">Googledocs</a></p><p>Important/Additional Notes: none</p><p>Discord channel: <a href=\"https://discord.gg/VmFXeq7J9F\" rel=\"nofollow\">https://discord.gg/VmFXeq7J9F</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/weapons"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "86ee6ca0-cbb3-4005-855f-3a53efcc19c9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/beam weapons.PNG-1920x1080-ccbf0031ca8c4237c7951551d1202c1e.jpg",
+      "md5": "ccbf0031ca8c4237c7951551d1202c1e",
+      "size": 1329978,
+      "uploadedDate": "2021-02-27T22:51:22.840Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/swing 3-1920x1080-1395ba6dcc3aa235a747cadb3bd63d43.png",
+      "md5": "1395ba6dcc3aa235a747cadb3bd63d43",
+      "size": 1246086,
+      "uploadedDate": "2021-02-27T22:51:23.330Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/swing 4-1920x1080-9284b25868d5ef5856d62ae3798f2ff0.png",
+      "md5": "9284b25868d5ef5856d62ae3798f2ff0",
+      "size": 1280120,
+      "uploadedDate": "2021-02-27T22:51:23.834Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BeamWeapons_thumb-284x284-108c43d1a59804e76ddf2e27f3c5a668.png",
+      "md5": "108c43d1a59804e76ddf2e27f3c5a668",
+      "size": 94810,
+      "uploadedDate": "2021-02-27T22:51:24.197Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BeamWeapons_featured-894x488-29c137dbded370604b914c043550946e.png",
+      "md5": "29c137dbded370604b914c043550946e",
+      "size": 493054,
+      "uploadedDate": "2021-02-27T22:51:24.382Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/beam weapons.PNG-1920x1080-ccbf0031ca8c4237c7951551d1202c1e_Snapshot.jpg",
+      "md5": "eb0fd5275d88bc6a719adaa84ca45f29",
+      "size": 4421,
+      "uploadedDate": "2021-02-27T22:51:23.152Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/swing 3-1920x1080-1395ba6dcc3aa235a747cadb3bd63d43_Snapshot.png",
+      "md5": "b1ffdd7c95e316b6c95d0f2fd2c5a237",
+      "size": 3104,
+      "uploadedDate": "2021-02-27T22:51:23.674Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/swing 4-1920x1080-9284b25868d5ef5856d62ae3798f2ff0_Snapshot.png",
+      "md5": "15e184a671defaad5a9b07eb15bdf618",
+      "size": 3060,
+      "uploadedDate": "2021-02-27T22:51:24.155Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9fe6169aa08f4f57a46479276728f1f7"
+    }
+  ],
+  "catalogNs": null
+}

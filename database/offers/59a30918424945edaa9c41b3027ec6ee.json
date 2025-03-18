@@ -1,0 +1,210 @@
+{
+  "id": "59a30918424945edaa9c41b3027ec6ee",
+  "namespace": "ue",
+  "title": "Zombie Sound FX",
+  "description": "Zombie Sound FX includes 331 zombie sounds for your post-apocalyptic game.",
+  "longDescription": "<p>Zombie Sound FX includes 331 zombie sounds for your post-apocalyptic game. Bring your zombies to life with this comprehensive soundbank. From breaking bones and footsteps to screams, combat sounds, and feeding zombies, it has everything you need to resurrect your undead.</p><p><br /></p><p><a href=\"https://cplomedia.at/zombie-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;rBUAflWvgDo&amp;ab_channel&#61;ChristophPlohovich\" rel=\"nofollow\">DEMO on Youtube</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "zombie-sound-fx",
+  "creationDate": "2024-07-06T20:09:46.607Z",
+  "lastModifiedDate": "2024-09-29T10:44:39.839Z",
+  "effectiveDate": "2024-07-06T20:09:46.555Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s97cdrwwmgf3h6usnee3rq3ypn7a97",
+    "name": "cplomedia"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> Growling</li><li> Screams</li><li> Whimper</li><li>Eating Flesh</li><li>Breaking Bones</li><li>Steps</li><li>Fighting Sounds</li></ul><p>Number of Audio Waves: 331</p><p>Number of Audio Cues: 331</p><p>Sample rate / bit rate: 44,100 Hz / 16 bit</p><p>Do Sound FX loop: No</p><p>Minutes of audio provided: 30 minutes</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: <a href=\"https://cplomedia.at/zombie-sound-fx/\" rel=\"nofollow\">DEMO</a></p><p>Important/Additional Notes: Have fun with it!</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "4993ce50-c6e6-4c37-b43e-94e70f2b9e06"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Galery-1920x1080-f803edcfa7cbb2ce28a9458a30feb13c.jpg",
+      "md5": "f803edcfa7cbb2ce28a9458a30feb13c",
+      "size": 538030,
+      "uploadedDate": "2024-07-06T11:43:36.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ZombieSoundFX_thumb-284x284-9c3aa1532b660c5a869c80c3812f60b2.png",
+      "md5": "9c3aa1532b660c5a869c80c3812f60b2",
+      "size": 164101,
+      "uploadedDate": "2024-07-06T11:43:36.934Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ZombieSoundFX_featured-894x488-e95c959f63a52d1a89bd10f7c13627d3.png",
+      "md5": "e95c959f63a52d1a89bd10f7c13627d3",
+      "size": 907703,
+      "uploadedDate": "2024-07-06T11:43:37.073Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Galery-1920x1080-f803edcfa7cbb2ce28a9458a30feb13c_Snapshot.jpg",
+      "md5": "82135c6b1a1fdb5581da964841f946f1",
+      "size": 9004,
+      "uploadedDate": "2024-07-06T11:43:36.867Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "edd890164dac4d2c99241fd99f7479ca"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,362 @@
+{
+  "id": "ca8ee044366b46b1821b0e73659f93e3",
+  "namespace": "ue",
+  "title": "AL-X Assault Rifle With Hands",
+  "description": "AL-X Assault Rifle With Hands all kinds of unique VFX/SFX and Animations.",
+  "longDescription": "<p><strong>Al X Assault Rifle is a high-quality asset pack that comes with Hands. </strong></p><p><strong>It features unique VFX/SFX and Animations and is classified as AAA assets that can be used on VR, PC, and Consoles. </strong></p><p><strong>The assets are created using the PBR standard, which guarantees top-notch 4K high-quality textures.</strong></p><p><br /></p><p><strong>The pack includes Al X Assault Rifle, Hands, Animations, Sound Effects, and Visual Effects. </strong></p><p><strong>You can also watch the demo videos for the Single Weapon and the Weapon with Hands to see the pack in action.</strong></p><p><br /></p><p><strong>Al X Assault Rifle SIngle Weapon: </strong><a href=\"https://youtu.be/RAayTcKhvtg\" rel=\"nofollow\">DEMO VIDEO</a></p><p><strong>Al X Assault Rifle Weapon With Hands: </strong><a href=\"https://youtu.be/5Mmqu69dXv0\" rel=\"nofollow\"><strong>DEMO VIDEO</strong></a></p><p><br /></p><p><strong>Follow us for updates and news:</strong> <a href=\"https://www.facebook.com/storm.assets\" rel=\"nofollow\">FACEBOOK</a></p><p><strong>Join Our Discord Server:</strong> <a href=\"https://discord.gg/2juu5FvNfr\" rel=\"nofollow\">Discord</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "al-x-assault-rifle-with-hands",
+  "creationDate": "2023-01-17T08:15:03.341Z",
+  "lastModifiedDate": "2024-09-30T11:00:19.974Z",
+  "effectiveDate": "2023-01-17T08:15:03.294Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2qjpalwwx68kg36s85k8qzy6dkxbdg",
+    "name": "StormBringer Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Latest version supported.</strong></p><p><strong>Objects are Rigged for Epic Skeleton.</strong></p><p><strong>Max Tris:</strong> <strong>24</strong>k</p><p><strong>Max Vertex:19</strong>k</p><p><strong>Texture Sizes:</strong></p><p>Base Color, Normal Map, AO, Roughness and Metallic Textures</p><p>4k resolution Textures</p><p><strong>Scaled to Epic Skeleton:</strong> Yes</p><p><br /></p><p><strong>Collision:</strong> Yes, Automatically Generated</p><p><strong>LODs:</strong> NO</p><p><strong>Number of Meshes:</strong> <strong>8</strong></p><p><strong>Number of Materials and Material Instances: 12</strong> Materials and <strong>1</strong> Instance</p><p><strong>Number of Textures:</strong> <strong>24</strong></p><p><strong>Animations: 15</strong></p><p><strong>Supported Development Platforms:</strong> PC/Xbox One/PS4</p><p><strong>Supported Target Build Platforms:</strong> PC/Xbox One/PS4</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/weapons"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1199",
+      "name": "STEAMPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.224Z",
+      "updated": "2019-06-20T11:59:57.224Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "fbcb91c9-e977-4b8d-9e0d-d056de14f8ec"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEAL-X1920-10805-1920x1080-44307c43c469fbc9125f3fb9365f2f4b.png",
+      "md5": "44307c43c469fbc9125f3fb9365f2f4b",
+      "size": 2254521,
+      "uploadedDate": "2023-01-25T09:20:13.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEAL-X1920-1080-1920x1080-053bcc93a8e3879ebef6ec1d9bdc4bfe.png",
+      "md5": "053bcc93a8e3879ebef6ec1d9bdc4bfe",
+      "size": 1656041,
+      "uploadedDate": "2023-01-25T09:20:14.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEAL-X1920-10801-1920x1080-ac188250268dd80bb72cff82c278cefa.png",
+      "md5": "ac188250268dd80bb72cff82c278cefa",
+      "size": 1822482,
+      "uploadedDate": "2023-01-25T09:20:14.915Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEAL-X1920-10802-1920x1080-fef2f25ba31458aca698f190cd5a13cd.png",
+      "md5": "fef2f25ba31458aca698f190cd5a13cd",
+      "size": 1724452,
+      "uploadedDate": "2023-01-25T09:20:15.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEAL-X1920-10803-1920x1080-74e897f0a9cfce996ec2d84e9769886a.png",
+      "md5": "74e897f0a9cfce996ec2d84e9769886a",
+      "size": 1696830,
+      "uploadedDate": "2023-01-25T09:20:16.002Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ALXAssaultRifleWithHands_thumb-284x284-6896c5acae9fa7ef2ff846f3f2464234.png",
+      "md5": "6896c5acae9fa7ef2ff846f3f2464234",
+      "size": 121269,
+      "uploadedDate": "2023-01-25T09:20:16.380Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ALXAssaultRifleWithHands_featured-894x488-fabe1b6faf4d152905c16b0ca70b89eb.png",
+      "md5": "fabe1b6faf4d152905c16b0ca70b89eb",
+      "size": 618092,
+      "uploadedDate": "2023-01-25T09:20:16.605Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10805-1920x1080-44307c43c469fbc9125f3fb9365f2f4b_Snapshot.png",
+      "md5": "4f1c0f2d7e144bb910e09cda6c3da171",
+      "size": 4619,
+      "uploadedDate": "2023-01-25T09:20:14.179Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-1080-1920x1080-053bcc93a8e3879ebef6ec1d9bdc4bfe_Snapshot.png",
+      "md5": "828696ed18e94f298b88aa0cce359117",
+      "size": 3847,
+      "uploadedDate": "2023-01-25T09:20:14.704Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10801-1920x1080-ac188250268dd80bb72cff82c278cefa_Snapshot.png",
+      "md5": "4a5ef964b163a45b6f5347b5338481ee",
+      "size": 4018,
+      "uploadedDate": "2023-01-25T09:20:15.247Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10802-1920x1080-fef2f25ba31458aca698f190cd5a13cd_Snapshot.png",
+      "md5": "1193c364a5c9c59fefcb29b9e0577656",
+      "size": 3923,
+      "uploadedDate": "2023-01-25T09:20:15.775Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10803-1920x1080-74e897f0a9cfce996ec2d84e9769886a_Snapshot.png",
+      "md5": "8321cdb2feee210facc99d2da3cd75e5",
+      "size": 3933,
+      "uploadedDate": "2023-01-25T09:20:16.336Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-1080-1920x1080-f9663d7517c5ed5a8d18f69a9c062000_Snapshot.png",
+      "md5": "58727351b2ffad3401292fd90d140529",
+      "size": 3789,
+      "uploadedDate": "2023-01-12T11:28:17.885Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10801-1920x1080-f93f8c56e069a95f276dba2c72957115_Snapshot.png",
+      "md5": "33eab15e35ff3f4cce7d3f4407a84256",
+      "size": 3721,
+      "uploadedDate": "2023-01-12T11:28:18.367Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10802-1920x1080-28b604063bab31787fdc661b16cbba1e_Snapshot.png",
+      "md5": "ebd9c906a5ce4e354030ef48d7fed4d5",
+      "size": 3687,
+      "uploadedDate": "2023-01-12T11:28:18.845Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEAL-X1920-10803-1920x1080-b14ff2fe25bba632124be77fcb7af9ea_Snapshot.png",
+      "md5": "7fcab1b0e53b310909ff14370dccd0b1",
+      "size": 3734,
+      "uploadedDate": "2023-01-12T11:28:19.302Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "97f92adc1f6e47f0b0fd2e8312063047"
+    }
+  ],
+  "catalogNs": null
+}

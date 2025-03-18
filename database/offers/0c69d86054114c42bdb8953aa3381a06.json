@@ -1,0 +1,443 @@
+{
+  "id": "0c69d86054114c42bdb8953aa3381a06",
+  "namespace": "ue",
+  "title": "Street Gangs Set",
+  "description": "A set of characters, items and props ideal to dress up NPCs in a street brawler game, or for any third person game.",
+  "longDescription": "<p>A set of characters, items and props ideal to dress up NPCs in a street brawler game, or for any third person game.</p><p><a href=\"https://youtu.be/lFPvfk-LN4U\" rel=\"nofollow\">Video presentation</a></p><p><a href=\"https://drive.google.com/file/d/1BC3g6-HXbUKWZ2DjWASYrXfdccuQ3ras/view?usp&#61;sharing\" rel=\"nofollow\">Documentation</a>&#xfeff;</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "street-gangs-set-for-stylized-female-and-buff-male",
+  "creationDate": "2021-10-22T17:31:47.622Z",
+  "lastModifiedDate": "2024-09-27T11:38:39.415Z",
+  "effectiveDate": "2021-10-22T17:31:47.572Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2ff838f2bc4c25a73c54ace505046d",
+    "name": "PO-Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Clothing items are split as head items/upper items/lower items/hands/feet</li><li> Male and Female items are built around the official Epic male and female skeleton. An extra &#34;Tall Female&#34; variant is also included.</li><li> Buff male items made for the unique PO-Art buff bodytype which can receive animations from the standard Epic Male.</li></ul><p><br /></p><p>Rigged : Yes</p><p>Rigged to Epic skeleton : Yes</p><p>Animated : Yes (includes custom run cycles and custom idles. Jump animations are duplicated from the Epic third person example)</p><p>Number of characters : 4 (male, female, tall female, buff male), modular</p><p>Vertex counts of characters : male base model 17112 tris, female base model 8524 tris, buff male base model 8944 tris</p><p>Materials : one master material for skin &#43; one master material for clothes</p><p>Texture resolutions : each individual clothing item uses a 1024*1024 texture set (color, metalness, roughness, normal, AO). Characters body and heads use 2048*2048 textures.</p><p>Supported platforms : all</p><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;Pd3GWyuVmvQ\" rel=\"nofollow\">Video tutorial on using PO-art assets</a></p><p><a href=\"https://pioroberson.com/POArtNewsletter.htm\" rel=\"nofollow\">Subscribe to the PO-Art newsletter</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2060ce1e-529e-4af3-977f-6d89923fce82"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 002-1920x1080-3ae8d016a87def9f86f6365794c9fdc6.jpg",
+      "md5": "3ae8d016a87def9f86f6365794c9fdc6",
+      "size": 486974,
+      "uploadedDate": "2021-10-21T23:36:57.209Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 003-1920x1080-c2081f0aa0fb6b8d1787fd44473f119b.jpg",
+      "md5": "c2081f0aa0fb6b8d1787fd44473f119b",
+      "size": 494640,
+      "uploadedDate": "2021-10-22T17:29:17.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 016-1920x1080-4a0eb33609b1ea8a7c016ac532d24198.jpg",
+      "md5": "4a0eb33609b1ea8a7c016ac532d24198",
+      "size": 654133,
+      "uploadedDate": "2022-01-09T15:04:17.868Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 006-1920x1080-385b0bd7702362c839cdfd1587743786.jpg",
+      "md5": "385b0bd7702362c839cdfd1587743786",
+      "size": 620654,
+      "uploadedDate": "2021-10-22T17:29:38.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 007-1920x1080-c30672190bf84af8ebb6fe8fa3afdd5f.jpg",
+      "md5": "c30672190bf84af8ebb6fe8fa3afdd5f",
+      "size": 570388,
+      "uploadedDate": "2021-10-22T17:29:43.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 008-1920x1080-6294c51c599c67c1d2f15f69b68aceea.jpg",
+      "md5": "6294c51c599c67c1d2f15f69b68aceea",
+      "size": 644461,
+      "uploadedDate": "2021-10-22T17:29:49.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 013-1920x1080-23da35153d520047c9ce664499d42fb1.jpg",
+      "md5": "23da35153d520047c9ce664499d42fb1",
+      "size": 456173,
+      "uploadedDate": "2021-12-20T16:25:56.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 014-1920x1080-5899adeac39f969971c8593f9535b28f.jpg",
+      "md5": "5899adeac39f969971c8593f9535b28f",
+      "size": 663141,
+      "uploadedDate": "2022-01-09T15:04:18.847Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 015-1920x1080-bceca7f1af3a8f5828d19732959518a3.jpg",
+      "md5": "bceca7f1af3a8f5828d19732959518a3",
+      "size": 516554,
+      "uploadedDate": "2022-01-09T15:04:19.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 004-1920x1080-ec842eb40051694535c6999b9437f5a7.jpg",
+      "md5": "ec842eb40051694535c6999b9437f5a7",
+      "size": 468269,
+      "uploadedDate": "2021-10-22T17:29:23.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 012-1920x1080-8ab92312d50300eeef88a7f8b4607ede.jpg",
+      "md5": "8ab92312d50300eeef88a7f8b4607ede",
+      "size": 298061,
+      "uploadedDate": "2021-12-20T16:25:57.423Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 005-1920x1080-839d6ab56398239e338cba547038ea59.jpg",
+      "md5": "839d6ab56398239e338cba547038ea59",
+      "size": 520023,
+      "uploadedDate": "2021-10-22T17:47:32.569Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 011-1920x1080-d1f2ddbcde10c1b48e9bdd315d4fb5f4.jpg",
+      "md5": "d1f2ddbcde10c1b48e9bdd315d4fb5f4",
+      "size": 456869,
+      "uploadedDate": "2021-12-20T16:25:57.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Street Gangs Gallery 018-1920x1080-fbdd6c955d4ce5f2bf09a6f0fa27b5a9.jpg",
+      "md5": "fbdd6c955d4ce5f2bf09a6f0fa27b5a9",
+      "size": 692161,
+      "uploadedDate": "2022-01-10T19:48:17.429Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StreetGangssetforStylizedMalesandFemales_thumb-284x284-df80a4e2ed60bd579138531916bb7a24.png",
+      "md5": "df80a4e2ed60bd579138531916bb7a24",
+      "size": 170124,
+      "uploadedDate": "2022-08-29T16:55:06.889Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StreetGangssetforfemaleandbuffmale_featured-894x488-22a28f07eed9ee23b9cad99b9ceafc06.png",
+      "md5": "22a28f07eed9ee23b9cad99b9ceafc06",
+      "size": 632883,
+      "uploadedDate": "2021-10-21T23:37:02.138Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 017-1920x1080-3bd4eae4822e3b22bb08cbe81f583245_Snapshot.jpg",
+      "md5": "927eb0c7f0c2213c58e1867b7caa7ec0",
+      "size": 6140,
+      "uploadedDate": "2022-01-10T19:48:17.045Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 018-1920x1080-fbdd6c955d4ce5f2bf09a6f0fa27b5a9_Snapshot.jpg",
+      "md5": "1dbef0081b5d6b2872ca229870ca72e8",
+      "size": 8229,
+      "uploadedDate": "2022-01-10T19:48:18.147Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 016-1920x1080-4a0eb33609b1ea8a7c016ac532d24198_Snapshot.jpg",
+      "md5": "db00cd93bc748d9f71f410f687aad388",
+      "size": 7965,
+      "uploadedDate": "2022-01-09T15:04:18.409Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 014-1920x1080-5899adeac39f969971c8593f9535b28f_Snapshot.jpg",
+      "md5": "bc442dc4ad47a3a3cce2d56b6a1599c7",
+      "size": 6223,
+      "uploadedDate": "2022-01-09T15:04:19.426Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 015-1920x1080-bceca7f1af3a8f5828d19732959518a3_Snapshot.jpg",
+      "md5": "d87c0b441f55ce0991dbab8b7c7612ed",
+      "size": 7625,
+      "uploadedDate": "2022-01-09T15:04:20.245Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 013-1920x1080-23da35153d520047c9ce664499d42fb1_Snapshot.jpg",
+      "md5": "1865f33bba355668ca15620d258b3469",
+      "size": 7175,
+      "uploadedDate": "2021-12-20T16:25:57.260Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 012-1920x1080-8ab92312d50300eeef88a7f8b4607ede_Snapshot.jpg",
+      "md5": "08b6b4729c5e2913f507633c32b62208",
+      "size": 4937,
+      "uploadedDate": "2021-12-20T16:25:57.714Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 011-1920x1080-d1f2ddbcde10c1b48e9bdd315d4fb5f4_Snapshot.jpg",
+      "md5": "98afa52db48349a3da15bdfa3860d3ec",
+      "size": 7300,
+      "uploadedDate": "2021-12-20T16:25:58.174Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 005-1920x1080-839d6ab56398239e338cba547038ea59_Snapshot.jpg",
+      "md5": "3145af607b85d18384c5a6717d5acb83",
+      "size": 7665,
+      "uploadedDate": "2021-10-22T17:47:33.202Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 005-1920x1080-f1c102e7367486b9e15d8cd801b2c520_Snapshot.jpg",
+      "md5": "fdcfa1ac749f1e0f9c6205b88727612a",
+      "size": 7656,
+      "uploadedDate": "2021-10-22T17:43:04.346Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 005-1920x1080-27e0cebdda283e96171d45d755cc906f_Snapshot.jpg",
+      "md5": "99fb685cebe5c3bd9ac356f62bb42e54",
+      "size": 7647,
+      "uploadedDate": "2021-10-22T17:31:29.367Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 009-1920x1080-92a6a1462eb44721d7e00849a6c1ad17_Snapshot.jpg",
+      "md5": "82e972d5192e9b5945e7e66eab948208",
+      "size": 8381,
+      "uploadedDate": "2021-10-22T17:29:15.061Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 003-1920x1080-c2081f0aa0fb6b8d1787fd44473f119b_Snapshot.jpg",
+      "md5": "4b583f9af9ebc572903b9dfe8d28ffdb",
+      "size": 6923,
+      "uploadedDate": "2021-10-22T17:29:19.473Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 004-1920x1080-ec842eb40051694535c6999b9437f5a7_Snapshot.jpg",
+      "md5": "cec37729e288de4dbf315139e5ea9418",
+      "size": 5295,
+      "uploadedDate": "2021-10-22T17:29:25.389Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 005-1920x1080-27e0cebdda283e96171d45d755cc906f_Snapshot.jpg",
+      "md5": "99fb685cebe5c3bd9ac356f62bb42e54",
+      "size": 7647,
+      "uploadedDate": "2021-10-22T17:29:34.054Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 006-1920x1080-385b0bd7702362c839cdfd1587743786_Snapshot.jpg",
+      "md5": "5531fb587568d7a3f33b016201d8a4c7",
+      "size": 7325,
+      "uploadedDate": "2021-10-22T17:29:41.239Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 007-1920x1080-c30672190bf84af8ebb6fe8fa3afdd5f_Snapshot.jpg",
+      "md5": "8b00a0e4d28520ccbe3c21a93e3b6211",
+      "size": 7132,
+      "uploadedDate": "2021-10-22T17:29:47.024Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 008-1920x1080-6294c51c599c67c1d2f15f69b68aceea_Snapshot.jpg",
+      "md5": "153b40a1a274f64e4a5a12e22ccc601f",
+      "size": 7934,
+      "uploadedDate": "2021-10-22T17:29:54.139Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 010-1920x1080-6d6010bf1d7fe51f2fc81ec5c6cee21b_Snapshot.jpg",
+      "md5": "54073d35963116b1aa1bb70ee2962947",
+      "size": 7225,
+      "uploadedDate": "2021-10-22T17:30:02.734Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 002-1920x1080-3ae8d016a87def9f86f6365794c9fdc6_Snapshot.jpg",
+      "md5": "fefc25889c02ff0b5f9d1797104ca48f",
+      "size": 8931,
+      "uploadedDate": "2021-10-21T23:36:58.885Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Street Gangs Gallery 001-1920x1080-86671ffa98f0fd0ebbd5459ec60997d7_Snapshot.jpg",
+      "md5": "8289b408069ab26e3d077a049eda1833",
+      "size": 5554,
+      "uploadedDate": "2021-10-21T23:37:00.607Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "6d48b226967c4ed98f7bdccde3b7a8f3"
+    }
+  ],
+  "catalogNs": null
+}

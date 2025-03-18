@@ -1,0 +1,392 @@
+{
+  "id": "2c64ee250ec54cb38d9d26fa6fea2645",
+  "namespace": "ue",
+  "title": "Vintage train",
+  "description": "Here you can find animated vintage locomotive with four different vagons. Triangles counts:",
+  "longDescription": "<p>Here you can find animated vintage locomotive with four different vagons.</p><p><a href=\"https://www.youtube.com/watch?v&#61;0SaHtq5JoZ0\" rel=\"nofollow\">Video preview</a></p><p><a href=\"https://sketchfab.com/3d-models/scene-be0564a1f89a4154ac26814722712fcd\" rel=\"nofollow\">Sketchfab preview</a></p><p><a href=\"https://discord.gg/jgBNSMP4bb\" rel=\"nofollow\">My Discord group</a> </p><p><br /></p><p>Triangles counts:</p><p>Locomotive - 128800tris</p><p>Tender vagon - 57000 tris</p><p>Hopper vagon - 62300 tris</p><p>Freight vagon - 54800 tris</p><p>Coach vagon - 80200 tris</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vintage-train",
+  "creationDate": "2021-03-10T22:43:55.758Z",
+  "lastModifiedDate": "2024-09-30T19:00:33.608Z",
+  "effectiveDate": "2021-03-10T22:43:55.680Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-93wt2wz4uvaryh5tl8kjlpu9wzd3ne",
+    "name": "DmitriyDryzhak"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Unique Meshes: 5</p><p>Collision: No</p><p>LODs: No</p><p>Number of Materials and Material Instances: 13</p><p>Number of Textures: 44</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: yes</p><p>\tMac: yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2023-08-23T03:10:10.001Z",
+      "status": "ACTIVE",
+      "referenceCount": 1144,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "1bac93f1-8033-45d2-90b6-8c3e3acd521b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201-1920x1080-741b820287de3180d16f6092a114deb4.jpg",
+      "md5": "741b820287de3180d16f6092a114deb4",
+      "size": 948671,
+      "uploadedDate": "2021-03-09T21:17:33.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19202-1920x1080-4d1c463d0799c938e06507c4bc0a7fdf.jpg",
+      "md5": "4d1c463d0799c938e06507c4bc0a7fdf",
+      "size": 1272246,
+      "uploadedDate": "2021-03-09T21:17:33.784Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19203-1920x1080-7c9ab2c7d1feaf66684e09a336c80ee4.jpg",
+      "md5": "7c9ab2c7d1feaf66684e09a336c80ee4",
+      "size": 1365255,
+      "uploadedDate": "2021-03-09T21:17:34.266Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19204-1920x1080-dff1091085cf80bbb472862cc46bd5f9.jpg",
+      "md5": "dff1091085cf80bbb472862cc46bd5f9",
+      "size": 1284786,
+      "uploadedDate": "2021-03-09T21:17:34.748Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19205-1920x1080-24c5b44e23159c02687562f289a5ce3c.jpg",
+      "md5": "24c5b44e23159c02687562f289a5ce3c",
+      "size": 1456979,
+      "uploadedDate": "2021-03-09T21:17:35.327Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19206-1920x1080-92f1c189255bb8eaf61e25937d409af1.jpg",
+      "md5": "92f1c189255bb8eaf61e25937d409af1",
+      "size": 1393697,
+      "uploadedDate": "2021-03-09T21:17:35.811Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19207-1920x1080-d7ab2715bbe4d35b7c316da678bd5a6a.jpg",
+      "md5": "d7ab2715bbe4d35b7c316da678bd5a6a",
+      "size": 1163731,
+      "uploadedDate": "2021-03-09T21:17:36.355Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19208-1920x1080-bac4c6cb2051af3aed6bba46e05c46b9.jpg",
+      "md5": "bac4c6cb2051af3aed6bba46e05c46b9",
+      "size": 1373364,
+      "uploadedDate": "2021-03-09T21:17:36.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19209-1920x1080-f16d84ef6b176e3bb4b94ba2241e55ba.jpg",
+      "md5": "f16d84ef6b176e3bb4b94ba2241e55ba",
+      "size": 1375798,
+      "uploadedDate": "2021-03-09T21:17:37.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/192010-1920x1080-de5b5b0687eca7c5480c977bed6f7996.jpg",
+      "md5": "de5b5b0687eca7c5480c977bed6f7996",
+      "size": 1369094,
+      "uploadedDate": "2021-03-09T21:17:38.343Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Vintagetrain_thumb-284x284-acd3029cd9b3f279dd42606fde1a1b0c.png",
+      "md5": "acd3029cd9b3f279dd42606fde1a1b0c",
+      "size": 170993,
+      "uploadedDate": "2021-03-09T21:17:38.718Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Vintagetrain_featured-894x488-0a0fb94ecd3eca22e0f3b0d1d217b9a4.png",
+      "md5": "0a0fb94ecd3eca22e0f3b0d1d217b9a4",
+      "size": 643389,
+      "uploadedDate": "2021-03-09T21:17:38.832Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201-1920x1080-741b820287de3180d16f6092a114deb4_Snapshot.jpg",
+      "md5": "5b40de4b4f6a6f9931d52b7952b5c28a",
+      "size": 6081,
+      "uploadedDate": "2021-03-09T21:17:33.617Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19202-1920x1080-4d1c463d0799c938e06507c4bc0a7fdf_Snapshot.jpg",
+      "md5": "c29b00a6f4d254decb700131a8419c40",
+      "size": 6942,
+      "uploadedDate": "2021-03-09T21:17:34.079Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19203-1920x1080-7c9ab2c7d1feaf66684e09a336c80ee4_Snapshot.jpg",
+      "md5": "7a3227b884e4145cf190f80ba2387199",
+      "size": 6935,
+      "uploadedDate": "2021-03-09T21:17:34.575Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19204-1920x1080-dff1091085cf80bbb472862cc46bd5f9_Snapshot.jpg",
+      "md5": "3e461f11984a555b54433fcabf50b988",
+      "size": 6161,
+      "uploadedDate": "2021-03-09T21:17:35.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19205-1920x1080-24c5b44e23159c02687562f289a5ce3c_Snapshot.jpg",
+      "md5": "6886922ba739e8646602878d5dbcf4c7",
+      "size": 6680,
+      "uploadedDate": "2021-03-09T21:17:35.645Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19206-1920x1080-92f1c189255bb8eaf61e25937d409af1_Snapshot.jpg",
+      "md5": "7145adc4d4cea91907d2ed831efbb81b",
+      "size": 7043,
+      "uploadedDate": "2021-03-09T21:17:36.118Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19207-1920x1080-d7ab2715bbe4d35b7c316da678bd5a6a_Snapshot.jpg",
+      "md5": "ae4ca64ed7b233a04bf03ce2839d0e56",
+      "size": 5863,
+      "uploadedDate": "2021-03-09T21:17:36.632Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19208-1920x1080-bac4c6cb2051af3aed6bba46e05c46b9_Snapshot.jpg",
+      "md5": "8a4cfa184de995659b2654cc55bffdb9",
+      "size": 6382,
+      "uploadedDate": "2021-03-09T21:17:37.215Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19209-1920x1080-f16d84ef6b176e3bb4b94ba2241e55ba_Snapshot.jpg",
+      "md5": "008c6ab9f64e49500a44556c25e5cea8",
+      "size": 6107,
+      "uploadedDate": "2021-03-09T21:17:37.752Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/192010-1920x1080-de5b5b0687eca7c5480c977bed6f7996_Snapshot.jpg",
+      "md5": "4c81885b4d012d8c1bacfc1b147559ed",
+      "size": 6166,
+      "uploadedDate": "2021-03-09T21:17:38.642Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "edfbc644b89a4dfb9b19639ede99578d"
+    }
+  ],
+  "catalogNs": null
+}

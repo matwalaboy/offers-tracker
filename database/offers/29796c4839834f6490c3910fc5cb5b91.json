@@ -1,0 +1,311 @@
+{
+  "id": "29796c4839834f6490c3910fc5cb5b91",
+  "namespace": "ue",
+  "title": "Girl Warrior",
+  "description": "low poly model for your game",
+  "longDescription": "<p><strong>Polycount:</strong> faces 45862, tris 87642, verts 51017</p><p><strong>Rigged with Epic Skeleton.</strong></p><p><strong>PBR</strong> Textures Metall/Roughness</p><p><strong>4K Textures</strong> - normal, metallic, roughness, albedo, AO</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "girl-warrior-01",
+  "creationDate": "2021-10-12T21:56:29.026Z",
+  "lastModifiedDate": "2024-09-30T16:28:48.774Z",
+  "effectiveDate": "2021-10-12T21:56:28.978Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-h5yhww7mrkb4lhhutfjzxzr6qwn2z8",
+    "name": "FlugoLukss"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>video: <a href=\"https://www.youtube.com/watch?v&#61;1K_5TyIRVlc\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;1K_5TyIRVlc</a></p><p>Features: (Please include a full, comprehensive list of the features of the product)</p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>If rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (No)</p><p>Number of Animations: (No)</p><p>Animation types (Root Motion/In-place):no</p><p>Number of characters:1</p><p>Vertex counts of characters: 51017</p><p>Number of Materials and Material Instances:10</p><p>Number of Textures:42</p><p>Texture Resolutions: (Please list all various texture resolutions)</p><p>Texture Resolutions: (4096x4096)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: (no)</p><p>Important/Additional Notes: (yes)</p><p>bones hair: hair_r, joint4 , joint5 , joint6 , joint7, joint8 ,hair_m ,joint10 ,joint11 , joint12 , joint13 , joint14, hair_r1, joint16 , joint17 , joint18 , joint19 , joint20.</p><p>bones breast: breast_l , breast_r .</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "384d99ea-c823-4fc2-830e-14141ece4ae8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/photo without logo-1920x1080-f38dcb6b43c15489f348c4c63d3a98cd.png",
+      "md5": "f38dcb6b43c15489f348c4c63d3a98cd",
+      "size": 826826,
+      "uploadedDate": "2021-10-07T15:02:56.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/hairs-1920x1080-c01b34929777be8b5d3fe84acc5726bc.png",
+      "md5": "c01b34929777be8b5d3fe84acc5726bc",
+      "size": 714841,
+      "uploadedDate": "2021-10-05T12:51:09.732Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/renders 4-1920x1080-e936f7998e3b909143e1e6fc0ae9f6ca.png",
+      "md5": "e936f7998e3b909143e1e6fc0ae9f6ca",
+      "size": 335191,
+      "uploadedDate": "2021-10-05T12:51:10.182Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/renders 1-1920x1080-5e2ec457d95b6ee4990ad0ba7d447086.png",
+      "md5": "5e2ec457d95b6ee4990ad0ba7d447086",
+      "size": 312778,
+      "uploadedDate": "2021-10-05T12:51:10.506Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/renders 3-1920x1080-a6e8ecdbf98fd609922a81633a4a1001.png",
+      "md5": "a6e8ecdbf98fd609922a81633a4a1001",
+      "size": 312113,
+      "uploadedDate": "2021-10-05T12:51:11.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/clean retopology-1920x1080-8b0b67f7225a1037688124f5e2bb44a4.png",
+      "md5": "8b0b67f7225a1037688124f5e2bb44a4",
+      "size": 448298,
+      "uploadedDate": "2021-10-05T12:51:10.846Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/unreal skeleton-1920x1080-21e1dde973a4a34020ff8cb5b3203c24.png",
+      "md5": "21e1dde973a4a34020ff8cb5b3203c24",
+      "size": 264878,
+      "uploadedDate": "2021-10-05T12:51:08.958Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GirlWarrior_thumb-284x284-fe46f894788595406d31e3365c503c03.png",
+      "md5": "fe46f894788595406d31e3365c503c03",
+      "size": 38716,
+      "uploadedDate": "2021-10-05T12:51:11.593Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GirlWarrior_featured-894x488-51a16f3426b55f2da543489826396f26.png",
+      "md5": "51a16f3426b55f2da543489826396f26",
+      "size": 304250,
+      "uploadedDate": "2021-10-07T15:02:56.758Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/photo without logo-1920x1080-f38dcb6b43c15489f348c4c63d3a98cd_Snapshot.png",
+      "md5": "a43d54a3e520b7a8e2d5d2dd86ab01c1",
+      "size": 4799,
+      "uploadedDate": "2021-10-07T15:02:56.639Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/unreal skeleton-1920x1080-21e1dde973a4a34020ff8cb5b3203c24_Snapshot.png",
+      "md5": "f06c6378739cae7c9ddde368f86aff2a",
+      "size": 2595,
+      "uploadedDate": "2021-10-05T12:51:09.204Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UNREAL LOGO FIRST PHOTO-1920x1080-2cd76fdd242fa91432f2126e42d0a2ec_Snapshot.png",
+      "md5": "8ca74e0543e477236d122e52bb5499a3",
+      "size": 5158,
+      "uploadedDate": "2021-10-05T12:51:09.608Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/hairs-1920x1080-c01b34929777be8b5d3fe84acc5726bc_Snapshot.png",
+      "md5": "7675c22b56a0c2efbadf0cd335be3434",
+      "size": 3035,
+      "uploadedDate": "2021-10-05T12:51:09.991Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/renders 4-1920x1080-e936f7998e3b909143e1e6fc0ae9f6ca_Snapshot.png",
+      "md5": "25697f53be4950edb41ef62a7f690d5d",
+      "size": 2353,
+      "uploadedDate": "2021-10-05T12:51:10.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/renders 1-1920x1080-5e2ec457d95b6ee4990ad0ba7d447086_Snapshot.png",
+      "md5": "a2354905f778b7be7c601bfb0c82299b",
+      "size": 2253,
+      "uploadedDate": "2021-10-05T12:51:10.720Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/clean retopology-1920x1080-8b0b67f7225a1037688124f5e2bb44a4_Snapshot.png",
+      "md5": "ccfbeebec794b77d5e088be4e7c98dd9",
+      "size": 2846,
+      "uploadedDate": "2021-10-05T12:51:11.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/renders 3-1920x1080-a6e8ecdbf98fd609922a81633a4a1001_Snapshot.png",
+      "md5": "d9bcc271a682270cd32a3d41c8db8344",
+      "size": 2310,
+      "uploadedDate": "2021-10-05T12:51:11.558Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "cfd628fd01674e9389b07f750cad8035"
+    }
+  ],
+  "catalogNs": null
+}

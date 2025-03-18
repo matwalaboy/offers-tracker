@@ -1,0 +1,287 @@
+{
+  "id": "ce30fe5656ab471ba2ac34b90a4e80fb",
+  "namespace": "ue",
+  "title": "Multiplayer Rock Paper Scissors Lizard and Alien",
+  "description": "A highly flexible and replicated project for the classic rock paper scissor that can accommodate infinite possibilities.",
+  "longDescription": "<p>This template is both replicated and flexible enough to accommodate an infinite amount of choices and what can beat what.</p><ul><li>Rock crushes scissors.</li><li>Rock crushes lizard.</li><li>Paper covers rock.</li><li>Paper disproves aliens.</li><li>Scissors cut paper.</li><li>Scissors decapitate lizard.</li><li>Lizard eats paper.</li><li>Lizard kills alien.</li><li>Alien annihilates rock.</li><li>Alien destroys scissors.</li></ul><p>If you want to add more combinations, you can in 2 steps!</p><p><br /></p><p>In addition, a pseudo-ai pawn is included that can behave in 3 manners:</p><ul><li> Random: all choices equally determined.</li><li> Biased: will choose one option over another more often.</li><li> Responsive: will determine the player&#39;s bias and respond against that.</li><li> Patterned: will ignore all randomness and go through an array of patterns.</li></ul><p><br /></p><p>Finally, this is also replicated to allow you to work on it in a multiplayer setting.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "multiplayer-rock-paper-scissors-lizard-and-alien",
+  "creationDate": "2021-09-06T00:35:02.661Z",
+  "lastModifiedDate": "2024-09-29T16:07:50.264Z",
+  "effectiveDate": "2021-09-07T11:54:56.561Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ux5ul79mncz6kb4t9hbl2su8rtsbsr",
+    "name": "ProjectZero"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> An pseudo-AI pawn with 4 behaviours</li><li> 10 textures to work with for the 5 choices given</li><li> A flexible framework that allows it to be built in any way</li><li>A complete project that is ready to play and multiplayer replicated</li><li>Very newbie friendly with commented blueprints and data table</li><li>A random choice button!</li></ul><p>Number of Blueprints: 7</p><p>Input: Mouse</p><p>Network Replicated: Yes</p><p>Supported Development Platforms: All</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1IKMewU3LdvcgrJWL9LD4UnEmplpA9Cje/edit?usp&#61;sharing&amp;ouid&#61;110347600781409880846&amp;rtpof&#61;true&amp;sd&#61;true\" rel=\"nofollow\">Link</a></p><p>Important/Additional Notes: The main scope of the project is to have a “rock paper scissor” (RPS&#43;) template that is fully customizable with a basic multiplayer mode. The project is also minimalistic and bare as to make it easier for the user to customize as needed. Other projects typically add their own pawns or animations; not this one.</p><p>Discord channel: <a href=\"https://discord.gg/VmFXeq7J9F\" rel=\"nofollow\">https://discord.gg/VmFXeq7J9F</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "630b491e-17e7-4f39-a4c5-a8e6f0a84533"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/RPS0-1920x1080-9407cf9de496800ec526dd45ae46ecc2.png",
+      "md5": "9407cf9de496800ec526dd45ae46ecc2",
+      "size": 189923,
+      "uploadedDate": "2021-09-03T20:08:37.515Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rps2-1920x1080-3ed00f7603c67f7cec23fe6825181916.png",
+      "md5": "3ed00f7603c67f7cec23fe6825181916",
+      "size": 783476,
+      "uploadedDate": "2021-09-03T20:08:37.983Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rps3-1920x1080-6746869208fae7bcc9ed9aac2d54818e.png",
+      "md5": "6746869208fae7bcc9ed9aac2d54818e",
+      "size": 1038294,
+      "uploadedDate": "2021-09-03T20:08:38.415Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rps4-1920x1080-430edde21624d1d6bfb47bffc1698706.png",
+      "md5": "430edde21624d1d6bfb47bffc1698706",
+      "size": 1028853,
+      "uploadedDate": "2021-09-03T20:08:38.895Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rps1-1920x1080-9a2f24c1ca9f882f1489fd7c7367a1f2.png",
+      "md5": "9a2f24c1ca9f882f1489fd7c7367a1f2",
+      "size": 197022,
+      "uploadedDate": "2021-09-03T20:08:39.325Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MultiplayerRockPaperScissorsLizardandAlien_thumb-284x284-f30b489469f0da6ba3a9c5ee2cfc179b.png",
+      "md5": "f30b489469f0da6ba3a9c5ee2cfc179b",
+      "size": 26758,
+      "uploadedDate": "2021-09-03T20:08:39.621Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MultiplayerRockPaperScissorsLizardandAlien_featured-894x488-f3f44a05124e9840ab852e0cbc24c998.png",
+      "md5": "f3f44a05124e9840ab852e0cbc24c998",
+      "size": 98435,
+      "uploadedDate": "2021-09-03T20:08:39.693Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/RPS0-1920x1080-9407cf9de496800ec526dd45ae46ecc2_Snapshot.png",
+      "md5": "e793b49231102b83583ce6b325f57b3c",
+      "size": 7032,
+      "uploadedDate": "2021-09-03T20:08:37.812Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rps2-1920x1080-3ed00f7603c67f7cec23fe6825181916_Snapshot.png",
+      "md5": "c131b96f0a8cce7ef31890714a79ef30",
+      "size": 5174,
+      "uploadedDate": "2021-09-03T20:08:38.259Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rps3-1920x1080-6746869208fae7bcc9ed9aac2d54818e_Snapshot.png",
+      "md5": "7e705bde0fb95f909ccc5f93d99f1f34",
+      "size": 6554,
+      "uploadedDate": "2021-09-03T20:08:38.700Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rps4-1920x1080-430edde21624d1d6bfb47bffc1698706_Snapshot.png",
+      "md5": "c8488bd8f5c39027a7807dba31e9cb3c",
+      "size": 8230,
+      "uploadedDate": "2021-09-03T20:08:39.191Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rps1-1920x1080-9a2f24c1ca9f882f1489fd7c7367a1f2_Snapshot.png",
+      "md5": "59a59ee4eff089163dab0137c3d63490",
+      "size": 7074,
+      "uploadedDate": "2021-09-03T20:08:39.581Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sabers no top-1920x1080-a8593b9c83c51c6f17853f22ba3154da_Snapshot.png",
+      "md5": "2b8447e079f6f50f3dbd0ec5a69677f6",
+      "size": 3575,
+      "uploadedDate": "2021-09-02T21:26:42.581Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "d126fdef97db4108a7d3ccad3f8dd14a"
+    }
+  ],
+  "catalogNs": null
+}

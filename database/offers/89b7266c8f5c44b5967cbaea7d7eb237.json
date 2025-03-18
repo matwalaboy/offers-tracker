@@ -1,0 +1,368 @@
+{
+  "id": "89b7266c8f5c44b5967cbaea7d7eb237",
+  "namespace": "ue",
+  "title": "39 Rocks of Siberia",
+  "description": "39 Rocks of Siberia",
+  "longDescription": "<p>Этот пакет включает в себя 39 скал Сибири.</p><p>Видео: <a href=\"https://youtu.be/038CGZCWGRk\" rel=\"nofollow\">https://youtu.be/038CGZCWGRk</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "39-rocks-of-siberia",
+  "creationDate": "2019-08-06T17:19:50.484Z",
+  "lastModifiedDate": "2024-09-29T22:46:41.873Z",
+  "effectiveDate": "2019-08-06T17:19:50.220Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e23041e57a48c59aa94762d507cdb8",
+    "name": "Artem Bayankin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Texture Sizes: </p><ul><li>Ambiant Occlusion - 512x512</li><li>Normal Map - 2048x2048</li><li>Albedo - 2048x2048</li></ul><p>Collision: Yes, automatically generated</p><p>Vertex Count: 611 - 2448</p><p>LODs: 4</p><p>Number of Meshes: 39</p><p>Number of Materials and Material Instances: 39</p><p>Number of Textures: 117</p><p>Supported Development Platforms: Windows 64, Windows 32, XBox One, PlayStation 4</p><p>Supported Target Build Platforms: Windows 64, Windows 32, XBox One, PlayStation 4</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1222",
+      "name": "TEXT-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.648Z",
+      "updated": "2019-06-20T12:00:08.648Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "386906eb-5eab-4a55-ba94-cc63c5bf85a0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/zastavka-1920x1080-dfc70e23780b024da13e8fa08a78a794.jpg",
+      "md5": "dfc70e23780b024da13e8fa08a78a794",
+      "size": 1160817,
+      "uploadedDate": "2019-07-30T20:09:24.269Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks01-1920x1080-57346d8f6b6036f61c3e8d0e3bdbcf84.jpg",
+      "md5": "57346d8f6b6036f61c3e8d0e3bdbcf84",
+      "size": 491564,
+      "uploadedDate": "2019-07-30T20:09:24.726Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks02-1920x1080-d7125d1a7a11a1005aa6fb70388824d1.jpg",
+      "md5": "d7125d1a7a11a1005aa6fb70388824d1",
+      "size": 433517,
+      "uploadedDate": "2019-07-30T20:09:25.111Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks03-1920x1080-f4f534f55655c1a6de14b260ddc45c24.jpg",
+      "md5": "f4f534f55655c1a6de14b260ddc45c24",
+      "size": 356281,
+      "uploadedDate": "2019-07-30T20:09:25.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks05-1920x1080-1b5ee5c19688bc778ba11f7d5f22b704.jpg",
+      "md5": "1b5ee5c19688bc778ba11f7d5f22b704",
+      "size": 502190,
+      "uploadedDate": "2019-07-30T20:09:26.011Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks06-1920x1080-78899026fe687098ee0735d866c67830.jpg",
+      "md5": "78899026fe687098ee0735d866c67830",
+      "size": 537631,
+      "uploadedDate": "2019-07-30T20:09:26.447Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks07-1920x1080-37d72ba1bd92049b14c2b7b162414ada.jpg",
+      "md5": "37d72ba1bd92049b14c2b7b162414ada",
+      "size": 487550,
+      "uploadedDate": "2019-07-30T20:09:26.784Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks08-1920x1080-9e20650462d2932a0d067bf2ed510d0f.jpg",
+      "md5": "9e20650462d2932a0d067bf2ed510d0f",
+      "size": 476525,
+      "uploadedDate": "2019-07-30T20:09:27.136Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks09-1920x1080-da1eda7c4a8192ac8702bc448a6cbad1.jpg",
+      "md5": "da1eda7c4a8192ac8702bc448a6cbad1",
+      "size": 477610,
+      "uploadedDate": "2019-07-30T20:09:27.459Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks10-1920x1080-4671901108b0776b60a8a1b8346cb9a9.jpg",
+      "md5": "4671901108b0776b60a8a1b8346cb9a9",
+      "size": 456811,
+      "uploadedDate": "2019-07-30T20:09:27.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks11-1920x1080-e5a9210e4488c4620a87dd9e0a17c3dc.jpg",
+      "md5": "e5a9210e4488c4620a87dd9e0a17c3dc",
+      "size": 544422,
+      "uploadedDate": "2019-07-30T20:09:28.145Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Rocks12-1920x1080-c82f2b1fc346085433a715ea55d047ef.jpg",
+      "md5": "c82f2b1fc346085433a715ea55d047ef",
+      "size": 677195,
+      "uploadedDate": "2019-07-30T20:09:28.483Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/39RocksofSiberia_thumb-284x284-fd71da5b45185cf7c94fee20a758b521.png",
+      "md5": "fd71da5b45185cf7c94fee20a758b521",
+      "size": 186621,
+      "uploadedDate": "2019-07-30T20:09:28.902Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/39RocksofSiberia_featured-894x488-93d54f89a3714b9c656ff1933e08269b.png",
+      "md5": "93d54f89a3714b9c656ff1933e08269b",
+      "size": 638407,
+      "uploadedDate": "2019-07-30T20:09:28.999Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/zastavka-1920x1080-dfc70e23780b024da13e8fa08a78a794_Snapshot.jpg",
+      "md5": "f5b55a4bb45fbbd1fdc0598329a60c11",
+      "size": 6281,
+      "uploadedDate": "2019-07-30T20:09:24.608Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks01-1920x1080-57346d8f6b6036f61c3e8d0e3bdbcf84_Snapshot.jpg",
+      "md5": "8de7dd1e6e2b9bff36f65dceaa204f06",
+      "size": 5193,
+      "uploadedDate": "2019-07-30T20:09:24.953Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks02-1920x1080-d7125d1a7a11a1005aa6fb70388824d1_Snapshot.jpg",
+      "md5": "9141262b87ad9c67e4de93ce5f290e67",
+      "size": 3498,
+      "uploadedDate": "2019-07-30T20:09:25.359Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks03-1920x1080-f4f534f55655c1a6de14b260ddc45c24_Snapshot.jpg",
+      "md5": "f52cf27a0800df8c8c45613dbf080968",
+      "size": 3403,
+      "uploadedDate": "2019-07-30T20:09:25.880Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks05-1920x1080-1b5ee5c19688bc778ba11f7d5f22b704_Snapshot.jpg",
+      "md5": "a923a0b7280b0136bc79cf6e83aba682",
+      "size": 4006,
+      "uploadedDate": "2019-07-30T20:09:26.228Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks06-1920x1080-78899026fe687098ee0735d866c67830_Snapshot.jpg",
+      "md5": "f3b9100cb82e579e394ba66fb725ccbe",
+      "size": 3978,
+      "uploadedDate": "2019-07-30T20:09:26.670Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks07-1920x1080-37d72ba1bd92049b14c2b7b162414ada_Snapshot.jpg",
+      "md5": "9913a9d2faeeb7ecfaec5b993bff63e2",
+      "size": 3831,
+      "uploadedDate": "2019-07-30T20:09:27.015Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks08-1920x1080-9e20650462d2932a0d067bf2ed510d0f_Snapshot.jpg",
+      "md5": "c2595d18efb8f8ca69e5edf9771adfe8",
+      "size": 3869,
+      "uploadedDate": "2019-07-30T20:09:27.349Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks09-1920x1080-da1eda7c4a8192ac8702bc448a6cbad1_Snapshot.jpg",
+      "md5": "0f3b061d777555d08dade3360a89b0bf",
+      "size": 3862,
+      "uploadedDate": "2019-07-30T20:09:27.679Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks10-1920x1080-4671901108b0776b60a8a1b8346cb9a9_Snapshot.jpg",
+      "md5": "cecfefa72fe61d3163a3989306df08b0",
+      "size": 3782,
+      "uploadedDate": "2019-07-30T20:09:28.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks11-1920x1080-e5a9210e4488c4620a87dd9e0a17c3dc_Snapshot.jpg",
+      "md5": "2668053e3e29fd2f0f7b0f7336cc4134",
+      "size": 3874,
+      "uploadedDate": "2019-07-30T20:09:28.366Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Rocks12-1920x1080-c82f2b1fc346085433a715ea55d047ef_Snapshot.jpg",
+      "md5": "2da2f2e7d25e8ae600c053e763191ce0",
+      "size": 4158,
+      "uploadedDate": "2019-07-30T20:09:28.799Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "507abdc62446478f9ca990d253ac92b5"
+    }
+  ],
+  "catalogNs": null
+}

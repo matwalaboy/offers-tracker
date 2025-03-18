@@ -1,0 +1,260 @@
+{
+  "id": "b09cb66c8d6a4a4ca2271557dcf47802",
+  "namespace": "ue",
+  "title": "Abandoned City",
+  "description": "A lonely abandoned city. Objects are of low quality. One high quality sculpture was used.",
+  "longDescription": "<p><a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.unrealengine.com/marketplace/en-US/profile/STONE?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">STONE </a>presents a good solution for your games, animation films, advertisement flims, VR projects and simulators. In this process, you can browse our store for the best <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.unrealengine.com/marketplace/en-US/profile/STONE?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">3d objects </a>and <a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.unrealengine.com/marketplace/en-US/profile/STONE?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">Environments </a></p><p><br /></p><p><a href=\"https://youtu.be/AU9TnSEYUvk\" rel=\"nofollow\">Show</a></p><p><br /></p><p>Abandoned City Details</p><ul><li>All objects were created with care</li><li>It was arranged superficially and overlay maps were created.</li><li>Scene optimization is healthy.</li><li>Please contact us for contact and information.</li><li>All painting processes are done with substance painter.</li></ul><p><br /></p><p>Your feedback is important for improving ourselves, so feel free to comment and ask questions.</p><p><br /></p><p><br /></p><p><br /></p><ul><li>Documentation for using Lumen;</li></ul><p>https://docs.unrealengine.com/5.1/en-US/lumen-technical-details-in-unreal-engine/</p><p><br /></p><p>This product supports Lumen for Unreal Engine 5.1&#43;</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "abandoned-city-01",
+  "creationDate": "2023-03-11T16:57:04.512Z",
+  "lastModifiedDate": "2024-09-30T17:24:11.676Z",
+  "effectiveDate": "2023-03-11T16:57:04.469Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2abnn8fqdepgpfjh7nqnudae574kgk",
+    "name": "STONE"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><ul><li> All objects were created with care</li><li>It was arranged superficially and overlay maps were created.</li><li>Scene optimization is healthy.</li><li>Please contact us for contact and information.</li><li>All painting processes are done with substance painter.</li></ul><p><br /></p><p>Number of Unique Meshes: 51</p><p>Collision: (No)</p><p>Vertex Count:  495,768</p><p>LODs: (No)</p><p>Number of Materials and Material Instances: 59 &#43; 2 Decal</p><p>Number of Textures: 208</p><p>Texture Resolutions: 1024x1024 , 2048x2048, 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation:https://docs.unrealengine.com/5.1/en-US/lumen-technical-details-in-unreal-engine/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "51a44ba8-8449-4a3e-9df6-05f0b8775672"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-595a43fe69656706a7022b45ccc56eb6.jpg",
+      "md5": "595a43fe69656706a7022b45ccc56eb6",
+      "size": 337036,
+      "uploadedDate": "2023-03-06T21:33:08.477Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-6029a84078a875fdf029fb605808ee3c.jpg",
+      "md5": "6029a84078a875fdf029fb605808ee3c",
+      "size": 309577,
+      "uploadedDate": "2023-03-06T21:33:08.804Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-ed0c01777d4f25af9c013fe98dc89318.jpg",
+      "md5": "ed0c01777d4f25af9c013fe98dc89318",
+      "size": 277541,
+      "uploadedDate": "2023-03-06T21:33:09.151Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-3504a52cc1ca41337b6e14eba8d2533b.jpg",
+      "md5": "3504a52cc1ca41337b6e14eba8d2533b",
+      "size": 270447,
+      "uploadedDate": "2023-03-06T21:33:09.485Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-e8976d95523efd9f8575d250415cdf59.jpg",
+      "md5": "e8976d95523efd9f8575d250415cdf59",
+      "size": 134990,
+      "uploadedDate": "2023-03-06T21:33:10.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-9b2a9432823998d174c49c1fc28f3236.jpg",
+      "md5": "9b2a9432823998d174c49c1fc28f3236",
+      "size": 394159,
+      "uploadedDate": "2023-03-06T21:33:09.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-b9de27b8fb31a0f6364dcc6fcd69928a.jpg",
+      "md5": "b9de27b8fb31a0f6364dcc6fcd69928a",
+      "size": 131406,
+      "uploadedDate": "2023-03-06T21:33:10.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-23ca96de30935db5ef8daac1d3919fb2.jpg",
+      "md5": "23ca96de30935db5ef8daac1d3919fb2",
+      "size": 198730,
+      "uploadedDate": "2023-03-06T21:33:10.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AbandonedCity_thumb-284x284-3564a7d74a0592ce21423802a7bae399.png",
+      "md5": "3564a7d74a0592ce21423802a7bae399",
+      "size": 173955,
+      "uploadedDate": "2023-07-04T09:18:29.812Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AbandonedCity_featured-894x488-873a3e10b2255c319ad7da14e46b01ab.png",
+      "md5": "873a3e10b2255c319ad7da14e46b01ab",
+      "size": 780457,
+      "uploadedDate": "2023-03-06T21:33:11.428Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-595a43fe69656706a7022b45ccc56eb6_Snapshot.jpg",
+      "md5": "24f63f6b61b8fa70a710f9466ac9d89c",
+      "size": 8139,
+      "uploadedDate": "2023-03-06T21:33:08.722Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-6029a84078a875fdf029fb605808ee3c_Snapshot.jpg",
+      "md5": "8487f6fe4552b490852476aa67dfc09d",
+      "size": 7799,
+      "uploadedDate": "2023-03-06T21:33:09.042Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-ed0c01777d4f25af9c013fe98dc89318_Snapshot.jpg",
+      "md5": "c38cb69a0f0e079014bfc17fafd7e039",
+      "size": 7450,
+      "uploadedDate": "2023-03-06T21:33:09.360Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-3504a52cc1ca41337b6e14eba8d2533b_Snapshot.jpg",
+      "md5": "342c89b70a18608c71ce997629f2b5e8",
+      "size": 6884,
+      "uploadedDate": "2023-03-06T21:33:09.710Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-9b2a9432823998d174c49c1fc28f3236_Snapshot.jpg",
+      "md5": "ad57e3e6a493a64efd025b564256d5a4",
+      "size": 8562,
+      "uploadedDate": "2023-03-06T21:33:10.098Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-b9de27b8fb31a0f6364dcc6fcd69928a_Snapshot.jpg",
+      "md5": "feeef9a97c9cda18553d2e729bfc778e",
+      "size": 4162,
+      "uploadedDate": "2023-03-06T21:33:10.405Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-23ca96de30935db5ef8daac1d3919fb2_Snapshot.jpg",
+      "md5": "eab53289b079ba7975cb8ba7ebb0ba3c",
+      "size": 6574,
+      "uploadedDate": "2023-03-06T21:33:10.721Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-e8976d95523efd9f8575d250415cdf59_Snapshot.jpg",
+      "md5": "56dfcf1a4ff66150b68239335ec45eed",
+      "size": 5622,
+      "uploadedDate": "2023-03-06T21:33:11.056Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "89a5d51aa112418cbd3004eba0b8d0b5"
+    }
+  ],
+  "catalogNs": null
+}

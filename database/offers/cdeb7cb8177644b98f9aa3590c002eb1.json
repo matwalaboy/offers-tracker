@@ -1,0 +1,290 @@
+{
+  "id": "cdeb7cb8177644b98f9aa3590c002eb1",
+  "namespace": "ue",
+  "title": "Stylized Fantasy Thief",
+  "description": "It is a character asset for a pretty cartoon stylized action RPG.",
+  "longDescription": "<p><strong>Video preview</strong>: <a href=\"https://youtu.be/nG7-VOrrVNc\" rel=\"nofollow\">https://youtu.be/nG7-VOrrVNc</a></p><p><br /></p><p>This Asset is one of the characters series available in fantasy RPG.</p><p>We designed a male and female thief with the concept of being a party member rather than a protagonist.</p><p>Asset include a dagger, which are minimal melee attack actions.</p><p>In addition, five types of hairstyles for male and female were also prepared.</p><p>A stylized background asset is also included as a bonus. Let&#96;s use this character set to form a party with the protagonist character you designed.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "stylized-fantasy-thief",
+  "creationDate": "2019-07-22T07:22:41.500Z",
+  "lastModifiedDate": "2024-09-30T07:38:21.534Z",
+  "effectiveDate": "2019-07-22T07:22:41.129Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li> 3 Maps (Overview, Animations, Gameplay)</li><li>2 Blueprints (1 Character class, 1 Animation Blueprint)</li><li>2 Mesh variations (Male, Female)</li><li> 10 Hair mesh (5 Male hair, 5 Female hair)</li><li>1 Weapon mesh (Knife 1)</li><li>14 Environments mesh (Stylized like)</li><li>Physics supported hair and cloth.</li><li>Mobile ready!! </li></ul><p><br /></p><p><strong>Scaled to Epic skeleton:</strong> Yes</p><p><strong>Rigged:</strong> Yes</p><p><strong>Rigged to Epic skeleton:</strong> Yes</p><p><strong>Animated:</strong> Yes</p><p><strong>Number of characters:</strong> 2</p><p><strong>Vertex counts of characters:</strong> 6.5k total</p><p><strong>Texture Resolutions:</strong> 2048 each (Head,Body,Hair)</p><p><strong>Number of Animations:</strong> 13 (Male and Female each. and 1 1D blends)</p><p><strong>Animation types:</strong> In place 13 root motion 0</p><p><strong>Supported Development Platforms:</strong> All</p><p><strong>Supported Target Build Platforms:</strong> Windows</p><p><strong>Documentation:</strong> No</p><p><strong>Important/Additional Notes:</strong></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "9723913c-3cc4-4f6d-8f8f-2a357320f8eb"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/thiefimage1-1920x1080-d44ddeee1f01ac26aac3fcf1c0728f04.png",
+      "md5": "d44ddeee1f01ac26aac3fcf1c0728f04",
+      "size": 1727771,
+      "uploadedDate": "2019-06-27T13:12:23.387Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/stylizedthiefpromotionpicture-1920x1080-1f525ca513c6e609dd8c7a88ea17cdc2.png",
+      "md5": "1f525ca513c6e609dd8c7a88ea17cdc2",
+      "size": 800753,
+      "uploadedDate": "2019-06-27T13:12:23.792Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/thiefimage2-1920x1080-943ccedd8b766e3ba5f298c30970ddc0.png",
+      "md5": "943ccedd8b766e3ba5f298c30970ddc0",
+      "size": 2696794,
+      "uploadedDate": "2019-06-27T13:12:24.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/thieffemale-1920x1080-f8691b4f5ef885aafeeddbaea71b3bed.png",
+      "md5": "f8691b4f5ef885aafeeddbaea71b3bed",
+      "size": 2094114,
+      "uploadedDate": "2019-06-27T13:12:24.783Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/thiefmale-1920x1080-243c435fe9ed488b81f0009565c90707.png",
+      "md5": "243c435fe9ed488b81f0009565c90707",
+      "size": 2340939,
+      "uploadedDate": "2019-06-27T13:12:25.260Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/StylizedFantasyTheif_thumb-284x284-074bddd175f7e7915b422d025fa01bd6.png",
+      "md5": "074bddd175f7e7915b422d025fa01bd6",
+      "size": 158893,
+      "uploadedDate": "2019-06-27T13:12:25.720Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/StylizedFantasyTheif_featured-894x488-38a4cba42b23be564cbcb7126700f336.png",
+      "md5": "38a4cba42b23be564cbcb7126700f336",
+      "size": 681046,
+      "uploadedDate": "2019-06-27T13:12:25.848Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/thiefimage1-1920x1080-d44ddeee1f01ac26aac3fcf1c0728f04_Snapshot.png",
+      "md5": "3e7b9b21e948363be9059a5e7ffa2594",
+      "size": 6670,
+      "uploadedDate": "2019-06-27T13:12:23.654Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/stylizedthiefpromotionpicture-1920x1080-1f525ca513c6e609dd8c7a88ea17cdc2_Snapshot.png",
+      "md5": "1a1fdb9edb9170cad79c8308318218c2",
+      "size": 4987,
+      "uploadedDate": "2019-06-27T13:12:24.046Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/thiefimage2-1920x1080-943ccedd8b766e3ba5f298c30970ddc0_Snapshot.png",
+      "md5": "6c609d077af1b4bdcf58910fee229496",
+      "size": 8383,
+      "uploadedDate": "2019-06-27T13:12:24.599Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/thieffemale-1920x1080-f8691b4f5ef885aafeeddbaea71b3bed_Snapshot.png",
+      "md5": "b685b28c48d9391149733330cf5f0d20",
+      "size": 7579,
+      "uploadedDate": "2019-06-27T13:12:25.088Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/thiefmale-1920x1080-243c435fe9ed488b81f0009565c90707_Snapshot.png",
+      "md5": "d988b66cc0e261c4d77dabd74b40fa9e",
+      "size": 7510,
+      "uploadedDate": "2019-06-27T13:12:25.622Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "04bdc6de5b9d473e9cff5d691a416795"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,434 @@
+{
+  "id": "6a4bc17f810344bfb4a6ca874305e35b",
+  "namespace": "ue",
+  "title": "Sci Fi Cyborg 03",
+  "description": "Low-poly game character Sci-Fi Cyborg 03",
+  "longDescription": "<p>Low-poly model of the character &#34;Sci-Fi Cyborg 03&#34;</p><p>Use for create games of different genre like: RPG, shooter, strategy,etc.</p><p><br /></p><p>Character is rigged to Epic skeleton and have animations from &#34;Animation starter pack&#34; for tests.</p><p>The project also contains individual character fragments for customization.</p><p>Gun is static mesh.</p><p><br /></p><p>Textures:</p><p>five uv sets 2048x2048 (character parts: head, arms, hands, legs, tors)</p><p>one uv sets 2048x2048 (Gun)</p><p><br /></p><p>Seven skin colors</p><p><br /></p><p>Character :</p><p>faces 17794</p><p>verts 17186</p><p>tris 33814</p><p><br /></p><p>Gun:</p><p>faces 1622</p><p>verts 1506</p><p>tris 3000</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-cyborg-03",
+  "creationDate": "2021-06-18T19:23:26.421Z",
+  "lastModifiedDate": "2024-09-30T04:54:43.289Z",
+  "effectiveDate": "2021-06-18T19:23:26.365Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ry4fgqhb2d46sbltjdqht62agfphck",
+    "name": "SergeiGoodkov"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li> Video <a href=\"https://youtu.be/fR1UYBBmLqA\" rel=\"nofollow\">https://youtu.be/fR1UYBBmLqA</a></li></ul><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>\tIf rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (No)</p><p>Number of Animations:0</p><p>Animation types (Root Motion/In-place):0</p><p>Number of characters:1</p><p>Vertex counts of characters: 17186</p><p>Number of Materials and Material Instances:31</p><p>Number of Textures:54</p><p>Texture Resolutions: (2048x2048)</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: no</p><p>Important/Additional Notes: no</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f759115d-8841-4adf-9f1f-6189bf40deff"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot000-1920x1080-1aa18c3b1336903d4fbd9962810c6736.jpg",
+      "md5": "1aa18c3b1336903d4fbd9962810c6736",
+      "size": 585051,
+      "uploadedDate": "2021-06-18T08:17:09.019Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot004-1920x1080-d5b0fc096d07301c03a8cdcf38b33902.jpg",
+      "md5": "d5b0fc096d07301c03a8cdcf38b33902",
+      "size": 431308,
+      "uploadedDate": "2021-06-18T08:17:09.875Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot005-1920x1080-35145f3ed5e6fb78c53e6f5a3450a74a.jpg",
+      "md5": "35145f3ed5e6fb78c53e6f5a3450a74a",
+      "size": 425885,
+      "uploadedDate": "2021-06-18T08:17:10.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot006-1920x1080-49556e285ddd752c41cb73c3ab74af15.jpg",
+      "md5": "49556e285ddd752c41cb73c3ab74af15",
+      "size": 437174,
+      "uploadedDate": "2021-06-18T08:17:11.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot008-1920x1080-40efe354b49ad1ceb38e7b3ab39ce51b.jpg",
+      "md5": "40efe354b49ad1ceb38e7b3ab39ce51b",
+      "size": 460872,
+      "uploadedDate": "2021-06-18T08:17:12.232Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot007-1920x1080-9132cd83806846b5e48e107cfc996005.jpg",
+      "md5": "9132cd83806846b5e48e107cfc996005",
+      "size": 787940,
+      "uploadedDate": "2021-06-18T08:17:13.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot001-1920x1080-b2737d7b69258837d7311c1a34807fc2.jpg",
+      "md5": "b2737d7b69258837d7311c1a34807fc2",
+      "size": 232322,
+      "uploadedDate": "2021-06-18T08:17:13.833Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot002-1920x1080-2c4806e9384eeec5ae2058cd8b237846.jpg",
+      "md5": "2c4806e9384eeec5ae2058cd8b237846",
+      "size": 768277,
+      "uploadedDate": "2021-06-18T08:17:14.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE42-1920x1080-6739949d132915cf67511c6c140f4dcc.jpg",
+      "md5": "6739949d132915cf67511c6c140f4dcc",
+      "size": 662606,
+      "uploadedDate": "2021-06-18T08:17:15.464Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE43-1920x1080-6d8277de0cbfd2a6b6e8c377c4e20e0b.jpg",
+      "md5": "6d8277de0cbfd2a6b6e8c377c4e20e0b",
+      "size": 583696,
+      "uploadedDate": "2021-06-18T08:17:16.352Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-a84b2be4061b303f70013fd01272a106.jpg",
+      "md5": "a84b2be4061b303f70013fd01272a106",
+      "size": 888037,
+      "uploadedDate": "2021-06-18T08:17:17.266Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Maya-1920x1080-87fef417381b58eab737c65b70a9172e.jpg",
+      "md5": "87fef417381b58eab737c65b70a9172e",
+      "size": 450224,
+      "uploadedDate": "2021-06-18T08:17:18.185Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MayaGun-1920x1080-9431fed75cfab69968b4f29966b8c016.jpg",
+      "md5": "9431fed75cfab69968b4f29966b8c016",
+      "size": 362025,
+      "uploadedDate": "2021-06-18T08:17:19.040Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiCyborg03_thumb-284x284-e0fe3cdbbf44d204689c06a039d6c3e5.png",
+      "md5": "e0fe3cdbbf44d204689c06a039d6c3e5",
+      "size": 101563,
+      "uploadedDate": "2021-06-18T08:17:19.656Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SciFiCyborg03_featured-894x488-3f398ca693aa9f3a3f61bebf2156b274.png",
+      "md5": "3f398ca693aa9f3a3f61bebf2156b274",
+      "size": 270966,
+      "uploadedDate": "2021-06-18T08:17:19.728Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot000-1920x1080-1aa18c3b1336903d4fbd9962810c6736_Snapshot.jpg",
+      "md5": "c784307cbb8411e86e1d12c47de8f495",
+      "size": 3270,
+      "uploadedDate": "2021-06-18T08:17:09.561Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot004-1920x1080-d5b0fc096d07301c03a8cdcf38b33902_Snapshot.jpg",
+      "md5": "96ee22f279e026faf46ab027b7628516",
+      "size": 2730,
+      "uploadedDate": "2021-06-18T08:17:10.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot005-1920x1080-35145f3ed5e6fb78c53e6f5a3450a74a_Snapshot.jpg",
+      "md5": "abd2d097bf1e65d118cc413f8ba198bb",
+      "size": 2666,
+      "uploadedDate": "2021-06-18T08:17:11.193Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot006-1920x1080-49556e285ddd752c41cb73c3ab74af15_Snapshot.jpg",
+      "md5": "9e26cb6049c9cb4ed07951c2556748cc",
+      "size": 2769,
+      "uploadedDate": "2021-06-18T08:17:11.959Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot008-1920x1080-40efe354b49ad1ceb38e7b3ab39ce51b_Snapshot.jpg",
+      "md5": "364ca0683b1345a89fdce7d9c6b84934",
+      "size": 2922,
+      "uploadedDate": "2021-06-18T08:17:12.754Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot007-1920x1080-9132cd83806846b5e48e107cfc996005_Snapshot.jpg",
+      "md5": "c40ffc388a14d0a11da5de173a232e7a",
+      "size": 4384,
+      "uploadedDate": "2021-06-18T08:17:13.621Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot001-1920x1080-b2737d7b69258837d7311c1a34807fc2_Snapshot.jpg",
+      "md5": "e70192b35f50e097920f44646c7f9302",
+      "size": 2564,
+      "uploadedDate": "2021-06-18T08:17:14.325Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot002-1920x1080-2c4806e9384eeec5ae2058cd8b237846_Snapshot.jpg",
+      "md5": "8da6d11d8c39c38d1fc470a6182941b8",
+      "size": 3512,
+      "uploadedDate": "2021-06-18T08:17:15.072Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE42-1920x1080-6739949d132915cf67511c6c140f4dcc_Snapshot.jpg",
+      "md5": "0d0775139f17af94b53eeaec5f5842ad",
+      "size": 5643,
+      "uploadedDate": "2021-06-18T08:17:16.027Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE43-1920x1080-6d8277de0cbfd2a6b6e8c377c4e20e0b_Snapshot.jpg",
+      "md5": "3b270c99fa0f638cb9f1a93231bf6d4a",
+      "size": 5122,
+      "uploadedDate": "2021-06-18T08:17:16.911Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-a84b2be4061b303f70013fd01272a106_Snapshot.jpg",
+      "md5": "bc21617eb8ba19f9e48063efaa9d25f9",
+      "size": 5790,
+      "uploadedDate": "2021-06-18T08:17:17.888Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Maya-1920x1080-87fef417381b58eab737c65b70a9172e_Snapshot.jpg",
+      "md5": "f53e20f7a79ba1360d915a842bf3e9a0",
+      "size": 2774,
+      "uploadedDate": "2021-06-18T08:17:18.750Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/MayaGun-1920x1080-9431fed75cfab69968b4f29966b8c016_Snapshot.jpg",
+      "md5": "634d78dcabc16182b891115a7e87f2ea",
+      "size": 2650,
+      "uploadedDate": "2021-06-18T08:17:19.592Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "4424890e12ba40fd92fc8a02f718097e"
+    }
+  ],
+  "catalogNs": null
+}

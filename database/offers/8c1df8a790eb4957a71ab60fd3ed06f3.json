@@ -1,0 +1,410 @@
+{
+  "id": "8c1df8a790eb4957a71ab60fd3ed06f3",
+  "namespace": "ue",
+  "title": "Big Locomotion Pack V05",
+  "description": "This product is a package that combines five animation packages.",
+  "longDescription": "<p>This product is a package that combines four animation packages. These packages work in harmony with each other and there are 720 animations and 36 aim offset poses in total.</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/1b078acb79844f8b8af1823ff21989dd\" rel=\"nofollow\">Unarmed Locomotion Pack</a> - <a href=\"https://www.youtube.com/watch?v&#61;0OotdPn80kA&amp;t&#61;3s\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1NHcSLy468wuWCCqgK0IHfbvi2G7h4n6mxDciyElj6Ys/edit#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/fa65412f78a944feb271a35f2ab3e9f8\" rel=\"nofollow\">Cover Animation Pack</a> - <a href=\"https://www.youtube.com/watch?v&#61;X3gMtP-w15E\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1Wt0HdKZw6sVWhfKo5A2WjPo7qrTAaX-ThM5Qjz3jhdc/edit?pli&#61;1#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/92c4312e8e534c519e88a10b65913881\" rel=\"nofollow\">M4A1 Locomotion Pack</a> - <a href=\"https://www.youtube.com/watch?v&#61;W2Bid4SJIfs&amp;t&#61;2s\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1JhymepAAeWJsqGK4WRFMYMDJCNMGph-3RWIQ1mzY8NE/edit#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/pistol-locomotion-pack\" rel=\"nofollow\">Pistol Locomotion Pack</a> - <a href=\"https://www.youtube.com/watch?v&#61;vAZvMbic4gM\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1oCg4BL6m5hQmXmkA9n7SaSTMj69mj4kE8h9m-oxOCxc/edit#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/d66bbdde77a246eaa85fba82bd79500c\" rel=\"nofollow\">Shotgun Locomotion Pack</a> - <a href=\"https://youtu.be/2FMcYul2szE?si&#61;1RKrNSOfYmP8v3gk\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1lIUF5Gb4RYiORkxTmTrMuvdkxqHPJEGuC6zH0O3ZMjg/edit?gid&#61;0#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/0712ba8f7e92445c9a25591ceee8f2ae\" rel=\"nofollow\">Sniper Animation Pack</a> - <a href=\"https://youtu.be/CV5KprwFUrI\" rel=\"nofollow\">Preview</a> - <a href=\"https://docs.google.com/spreadsheets/d/1e4dP6O1Qnw_fF6_WOKt5qPUbmpyBZv4z1Q7wx2Spz3s/edit?gid&#61;0#gid&#61;0\" rel=\"nofollow\">Animation List</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "big-locomotion-pack-v05",
+  "creationDate": "2024-09-21T16:24:29.292Z",
+  "lastModifiedDate": "2024-09-28T21:37:36.464Z",
+  "effectiveDate": "2024-09-21T16:24:29.259Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-s7u6edg8bfqdv3e24slwczn7q9amee",
+    "name": "MandB Animation"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Rigged to Epic skeleton: Yes</p><p>If rigged to the Epic skeleton, IK bones are included: Yes</p><p>Number of Animations: 720 animations &#43; 36 poses</p><p>Animation types: 449 Root Motion - 271 In-place</p><p>Number of Characters: 1</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p><br /></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/animations"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1200",
+      "name": "GOTHIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.713Z",
+      "updated": "2019-06-20T11:59:57.713Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "83060727-3112-4d31-af3a-f35f6236f518"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-409dbda7551112c0faef7a47a18fb422.png",
+      "md5": "409dbda7551112c0faef7a47a18fb422",
+      "size": 3103534,
+      "uploadedDate": "2024-09-20T15:57:47.405Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00011-1920x1080-22b425c496c377bfdece7c733c0330fc.png",
+      "md5": "22b425c496c377bfdece7c733c0330fc",
+      "size": 2249703,
+      "uploadedDate": "2024-09-20T15:57:48.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000013-1920x1080-ae2c6b88664d189226acfe1f48eb2b90.png",
+      "md5": "ae2c6b88664d189226acfe1f48eb2b90",
+      "size": 2225175,
+      "uploadedDate": "2024-09-20T15:57:48.656Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000015-1920x1080-482df549114fb8b99b10f97639e9d8fb.png",
+      "md5": "482df549114fb8b99b10f97639e9d8fb",
+      "size": 2270562,
+      "uploadedDate": "2024-09-20T15:57:49.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot000017-1920x1080-51c3f371657c9628ddc223a86dfcb418.png",
+      "md5": "51c3f371657c9628ddc223a86dfcb418",
+      "size": 2294776,
+      "uploadedDate": "2024-09-20T15:57:49.985Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pistol00000-1920x1080-22cd7137e7045e524c64458ed3a431af.png",
+      "md5": "22cd7137e7045e524c64458ed3a431af",
+      "size": 1589327,
+      "uploadedDate": "2024-09-20T15:57:50.672Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pistol00004-1920x1080-6758b8166ddcf9e8d6780e981f58879c.png",
+      "md5": "6758b8166ddcf9e8d6780e981f58879c",
+      "size": 1542208,
+      "uploadedDate": "2024-09-20T15:57:51.258Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shotgun00002-1920x1080-87c06669b5b004fb5510b9ef79b5f4b9.png",
+      "md5": "87c06669b5b004fb5510b9ef79b5f4b9",
+      "size": 2715896,
+      "uploadedDate": "2024-09-20T15:57:51.969Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shotgun00004-1920x1080-8a003704bd5f2dfc1b9e636f34b37c4f.png",
+      "md5": "8a003704bd5f2dfc1b9e636f34b37c4f",
+      "size": 2547242,
+      "uploadedDate": "2024-09-20T15:57:52.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sniper00000-1920x1080-633ca6aaee0d4090534b9d96c6eb1782.png",
+      "md5": "633ca6aaee0d4090534b9d96c6eb1782",
+      "size": 2556573,
+      "uploadedDate": "2024-09-20T15:57:53.396Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sniper00004-1920x1080-4de0aef77f2eadff4529f9ad58a6a193.png",
+      "md5": "4de0aef77f2eadff4529f9ad58a6a193",
+      "size": 2459945,
+      "uploadedDate": "2024-09-20T15:57:54.054Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BigLocomotionPackV05_thumb-284x284-801b44a704cb34249791413c49aa5c83.png",
+      "md5": "801b44a704cb34249791413c49aa5c83",
+      "size": 99301,
+      "uploadedDate": "2024-09-20T15:57:54.525Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BigLocomotionPackV05_featured-894x488-07bd7605dd42e3b918cc6d01bccff7db.png",
+      "md5": "07bd7605dd42e3b918cc6d01bccff7db",
+      "size": 489643,
+      "uploadedDate": "2024-09-20T15:57:54.622Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-409dbda7551112c0faef7a47a18fb422_Snapshot.png",
+      "md5": "cbe3cf7b2b00fdc9d70601fbe40607be",
+      "size": 4909,
+      "uploadedDate": "2024-09-20T15:57:47.860Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00011-1920x1080-22b425c496c377bfdece7c733c0330fc_Snapshot.png",
+      "md5": "28b59140cceafcac3ebbaeb869f33227",
+      "size": 5452,
+      "uploadedDate": "2024-09-20T15:57:48.493Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000013-1920x1080-ae2c6b88664d189226acfe1f48eb2b90_Snapshot.png",
+      "md5": "57f67e7e01dae264a2fc603ee1385657",
+      "size": 5153,
+      "uploadedDate": "2024-09-20T15:57:49.230Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000015-1920x1080-482df549114fb8b99b10f97639e9d8fb_Snapshot.png",
+      "md5": "a211f7613855cdc63cbbc5c19e629666",
+      "size": 5061,
+      "uploadedDate": "2024-09-20T15:57:49.768Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot000017-1920x1080-51c3f371657c9628ddc223a86dfcb418_Snapshot.png",
+      "md5": "e5f94b4a7d57e21c68e03590da0f13d0",
+      "size": 5466,
+      "uploadedDate": "2024-09-20T15:57:50.409Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pistol00000-1920x1080-22cd7137e7045e524c64458ed3a431af_Snapshot.png",
+      "md5": "66c9ba23a7f8c70d765bd75a493fea2c",
+      "size": 5198,
+      "uploadedDate": "2024-09-20T15:57:51.054Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pistol00004-1920x1080-6758b8166ddcf9e8d6780e981f58879c_Snapshot.png",
+      "md5": "cb209534fb951315236cc34e647da557",
+      "size": 5314,
+      "uploadedDate": "2024-09-20T15:57:51.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shotgun00002-1920x1080-87c06669b5b004fb5510b9ef79b5f4b9_Snapshot.png",
+      "md5": "bb19c1e9458f779ded5b88092dba9cb7",
+      "size": 5294,
+      "uploadedDate": "2024-09-20T15:57:52.399Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shotgun00004-1920x1080-8a003704bd5f2dfc1b9e636f34b37c4f_Snapshot.png",
+      "md5": "3db87ea4367411b19e872d13ea18e4ae",
+      "size": 5093,
+      "uploadedDate": "2024-09-20T15:57:53.090Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sniper00000-1920x1080-633ca6aaee0d4090534b9d96c6eb1782_Snapshot.png",
+      "md5": "569fed83b9fa03f43f3890f519014d86",
+      "size": 5349,
+      "uploadedDate": "2024-09-20T15:57:53.841Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/sniper00004-1920x1080-4de0aef77f2eadff4529f9ad58a6a193_Snapshot.png",
+      "md5": "7ffe1ec42eab07c81012a787289a670e",
+      "size": 5150,
+      "uploadedDate": "2024-09-20T15:57:54.437Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8c462db0289f4151acb6ecdc44e728db"
+    }
+  ],
+  "catalogNs": null
+}

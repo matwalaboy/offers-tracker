@@ -1,0 +1,182 @@
+{
+  "id": "257cc4c3929c4e13addae4747bcccd4e",
+  "namespace": "ue",
+  "title": "Steel Bridges",
+  "description": "The inner sound of bridges.",
+  "longDescription": "Preview: <a href=\"https://soundcloud.com/detunized/around-bridges-library-live\" rel=\"nofollow\">https://soundcloud.com/detunized/around-bridges-library-live</a><br /><br />Steel Bridges introduces the inner sound of various bridges. The steel components of a bridge transmit the vibrations caused by passing cars or pedestrians in a fascinating manner. The library contains the sounds of excited beam barriers, noise barriers, expansion gaps and a lot more steel components that bridges are made of.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "steel-bridges",
+  "creationDate": "2016-10-13T14:50:09.977Z",
+  "lastModifiedDate": "2024-09-27T11:12:06.653Z",
+  "effectiveDate": "2016-11-02T00:00:00.000Z",
+  "viewableDate": "2016-11-02T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 41 (loopable) <br />Number of Audio Cues: 41 <br />Resolution: 48 kHz, 16bit stereo <br />Total playing time: 14:30 min (unlooped)",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "6fa5a84f-1fd5-4621-bdd9-9f02086c2eae"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/SteelBridges_Screenshot-1920x1080-e8d9b3b23ca493be8b54d751dafc7735.png",
+      "md5": "e8d9b3b23ca493be8b54d751dafc7735",
+      "size": 488072,
+      "uploadedDate": "2016-10-17T17:54:09.889Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/SteelBridges_Thumb-284x284-916861c424078163aa31f27505890ea4.png",
+      "md5": "916861c424078163aa31f27505890ea4",
+      "size": 42795,
+      "uploadedDate": "2016-10-17T17:54:07.433Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/SteelBridges_Featured-476x246-c2fac194da559c83f4db2f0a5a8a9147.png",
+      "md5": "c2fac194da559c83f4db2f0a5a8a9147",
+      "size": 58250,
+      "uploadedDate": "2016-10-17T17:54:02.916Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/SteelBridges_FeaturedNew-894x488-7c881a69057009f9128ab2b042163de2.png",
+      "md5": "7c881a69057009f9128ab2b042163de2",
+      "size": 158052,
+      "uploadedDate": "2016-10-17T17:54:05.357Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "70e5103a46b541d99e7354b0342fe7cd"
+    }
+  ],
+  "catalogNs": null
+}

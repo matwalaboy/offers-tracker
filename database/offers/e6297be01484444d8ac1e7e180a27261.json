@@ -1,0 +1,530 @@
+{
+  "id": "e6297be01484444d8ac1e7e180a27261",
+  "namespace": "ue",
+  "title": "Fantasy Cozy Furniture & Props - Stylized Pack",
+  "description": "High-quality Low Poly 3D models of Fantasy Themed Furnitures and Decorations",
+  "longDescription": "<p><a href=\"https://youtu.be/CY9eJWYdopQ\" rel=\"nofollow\">Video Showcase</a></p><p>This comprehensive package offers a charming variety of high-quality fantasy themed furnitures, designed to add a touch of comfort and charm to your game projects. From soft armchairs to charming coffee tables and cozy bookshelves, each piece has been carefully created to provide a warm and inviting atmosphere. With a range of styles and textures, <strong>Fantasy Cozy Furnitures</strong> provides everything you need to create delightful spaces that players will love to explore. Elevate your environmental design with this versatile package and be inspired to create worlds your players will never want to leave!</p><p><br /></p><p><strong>Got questions or suggestions? Reach out to me via email at </strong><a href=\"mailto:romulo.professional&#64;gmail.com\" rel=\"nofollow\"><strong>romulo.professional&#64;gmail.com</strong></a></p><p>I would love to hear your suggestions.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fantasy-cozy-furnitures",
+  "creationDate": "2024-06-24T02:17:14.038Z",
+  "lastModifiedDate": "2024-09-27T17:03:02.133Z",
+  "effectiveDate": "2024-06-24T02:17:13.976Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-596nmkdtj4zmrm6ju5ckgrptv5h7rv",
+    "name": "Cooking Polygons"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Texture Resolution: </strong>2k - 4k</p><p><strong>Number of Textures: </strong>595</p><p><strong>Texture Map Per Model</strong>: 3-4</p><p><strong>Average Polygon Count:</strong> 1000</p><p><strong>Base Materials:</strong> 6</p><p><strong>Material Instances:</strong> 231</p><p><strong>Number of Meshes: </strong>251</p><p><strong>Mesh Blueprints:</strong> 259</p><p><strong>UV Mapping:</strong> Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4b2495a6-cf43-40a7-9582-44d7faaac585"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Render Fantasy Cozy Furnitures Pack Living Room-1920x1080-17e038c4b86fcc8f4c2ce81078450976.png",
+      "md5": "17e038c4b86fcc8f4c2ce81078450976",
+      "size": 2617648,
+      "uploadedDate": "2024-06-21T21:22:10.465Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Render Fantasy Cozy Furnitures Pack Kitchen-1920x1080-16a6c54667ca0b00b4db9e97300a45ea.png",
+      "md5": "16a6c54667ca0b00b4db9e97300a45ea",
+      "size": 2192241,
+      "uploadedDate": "2024-06-21T21:22:09.069Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Render Fantasy Cozy Furnitures Pack Library-1920x1080-b4fc8e3a7de53b70452853cc776829d6.png",
+      "md5": "b4fc8e3a7de53b70452853cc776829d6",
+      "size": 2625965,
+      "uploadedDate": "2024-06-21T21:22:09.782Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Render Fantasy Cozy Furnitures Pack Bedroom-1920x1080-685f6f5798631d2b0091b739627bc7f0.png",
+      "md5": "685f6f5798631d2b0091b739627bc7f0",
+      "size": 2321386,
+      "uploadedDate": "2024-06-21T21:22:07.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Render Fantasy Cozy Furnitures Pack Forge-1920x1080-60fcfec51355c25d41b498de4c67f700.png",
+      "md5": "60fcfec51355c25d41b498de4c67f700",
+      "size": 1799618,
+      "uploadedDate": "2024-06-21T21:22:08.489Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal Fantasy Cozy Furnitures Pack Bedroom-1920x1080-20b7ac5058aa9c8bb50f1dbc3b05f5a4.png",
+      "md5": "20b7ac5058aa9c8bb50f1dbc3b05f5a4",
+      "size": 2506204,
+      "uploadedDate": "2024-06-21T21:22:11.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal Fantasy Cozy Furnitures Pack Forge-1920x1080-c31897710605fe863b534100db7368de.png",
+      "md5": "c31897710605fe863b534100db7368de",
+      "size": 2149964,
+      "uploadedDate": "2024-06-21T21:22:11.893Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal Fantasy Cozy Furnitures Pack Kitchen-1920x1080-886ed0e31040239a0aa3da0fa6ccb016.png",
+      "md5": "886ed0e31040239a0aa3da0fa6ccb016",
+      "size": 2138030,
+      "uploadedDate": "2024-06-21T21:22:12.528Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal Fantasy Cozy Furnitures Pack Library-1920x1080-d111445bf0c5c18e72801efe9d9a53ae.png",
+      "md5": "d111445bf0c5c18e72801efe9d9a53ae",
+      "size": 2106425,
+      "uploadedDate": "2024-06-21T21:22:13.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal Fantasy Cozy Furnitures Pack Livingroom-1920x1080-d634c613d981b3f1f01e43d8575015d1.png",
+      "md5": "d634c613d981b3f1f01e43d8575015d1",
+      "size": 2671783,
+      "uploadedDate": "2024-06-21T21:22:13.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FantasyCozyFurniturePropsStylizedPack_thumb-284x284-d5c65fd0744d3e394acd1a5a01ca7f89.png",
+      "md5": "d5c65fd0744d3e394acd1a5a01ca7f89",
+      "size": 184272,
+      "uploadedDate": "2024-08-18T18:56:57.826Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FantasyCozyFurniturePropsStylizedPack_featured-894x488-882f9f7bf798c9df0d12ca9a805b4d0f.png",
+      "md5": "882f9f7bf798c9df0d12ca9a805b4d0f",
+      "size": 838148,
+      "uploadedDate": "2024-08-18T19:10:37.310Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Bedroom-1920x1080-685f6f5798631d2b0091b739627bc7f0_Snapshot.png",
+      "md5": "94b4af47cde4e993e281e1430d25c68f",
+      "size": 6673,
+      "uploadedDate": "2024-06-21T21:22:08.247Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Forge-1920x1080-60fcfec51355c25d41b498de4c67f700_Snapshot.png",
+      "md5": "6fddc0d3e759adf12dfaf0f3404d11d5",
+      "size": 6661,
+      "uploadedDate": "2024-06-21T21:22:08.876Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Kitchen-1920x1080-16a6c54667ca0b00b4db9e97300a45ea_Snapshot.png",
+      "md5": "5a5d095ae67d6252c09ddb0abf554b89",
+      "size": 7111,
+      "uploadedDate": "2024-06-21T21:22:09.496Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Library-1920x1080-b4fc8e3a7de53b70452853cc776829d6_Snapshot.png",
+      "md5": "632f792ecbd6ba0be1dc366ee482144e",
+      "size": 7863,
+      "uploadedDate": "2024-06-21T21:22:10.227Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Living Room-1920x1080-17e038c4b86fcc8f4c2ce81078450976_Snapshot.png",
+      "md5": "f5ade6764946221046b66737466debbb",
+      "size": 7100,
+      "uploadedDate": "2024-06-21T21:22:10.827Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal Fantasy Cozy Furnitures Pack Bedroom-1920x1080-20b7ac5058aa9c8bb50f1dbc3b05f5a4_Snapshot.png",
+      "md5": "b9706a8612bfd6619cbe8ea3fbf95cae",
+      "size": 8356,
+      "uploadedDate": "2024-06-21T21:22:11.710Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal Fantasy Cozy Furnitures Pack Forge-1920x1080-c31897710605fe863b534100db7368de_Snapshot.png",
+      "md5": "42da0b28c474a4d6f9a72de5138d9bd8",
+      "size": 5979,
+      "uploadedDate": "2024-06-21T21:22:12.304Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal Fantasy Cozy Furnitures Pack Kitchen-1920x1080-886ed0e31040239a0aa3da0fa6ccb016_Snapshot.png",
+      "md5": "76a7cd0a015ddbdbabac1e1395950e3d",
+      "size": 7164,
+      "uploadedDate": "2024-06-21T21:22:12.943Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal Fantasy Cozy Furnitures Pack Library-1920x1080-d111445bf0c5c18e72801efe9d9a53ae_Snapshot.png",
+      "md5": "512ed47f12e8e1443e5abed6127717dc",
+      "size": 6433,
+      "uploadedDate": "2024-06-21T21:22:13.635Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal Fantasy Cozy Furnitures Pack Livingroom-1920x1080-d634c613d981b3f1f01e43d8575015d1_Snapshot.png",
+      "md5": "c1ad3f0274cac818cb813ab162bc44f5",
+      "size": 7733,
+      "uploadedDate": "2024-06-21T21:22:14.385Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Library-1920x1080-b4fc8e3a7de53b70452853cc776829d6_Snapshot.png",
+      "md5": "632f792ecbd6ba0be1dc366ee482144e",
+      "size": 7863,
+      "uploadedDate": "2024-06-16T21:39:23.890Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Living Room-1920x1080-17e038c4b86fcc8f4c2ce81078450976_Snapshot.png",
+      "md5": "f5ade6764946221046b66737466debbb",
+      "size": 7100,
+      "uploadedDate": "2024-06-16T21:39:24.460Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Bedroom-1920x1080-685f6f5798631d2b0091b739627bc7f0_Snapshot.png",
+      "md5": "94b4af47cde4e993e281e1430d25c68f",
+      "size": 6673,
+      "uploadedDate": "2024-06-16T21:39:25.062Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Kitchen-1920x1080-16a6c54667ca0b00b4db9e97300a45ea_Snapshot.png",
+      "md5": "5a5d095ae67d6252c09ddb0abf554b89",
+      "size": 7111,
+      "uploadedDate": "2024-06-16T21:39:25.681Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Render Fantasy Cozy Furnitures Pack Forge-1920x1080-60fcfec51355c25d41b498de4c67f700_Snapshot.png",
+      "md5": "6fddc0d3e759adf12dfaf0f3404d11d5",
+      "size": 6661,
+      "uploadedDate": "2024-06-16T21:39:26.265Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fantasy Cozy Furnitures Pack Livingroom-1920x1080-f1330f2672ebc5ffa541d9fb3d96ff76_Snapshot.png",
+      "md5": "c025bbd805661d59e43434cda3dcc577",
+      "size": 7076,
+      "uploadedDate": "2024-06-16T21:39:26.756Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fantasy Cozy Furnitures Pack Bedroom-1920x1080-9f9da5d2300d76c6e7f9017be08d8979_Snapshot.png",
+      "md5": "abe968cf6fb1240c6bd82a1391660466",
+      "size": 7028,
+      "uploadedDate": "2024-06-16T21:39:27.218Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fantasy Cozy Furnitures Pack Library-1920x1080-63a8b06456463226bfdc2d07d0a9cd50_Snapshot.png",
+      "md5": "d11e1ed4e43e833b06542aa29ce08850",
+      "size": 6059,
+      "uploadedDate": "2024-06-16T21:39:27.683Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fantasy Cozy Furnitures Pack Kitchen-1920x1080-7ff2fdb4b49b52296c950e7ec8b00ed8_Snapshot.png",
+      "md5": "4b64577eaeb341ec81c9c1ca983278ac",
+      "size": 6369,
+      "uploadedDate": "2024-06-16T21:39:28.221Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Fantasy Cozy Furnitures Pack Forge-1920x1080-e648f41ca17776f4eac80d17f390b509_Snapshot.png",
+      "md5": "dbbbd5711bcf244f92df23ee92d4d9af",
+      "size": 5178,
+      "uploadedDate": "2024-06-16T21:39:28.662Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "8846b329d4284267bb957883df454fca"
+    }
+  ],
+  "catalogNs": null
+}

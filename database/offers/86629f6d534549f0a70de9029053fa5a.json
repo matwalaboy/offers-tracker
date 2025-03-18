@@ -1,0 +1,236 @@
+{
+  "id": "86629f6d534549f0a70de9029053fa5a",
+  "namespace": "ue",
+  "title": "Low Poly Surgery",
+  "description": "A Low Poly Surgery that is perfect for your game.",
+  "longDescription": "<p>A Low Poly Surgery that is perfect for your game, including props, Master texture colour pallet and Master Material.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "low-poly-surgery",
+  "creationDate": "2024-06-28T06:36:44.463Z",
+  "lastModifiedDate": "2024-09-30T10:41:32.622Z",
+  "effectiveDate": "2024-06-28T06:36:44.432Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9ghgpmrllrre2bk3n2meab69989htq",
+    "name": "AlexGreenwood"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Bin</li><li>Ceiling</li><li>Cupboards x 2</li><li>Desk</li><li>Desk Draw</li><li>Duel Screen</li><li>Floor</li><li>Push tray</li><li>Sheet</li><li>Stand x 2</li><li>Stool</li><li>Surgery bench</li><li>Surgery lights</li><li>Table</li><li>Tray table</li><li>Walls x 3</li><li>Bottle</li><li>Bowl</li><li>Box x 2</li><li>Clock</li><li>Cotton ball</li><li>Desk tray</li><li>First aid</li><li>Folder</li><li>Forceps</li><li>Mirror</li><li>Paper</li><li>Pen x 3</li><li>Pill bottle</li><li>Pot</li><li>Scalpel x 5</li><li>Scissors x 2</li><li>Syringe x 2</li><li>Towel</li><li>Tray</li><li>Tray sheet</li><li>Vent</li><li>Whiteboard</li></ul><p><br /></p><p>Number of Unique Meshes: 50</p><p>Collision: Yes, automatically generated</p><p>Vertex Count: 4 - 6,831</p><p>LODs: Yes, automatically generated</p><p>Number of Materials and Material Instances: 3</p><p>Number of Textures: 2</p><p>Texture Resolutions: 256x256</p><p>Windows: Yes</p><p><br /></p><p><br /></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c216a90e-3508-44d0-ae02-f21bcccb6ba2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00004-1920x1080-b4300fab60b0bb9d1ce1e73c2157e05e.png",
+      "md5": "b4300fab60b0bb9d1ce1e73c2157e05e",
+      "size": 1412944,
+      "uploadedDate": "2024-06-23T16:17:28.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00003-1920x1080-21b91451631125b595d26c3f67257aea.png",
+      "md5": "21b91451631125b595d26c3f67257aea",
+      "size": 1653795,
+      "uploadedDate": "2024-06-23T16:17:28.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00000-1920x1080-8f1b0cd1eb7f98c1d49ca6a7ac9f6105.png",
+      "md5": "8f1b0cd1eb7f98c1d49ca6a7ac9f6105",
+      "size": 1868054,
+      "uploadedDate": "2024-06-23T16:17:29.372Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00001-1920x1080-357de923c60c2dc2dc6b65fdfab62b9d.png",
+      "md5": "357de923c60c2dc2dc6b65fdfab62b9d",
+      "size": 1790516,
+      "uploadedDate": "2024-06-23T16:17:30.023Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00002-1920x1080-260f51262e43c047b3b6206cbc7bc857.png",
+      "md5": "260f51262e43c047b3b6206cbc7bc857",
+      "size": 1671500,
+      "uploadedDate": "2024-06-23T16:17:30.697Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/HighresScreenshot00005-1920x1080-25c5bb9b0991f79e59032d8b1f6161a3.png",
+      "md5": "25c5bb9b0991f79e59032d8b1f6161a3",
+      "size": 1678122,
+      "uploadedDate": "2024-06-23T16:17:31.425Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LowPolySurgery_thumb-284x284-dd7301a38c94caa69079d102959e8ac8.png",
+      "md5": "dd7301a38c94caa69079d102959e8ac8",
+      "size": 110967,
+      "uploadedDate": "2024-06-23T16:17:31.936Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LowPolySurgery_featured-894x488-aa7d8077fa5a92caa7f0d3d138ede14c.png",
+      "md5": "aa7d8077fa5a92caa7f0d3d138ede14c",
+      "size": 460504,
+      "uploadedDate": "2024-06-23T16:17:32.083Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00004-1920x1080-b4300fab60b0bb9d1ce1e73c2157e05e_Snapshot.png",
+      "md5": "56c40210b12ae414f4fc3fa8eec6c4c1",
+      "size": 3584,
+      "uploadedDate": "2024-06-23T16:17:28.367Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00003-1920x1080-21b91451631125b595d26c3f67257aea_Snapshot.png",
+      "md5": "661e0d4904448193cf67901c8421401d",
+      "size": 5947,
+      "uploadedDate": "2024-06-23T16:17:29.117Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00000-1920x1080-8f1b0cd1eb7f98c1d49ca6a7ac9f6105_Snapshot.png",
+      "md5": "18097d97fe2b1597bbde5be13e951c81",
+      "size": 5983,
+      "uploadedDate": "2024-06-23T16:17:29.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00001-1920x1080-357de923c60c2dc2dc6b65fdfab62b9d_Snapshot.png",
+      "md5": "4c65f09766b7980483e1f6d6901c50b5",
+      "size": 5683,
+      "uploadedDate": "2024-06-23T16:17:30.483Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00002-1920x1080-260f51262e43c047b3b6206cbc7bc857_Snapshot.png",
+      "md5": "06f5759a16fc56451d768305f15c2678",
+      "size": 5473,
+      "uploadedDate": "2024-06-23T16:17:31.097Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/HighresScreenshot00005-1920x1080-25c5bb9b0991f79e59032d8b1f6161a3_Snapshot.png",
+      "md5": "e0216c012955807b924b5d19c1cc90a8",
+      "size": 4926,
+      "uploadedDate": "2024-06-23T16:17:31.821Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fab0e77cfaf2442988ace9500ac951e5"
+    }
+  ],
+  "catalogNs": null
+}

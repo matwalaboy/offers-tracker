@@ -1,0 +1,368 @@
+{
+  "id": "0af0c8ac3efd4f6f9699ca7980abf759",
+  "namespace": "ue",
+  "title": "Console Tweak",
+  "description": "Console Tweak is a powerful tool that lets you view, edit (tweak) and execute all console variables and commands in a clear, concise and user-friendly way",
+  "longDescription": "<p>Do you struggle to find console commands and variables in the Unreal Editor?</p><p><br /></p><p>Console Tweak could be the tool you&#39;re looking for!</p><p><br /></p><p>Console Tweak is a powerful tool that lets you view, edit (tweak) and execute all console variables and commands in a clear, concise and user-friendly way.</p><p><br /></p><p>Normally when using the Unreal console you need to know the name of the item you&#39;re looking for before you can use it.</p><p><br /></p><p>With Console Tweak, thats not the case! Every single console item that is found in the Unreal console is shown to you in a clear, sortable and searchable list! Its so easy to find what you need simply by scrolling the list and using the search and filter options.</p><p><br /></p><p>Do you often forget the names of your most used commands and variables?</p><p><br /></p><p>Console Tweak can remember them for you! Just use the in-built &#34;Favourite&#34; feature which lets you mark specific items as favourites so that you never need to remember their names again.</p><p><br /></p><p>Does it frustrate you that you continually have to execute the same series of console commands when testing certain features?</p><p><br /></p><p>Console Tweak provides a solution in the form of Batch Lists!</p><p><br /></p><p>Batch Lists are collections of console items that you can create and customise directly within Console Tweak. All Batch Lists can be saved as assets within your project&#39;s content folder, which can then be shared across different Unreal projects and teams.</p><p><br /></p><p>Full documentation can be found here: </p><p>https://www.techtoast.co.uk/consoletweak/</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "console-tweak",
+  "creationDate": "2022-09-22T19:59:06.695Z",
+  "lastModifiedDate": "2024-09-27T14:18:32.984Z",
+  "effectiveDate": "2022-09-22T20:12:53.817Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gt55wwbp6c9sk6c9hrsqbpm53qmqkb",
+    "name": "TechToast"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>All console commands and variables shown in one easy to use list</li><li>Fully sortable, filterable and searchable</li><li>View and edit (tweak) variable values directly in the table view</li><li>Execute console commands (with arguments if required) directly from the interface</li><li>Choose favourite console items which are saved within your user preferences</li><li>Create collections of console items that can be saved as assets and executed as a batch</li></ul><p>Code Modules:</p><ul><li> ConsoleTweak - (Editor Plugin) </li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 18</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: https://www.techtoast.co.uk/consoletweak/</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "64d5a46a-9777-4bfa-8bc0-c69a8dfb3220"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Feature-1920x1080-438fff80e45021c8872348335191aec2.jpg",
+      "md5": "438fff80e45021c8872348335191aec2",
+      "size": 272168,
+      "uploadedDate": "2022-09-22T20:06:14.386Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Interface-1920x1080-d53cbe45c489718fa4e249e84f0235e3.jpg",
+      "md5": "d53cbe45c489718fa4e249e84f0235e3",
+      "size": 258474,
+      "uploadedDate": "2022-09-21T16:46:32.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Filter-1920x1080-2563f1e6c1938f6b2327c5dc36c7d1fb.jpg",
+      "md5": "2563f1e6c1938f6b2327c5dc36c7d1fb",
+      "size": 243229,
+      "uploadedDate": "2022-09-21T16:46:33.039Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Variables-1920x1080-dee7f311b617e0e7fb51c70db999042a.jpg",
+      "md5": "dee7f311b617e0e7fb51c70db999042a",
+      "size": 234785,
+      "uploadedDate": "2022-09-21T16:46:33.364Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Commands-1920x1080-d77573498828b023648a6a7a6baa9c68.jpg",
+      "md5": "d77573498828b023648a6a7a6baa9c68",
+      "size": 220789,
+      "uploadedDate": "2022-09-21T16:46:33.654Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Favourite-1920x1080-0e17b6d350035ece1d41725ad369f7b9.jpg",
+      "md5": "0e17b6d350035ece1d41725ad369f7b9",
+      "size": 162213,
+      "uploadedDate": "2022-09-21T16:46:34.022Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BatchLists-1920x1080-83e4dc25620fef4266f019eac0580eca.jpg",
+      "md5": "83e4dc25620fef4266f019eac0580eca",
+      "size": 213830,
+      "uploadedDate": "2022-09-21T16:46:34.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/OpenConsoleTweak-1920x1080-a1f532b83ee3d44b718689a010812022.jpg",
+      "md5": "a1f532b83ee3d44b718689a010812022",
+      "size": 262824,
+      "uploadedDate": "2022-09-21T16:46:32.448Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ConsoleTweak_thumb-284x284-05b51f65f41336576654740d294a8778.png",
+      "md5": "05b51f65f41336576654740d294a8778",
+      "size": 94460,
+      "uploadedDate": "2022-09-21T16:46:34.593Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ConsoleTweak_featured-894x488-4a8d105ee0f8e5b4e31a2d8674f46f83.png",
+      "md5": "4a8d105ee0f8e5b4e31a2d8674f46f83",
+      "size": 231400,
+      "uploadedDate": "2022-09-21T16:46:34.721Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Feature-1920x1080-438fff80e45021c8872348335191aec2_Snapshot.jpg",
+      "md5": "43cd82a5054c36453d4b4c17c173cf6b",
+      "size": 5633,
+      "uploadedDate": "2022-09-22T20:06:14.662Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/OpenConsoleTweak-1920x1080-a1f532b83ee3d44b718689a010812022_Snapshot.jpg",
+      "md5": "9e72c2d235070bab7ea0447735ca72d3",
+      "size": 4847,
+      "uploadedDate": "2022-09-21T16:46:32.664Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Interface-1920x1080-d53cbe45c489718fa4e249e84f0235e3_Snapshot.jpg",
+      "md5": "f4bc773c9ae1846d73547f2f546c428f",
+      "size": 4691,
+      "uploadedDate": "2022-09-21T16:46:32.950Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Filter-1920x1080-2563f1e6c1938f6b2327c5dc36c7d1fb_Snapshot.jpg",
+      "md5": "3d72c9e6fe435560a1ff9d6848fee317",
+      "size": 4627,
+      "uploadedDate": "2022-09-21T16:46:33.270Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Variables-1920x1080-dee7f311b617e0e7fb51c70db999042a_Snapshot.jpg",
+      "md5": "d88d216509f91b3008555e0aaed0d0bd",
+      "size": 4595,
+      "uploadedDate": "2022-09-21T16:46:33.577Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Commands-1920x1080-d77573498828b023648a6a7a6baa9c68_Snapshot.jpg",
+      "md5": "02f1720beb1c6ba3e034cdaacecf4241",
+      "size": 4518,
+      "uploadedDate": "2022-09-21T16:46:33.886Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Favourite-1920x1080-0e17b6d350035ece1d41725ad369f7b9_Snapshot.jpg",
+      "md5": "6422b17c4040499d3182b6ef3fb30726",
+      "size": 3803,
+      "uploadedDate": "2022-09-21T16:46:34.227Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BatchLists-1920x1080-83e4dc25620fef4266f019eac0580eca_Snapshot.jpg",
+      "md5": "d6668f4d6831d0a70351c94bc5a9f3d9",
+      "size": 4753,
+      "uploadedDate": "2022-09-21T16:46:34.544Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f9998a2609974e78aee20a6ecf9cb9fd"
+    }
+  ],
+  "catalogNs": null
+}

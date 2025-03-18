@@ -1,0 +1,173 @@
+{
+  "id": "870e1225496842c599336903e23b87bb",
+  "namespace": "ue",
+  "title": "HumBuzz",
+  "description": "Weird Sounds from Electromagnetic Fields.",
+  "longDescription": "Preview: <a href=\"https://soundcloud.com/refills-by-detunized/humbuzz\" rel=\"nofollow\">https://soundcloud.com/refills-by-detunized/humbuzz</a><br /><br />The material for this library was sourced from the electromagnetic fields that are emitted by fridges, microwaves, boilers, cell phones, TVs and computer components. Like all modern electronics these devices produce a complex mixture of noises that cover wide frequency ranges.<br />Surprisingly often one can also discover elements with traces of tonality. Additionally many start-up and boot noises are included.<br />These sounds are easy to use for event-driven foleys or UI elements.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "humbuzz",
+  "creationDate": "2017-04-14T17:57:39.584Z",
+  "lastModifiedDate": "2024-09-27T10:13:00.614Z",
+  "effectiveDate": "2017-04-19T00:00:00.000Z",
+  "viewableDate": "2017-04-19T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-f21390e656481db310546d69e47dfc",
+    "name": "Detunized"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Wave Audio Files: 114 (edited for seamless looping, except the 28 start-up/turn-off sounds)<br />Number of Audio Cues: 114<br />Resolution: 44.1 kHz, 16bit mono<br />Total playing time: approx. 18 min",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2023-08-08T14:01:47.372Z",
+      "status": "ACTIVE",
+      "referenceCount": 67,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1327",
+      "name": "SUBMARINE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:01.059Z",
+      "updated": "2019-06-20T12:01:01.059Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b4b3f1d7-a405-4c0a-a60b-e6eb60c0b1b8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/HumBuzz_Screenshot_1920x1080-1920x1080-80b4ad61eee89f8598fbf9e43ef62338.png",
+      "md5": "80b4ad61eee89f8598fbf9e43ef62338",
+      "size": 939823,
+      "uploadedDate": "2017-04-14T17:56:35.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/HumBuzz_Thumbnail_284x284-284x284-972bfadf5d3dfa2b85366b5d34620707.png",
+      "md5": "972bfadf5d3dfa2b85366b5d34620707",
+      "size": 196446,
+      "uploadedDate": "2017-04-14T17:56:41.259Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/HumBuzz_FeaturedNew_894x488-894x488-475ad27992f11478fbf27eb68a170a79.png",
+      "md5": "475ad27992f11478fbf27eb68a170a79",
+      "size": 832516,
+      "uploadedDate": "2017-04-14T17:56:45.370Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "1f6827b458784a5382c5e78d7427939d"
+    }
+  ],
+  "catalogNs": null
+}

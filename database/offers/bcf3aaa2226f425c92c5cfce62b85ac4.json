@@ -1,0 +1,368 @@
+{
+  "id": "bcf3aaa2226f425c92c5cfce62b85ac4",
+  "namespace": "ue",
+  "title": "Weapon FOV and Clipping FIX",
+  "description": "Fix the most common FPS problems in an easy way 😉",
+  "longDescription": "<p><strong><em>Note: </em></strong><em>A good understanding of Blueprint Components, Materials &amp; Material Functions will be useful if you want to modify content.</em></p><p><br /></p><p><a href=\"https://youtu.be/B9kg524mwxU\" rel=\"nofollow\"><strong>Video Preview</strong></a> / <a href=\"https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf\" rel=\"nofollow\"><strong>Documentation</strong></a><strong> </strong>/<strong> </strong><a href=\"http://gerlogu.com\" rel=\"nofollow\"><strong>Official Website</strong></a><strong> </strong>/ <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Gerlogu\" rel=\"nofollow\"><strong>More Products</strong></a></p><p><br /></p><p><br /></p><h2>&#x1f4da; Overview</h2><p><br /></p><p>This asset allows you to fix the most common problem in FPS projects: <strong>Clipping and FOV</strong>. It includes <strong>customized Material Functions</strong> that allows you to <strong>fix every mesh material</strong> in a First Person Shooter.</p><p><br /></p><p><br /></p><h2>&#x1f4e3; Content</h2><p><br /></p><p>This is what you can modify:</p><ul><li>Material Functions</li><li>Weapon FOV value</li><li>Weapon Clipping</li><li>Weapon Camera Sway</li><li>Weapon Movement Sway</li></ul><p><br /></p><p><br /></p><h2>&#x1f6e0; How to Use</h2><p><br /></p><p>Read the manual: <a href=\"https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf\" rel=\"nofollow\">HERE</a></p><p><br /></p><p><br /></p><h2>✔ Additional Content</h2><p><br /></p><p>This asset also includes the following content, useful for any First Person Game:</p><ul><li><strong>Weapon Sway Components: </strong>Add it to your character and make your game feeling more professional</li></ul><p><br /></p><p><br /></p><h2>⚠ Disclaimer</h2><p><br /></p><p>No fire effects nor animations are included.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "weapon-fov-and-clipping-fix",
+  "creationDate": "2022-05-05T17:58:50.644Z",
+  "lastModifiedDate": "2024-09-30T20:42:54.455Z",
+  "effectiveDate": "2022-05-05T18:01:34.039Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ldjevrz8r82l36dtqhumnygq9ea3t4",
+    "name": "Gerlogu"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Fix First Person Weapon Clipping <strong>by using included Material Functions</strong></li><li>Fix First Person Weapon FOV <strong>by using included Material Functions</strong></li><li>Customize World FOV and Weapon FOV <strong>separately</strong></li><li>Includes <strong>fully customizable</strong> Material Functions</li><li><strong>Camera Sway Component </strong>that allow your weapon to move with the camera</li><li><strong>Movement Sway Component</strong> that allow your weapon to move with the player lateral movement</li></ul><p>Number of Blueprints: 10</p><p>Number of Macro Libraries: 1</p><p>Number of Data Tables: 1</p><p>Number of Structures: 1</p><p>Number of Material Functions: 3</p><p>Number of Materials: 6</p><p>Texture Resolutions: Anyone is valid</p><p><u>Action Mappings</u></p><ul><li><strong>Jump: </strong>Gamepad Face Button Down | Spacebar</li></ul><p><u>Axis Mappings</u></p><ul><li><strong>HorizontalMovement: </strong>D (1.0) | A (-1.0) | Gamepad Left Thumbstick X-Axis (1.0)]</li><li><strong>VerticalMovement: </strong>W (1.0) | S (-1.0) | Gamepad Left Thumbstick Y-Axis (1.0)]</li></ul><p>Supported Development Platforms: All</p><p>Documentation: <a href=\"https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf\" rel=\"nofollow\"><strong>HERE</strong></a></p><p>Important/Additional Notes: Contact me and I will answer you and include your question into the User Manual.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1282",
+      "name": "DYSTOPIAN",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.742Z",
+      "updated": "2019-06-20T12:00:38.742Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3c57bb03-a063-46a3-bab9-e0d81f2fb590"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-1-1920x1080-56167272a7b6b16ae760d8e82118a065.jpg",
+      "md5": "56167272a7b6b16ae760d8e82118a065",
+      "size": 249291,
+      "uploadedDate": "2022-05-03T13:58:07.816Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-2-1920x1080-33958f3ae200b5c9d7067c37badcadd1.jpg",
+      "md5": "33958f3ae200b5c9d7067c37badcadd1",
+      "size": 253437,
+      "uploadedDate": "2022-05-03T13:58:08.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-3-1920x1080-b11aa31814f8933d2c5875ed63a36cd6.jpg",
+      "md5": "b11aa31814f8933d2c5875ed63a36cd6",
+      "size": 1146877,
+      "uploadedDate": "2022-05-03T13:58:09.760Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-4-1920x1080-7f8795c602ee43f5812ad11bb0d593a0.jpg",
+      "md5": "7f8795c602ee43f5812ad11bb0d593a0",
+      "size": 1154513,
+      "uploadedDate": "2022-05-03T13:58:10.947Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-5-1920x1080-146266772029dfe7176305ce7312f93e.jpg",
+      "md5": "146266772029dfe7176305ce7312f93e",
+      "size": 1237155,
+      "uploadedDate": "2022-05-03T13:58:13.091Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-6-1920x1080-b3e9c7cddab37e2caadc60035cc35af3.jpg",
+      "md5": "b3e9c7cddab37e2caadc60035cc35af3",
+      "size": 672034,
+      "uploadedDate": "2022-05-03T13:58:14.208Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WeaponFOVandClippingFIX_thumb-284x284-134cc4360c32eb57ea1132e05e4f28e1.png",
+      "md5": "134cc4360c32eb57ea1132e05e4f28e1",
+      "size": 61261,
+      "uploadedDate": "2022-05-03T13:58:14.937Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WeaponFOVandClippingFIX_featured-894x488-c8dfb8861897c3708e2949937a90aa80.png",
+      "md5": "c8dfb8861897c3708e2949937a90aa80",
+      "size": 516864,
+      "uploadedDate": "2022-05-03T13:58:15.034Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-1-1920x1080-56167272a7b6b16ae760d8e82118a065_Snapshot.jpg",
+      "md5": "46edb46322be076a132b65683ddd3397",
+      "size": 3198,
+      "uploadedDate": "2022-05-03T13:58:08.429Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-2-1920x1080-33958f3ae200b5c9d7067c37badcadd1_Snapshot.jpg",
+      "md5": "74cf5693b8512597176e41d1bbf8d69d",
+      "size": 3351,
+      "uploadedDate": "2022-05-03T13:58:09.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-3-1920x1080-b11aa31814f8933d2c5875ed63a36cd6_Snapshot.jpg",
+      "md5": "1bca98661dd53b4b059261567a1f81a5",
+      "size": 6028,
+      "uploadedDate": "2022-05-03T13:58:10.512Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-4-1920x1080-7f8795c602ee43f5812ad11bb0d593a0_Snapshot.jpg",
+      "md5": "2bea13db5b198aebedcdc33725ced454",
+      "size": 6022,
+      "uploadedDate": "2022-05-03T13:58:12.659Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-5-1920x1080-146266772029dfe7176305ce7312f93e_Snapshot.jpg",
+      "md5": "fd975b227e27b9873fc512ff5a6e60ab",
+      "size": 7174,
+      "uploadedDate": "2022-05-03T13:58:13.878Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-6-1920x1080-b3e9c7cddab37e2caadc60035cc35af3_Snapshot.jpg",
+      "md5": "05d6bc80bac7bb631fda5273bedf8d70",
+      "size": 5658,
+      "uploadedDate": "2022-05-03T13:58:14.859Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ee60bcb5fe104c39a597391cbf198cd8"
+    }
+  ],
+  "catalogNs": null
+}

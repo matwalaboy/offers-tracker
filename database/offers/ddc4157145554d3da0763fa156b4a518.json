@@ -1,0 +1,344 @@
+{
+  "id": "ddc4157145554d3da0763fa156b4a518",
+  "namespace": "ue",
+  "title": "Realistic Bone Tissue Material",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p>6 Materials</p><p><br /></p><p>MASTER BONE TISSUE MATERIAL </p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p>Mesh demo product used on stage!</p><p><br /></p><p>CHECK OUT OUR OTHER PROJECTS</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Mackbear?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">MACKBEAR</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "realistic-bone-tissue-material",
+  "creationDate": "2024-05-24T18:17:16.899Z",
+  "lastModifiedDate": "2024-09-30T14:44:25.119Z",
+  "effectiveDate": "2024-05-24T18:17:16.841Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features: </li></ul><p>Number of Unique Materials and Material Instances:6</p><p>Number of Textures:36</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "8ae10530-ebd0-4076-9135-ce399ad32277"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0007-1920x1080-634cb82d1528ea306caa274f9421f101.jpeg",
+      "md5": "634cb82d1528ea306caa274f9421f101",
+      "size": 1103005,
+      "uploadedDate": "2024-05-21T15:07:04.076Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0019-1920x1080-29028f545f0fce00333bbd3ee4c00a26.jpeg",
+      "md5": "29028f545f0fce00333bbd3ee4c00a26",
+      "size": 1015305,
+      "uploadedDate": "2024-05-21T15:07:04.662Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0020-1920x1080-1096585df3060fbf7481e9d4f8feac61.jpeg",
+      "md5": "1096585df3060fbf7481e9d4f8feac61",
+      "size": 1382838,
+      "uploadedDate": "2024-05-21T15:07:05.201Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0021-1920x1080-739978e1250a7fc5ea0479448c2f07cc.jpeg",
+      "md5": "739978e1250a7fc5ea0479448c2f07cc",
+      "size": 1339534,
+      "uploadedDate": "2024-05-21T15:07:05.722Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0026-1920x1080-1b35faa8fe2eb27da95a57c370294ede.jpeg",
+      "md5": "1b35faa8fe2eb27da95a57c370294ede",
+      "size": 1514924,
+      "uploadedDate": "2024-05-21T15:07:06.258Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NewLevelSequence.0029-1920x1080-8ff2aeffc5c4c19b9e795d8a28fbc4cc.jpeg",
+      "md5": "8ff2aeffc5c4c19b9e795d8a28fbc4cc",
+      "size": 1273264,
+      "uploadedDate": "2024-05-21T15:07:06.747Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealisticBoneTissueMaterial_thumb-284x284-8fcc20f8d98101424e68d0146a5331b8.png",
+      "md5": "8fcc20f8d98101424e68d0146a5331b8",
+      "size": 161914,
+      "uploadedDate": "2024-05-21T15:07:07.253Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealisticBoneTissueMaterial_featured-894x488-0d4f43f08da60ccfa15911f197e63503.png",
+      "md5": "0d4f43f08da60ccfa15911f197e63503",
+      "size": 772397,
+      "uploadedDate": "2024-05-21T15:07:07.418Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0007-1920x1080-634cb82d1528ea306caa274f9421f101_Snapshot.jpeg",
+      "md5": "6d07a22d1c1b247ba84c5a246f8ff6fc",
+      "size": 4188,
+      "uploadedDate": "2024-05-21T15:07:04.462Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0019-1920x1080-29028f545f0fce00333bbd3ee4c00a26_Snapshot.jpeg",
+      "md5": "1b33e03c3fda91f61eb0a7ccd13b75d9",
+      "size": 3964,
+      "uploadedDate": "2024-05-21T15:07:04.989Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0020-1920x1080-1096585df3060fbf7481e9d4f8feac61_Snapshot.jpeg",
+      "md5": "ddf06afa1a6882ecf56d54796bf9d0de",
+      "size": 4758,
+      "uploadedDate": "2024-05-21T15:07:05.538Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0021-1920x1080-739978e1250a7fc5ea0479448c2f07cc_Snapshot.jpeg",
+      "md5": "c62c7b5864b97382129aadf902c3c05e",
+      "size": 4118,
+      "uploadedDate": "2024-05-21T15:07:06.035Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0026-1920x1080-1b35faa8fe2eb27da95a57c370294ede_Snapshot.jpeg",
+      "md5": "37f9db2dad11604eae652016996ccf86",
+      "size": 3954,
+      "uploadedDate": "2024-05-21T15:07:06.549Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/NewLevelSequence.0029-1920x1080-8ff2aeffc5c4c19b9e795d8a28fbc4cc_Snapshot.jpeg",
+      "md5": "279632814576dc452ed608a3eacc9aa8",
+      "size": 3741,
+      "uploadedDate": "2024-05-21T15:07:07.052Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c7031ca59b994b68a4a556f486b355aa"
+    }
+  ],
+  "catalogNs": null
+}

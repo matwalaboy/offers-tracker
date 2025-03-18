@@ -1,0 +1,371 @@
+{
+  "id": "971c1fd4f21d46eab638c07a90d70b13",
+  "namespace": "ue",
+  "title": "Top-Down RPG Template",
+  "description": "Highly customizable blueprint template to create great quality multiplayer Top-Down RPG games with almost no coding.",
+  "longDescription": "<p>&#x1f3ae; <strong>Play Demo: </strong><a href=\"https://drive.google.com/drive/folders/1dS9aebQvySSfESD7ihwXNKcoLgktwDw_?usp&#61;sharing\" rel=\"nofollow\">Link</a> (2 GB)</p><p>‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾</p><p><strong>&#x1f3ac; Trailer Video: </strong><a href=\"https://www.youtube.com/watch?v&#61;7N2NkofK_yg\" rel=\"nofollow\">Link</a></p><p><strong>&#x1f3ac; Trailer Video 2: </strong><a href=\"https://www.youtube.com/watch?v&#61;eetO70DE87w\" rel=\"nofollow\"><strong>Link</strong></a></p><p><strong>&#x1f4f0; Forum: </strong><a href=\"https://forums.unrealengine.com/t/top-down-rpg-diablo-template\" rel=\"nofollow\">Link</a></p><p><strong>&#x1f4dc; Documentation: </strong><a href=\"https://docs.google.com/document/d/1ght-pspcpe4YV1SOsTi7EQlvmIlutGfRL_NOnIYARxQ/edit?usp&#61;sharing\" rel=\"nofollow\">Link</a></p><p><strong>&#x1f579;️ Sample Project: </strong><a href=\"https://drive.google.com/drive/folders/1qJQsziPL4gKPPc8SgVPN10rdizcfOSgP?usp&#61;sharing\" rel=\"nofollow\">Link</a> (Requires this template) (Check Documentation Section 5)</p><p><strong>&#x1f4de; Discord: </strong><a href=\"https://discord.gg/5xaUURZFRZ\" rel=\"nofollow\">Link</a></p><p><strong>&#x1f31f; Facebook Page: </strong><a href=\"https://www.facebook.com/PhoenixMarketUE\" rel=\"nofollow\">Link</a></p><p>&#x1f3a5; <strong>Video Tutorials:</strong> <a href=\"https://www.youtube.com/watch?v&#61;BMB_qM1fGuI&amp;list&#61;PLrW-p52gkmI1yzXQiVoW40CFx_GCS7jvM\" rel=\"nofollow\">Link</a></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "top-down-rpg-template",
+  "creationDate": "2023-02-01T01:40:31.167Z",
+  "lastModifiedDate": "2024-09-27T18:18:58.961Z",
+  "effectiveDate": "2023-02-01T01:40:31.105Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-825s47v79w7dtb9z2thc4hks8b9sy6",
+    "name": "PhoenixMarket"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li>100% Blueprints</li><li>Multiplayer Ready</li><li>Multiple Character Classes</li><li>Melee, Range &amp; Magic Combat</li><li>AI Included</li><li>Jigsaw Inventory</li><li>Equipment System</li><li>Quest System</li><li>Crafting System</li><li>Stats &amp; Leveling System</li><li>Passive, Active &amp; Aura Skills</li><li>Status Effects</li><li>Boss Fights</li><li>Save &amp; Load System</li><li>Interactables</li><li>Shop NPC</li></ul><p><br /></p><p><strong>Number of Blueprints: 300&#43;</strong></p><p><strong>Input:</strong> Keyboard, Mouse</p><p><strong>Network Replicated:</strong> Yes</p><p><strong>Supported Build Platforms:</strong> Windows, Mac, Linux</p><p><strong>Supported Target Platforms:</strong> Windows, Mac, Linux</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "96b1a0c8-a299-4430-ac02-6dc6fa63d546"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-2 Multiplayer Ready-1920x1080-5afbc617f75b8e7f558e3e90628179bb.jpg",
+      "md5": "5afbc617f75b8e7f558e3e90628179bb",
+      "size": 950680,
+      "uploadedDate": "2023-01-17T12:28:07.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1 Multiple Classes-1920x1080-e16801b7373c660b524b794ad3cd1e9d.jpg",
+      "md5": "e16801b7373c660b524b794ad3cd1e9d",
+      "size": 935627,
+      "uploadedDate": "2023-01-17T12:28:07.687Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3 Inventory-1920x1080-4daab16ec9b7978ab6edca5507117df9.jpg",
+      "md5": "4daab16ec9b7978ab6edca5507117df9",
+      "size": 2057106,
+      "uploadedDate": "2023-01-13T07:04:56.321Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4 Skills-1920x1080-e169df91730c8cd54b1adc71cabe23df.jpg",
+      "md5": "e169df91730c8cd54b1adc71cabe23df",
+      "size": 2206362,
+      "uploadedDate": "2023-01-13T07:04:57.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5 Companion AI-1920x1080-721ae1bd3db676adf2569c2240edc6ce.jpg",
+      "md5": "721ae1bd3db676adf2569c2240edc6ce",
+      "size": 1634467,
+      "uploadedDate": "2023-06-14T17:23:40.068Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5 Interactables-1920x1080-5ef8df334715139b0b4b1912df6611e5.jpg",
+      "md5": "5ef8df334715139b0b4b1912df6611e5",
+      "size": 2437505,
+      "uploadedDate": "2023-01-13T07:04:57.678Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-6 Shop-1920x1080-f2b15d0e565a483fa8c331d0fe06ef2c.jpg",
+      "md5": "f2b15d0e565a483fa8c331d0fe06ef2c",
+      "size": 1232224,
+      "uploadedDate": "2023-01-17T12:28:08.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7 Boss Battles-1920x1080-28ec5156a26206f7ab59c7532fdb4576.jpg",
+      "md5": "28ec5156a26206f7ab59c7532fdb4576",
+      "size": 1378038,
+      "uploadedDate": "2023-01-13T07:04:59.122Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TopDownRPGTemplate_thumb-284x284-8a0373985acc6c7b4594a217dad248d6.png",
+      "md5": "8a0373985acc6c7b4594a217dad248d6",
+      "size": 151916,
+      "uploadedDate": "2024-05-28T14:54:36.818Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TopDownRPGTemplate_featured-894x488-b8a58441afc72a04f1a567530aee5838.png",
+      "md5": "b8a58441afc72a04f1a567530aee5838",
+      "size": 597830,
+      "uploadedDate": "2023-06-01T11:42:42.319Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5 Companion AI-1920x1080-721ae1bd3db676adf2569c2240edc6ce_Snapshot.jpg",
+      "md5": "affca4c0cd3c9c36f089a703250e11b7",
+      "size": 7790,
+      "uploadedDate": "2023-06-14T17:23:40.461Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-2 Multiplayer Ready-1920x1080-5afbc617f75b8e7f558e3e90628179bb_Snapshot.jpg",
+      "md5": "f437fbefe926fee6cfcac4554b0acd75",
+      "size": 5055,
+      "uploadedDate": "2023-01-17T12:28:07.513Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1 Multiple Classes-1920x1080-e16801b7373c660b524b794ad3cd1e9d_Snapshot.jpg",
+      "md5": "5a4eea953552b317ff18a9b8f161141f",
+      "size": 5439,
+      "uploadedDate": "2023-01-17T12:28:08.017Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-6 Shop-1920x1080-f2b15d0e565a483fa8c331d0fe06ef2c_Snapshot.jpg",
+      "md5": "c4eb6e63cbac15e0c2293fc6cd0c6ade",
+      "size": 6880,
+      "uploadedDate": "2023-01-17T12:28:08.610Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2 Multiplayer Ready-1920x1080-294ebb0100f383c447ef5ebe6f0126c8_Snapshot.jpg",
+      "md5": "6ee8ccc64059ac36162a5c6b980dc319",
+      "size": 5061,
+      "uploadedDate": "2023-01-13T07:04:55.986Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3 Inventory-1920x1080-4daab16ec9b7978ab6edca5507117df9_Snapshot.jpg",
+      "md5": "bacd5863d819f94837182c5a9ea949ff",
+      "size": 8400,
+      "uploadedDate": "2023-01-13T07:04:56.823Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4 Skills-1920x1080-e169df91730c8cd54b1adc71cabe23df_Snapshot.jpg",
+      "md5": "70f2e4ce39b60ab4ca58597f48c18601",
+      "size": 7348,
+      "uploadedDate": "2023-01-13T07:04:57.470Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5 Interactables-1920x1080-5ef8df334715139b0b4b1912df6611e5_Snapshot.jpg",
+      "md5": "c263ded20c2078f2d32eb94b2d6abff7",
+      "size": 8792,
+      "uploadedDate": "2023-01-13T07:04:58.103Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6 Shop-1920x1080-122e9ca6347997c9a8bad1e9e9718cbd_Snapshot.jpg",
+      "md5": "a6a11b1f263132ee47ea4cc7d8bd446e",
+      "size": 6926,
+      "uploadedDate": "2023-01-13T07:04:58.911Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7 Boss Battles-1920x1080-28ec5156a26206f7ab59c7532fdb4576_Snapshot.jpg",
+      "md5": "54ee6520fbf7227b6287148f2b1dd81d",
+      "size": 7033,
+      "uploadedDate": "2023-01-13T07:04:59.492Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1 Multiple Classes-1920x1080-831d5d8038f2c40a00c71869e5ff48b8_Snapshot.jpg",
+      "md5": "22e68604bd0a24675aa45f02ab0fdfd1",
+      "size": 5502,
+      "uploadedDate": "2023-01-13T06:39:16.046Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "30fff6b2eb3943889795990119257c42"
+    }
+  ],
+  "catalogNs": null
+}

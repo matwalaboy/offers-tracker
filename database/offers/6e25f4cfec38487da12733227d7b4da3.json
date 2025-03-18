@@ -1,0 +1,317 @@
+{
+  "id": "6e25f4cfec38487da12733227d7b4da3",
+  "namespace": "ue",
+  "title": "Hutong/Chinese Alleyway Pack",
+  "description": "A Hutong that you can easily use in your games.",
+  "longDescription": "<p>This Pack will help you build a Hutong/Chinese Alleyway.</p><p>It has a demo map illuminated in accordance with its atmosphere.</p><p>Video:</p><p><a href=\"https://www.youtube.com/watch?v&#61;j-R2kDHwmlM\" rel=\"nofollow\">Link</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "hutong-chinese-alleyway-pack",
+  "creationDate": "2021-01-09T02:52:27.506Z",
+  "lastModifiedDate": "2024-09-28T14:57:31.805Z",
+  "effectiveDate": "2021-01-09T02:52:24.823Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-xtsacxgmj5eavdd6m26wruvy29gvb9",
+    "name": "Natural Grow"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> 80&#43; meshes</li><li> A curve tool that can help you build a road easily.</li><li> A fantastic planet materical</li><li> PBR Textures(Roughness,Metalness,AO contained)</li></ul><p>Number of Unique Meshes:83</p><p>Collision:Yes(auto)</p><p>Vertex Count:12- 180000(most under 8000)</p><p>LODs:No</p><p>Number of Materials and Material Instances:100</p><p>Number of Textures:184</p><p>Texture Resolutions: 512<sup>2</sup>,1024<sup>2</sup>,2048<sup>2</sup>,4096<sup>2</sup></p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2d4b2b97-95ef-4c3d-a8ed-bb53bed8cbb7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/-1-1920x1080-422a6e1f6791e187338f6a9d06d2d3f1.png",
+      "md5": "422a6e1f6791e187338f6a9d06d2d3f1",
+      "size": 2095755,
+      "uploadedDate": "2020-12-09T09:03:38.362Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-b4169040b629e5cda5e2feaabe047f0d.png",
+      "md5": "b4169040b629e5cda5e2feaabe047f0d",
+      "size": 2613710,
+      "uploadedDate": "2020-12-09T09:03:39.222Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/11-1920x1080-44e0e711377da08de6bb4c6a4cf9f5c6.png",
+      "md5": "44e0e711377da08de6bb4c6a4cf9f5c6",
+      "size": 2860012,
+      "uploadedDate": "2020-12-09T09:03:39.903Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/21-1920x1080-b5963ed4ebe90493198076cb3cb6583a.png",
+      "md5": "b5963ed4ebe90493198076cb3cb6583a",
+      "size": 2636859,
+      "uploadedDate": "2020-12-09T09:03:40.601Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/31-1920x1080-cd94bf96a11052abb64a7f7b83e239f9.png",
+      "md5": "cd94bf96a11052abb64a7f7b83e239f9",
+      "size": 2067652,
+      "uploadedDate": "2020-12-09T09:03:41.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/51-1920x1080-03bf7aaa6d6cccf7e4853ecdc54ac61b.png",
+      "md5": "03bf7aaa6d6cccf7e4853ecdc54ac61b",
+      "size": 2856721,
+      "uploadedDate": "2020-12-09T09:03:42.020Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/61-1920x1080-ad4c3824523f79a6b45bacb770b7ad54.png",
+      "md5": "ad4c3824523f79a6b45bacb770b7ad54",
+      "size": 1945399,
+      "uploadedDate": "2020-12-09T09:03:42.755Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/111-1920x1080-490e51c57383683caa8ee780d9d1ce88.png",
+      "md5": "490e51c57383683caa8ee780d9d1ce88",
+      "size": 2501986,
+      "uploadedDate": "2020-12-09T09:03:44.088Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/HutongChineseAlleywayPack_thumb-284x284-fe30d7957af7b21f6c35c2b59903e370.png",
+      "md5": "fe30d7957af7b21f6c35c2b59903e370",
+      "size": 135724,
+      "uploadedDate": "2020-12-09T09:03:44.596Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/HutongChineseAlleywayPack_featured-894x488-8478bcfc9967e873994a26faffb3325d.png",
+      "md5": "8478bcfc9967e873994a26faffb3325d",
+      "size": 625961,
+      "uploadedDate": "2020-12-09T09:03:44.717Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/-1-1920x1080-422a6e1f6791e187338f6a9d06d2d3f1_Snapshot.png",
+      "md5": "1c2f205c1e67927dd6f7d76bc1629fff",
+      "size": 5707,
+      "uploadedDate": "2020-12-09T09:03:38.829Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-b4169040b629e5cda5e2feaabe047f0d_Snapshot.png",
+      "md5": "02579c24daf25d7ae3f86370cb870e8d",
+      "size": 5383,
+      "uploadedDate": "2020-12-09T09:03:39.652Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/11-1920x1080-44e0e711377da08de6bb4c6a4cf9f5c6_Snapshot.png",
+      "md5": "a694a11a2e41da536f1d9d2dd924ea7d",
+      "size": 6907,
+      "uploadedDate": "2020-12-09T09:03:40.345Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/21-1920x1080-b5963ed4ebe90493198076cb3cb6583a_Snapshot.png",
+      "md5": "10c3faafcbfd661b0fbadee55379a407",
+      "size": 7806,
+      "uploadedDate": "2020-12-09T09:03:41.039Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/31-1920x1080-cd94bf96a11052abb64a7f7b83e239f9_Snapshot.png",
+      "md5": "46d0fd5ca5efce17c841aa48aa362307",
+      "size": 6688,
+      "uploadedDate": "2020-12-09T09:03:41.746Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/51-1920x1080-03bf7aaa6d6cccf7e4853ecdc54ac61b_Snapshot.png",
+      "md5": "c278aa3623174c347755e8ababee2172",
+      "size": 6401,
+      "uploadedDate": "2020-12-09T09:03:42.463Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/61-1920x1080-ad4c3824523f79a6b45bacb770b7ad54_Snapshot.png",
+      "md5": "da1fe05fc836eb563df2c63124660cb6",
+      "size": 6500,
+      "uploadedDate": "2020-12-09T09:03:43.162Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/71-1920x1080-e11c539e26e5b4eddeddcc2ccd8102be_Snapshot.png",
+      "md5": "5949cc67f3d953773c7e0a771b0c392f",
+      "size": 4905,
+      "uploadedDate": "2020-12-09T09:03:43.820Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/111-1920x1080-490e51c57383683caa8ee780d9d1ce88_Snapshot.png",
+      "md5": "28feabf253fb8fa37a8ce17a04003bdb",
+      "size": 6816,
+      "uploadedDate": "2020-12-09T09:03:44.508Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "baaf3d91a89d4b9f9bcc7e0cd676956f"
+    }
+  ],
+  "catalogNs": null
+}

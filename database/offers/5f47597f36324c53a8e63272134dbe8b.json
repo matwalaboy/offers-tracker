@@ -1,0 +1,230 @@
+{
+  "id": "5f47597f36324c53a8e63272134dbe8b",
+  "namespace": "ue",
+  "title": "Olbert's Low Poly: Clay Stronghold",
+  "description": "Modular assets pack, for design Desert-like buildings.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;K6T4jfC3BS8\" rel=\"nofollow\">youtube.com/watch?v&#61;K6T4jfC3BS8</a></p><p>How To Use: <a href=\"https://www.youtube.com/watch?v&#61;__Fe_m-A604\" rel=\"nofollow\">https://www.youtube.com/watch?v&#61;__Fe_m-A604</a></p><p>Follow us on <a href=\"https://www.instagram.com/olbert.s/?hl&#61;es-la\" rel=\"nofollow\">Instagram</a></p><p><br /></p><p>Olbert&#39;s Low Poly: Clay Stronghold is a complete suit of assets for the designing of desert-like building, Exteriors-Only, Interiors-Only or mixed, from little houses to big Clay Stronghold, through medium houses and exterior with simple buildings. This pack fits perfectly with Olbert&#39;s Low Poly: Desert, for designing buildings in Desert biomes.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "olbert-s-low-poly-clay-stronghold",
+  "creationDate": "2016-11-14T21:31:31.215Z",
+  "lastModifiedDate": "2024-09-29T22:33:07.210Z",
+  "effectiveDate": "2016-11-30T00:00:00.000Z",
+  "viewableDate": "2016-11-30T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-16f0f36dd7495b974b95489e03b639",
+    "name": "Whitman And Olbert"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> (10) Walls </li><li> (4) DoorWalls </li><li> (8) Doors and DoorFrames </li><li> (11) Windows and WindowFrames </li><li> (16) WindowsWalls </li><li> (10) BrokenWalls </li><li> (12) Columns </li><li> (11) Floors and Attachments </li><li> (14) Roofs </li><li> (39) Props </li><li> (4) Ladders </li><li> (10) As Extra, Varied Nature Assets</li></ul><p>Texture Size: -</p><p>Number of Textures: 0</p><p>Collision: Yes, Per-Poly Collisions</p><p>Vertex Count: 20 to 3357</p><p>LODs: 0</p><p>Number of Meshes: 149</p><p>Number of Materials and Material Instances: 2 Master Materials, 52 Material Instances</p><p>Platforms Tested: PC</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "aa5419f2-a0d0-4fc5-b40a-a16efe511287"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_01-1920x1080-30c2df9c503353e84b2319bb7aedfe74.png",
+      "md5": "30c2df9c503353e84b2319bb7aedfe74",
+      "size": 387734,
+      "uploadedDate": "2016-11-14T21:24:41.856Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_02-1920x1080-7f763bc3ec7cf24250177fcd9cf1c9ea.png",
+      "md5": "7f763bc3ec7cf24250177fcd9cf1c9ea",
+      "size": 496773,
+      "uploadedDate": "2016-11-14T21:24:43.955Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_03-1920x1080-549ed482695a67888da52e8457a78c1b.png",
+      "md5": "549ed482695a67888da52e8457a78c1b",
+      "size": 515995,
+      "uploadedDate": "2016-11-14T21:24:47.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_04-1920x1080-2ff7da1f636a3c5d2fcf54b0de8c9791.png",
+      "md5": "2ff7da1f636a3c5d2fcf54b0de8c9791",
+      "size": 529860,
+      "uploadedDate": "2016-11-14T21:24:49.086Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_05-1920x1080-d5db6d13e315080dfe14306d8cd6a9fc.png",
+      "md5": "d5db6d13e315080dfe14306d8cd6a9fc",
+      "size": 510483,
+      "uploadedDate": "2016-11-14T21:24:51.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_06-1920x1080-ad9e2ca8d7c02b762a7aad96c6a17aa3.png",
+      "md5": "ad9e2ca8d7c02b762a7aad96c6a17aa3",
+      "size": 355003,
+      "uploadedDate": "2016-11-14T21:24:54.800Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_07-1920x1080-b9aa0cd375a4caa3c4157017e0a5822e.png",
+      "md5": "b9aa0cd375a4caa3c4157017e0a5822e",
+      "size": 296590,
+      "uploadedDate": "2016-11-14T21:24:56.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_08-1920x1080-51b192ea95b1ab3ce590f160974f8b51.png",
+      "md5": "51b192ea95b1ab3ce590f160974f8b51",
+      "size": 352216,
+      "uploadedDate": "2016-11-14T21:24:58.967Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_09-1920x1080-5e68e086d572c4b026d98f1d94fcba73.png",
+      "md5": "5e68e086d572c4b026d98f1d94fcba73",
+      "size": 293997,
+      "uploadedDate": "2016-11-14T21:25:01.751Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_screenshot_10-1920x1080-b2c1c51fd9ab0ae60d522baf2ebac09c.png",
+      "md5": "b2c1c51fd9ab0ae60d522baf2ebac09c",
+      "size": 477528,
+      "uploadedDate": "2016-11-14T21:25:03.801Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_Thumb-284x284-be5fa883566278aff78da397b81c2845.png",
+      "md5": "be5fa883566278aff78da397b81c2845",
+      "size": 29303,
+      "uploadedDate": "2016-11-14T21:24:38.542Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/OlbertsLowPolyClayStronghold_FeaturedNew-894x488-8e78ba0153170ba7aaa1a75cec773796.png",
+      "md5": "8e78ba0153170ba7aaa1a75cec773796",
+      "size": 125856,
+      "uploadedDate": "2016-11-14T21:24:36.475Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c8b32f2a6cdf4eeb85f1edde6090b327"
+    }
+  ],
+  "catalogNs": null
+}

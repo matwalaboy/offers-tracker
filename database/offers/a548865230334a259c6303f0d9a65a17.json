@@ -1,0 +1,248 @@
+{
+  "id": "a548865230334a259c6303f0d9a65a17",
+  "namespace": "ue",
+  "title": "beauty parlor",
+  "description": "This is a scene of a beauty parlor in China",
+  "longDescription": "<p>This is a scene of a beauty parlor in China</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "beauty-parlor",
+  "creationDate": "2023-03-20T01:14:07.943Z",
+  "lastModifiedDate": "2024-09-30T01:44:10.676Z",
+  "effectiveDate": "2023-03-20T01:14:07.906Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-p7yv2657djvypbdl7xvabhenwlbdsr",
+    "name": "BIG-G"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> This is a scene of a beauty parlor in China</li><li> All models in the scene can be used individually</li><li> The model can be easily dragged and dropped</li></ul><p>Number of Unique Meshes:52</p><p>Collision: (Yes)</p><p>Vertex Count:2,782,883</p><p>LODs: (Yes)</p><p>Number of Materials and Material Instances:102</p><p>Number of Textures:33</p><p>Texture Resolutions: ( 512*512  1024*1024 1024*512 1024*256 4096*4096 512*128)</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "93b1c115-e1f9-4714-a09f-603f217b1b4c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-446a5245ca6c67e0828fd732ac9efcd3.jpg",
+      "md5": "446a5245ca6c67e0828fd732ac9efcd3",
+      "size": 509787,
+      "uploadedDate": "2023-03-13T07:39:12.606Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-f5732d1bf12c6150ee44c9ee8a7ce3cd.jpg",
+      "md5": "f5732d1bf12c6150ee44c9ee8a7ce3cd",
+      "size": 510501,
+      "uploadedDate": "2023-03-13T07:39:12.945Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-f032e7457fe03dbd4662feac987bb90a.jpg",
+      "md5": "f032e7457fe03dbd4662feac987bb90a",
+      "size": 504447,
+      "uploadedDate": "2023-03-13T07:39:13.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-0a6bc29cfbd6d71451f442f5ce489dd2.jpg",
+      "md5": "0a6bc29cfbd6d71451f442f5ce489dd2",
+      "size": 387210,
+      "uploadedDate": "2023-03-13T07:39:13.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-30b3da75c7e2041c71a68897bdf4c698.jpg",
+      "md5": "30b3da75c7e2041c71a68897bdf4c698",
+      "size": 579975,
+      "uploadedDate": "2023-03-13T07:39:14.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-4591a8288db3aee23ef03aa33ae040e6.jpg",
+      "md5": "4591a8288db3aee23ef03aa33ae040e6",
+      "size": 533775,
+      "uploadedDate": "2023-03-13T07:39:14.569Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-f5ce08490f8cafbfd637e9aa9efe257a.jpg",
+      "md5": "f5ce08490f8cafbfd637e9aa9efe257a",
+      "size": 547803,
+      "uploadedDate": "2023-03-13T07:39:14.960Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-5813ddbf05d0575cdbd91670524f2d9f.jpg",
+      "md5": "5813ddbf05d0575cdbd91670524f2d9f",
+      "size": 585915,
+      "uploadedDate": "2023-03-13T07:39:15.397Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/beautyparlor_thumb-284x284-e0d440e25fdf3503247fd58a0150b8f8.png",
+      "md5": "e0d440e25fdf3503247fd58a0150b8f8",
+      "size": 164720,
+      "uploadedDate": "2023-03-13T07:39:15.752Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/beautyparlor_featured-894x488-455b5db45d6354f37ba580c12c772d54.png",
+      "md5": "455b5db45d6354f37ba580c12c772d54",
+      "size": 753780,
+      "uploadedDate": "2023-03-13T07:39:15.921Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-446a5245ca6c67e0828fd732ac9efcd3_Snapshot.jpg",
+      "md5": "35ff7c202b7109e5569224d4e25a0fea",
+      "size": 7457,
+      "uploadedDate": "2023-03-13T07:39:12.864Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-f5732d1bf12c6150ee44c9ee8a7ce3cd_Snapshot.jpg",
+      "md5": "9c0e8023de031dbbb4ee8a1d1f6a8769",
+      "size": 7566,
+      "uploadedDate": "2023-03-13T07:39:13.177Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-f032e7457fe03dbd4662feac987bb90a_Snapshot.jpg",
+      "md5": "fc93e5462eca8159b913eb8cff921c3e",
+      "size": 7762,
+      "uploadedDate": "2023-03-13T07:39:13.660Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-0a6bc29cfbd6d71451f442f5ce489dd2_Snapshot.jpg",
+      "md5": "4d6240833c06671604d607e09ec90d5d",
+      "size": 6803,
+      "uploadedDate": "2023-03-13T07:39:14.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-30b3da75c7e2041c71a68897bdf4c698_Snapshot.jpg",
+      "md5": "fdbcd45914b1e649e22e3d46236cb541",
+      "size": 7773,
+      "uploadedDate": "2023-03-13T07:39:14.424Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-4591a8288db3aee23ef03aa33ae040e6_Snapshot.jpg",
+      "md5": "6f0c71dc15679a7334684887d1bde7ab",
+      "size": 8551,
+      "uploadedDate": "2023-03-13T07:39:14.832Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-f5ce08490f8cafbfd637e9aa9efe257a_Snapshot.jpg",
+      "md5": "df7ddc30b2490dbfded73a737cbdcca0",
+      "size": 8079,
+      "uploadedDate": "2023-03-13T07:39:15.239Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-5813ddbf05d0575cdbd91670524f2d9f_Snapshot.jpg",
+      "md5": "570a029eb130bab105bc2287fc9927c3",
+      "size": 8311,
+      "uploadedDate": "2023-03-13T07:39:15.660Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9c7a6815a5634fc9b97e5dc3907ac5d1"
+    }
+  ],
+  "catalogNs": null
+}

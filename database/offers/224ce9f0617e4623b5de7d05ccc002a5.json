@@ -1,0 +1,692 @@
+{
+  "id": "224ce9f0617e4623b5de7d05ccc002a5",
+  "namespace": "ue",
+  "title": "Man Casual Outfit - Modular - Rigged",
+  "description": "Realistic 3D model of Man Casual Outfit - Modular - Rigged",
+  "longDescription": "<p><a href=\"https://www.youtube.com/watch?v&#61;ItUB7Fuly_A&amp;ab_channel&#61;NicePictures\" rel=\"nofollow\">How to avoid overlaps of clothing with the body when using Metahuman</a></p><p><br /></p><p>IMORTANT !</p><p>There are 2 versions of this character:</p><p><a href=\"https://www.dropbox.com/s/wfgfj0kh87v4zjc/Manny.jpg?dl&#61;0\" rel=\"nofollow\">1. (First version - UE 5.0) The body has the same proportions, height and shape as Manny (UE5 mannequin - UE5 Skeleton)</a></p><p><br /></p><p>2. (New version - UE 5.1-5.2) 100% compatible with male Metahuman (Normal/Average body - MH Skeleton)</p><p>This is not a Metahuman&#39;s body and face. This is our creation.</p><p>But this body has exactly the same shape as the Metahuman&#39;s body (Normal/Average)</p><p>So you can put this Outfit on your Male Metahuman (Normal/Average)</p><p><br /></p><p><a href=\"https://youtu.be/zF4T0J3iauk\" rel=\"nofollow\">PLAY/MODULAR</a> (New version - UE 5.1-5.2)</p><p><a href=\"https://youtu.be/YfoqtmaYVVU\" rel=\"nofollow\">Play</a> (First version - UE 5.0)</p><p><a href=\"https://youtu.be/xqu6k8K_8z8\" rel=\"nofollow\">How to hide Head</a> (For both versions)</p><p><a href=\"https://www.youtube.com/watch?v&#61;5lhqPh1arc4&amp;ab_channel&#61;NicePictures\" rel=\"nofollow\">Live Link Face</a> (For both versions)</p><p>Plugins used:</p><p>Live Link</p><p>Live Link Control Rig</p><p>Apple ARKit</p><p>Apple ARKit Face Support</p><p><br /></p><p>Some tutorials on retargeting UE4 to UE5</p><p>These are not our videos, but they are very helpful:</p><p><a href=\"https://www.youtube.com/watch?v&#61;IaGiebx43FI\" rel=\"nofollow\">Basic </a></p><p><a href=\"https://www.youtube.com/watch?v&#61;_I1ldRuAr74\" rel=\"nofollow\">IK Bones</a></p><p><br /></p><p>DETAILS:</p><p><a href=\"https://www.dropbox.com/s/kej44o0coxyekii/HDRI_Plugin.jpg?dl&#61;0\" rel=\"nofollow\">- The project uses the HDRIBackdrop plugin. Activate it to display the project correctly. </a></p><p>- The project has 8k textures, which can affect fps</p><p><a href=\"https://www.dropbox.com/s/l38q649e3oucbxw/Limit_Textures.jpg?dl&#61;0\" rel=\"nofollow\">- Use the texture size limitations in the Unreal Engine to make them smaller </a></p><p>- PBR Materials</p><p>- All objects, textures and materials have their own names</p><p>- Model is built to real-world scale</p><p>- Units used: cm</p><p>- Doesn&#39;t have Default names </p><p>- Doesn&#39;t have NGons</p><p>- Doesn&#39;t have Overlapping Vertices</p><p>- Doesn&#39;t have Overlapping Faces</p><p>- Doesn&#39;t have Overlapping UV Faces</p><p>- Doesn&#39;t have Missing textures</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "man-casual-outfit-modular-rigged",
+  "creationDate": "2022-06-23T19:55:32.973Z",
+  "lastModifiedDate": "2024-09-26T13:24:50.831Z",
+  "effectiveDate": "2022-06-23T19:55:32.881Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2a53dk3aja6ftsf7ldx7mad3vudxty",
+    "name": "Nice Pictures"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>GENERAL:</p><p><br /></p><p>Rigged:(Yes)</p><p>Rigged: to Epic skeleton:(Yes) First Version</p><p>Rigged: to MH skeleton:(Yes) - New Version</p><p>Morph: (No)</p><p>Animated:(No) Only Demo</p><p>Cloth Simulation (No)</p><p>Number of Animations:(Demo)</p><p>Animation types (Root Motion/In-place):(No)</p><p>Number of characters: 1</p><p><br /></p><p>Geometry with hair</p><p>LOD 0</p><p>- Polys: 75,993</p><p>- Tris: 151,586</p><p>- Verts: 98,681</p><p><br /></p><p>Geometry only hair</p><p>LOD 0</p><p>- Polys: 18,350</p><p>- Tris: 36,700</p><p>- Verts: 39,918</p><p><br /></p><p>Number of PBR Materials and Material Instances: 14</p><p>Number of Textures: 38</p><p><br /></p><p>Texture Resolutions:</p><p>- 4096x4096</p><p>- 8192x8192 (Hair)</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows:(Yes)</p><p>Mac:(Yes)</p><p>Documentation:(No)</p><p>Important/Additional Notes:(No)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1253",
+      "name": "PSYCHEDELIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:24.178Z",
+      "updated": "2019-06-20T12:00:24.178Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "860897d6-d69b-44ab-a9de-2869900555cf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2DescriptionV2-1920x1080-085ba309fdfdf579fd64b5381daa1b21.jpg",
+      "md5": "085ba309fdfdf579fd64b5381daa1b21",
+      "size": 402401,
+      "uploadedDate": "2023-01-17T16:31:50.092Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualT-1920x1080-786813e2eca4bd75c3fdc1d2fcedeb72.jpg",
+      "md5": "786813e2eca4bd75c3fdc1d2fcedeb72",
+      "size": 341960,
+      "uploadedDate": "2022-06-17T19:57:33.843Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE1-1920x1080-218861420007cf63be1cdccae768d1dc.jpg",
+      "md5": "218861420007cf63be1cdccae768d1dc",
+      "size": 210014,
+      "uploadedDate": "2022-06-17T19:57:32.228Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE2-1920x1080-2158f3055531caf3c8264d538024f022.jpg",
+      "md5": "2158f3055531caf3c8264d538024f022",
+      "size": 215569,
+      "uploadedDate": "2022-06-17T19:57:32.595Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE3-1920x1080-bf221b31b22bb4584e610986da22cc6d.jpg",
+      "md5": "bf221b31b22bb4584e610986da22cc6d",
+      "size": 215070,
+      "uploadedDate": "2022-06-17T19:57:32.975Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE11-1920x1080-7a8c8a4f5c4c28e81720fdb77c639978.jpg",
+      "md5": "7a8c8a4f5c4c28e81720fdb77c639978",
+      "size": 159800,
+      "uploadedDate": "2022-06-17T19:57:33.320Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC2-1920x1080-10d3c6d4f0129b2fdb4c48d1ae346166.jpg",
+      "md5": "10d3c6d4f0129b2fdb4c48d1ae346166",
+      "size": 417750,
+      "uploadedDate": "2022-06-17T19:57:34.633Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC2001-1920x1080-4a5e5c75ea3f010cbf94c3743bd1b3d5.jpg",
+      "md5": "4a5e5c75ea3f010cbf94c3743bd1b3d5",
+      "size": 386044,
+      "uploadedDate": "2022-06-17T19:57:35.462Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC24-1920x1080-07a4b83ff0bb75b48c384f5645642bd1.jpg",
+      "md5": "07a4b83ff0bb75b48c384f5645642bd1",
+      "size": 703182,
+      "uploadedDate": "2022-06-17T19:57:36.341Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC7-1920x1080-af8222dc3eb4566ccfde51c8514f40f1.jpg",
+      "md5": "af8222dc3eb4566ccfde51c8514f40f1",
+      "size": 415275,
+      "uploadedDate": "2022-06-17T19:57:37.261Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC8-1920x1080-7c8f53610be96f108f145e40952a2ea4.jpg",
+      "md5": "7c8f53610be96f108f145e40952a2ea4",
+      "size": 463623,
+      "uploadedDate": "2022-06-17T19:57:38.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC9-1920x1080-0d0dc76916f1c35cc04c9ffe7c69df72.jpg",
+      "md5": "0d0dc76916f1c35cc04c9ffe7c69df72",
+      "size": 434435,
+      "uploadedDate": "2022-06-17T19:57:38.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC11-1920x1080-1fc5a5cd5ccea4c9b7b462841e3ef339.jpg",
+      "md5": "1fc5a5cd5ccea4c9b7b462841e3ef339",
+      "size": 737523,
+      "uploadedDate": "2022-06-17T19:57:39.785Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC12-1920x1080-6e8c004cc1417ef16b15d807ff5b9cad.jpg",
+      "md5": "6e8c004cc1417ef16b15d807ff5b9cad",
+      "size": 590769,
+      "uploadedDate": "2022-06-17T19:57:40.688Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualC17-1920x1080-63844221c5c6404f4d78ebd09ca58e85.jpg",
+      "md5": "63844221c5c6404f4d78ebd09ca58e85",
+      "size": 944281,
+      "uploadedDate": "2022-06-17T19:57:41.603Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualWireC2-1920x1080-338a4459e9243d693ac0c5d3438d2c0a.jpg",
+      "md5": "338a4459e9243d693ac0c5d3438d2c0a",
+      "size": 444000,
+      "uploadedDate": "2022-06-17T19:57:42.454Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Man1CasualWireC8-1920x1080-10f212f5329463e778eceee9e6426b22.jpg",
+      "md5": "10f212f5329463e778eceee9e6426b22",
+      "size": 374042,
+      "uploadedDate": "2022-06-17T19:57:43.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE4-1920x1080-32b0816186c90f9d68758ad8fae02b4e.jpg",
+      "md5": "32b0816186c90f9d68758ad8fae02b4e",
+      "size": 300086,
+      "uploadedDate": "2022-06-17T19:57:44.122Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE5-1920x1080-26b41a1361c6083ad2148fbf21137935.jpg",
+      "md5": "26b41a1361c6083ad2148fbf21137935",
+      "size": 179321,
+      "uploadedDate": "2022-06-17T19:57:44.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE6-1920x1080-daf2aedfc3b24617990ed7ba9b150fba.jpg",
+      "md5": "daf2aedfc3b24617990ed7ba9b150fba",
+      "size": 265859,
+      "uploadedDate": "2022-06-17T19:57:45.212Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE7-1920x1080-d3199305b7dd1e062345db999f9a16f3.jpg",
+      "md5": "d3199305b7dd1e062345db999f9a16f3",
+      "size": 282317,
+      "uploadedDate": "2022-06-17T19:57:45.617Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE8-1920x1080-11f4421af66bdc60f6e7d7f3bd6cd8b0.jpg",
+      "md5": "11f4421af66bdc60f6e7d7f3bd6cd8b0",
+      "size": 340455,
+      "uploadedDate": "2022-06-17T19:57:45.999Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ManCasualOutfit2UE9-1920x1080-4085659b3459dc6d061ef69c0251c911.jpg",
+      "md5": "4085659b3459dc6d061ef69c0251c911",
+      "size": 203998,
+      "uploadedDate": "2022-06-17T19:57:46.399Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ManCasualOutfitModularRigged_thumb-284x284-7bab1403ed5a2c468aaf113f98848500.png",
+      "md5": "7bab1403ed5a2c468aaf113f98848500",
+      "size": 71286,
+      "uploadedDate": "2023-01-17T16:31:50.733Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ManCasualOutfitModularRigged_featured-894x488-91e53153aa64a24e176541ab07f00807.png",
+      "md5": "91e53153aa64a24e176541ab07f00807",
+      "size": 474578,
+      "uploadedDate": "2023-01-17T16:31:50.859Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2DescriptionV2-1920x1080-085ba309fdfdf579fd64b5381daa1b21_Snapshot.jpg",
+      "md5": "f7561c450813abaf22781f52053b6067",
+      "size": 7923,
+      "uploadedDate": "2023-01-17T16:31:50.630Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE1234-1920x1080-a3665f69e5bb69f4f864f984c8f508b2_Snapshot.jpg",
+      "md5": "e560a472ae9d565afa36d3a08b6f9536",
+      "size": 6141,
+      "uploadedDate": "2022-09-07T08:19:55.275Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE1-1920x1080-218861420007cf63be1cdccae768d1dc_Snapshot.jpg",
+      "md5": "925fab13d3ec962264518e65baa55dba",
+      "size": 5576,
+      "uploadedDate": "2022-06-17T19:57:32.459Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE2-1920x1080-2158f3055531caf3c8264d538024f022_Snapshot.jpg",
+      "md5": "4e4cd73b58cc2d83ebff210aa7c8706b",
+      "size": 6012,
+      "uploadedDate": "2022-06-17T19:57:32.833Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE3-1920x1080-bf221b31b22bb4584e610986da22cc6d_Snapshot.jpg",
+      "md5": "76adddb9a4fbfb4a495c480bcfcb3802",
+      "size": 5679,
+      "uploadedDate": "2022-06-17T19:57:33.197Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE11-1920x1080-7a8c8a4f5c4c28e81720fdb77c639978_Snapshot.jpg",
+      "md5": "3a709fbe1ce6f9ea0955d55ea95505ca",
+      "size": 4503,
+      "uploadedDate": "2022-06-17T19:57:33.540Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualT-1920x1080-786813e2eca4bd75c3fdc1d2fcedeb72_Snapshot.jpg",
+      "md5": "76389923371068f4326a89671780f2ba",
+      "size": 6755,
+      "uploadedDate": "2022-06-17T19:57:34.352Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC2-1920x1080-10d3c6d4f0129b2fdb4c48d1ae346166_Snapshot.jpg",
+      "md5": "db2e9c878267bf587dd41da61e568589",
+      "size": 5628,
+      "uploadedDate": "2022-06-17T19:57:35.172Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC2001-1920x1080-4a5e5c75ea3f010cbf94c3743bd1b3d5_Snapshot.jpg",
+      "md5": "17d3d6ed7c6f61cdb1993cedbdf225d6",
+      "size": 5652,
+      "uploadedDate": "2022-06-17T19:57:36.019Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC24-1920x1080-07a4b83ff0bb75b48c384f5645642bd1_Snapshot.jpg",
+      "md5": "2c04467dcfc414a7839992a141c47d5e",
+      "size": 5417,
+      "uploadedDate": "2022-06-17T19:57:37.018Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC7-1920x1080-af8222dc3eb4566ccfde51c8514f40f1_Snapshot.jpg",
+      "md5": "15d60c34cfbcf52d19ae45336b2c7898",
+      "size": 6038,
+      "uploadedDate": "2022-06-17T19:57:37.797Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC8-1920x1080-7c8f53610be96f108f145e40952a2ea4_Snapshot.jpg",
+      "md5": "17fdbbfaf1c70f03a2ce08e0d396947a",
+      "size": 5579,
+      "uploadedDate": "2022-06-17T19:57:38.656Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC9-1920x1080-0d0dc76916f1c35cc04c9ffe7c69df72_Snapshot.jpg",
+      "md5": "77005a9df68be82b91e9abf94b4f5b16",
+      "size": 5681,
+      "uploadedDate": "2022-06-17T19:57:39.499Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC11-1920x1080-1fc5a5cd5ccea4c9b7b462841e3ef339_Snapshot.jpg",
+      "md5": "332b2f3ac687218eaddd573011123e47",
+      "size": 6217,
+      "uploadedDate": "2022-06-17T19:57:40.351Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC12-1920x1080-6e8c004cc1417ef16b15d807ff5b9cad_Snapshot.jpg",
+      "md5": "00424b1c4ed55f814a6cc6148608f715",
+      "size": 6753,
+      "uploadedDate": "2022-06-17T19:57:41.248Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualC17-1920x1080-63844221c5c6404f4d78ebd09ca58e85_Snapshot.jpg",
+      "md5": "f9d847bc739a1698a62fd63dc0f98579",
+      "size": 7343,
+      "uploadedDate": "2022-06-17T19:57:42.189Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualWireC2-1920x1080-338a4459e9243d693ac0c5d3438d2c0a_Snapshot.jpg",
+      "md5": "e9d6a33bef2104344872a0e665e56713",
+      "size": 6349,
+      "uploadedDate": "2022-06-17T19:57:43.034Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Man1CasualWireC8-1920x1080-10f212f5329463e778eceee9e6426b22_Snapshot.jpg",
+      "md5": "5d867ecdcfede578809a2ed44a49c502",
+      "size": 5248,
+      "uploadedDate": "2022-06-17T19:57:43.859Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE4-1920x1080-32b0816186c90f9d68758ad8fae02b4e_Snapshot.jpg",
+      "md5": "8d975c0cc0982b90a846338e18c0e86c",
+      "size": 5758,
+      "uploadedDate": "2022-06-17T19:57:44.646Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE5-1920x1080-26b41a1361c6083ad2148fbf21137935_Snapshot.jpg",
+      "md5": "525235ce48820040433da4c985fa0a0d",
+      "size": 3989,
+      "uploadedDate": "2022-06-17T19:57:44.991Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE6-1920x1080-daf2aedfc3b24617990ed7ba9b150fba_Snapshot.jpg",
+      "md5": "c4d9c3ebdffc0e9a0f6c2a6725ef6ed4",
+      "size": 4872,
+      "uploadedDate": "2022-06-17T19:57:45.465Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE7-1920x1080-d3199305b7dd1e062345db999f9a16f3_Snapshot.jpg",
+      "md5": "e20d40be62efb7aacee8b4de0695df87",
+      "size": 5597,
+      "uploadedDate": "2022-06-17T19:57:45.839Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE8-1920x1080-11f4421af66bdc60f6e7d7f3bd6cd8b0_Snapshot.jpg",
+      "md5": "9c7d9159f7ab1d03d47b1c19de84f8dd",
+      "size": 6312,
+      "uploadedDate": "2022-06-17T19:57:46.263Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE9-1920x1080-4085659b3459dc6d061ef69c0251c911_Snapshot.jpg",
+      "md5": "797a517ace59bbbf047f48096c718f8d",
+      "size": 5877,
+      "uploadedDate": "2022-06-17T19:57:46.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ManCasualOutfit2UE10-1920x1080-c4a2cef04ba1f9c230700fc9f89ad0bb_Snapshot.jpg",
+      "md5": "706dcd2b78e464f3d4aa50a3edcc3e67",
+      "size": 5753,
+      "uploadedDate": "2022-06-17T19:57:46.973Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "b3de7847e5c84447960183bb6d8e197a"
+    }
+  ],
+  "catalogNs": null
+}

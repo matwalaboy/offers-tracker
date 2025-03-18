@@ -1,0 +1,266 @@
+{
+  "id": "fd736b758ffa404a8607fa4bebcca5ae",
+  "namespace": "ue",
+  "title": "War Background Ambience Effects",
+  "description": "War Background Ambient Sounds and Particles Pack for your Shooter, RPG, RTS game, or any other project.",
+  "longDescription": "<p><strong>47 High quality war sound effects animated with blueprint.  </strong></p><p><br /></p><p><a href=\"https://youtu.be/weHrJpMCqg8\" rel=\"nofollow\"><strong>- VIDEO/AUDIO PREVIEW -</strong></a></p><p><br /></p><p> - Distant rumbles of explosions and artillery barrage sounds, mortar barrage sounds, grenade explosions, machine gun firing, rifles and submachine guns firefight. 5 similar sound files for each category, combined with sound cues.</p><p><br /></p><p> - With included blueprint, weapon firing sounds travels on circle spline, around the scene to reach a realistic and variable war audio atmosphere. </p><p><br /></p><p>- All similar sound files combined with sound cues with start delay range, volume and pitch range. You can use combined with sound cue files optionally: Use only distant rumbles, use only skirmish sounds, only explosions, or use all sounds together to get deadly war atmosphere.</p><p><br /></p><p><strong>As BONUS you&#39;ll get 16 Particles with amazing 4k subUV textures:</strong> debris fires(small, medium, big), ground fires(small, medium, big), wall fires(thin, Large), window and door fires(thin, Large)!</p><p><br /></p><p><strong>Drop these amazing sounds in your game battlefield right now!...</strong></p><p><strong>AND YOU WILL WIN THAT BATTLE!</strong></p><p><br /></p><p><strong>Thanks for purchasing and rating!</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "war-background-ambience-effects",
+  "creationDate": "2021-04-19T16:20:49.017Z",
+  "lastModifiedDate": "2024-09-26T13:06:30.386Z",
+  "effectiveDate": "2021-04-19T16:20:48.902Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83b9954cb94af99c15cc5c1c448252",
+    "name": "Medartimus"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Audio Waves: 47</p><p>Number of Audio Cues: 55</p><p>Sample rate / bit rate: 44,100 Hz</p><p>Do Sound FX loop: Yes</p><p>Number of particles: 16</p><p>Particle LODs:  not included (Do not need)</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1201",
+      "name": "SNIPER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:58.199Z",
+      "updated": "2019-06-20T11:59:58.199Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b0f673d5-b992-486c-aeba-b6157a4f934a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/19201080-1920x1080-f200c60eb5abc1bb62aa70b7ae90d447.jpg",
+      "md5": "f200c60eb5abc1bb62aa70b7ae90d447",
+      "size": 525677,
+      "uploadedDate": "2021-04-19T11:26:05.943Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WarBackgroundAmbienceEffects_thumb-284x284-a18b6b40df784bdc4e7c79f890cbc0ff.png",
+      "md5": "a18b6b40df784bdc4e7c79f890cbc0ff",
+      "size": 75416,
+      "uploadedDate": "2021-04-19T11:26:06.225Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WarBackgroundAmbienceEffects_featured-894x488-c3b3d228b9f5f1d8cac585c986501c7e.png",
+      "md5": "c3b3d228b9f5f1d8cac585c986501c7e",
+      "size": 315456,
+      "uploadedDate": "2021-04-19T11:26:06.325Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/19201080-1920x1080-f200c60eb5abc1bb62aa70b7ae90d447_Snapshot.jpg",
+      "md5": "e5a504af5d3fa6ec5332971a5c6655ab",
+      "size": 6766,
+      "uploadedDate": "2021-04-19T11:26:06.182Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "59040fe7a20046ceb54e0be2b21844a1"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,404 @@
+{
+  "id": "a7ab6aad881e4b00a2fe087fb6236b47",
+  "namespace": "ue",
+  "title": "Firewood set 1",
+  "description": "Wood for the fire",
+  "longDescription": "<p>I present a collection of 7 high-quality 3d models of Wood for a fire. The models were created by scanning ! They will fit and decorate any project .</p><p>Each model has 4k textures and PBR materials. The models are created and have the same style.</p><p><br /></p><p>Have a good use !</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "firewood-set-1",
+  "creationDate": "2021-08-09T16:50:55.267Z",
+  "lastModifiedDate": "2024-09-30T18:40:32.333Z",
+  "effectiveDate": "2021-08-09T16:50:55.215Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a3rc6ukpmyt8w6xms8w6wnuxn9cv28",
+    "name": "Listudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h3>Technical Details</h3><ul><li><strong>7 unique PBR materials</strong></li><li><strong>4k textures for every single material</strong></li><li><strong>Unique Concept</strong></li><li><strong>Real-world based</strong></li><li><strong>jpeg format</strong></li></ul><p><strong>&#xfeff;</strong></p><p><strong><u>Texture maps</u></strong></p><ul><li><strong>Albedo</strong></li><li><strong>Normal</strong></li><li><strong>Roughness</strong></li></ul><h3><br /></h3><p>Number of Unique Meshes: 7</p><p>Collision: Yes</p><p>Vertex Count: 3,670-17,451</p><p>LODs: No</p><p>Number of Materials and Material Instances: 7</p><p>Number of Textures: 21</p><p>Texture Resolutions: 4k</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p><br /></p><p><strong>&#xfeff;</strong></p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1222",
+      "name": "TEXT-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.648Z",
+      "updated": "2019-06-20T12:00:08.648Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c2493924-b9cc-4724-a4cf-0d927d8dafc2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot002-1920x1080-7c526d3f047fd6a45e6c64c408958484.jpg",
+      "md5": "7c526d3f047fd6a45e6c64c408958484",
+      "size": 714031,
+      "uploadedDate": "2021-08-08T23:11:19.387Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot003-1920x1080-8f01f5e4c0c22b7f558b3b3b4f8984a1.jpg",
+      "md5": "8f01f5e4c0c22b7f558b3b3b4f8984a1",
+      "size": 988651,
+      "uploadedDate": "2021-08-08T23:11:20.221Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot004-1920x1080-e9e9f3da19ed95affa543f6de567b426.jpg",
+      "md5": "e9e9f3da19ed95affa543f6de567b426",
+      "size": 901298,
+      "uploadedDate": "2021-08-08T23:11:21.074Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot005-1920x1080-e3f2eda5ad63187282716d4600eda799.jpg",
+      "md5": "e3f2eda5ad63187282716d4600eda799",
+      "size": 1109484,
+      "uploadedDate": "2021-08-08T23:11:22.071Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot006-1920x1080-c3eef8bcd61f63560fb364cf930d088d.jpg",
+      "md5": "c3eef8bcd61f63560fb364cf930d088d",
+      "size": 762270,
+      "uploadedDate": "2021-08-08T23:11:22.938Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot007-1920x1080-f1bcc983cd6ae6986fae2af22536210d.jpg",
+      "md5": "f1bcc983cd6ae6986fae2af22536210d",
+      "size": 813320,
+      "uploadedDate": "2021-08-08T23:11:23.796Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot008-1920x1080-984b5e61d65466782415262e2db5413e.jpg",
+      "md5": "984b5e61d65466782415262e2db5413e",
+      "size": 802873,
+      "uploadedDate": "2021-08-08T23:11:24.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2021-08-0905-00-58-1920x1080-d4f5e3be0f06925d405434be03ec3765.jpg",
+      "md5": "d4f5e3be0f06925d405434be03ec3765",
+      "size": 391547,
+      "uploadedDate": "2021-08-08T23:11:25.501Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Firewoodset1_thumb-284x284-3f48f2d1674ac0f965e093b8acee9d75.png",
+      "md5": "3f48f2d1674ac0f965e093b8acee9d75",
+      "size": 125783,
+      "uploadedDate": "2021-08-08T23:11:26.081Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Firewoodset1_featured-894x488-1ab50b8d3858d5dcca37b64f82636013.png",
+      "md5": "1ab50b8d3858d5dcca37b64f82636013",
+      "size": 437632,
+      "uploadedDate": "2021-08-08T23:11:26.163Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot002-1920x1080-7c526d3f047fd6a45e6c64c408958484_Snapshot.jpg",
+      "md5": "178f4da77f2d67debc9e9e4b8eaf71aa",
+      "size": 4922,
+      "uploadedDate": "2021-08-08T23:11:19.930Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot003-1920x1080-8f01f5e4c0c22b7f558b3b3b4f8984a1_Snapshot.jpg",
+      "md5": "a3a7963a7f6d6d2492c13227b8aa05fd",
+      "size": 6032,
+      "uploadedDate": "2021-08-08T23:11:20.782Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot004-1920x1080-e9e9f3da19ed95affa543f6de567b426_Snapshot.jpg",
+      "md5": "6e11f302267f1ef1223dc9f624bd6eaa",
+      "size": 5484,
+      "uploadedDate": "2021-08-08T23:11:21.697Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot005-1920x1080-e3f2eda5ad63187282716d4600eda799_Snapshot.jpg",
+      "md5": "4557ffa2f1f9da729cdbd2dc95c333ba",
+      "size": 6773,
+      "uploadedDate": "2021-08-08T23:11:22.659Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot006-1920x1080-c3eef8bcd61f63560fb364cf930d088d_Snapshot.jpg",
+      "md5": "65326fc59b43ad2c8e8b9ce94243ad7f",
+      "size": 4661,
+      "uploadedDate": "2021-08-08T23:11:23.512Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot007-1920x1080-f1bcc983cd6ae6986fae2af22536210d_Snapshot.jpg",
+      "md5": "3b7c35d179ad18e6a55b41acf9222390",
+      "size": 4938,
+      "uploadedDate": "2021-08-08T23:11:24.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot008-1920x1080-984b5e61d65466782415262e2db5413e_Snapshot.jpg",
+      "md5": "258f1818fe4b7136f22cda021222e1e9",
+      "size": 4570,
+      "uploadedDate": "2021-08-08T23:11:25.217Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2021-08-0905-00-58-1920x1080-d4f5e3be0f06925d405434be03ec3765_Snapshot.jpg",
+      "md5": "c02096d20cf2a244aee485661f36cbbe",
+      "size": 4555,
+      "uploadedDate": "2021-08-08T23:11:26.038Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "dd630bee01ca4e1b912602468ca2240f"
+    }
+  ],
+  "catalogNs": null
+}

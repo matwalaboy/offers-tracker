@@ -1,0 +1,419 @@
+{
+  "id": "8f3ff41ae2584245a2463028f920c2e0",
+  "namespace": "ue",
+  "title": "Bullet VFX Pack",
+  "description": "This pack contains a baseline set of effects and blueprints for setting up a bullet weapon. .",
+  "longDescription": "<p><strong>Video:</strong> <a href=\"https://youtu.be/X4a5QcEl5J4\" rel=\"nofollow\">https://youtu.be/X4a5QcEl5J4</a></p><p><br /></p><p><strong>Now updated for Unreal Engine 5!!!</strong></p><p><br /></p><p>This pack contains bullet impacts for the following materials in Cascade and Niagara:</p><ul><li>Default</li><li>Blood</li><li>Concrete</li><li>Dirt</li><li>Electronics</li><li>Glass</li><li>Grass</li><li>Ice</li><li>Metal</li><li>Plastic</li><li>Sand</li><li>Snow</li><li>Water</li><li>Wood</li></ul><p><br /></p><p><strong>For both Cascade and Niagara: </strong>There are six muzzle flashes, three looping and three non-looping. and a bullet cartridge mesh with a looping and non-looping effect. All smoke and hard surface particles use lit materials. The effects are a mixture of cpu, gpu and mesh emitters depending on the surface need. There is a sample of a bullet weapon using the First-Person Shooter template to trigger and new BP projectiles for both Cascade and Niagara. Also, a triggerable sample map called BulletContent.</p><p><br /></p><p><strong>&#xfeff;Check out Gentleman Fred FX&#39;s other products here: </strong><a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Gentleman&#43;Fred&#43;FX\" rel=\"nofollow\"><strong><u>https://www.unrealengine.com/marketplace/en-US/profile/Gentleman&#43;Fred&#43;FX</u></strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "bullet-vfx-pack",
+  "creationDate": "2015-03-04T22:22:24.440Z",
+  "lastModifiedDate": "2024-09-26T19:56:23.674Z",
+  "effectiveDate": "2015-03-04T00:00:00.000Z",
+  "viewableDate": "2015-03-04T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-0366e8df8e4838b6bdee4ece95c343",
+    "name": "Gentleman Fred FX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Technical information</strong></p><ul><li><strong>Sample Map:</strong> BulletContent</li><li>Niagara Systems: 38</li><li>Niagara Emitters: 13</li><li>Number of Particles: 22</li><li>Number of Meshes: 3</li><li>Number of Materials: 19</li><li>Number of Material Instances: 24</li><li>Number of Material Functions: 1</li><li>Number of Textures: 34</li><li>Physical Materials: 14</li><li>Blueprints: 2</li></ul><p><br /></p><p><em>First Person Shooter BP modified.</em> </p><p><br /></p><p><strong>Intended Platforms:</strong></p><ul><li>OSX </li><li>WINDOWS </li><li>XBOXONE </li><li>PS4</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1199",
+      "name": "STEAMPUNK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:57.224Z",
+      "updated": "2019-06-20T11:59:57.224Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "25b81f79-0a8c-4772-9210-37f98d822e03"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPNiagara-1920x1080-03ae17d1dc65ca3ebb3affae05345236.jpg",
+      "md5": "03ae17d1dc65ca3ebb3affae05345236",
+      "size": 716259,
+      "uploadedDate": "2020-09-11T18:20:46.039Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPCascade-1920x1080-b1d82b90c12f4e6539bc6430a63746b2.jpg",
+      "md5": "b1d82b90c12f4e6539bc6430a63746b2",
+      "size": 756258,
+      "uploadedDate": "2020-09-11T18:20:46.484Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPCon-1920x1080-9c7bae91158a4e90b1b7f88b600c9a0f.jpg",
+      "md5": "9c7bae91158a4e90b1b7f88b600c9a0f",
+      "size": 682905,
+      "uploadedDate": "2020-09-11T18:20:46.839Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPBlood-1920x1080-fac2e6f9e026a71718cfc50fac8b608c.jpg",
+      "md5": "fac2e6f9e026a71718cfc50fac8b608c",
+      "size": 687630,
+      "uploadedDate": "2020-09-11T18:20:47.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPDirt-1920x1080-6d1194d1c160bff9df0c14ba9bdf65f1.jpg",
+      "md5": "6d1194d1c160bff9df0c14ba9bdf65f1",
+      "size": 721207,
+      "uploadedDate": "2020-09-11T18:20:47.497Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPElect-1920x1080-10b7079cf8ea3576b3b9f9af97e6088f.jpg",
+      "md5": "10b7079cf8ea3576b3b9f9af97e6088f",
+      "size": 705770,
+      "uploadedDate": "2020-09-11T18:20:47.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPPlastic-1920x1080-1916d9cf8e3d5d86318f774cbff215bc.jpg",
+      "md5": "1916d9cf8e3d5d86318f774cbff215bc",
+      "size": 649503,
+      "uploadedDate": "2020-09-11T18:20:48.317Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BVFXPWood-1920x1080-33ac606908e9b34f127917f15965afbc.jpg",
+      "md5": "33ac606908e9b34f127917f15965afbc",
+      "size": 675875,
+      "uploadedDate": "2020-09-11T18:20:48.739Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/BulletVFXPack_Thumb-284x284-b350321cb9f76c1669d3ddeb2170f1aa.png",
+      "md5": "b350321cb9f76c1669d3ddeb2170f1aa",
+      "size": 106528,
+      "uploadedDate": "2015-03-04T22:18:27.702Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/BulletVFXPack_Featured-476x246-463fc44b1ae00dea00f1e70856c1b7ce.png",
+      "md5": "463fc44b1ae00dea00f1e70856c1b7ce",
+      "size": 110074,
+      "uploadedDate": "2015-03-04T22:18:14.570Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPNiagara-1920x1080-03ae17d1dc65ca3ebb3affae05345236_Snapshot.jpg",
+      "md5": "c6a3aa70094d7859d25b39a4ca87a920",
+      "size": 4952,
+      "uploadedDate": "2020-09-11T18:20:46.322Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPCascade-1920x1080-b1d82b90c12f4e6539bc6430a63746b2_Snapshot.jpg",
+      "md5": "22bbd79dc5635e6d0eefef57ab97a8c3",
+      "size": 5143,
+      "uploadedDate": "2020-09-11T18:20:46.718Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPCon-1920x1080-9c7bae91158a4e90b1b7f88b600c9a0f_Snapshot.jpg",
+      "md5": "59dcd63e59741ae8893d35f90e0f6629",
+      "size": 5130,
+      "uploadedDate": "2020-09-11T18:20:47.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPBlood-1920x1080-fac2e6f9e026a71718cfc50fac8b608c_Snapshot.jpg",
+      "md5": "3eca5f9085ed164be3c6d29321a345b9",
+      "size": 5924,
+      "uploadedDate": "2020-09-11T18:20:47.403Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPDirt-1920x1080-6d1194d1c160bff9df0c14ba9bdf65f1_Snapshot.jpg",
+      "md5": "17de92bad676a472c8c34c471c7a27da",
+      "size": 5952,
+      "uploadedDate": "2020-09-11T18:20:47.733Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPElect-1920x1080-10b7079cf8ea3576b3b9f9af97e6088f_Snapshot.jpg",
+      "md5": "5bb678b29a8068c8c92c2efc9579f331",
+      "size": 5707,
+      "uploadedDate": "2020-09-11T18:20:48.151Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPPlastic-1920x1080-1916d9cf8e3d5d86318f774cbff215bc_Snapshot.jpg",
+      "md5": "4ec9a401e66051b612d45893fead3d43",
+      "size": 5954,
+      "uploadedDate": "2020-09-11T18:20:48.597Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BVFXPWood-1920x1080-33ac606908e9b34f127917f15965afbc_Snapshot.jpg",
+      "md5": "13d545fec9dddd0dc540c5ca4c5d407d",
+      "size": 6357,
+      "uploadedDate": "2020-09-11T18:20:48.969Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/BulletVFXPack_FeaturedNew-894x488-f1980fab76559f7abc676a2d3002021b.png",
+      "md5": "f1980fab76559f7abc676a2d3002021b",
+      "size": 314463,
+      "uploadedDate": "2015-03-04T22:18:17.975Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/ue/item/BulletVFXPack_ComingSoon-394x208-8b9108bcabf0101da669795cae053e7f.png",
+      "md5": "8b9108bcabf0101da669795cae053e7f",
+      "size": 82820,
+      "uploadedDate": "2015-03-04T22:18:21.965Z",
+      "width": 394,
+      "height": 208
+    },
+    {
+      "type": "ComingSoon_Small",
+      "url": "https://cdn1.epicgames.com/ue/item/BulletVFXPack_ComingSoon_Sm-145x208-2d57293a63411972db7ec63522680a49.png",
+      "md5": "2d57293a63411972db7ec63522680a49",
+      "size": 45390,
+      "uploadedDate": "2015-03-04T22:18:24.440Z",
+      "width": 145,
+      "height": 208
+    }
+  ],
+  "items": [
+    {
+      "id": "9c21557b92a84bad9a75a3d0cfb30990"
+    }
+  ],
+  "catalogNs": null
+}

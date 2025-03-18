@@ -1,0 +1,254 @@
+{
+  "id": "dd8ec1c97b1b430395f75573b231d8bc",
+  "namespace": "ue",
+  "title": "NHC - Wood Decor Texture",
+  "description": "The pack includes 150 different wood decor texture",
+  "longDescription": "<p>The pack consists of 150 different images which include of different wood decor texture pictures that can organically fit into any mobile project, game, website or product design.</p><p><br /></p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-wood-decor-texture",
+  "creationDate": "2024-04-12T00:03:17.112Z",
+  "lastModifiedDate": "2024-09-30T17:04:50.359Z",
+  "effectiveDate": "2024-04-12T00:03:17.078Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><p><br /></p><p><br /></p><p>Number of Textures: 150</p><p>1024 px - 150 textures</p><p><br /></p><p><br /></p><p>Texture Resolutions:1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/textures"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e056c4e2-fcf4-416d-9c48-ed40450adc15"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production31-1920x1080-308c229583e73ab3b7a492b154f9c309.jpg",
+      "md5": "308c229583e73ab3b7a492b154f9c309",
+      "size": 321308,
+      "uploadedDate": "2024-04-04T21:33:08.045Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production12-1920x1080-6cc2190e565ef2cf0d9f1bc0d5f74ce9.jpg",
+      "md5": "6cc2190e565ef2cf0d9f1bc0d5f74ce9",
+      "size": 320919,
+      "uploadedDate": "2024-04-04T21:33:08.379Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cdd-1920x1080-93e1707fe3011a538ea101111ee58188.jpg",
+      "md5": "93e1707fe3011a538ea101111ee58188",
+      "size": 371431,
+      "uploadedDate": "2024-04-04T21:33:08.769Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/cs-1920x1080-a71460119221f0586117deeebf7f75ce.jpg",
+      "md5": "a71460119221f0586117deeebf7f75ce",
+      "size": 362980,
+      "uploadedDate": "2024-04-04T21:33:09.128Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/rer-1920x1080-06d6778a1a39e026d1539fa040d5c340.jpg",
+      "md5": "06d6778a1a39e026d1539fa040d5c340",
+      "size": 369187,
+      "uploadedDate": "2024-04-04T21:33:09.501Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCWoodDecorTexture_thumb-284x284-39dd387a9d45d236cb0f3d2b5b272879.png",
+      "md5": "39dd387a9d45d236cb0f3d2b5b272879",
+      "size": 190029,
+      "uploadedDate": "2024-04-04T21:33:09.804Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCWoodDecorTexture_featured-894x488-6ea0073e0813831d87c60c17caf34047.png",
+      "md5": "6ea0073e0813831d87c60c17caf34047",
+      "size": 722988,
+      "uploadedDate": "2024-04-04T21:33:09.945Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production31-1920x1080-308c229583e73ab3b7a492b154f9c309_Snapshot.jpg",
+      "md5": "1c2916de2ef0eec1cb40632ef524b3b6",
+      "size": 6301,
+      "uploadedDate": "2024-04-04T21:33:08.220Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production12-1920x1080-6cc2190e565ef2cf0d9f1bc0d5f74ce9_Snapshot.jpg",
+      "md5": "4c6c9395a6ac6586b321988663b0e609",
+      "size": 6190,
+      "uploadedDate": "2024-04-04T21:33:08.559Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cdd-1920x1080-93e1707fe3011a538ea101111ee58188_Snapshot.jpg",
+      "md5": "8906a8658cca4f01380a325628de468a",
+      "size": 5967,
+      "uploadedDate": "2024-04-04T21:33:08.978Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/cs-1920x1080-a71460119221f0586117deeebf7f75ce_Snapshot.jpg",
+      "md5": "8cf47f3837c44eb60bc28bed61fb597d",
+      "size": 5914,
+      "uploadedDate": "2024-04-04T21:33:09.308Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/rer-1920x1080-06d6778a1a39e026d1539fa040d5c340_Snapshot.jpg",
+      "md5": "422916a738fd022be34b9e7747c13625",
+      "size": 5975,
+      "uploadedDate": "2024-04-04T21:33:09.676Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "75e1d1da5f0d4d1398b21c9fa9a100e1"
+    }
+  ],
+  "catalogNs": null
+}

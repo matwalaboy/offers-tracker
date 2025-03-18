@@ -1,0 +1,410 @@
+{
+  "id": "b482db2a13604a758a2106fbf9a3d772",
+  "namespace": "ue",
+  "title": "SportGirlV2",
+  "description": "SportGirlV2 character ready for use in your game. Rigged with Epic Skeleton, modular.",
+  "longDescription": "<p>SportGirlV2 is modular character. Rigged for UE4 (Epic Skeleton) &#43;extra bones. Number of Characters 4</p><p>Renders are made Marmoset toolbarg 4</p><p><br /></p><p>&#x1f5e3;️ <a href=\"https://youtu.be/R34v1JOxB1Q\" rel=\"nofollow\">VIDEO PREVIEW</a> </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sportgirlv2",
+  "creationDate": "2023-08-29T00:13:33.395Z",
+  "lastModifiedDate": "2024-09-28T13:08:55.759Z",
+  "effectiveDate": "2023-08-29T00:13:33.325Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-w37wa3l97cbut2qv7dg38xz8632c44",
+    "name": "ML 3D"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> 52 morph targets</li><li> modular</li><li>15 separated meshes</li><li>Material instances</li><li>Epic Skeleton with additional bones</li><li> </li></ul><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (Yes)</p><p>If rigged to the Epic skeleton, IK bones are included: (Yes)</p><p>Animated: (Yes)</p><p>Number of Animations: retarget</p><p>Number of characters: 4</p><p>Vertex counts of characters: 29403, 31107, 31283, 28737</p><p>Number of Materials and Material Instances: 5 M, 29 MI</p><p>Number of Textures: 94</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms: No</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes: bones added to Epic Skeleton: eye_l/r, breast_l/r, hair_back_01-03_l/r, hair_front_01-03_l/r, hair_side_01-03_l/r</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "72217c24-e8ea-451d-836e-d96d06ab5ed8"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/logomarmoset-1920x1080-6d27142522fe62aefe247ef648007418.jpg",
+      "md5": "6d27142522fe62aefe247ef648007418",
+      "size": 70407,
+      "uploadedDate": "2023-08-26T12:59:49.308Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01marmoset-1920x1080-2f25f0c0e4360cf6514bb0a7565e8c0a.jpg",
+      "md5": "2f25f0c0e4360cf6514bb0a7565e8c0a",
+      "size": 79757,
+      "uploadedDate": "2023-08-26T12:59:49.615Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02marmoset-1920x1080-6d000fe674875f1ce319c1d23db81aad.jpg",
+      "md5": "6d000fe674875f1ce319c1d23db81aad",
+      "size": 75158,
+      "uploadedDate": "2023-08-26T12:59:49.859Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06marmoset-1920x1080-a2e1db86e2c9c950e2b3d037f460a21e.jpg",
+      "md5": "a2e1db86e2c9c950e2b3d037f460a21e",
+      "size": 65745,
+      "uploadedDate": "2023-08-26T12:59:50.139Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03marmoset-1920x1080-cad021505321fa5575dd40938b871add.jpg",
+      "md5": "cad021505321fa5575dd40938b871add",
+      "size": 39106,
+      "uploadedDate": "2023-08-26T12:59:50.401Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04marmoset-1920x1080-11a600915aac8f6d1c75d551ecc7f355.jpg",
+      "md5": "11a600915aac8f6d1c75d551ecc7f355",
+      "size": 92093,
+      "uploadedDate": "2023-08-26T12:59:50.636Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05marmoset-1920x1080-d83f5828801289b25be09160e4458615.jpg",
+      "md5": "d83f5828801289b25be09160e4458615",
+      "size": 42135,
+      "uploadedDate": "2023-08-26T12:59:50.894Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal01-1920x1080-075a7f386fc748c4545a0e252c1dd945.jpg",
+      "md5": "075a7f386fc748c4545a0e252c1dd945",
+      "size": 80670,
+      "uploadedDate": "2023-08-26T12:59:51.105Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal02-1920x1080-692d90f14b534c9bca6ec306814cd809.jpg",
+      "md5": "692d90f14b534c9bca6ec306814cd809",
+      "size": 72772,
+      "uploadedDate": "2023-08-26T12:59:51.313Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal03-1920x1080-2f6b66a3bf2d69c38227ec0e553ebed8.jpg",
+      "md5": "2f6b66a3bf2d69c38227ec0e553ebed8",
+      "size": 64254,
+      "uploadedDate": "2023-08-26T12:59:51.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal05-1920x1080-3a68da7d3eb00f4dc792e445705cccbf.jpg",
+      "md5": "3a68da7d3eb00f4dc792e445705cccbf",
+      "size": 86149,
+      "uploadedDate": "2023-08-26T12:59:51.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal06-1920x1080-df57a072513d248bf8f94786b978e9cf.jpg",
+      "md5": "df57a072513d248bf8f94786b978e9cf",
+      "size": 87767,
+      "uploadedDate": "2023-08-26T12:59:52.051Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Unreal04-1920x1080-4eba5f0baea4b38a03a31d0abe100ae2.jpg",
+      "md5": "4eba5f0baea4b38a03a31d0abe100ae2",
+      "size": 106941,
+      "uploadedDate": "2023-08-26T12:59:52.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SportGirlV2_thumb-284x284-4c47cdfef862147e4b3c790cb277a536.png",
+      "md5": "4c47cdfef862147e4b3c790cb277a536",
+      "size": 103711,
+      "uploadedDate": "2023-08-26T12:59:52.489Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SportGirlV2_featured-894x488-bb80a8570fd2def52ed3c4f7e1ca7883.png",
+      "md5": "bb80a8570fd2def52ed3c4f7e1ca7883",
+      "size": 278267,
+      "uploadedDate": "2023-08-26T12:59:52.639Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/logomarmoset-1920x1080-6d27142522fe62aefe247ef648007418_Snapshot.jpg",
+      "md5": "4dec15def4ceabc0f155328629ac6827",
+      "size": 4762,
+      "uploadedDate": "2023-08-26T12:59:49.461Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01marmoset-1920x1080-2f25f0c0e4360cf6514bb0a7565e8c0a_Snapshot.jpg",
+      "md5": "8ea0be799bc055420dd3add1530dd9aa",
+      "size": 5627,
+      "uploadedDate": "2023-08-26T12:59:49.773Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02marmoset-1920x1080-6d000fe674875f1ce319c1d23db81aad_Snapshot.jpg",
+      "md5": "fb24ad5105bcf6812a2dc6a4b77bc77b",
+      "size": 5347,
+      "uploadedDate": "2023-08-26T12:59:50.014Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06marmoset-1920x1080-a2e1db86e2c9c950e2b3d037f460a21e_Snapshot.jpg",
+      "md5": "0b81b08f17686ba2c2045961e231385f",
+      "size": 5326,
+      "uploadedDate": "2023-08-26T12:59:50.314Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03marmoset-1920x1080-cad021505321fa5575dd40938b871add_Snapshot.jpg",
+      "md5": "3cb97c4ae700641d1b586a80b57c591b",
+      "size": 3478,
+      "uploadedDate": "2023-08-26T12:59:50.551Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04marmoset-1920x1080-11a600915aac8f6d1c75d551ecc7f355_Snapshot.jpg",
+      "md5": "dbaa01ff99cbb61a5e72a8827d365313",
+      "size": 3689,
+      "uploadedDate": "2023-08-26T12:59:50.795Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05marmoset-1920x1080-d83f5828801289b25be09160e4458615_Snapshot.jpg",
+      "md5": "da13261f0c50e16354d70fa0d09af5d2",
+      "size": 4289,
+      "uploadedDate": "2023-08-26T12:59:51.045Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal01-1920x1080-075a7f386fc748c4545a0e252c1dd945_Snapshot.jpg",
+      "md5": "f9a1f87dde82d04759679ae81c015f6b",
+      "size": 5288,
+      "uploadedDate": "2023-08-26T12:59:51.255Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal02-1920x1080-692d90f14b534c9bca6ec306814cd809_Snapshot.jpg",
+      "md5": "2c7483d144248debf7a49a611b01f699",
+      "size": 4413,
+      "uploadedDate": "2023-08-26T12:59:51.465Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal03-1920x1080-2f6b66a3bf2d69c38227ec0e553ebed8_Snapshot.jpg",
+      "md5": "d009d7692cfaefcd5e04ead7ddb17eea",
+      "size": 3957,
+      "uploadedDate": "2023-08-26T12:59:51.707Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal05-1920x1080-3a68da7d3eb00f4dc792e445705cccbf_Snapshot.jpg",
+      "md5": "5f5c27b1efabeba1487bff88bb73c011",
+      "size": 6409,
+      "uploadedDate": "2023-08-26T12:59:51.992Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal06-1920x1080-df57a072513d248bf8f94786b978e9cf_Snapshot.jpg",
+      "md5": "22971a19dff243f8de91e9aee680f471",
+      "size": 6261,
+      "uploadedDate": "2023-08-26T12:59:52.225Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Unreal04-1920x1080-4eba5f0baea4b38a03a31d0abe100ae2_Snapshot.jpg",
+      "md5": "7a0466ac70e05b30b53eccc9e2eb5fe2",
+      "size": 5095,
+      "uploadedDate": "2023-08-26T12:59:52.446Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2b414cacf6e148e4bad6da931fc49949"
+    }
+  ],
+  "catalogNs": null
+}

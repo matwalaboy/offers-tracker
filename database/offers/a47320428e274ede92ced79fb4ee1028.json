@@ -1,0 +1,206 @@
+{
+  "id": "a47320428e274ede92ced79fb4ee1028",
+  "namespace": "ue",
+  "title": "AES Encrypt Decrypt",
+  "description": "AES Encryption And Decryption Of Strings And Data Arrays",
+  "longDescription": "<p>AES 加密解密字符串和数据数组。</p><p>AES Encryption And Decryption Of Strings And Data Arrays.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "aes-encrypt-decrypt",
+  "creationDate": "2022-03-25T15:19:06.913Z",
+  "lastModifiedDate": "2024-09-27T04:24:23.021Z",
+  "effectiveDate": "2022-03-25T15:19:06.884Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gc7x6nj7qlfarb37kchme2thh48ltv",
+    "name": "DT"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> AES Encrypt</li><li> AES Decrypt</li><li> AES Encrypt ( Data )</li><li>AES Decrypt ( Data )</li></ul><p>Code Modules:</p><ul><li> Runtime : DTAes</li></ul><p><br /></p><p>Number of Blueprints: 4</p><p>Supported Development Platforms: Windows, Linux, Mac</p><p>Supported Target Build Platforms: All</p><p>Documentation: <a href=\"https://blog.csdn.net/wmy19890322/article/details/123704030\" rel=\"nofollow\">English</a> <a href=\"https://blog.csdn.net/wmy19890322/article/details/123703629\" rel=\"nofollow\">中文</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "664e7f71-b278-4823-ad35-c704736a4b89"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/111-1920x1080-e9147a20f457b7a81fdfe9f7616bd4d1.png",
+      "md5": "e9147a20f457b7a81fdfe9f7616bd4d1",
+      "size": 154078,
+      "uploadedDate": "2022-03-18T09:32:41.813Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/44444-1920x1080-54bd2dfb0edf4c1cde0f3b2364ddeed2.png",
+      "md5": "54bd2dfb0edf4c1cde0f3b2364ddeed2",
+      "size": 400506,
+      "uploadedDate": "2022-03-25T02:06:10.131Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3333-1920x1080-82f130e0445cbf93c8380ca6567bb771.png",
+      "md5": "82f130e0445cbf93c8380ca6567bb771",
+      "size": 303070,
+      "uploadedDate": "2022-03-25T02:06:10.559Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AESEncryptDecrypt_thumb-284x284-26984ac06111a52422a784391206dce8.png",
+      "md5": "26984ac06111a52422a784391206dce8",
+      "size": 9770,
+      "uploadedDate": "2022-03-18T09:32:42.139Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AESEncryptDecrypt_featured-894x488-2c047cb28b1b2565f9f1e9e0fd90c01e.png",
+      "md5": "2c047cb28b1b2565f9f1e9e0fd90c01e",
+      "size": 104897,
+      "uploadedDate": "2022-03-18T09:32:42.237Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/44444-1920x1080-54bd2dfb0edf4c1cde0f3b2364ddeed2_Snapshot.png",
+      "md5": "ed787ec0023c6226cd5d7e3546d804dc",
+      "size": 3986,
+      "uploadedDate": "2022-03-25T02:06:10.408Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3333-1920x1080-82f130e0445cbf93c8380ca6567bb771_Snapshot.png",
+      "md5": "1ff458fe2cbb9f4d7f757e0291791515",
+      "size": 4565,
+      "uploadedDate": "2022-03-25T02:06:10.840Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/111-1920x1080-e9147a20f457b7a81fdfe9f7616bd4d1_Snapshot.png",
+      "md5": "0ff31d8c5761dc73c7f3094a90f808df",
+      "size": 4635,
+      "uploadedDate": "2022-03-18T09:32:42.077Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "162463f4cb8c425eb015305167dcc917"
+    }
+  ],
+  "catalogNs": null
+}

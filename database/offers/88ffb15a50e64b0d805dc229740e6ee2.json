@@ -1,0 +1,330 @@
+{
+  "id": "88ffb15a50e64b0d805dc229740e6ee2",
+  "namespace": "ue",
+  "title": "City Characters 02",
+  "description": "This set includes 12 city characters and 12 character avatars.    There are all kinds of jobs: party girl, office lady, florist, waiter and so on.     Also all characters have transparent background so you can place it on any surface you need.",
+  "longDescription": "<p>The package contains:</p><p><br /></p><p>-professions</p><p>pupil</p><p>teacher</p><p>waiter</p><p>primary school student</p><p>florist</p><p>trucker</p><p>party girl</p><p>college student</p><p>office lady</p><p>Each character&#39;s class can be set according to your needs</p><p><br /></p><p>-12 templates and</p><p><br /></p><p>- 12 character avatars</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "city-characters-02",
+  "creationDate": "2023-11-14T07:01:47.121Z",
+  "lastModifiedDate": "2024-09-27T09:11:17.196Z",
+  "effectiveDate": "2023-11-14T07:01:47.084Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-83vhy8a5we7mlr8zj94al9tj4s2rzx",
+    "name": "ChessStudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>All imgs have transparent and grey background</li><li>  Each imgs is 512x1024 pixels size (PNG)</li><li> 52 unique png in total</li></ul><p>Number of Textures: 52</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1253",
+      "name": "PSYCHEDELIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:24.178Z",
+      "updated": "2019-06-20T12:00:24.178Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "70f41c0f-e9a4-418c-bc81-76f8be801492"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080a-1920x1080-c09338170550585ba15fb63cadab77ef.png",
+      "md5": "c09338170550585ba15fb63cadab77ef",
+      "size": 1662117,
+      "uploadedDate": "2023-11-07T08:16:10.902Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080b-1920x1080-42ab65abd7e79c00b1aaf8f23b8c7fc0.png",
+      "md5": "42ab65abd7e79c00b1aaf8f23b8c7fc0",
+      "size": 1078793,
+      "uploadedDate": "2023-11-07T08:16:11.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080c-1920x1080-35c7fc57587ac910701451b1973097b3.png",
+      "md5": "35c7fc57587ac910701451b1973097b3",
+      "size": 1043185,
+      "uploadedDate": "2023-11-07T08:16:11.883Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080d-1920x1080-24f253d5579374efb1a76ae23795ed53.png",
+      "md5": "24f253d5579374efb1a76ae23795ed53",
+      "size": 792825,
+      "uploadedDate": "2023-11-07T08:16:12.446Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080cc-1920x1080-0522e766c2c3a728ece8a190f50b3701.png",
+      "md5": "0522e766c2c3a728ece8a190f50b3701",
+      "size": 886761,
+      "uploadedDate": "2023-11-09T03:05:38.608Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CityCharacters02_thumb-284x284-a6115e266d3ec733052a0b019b266032.png",
+      "md5": "a6115e266d3ec733052a0b019b266032",
+      "size": 147528,
+      "uploadedDate": "2023-11-07T08:16:12.793Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CityCharacters02_featured-894x488-274881d7ed65cc115807bcaf8ec0f083.png",
+      "md5": "274881d7ed65cc115807bcaf8ec0f083",
+      "size": 610989,
+      "uploadedDate": "2023-11-07T08:16:12.943Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080cc-1920x1080-0522e766c2c3a728ece8a190f50b3701_Snapshot.png",
+      "md5": "ae0cfbaafcb9680da48f9412f82dd13e",
+      "size": 8486,
+      "uploadedDate": "2023-11-09T03:05:38.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080a-1920x1080-c09338170550585ba15fb63cadab77ef_Snapshot.png",
+      "md5": "301601a3308a0a558b9dba10b7cb70eb",
+      "size": 10158,
+      "uploadedDate": "2023-11-07T08:16:11.208Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080b-1920x1080-42ab65abd7e79c00b1aaf8f23b8c7fc0_Snapshot.png",
+      "md5": "68fc4c3af2067f95251f08772d8d00d0",
+      "size": 8962,
+      "uploadedDate": "2023-11-07T08:16:11.660Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080c-1920x1080-35c7fc57587ac910701451b1973097b3_Snapshot.png",
+      "md5": "b8bfdf8759160613c0626d00a91934e0",
+      "size": 8704,
+      "uploadedDate": "2023-11-07T08:16:12.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080d-1920x1080-24f253d5579374efb1a76ae23795ed53_Snapshot.png",
+      "md5": "ebed32b8db26427db2ac8d4afabc1a79",
+      "size": 8208,
+      "uploadedDate": "2023-11-07T08:16:12.642Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "71198c741e4643f4913342b6967eb899"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,188 @@
+{
+  "id": "466b6a1cd5154973ba9946ca7db48556",
+  "namespace": "ue",
+  "title": "Winch & Cable System",
+  "description": "This plugin provides you with a system to attach and operate winches and cables easily using attachpoints",
+  "longDescription": "<p>Effortlessly add and control winches and cables in your project with our user-friendly plugin. This system provides a simple attachment mechanism using predefined points, allowing you to easily integrate winches and cables into your designs.</p><p><br /></p><p>The plugin supports multiple winches for complex setups and includes intuitive release and pull functions. With minimal coding required, it&#39;s perfect for developers of all skill levels looking to enhance their projects with realistic winch and cable mechanics.</p><p><br /></p><p>Whether you&#39;re creating construction equipment, tow trucks, or any project requiring cable dynamics, this plugin offers a straightforward solution for adding authentic winch functionality to your work.</p><p><br /></p><p>This plugin can be combined with <a href=\"https://www.unrealengine.com/marketplace/slug/56cfe7d9acdf48c387576b38a8862d0b\" rel=\"nofollow\">Seamless Foliage interaction </a> Plugin to add attach points to foliage across the world .</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "winch-cable-system",
+  "creationDate": "2024-07-18T16:28:57.790Z",
+  "lastModifiedDate": "2024-09-27T14:26:42.340Z",
+  "effectiveDate": "2024-07-18T16:28:57.751Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-p4qrdf6cdp4wdgumvngff9yw2vh3ma",
+    "name": "Aurelion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Simple Cable</li><li>Advanced Cable (Collisions)</li><li> Easy to setup</li><li>Customisation is possible</li></ul><p>Code Modules:</p><ul><li> WinchSystem</li></ul><p><br /></p><p>Number of Blueprints:0</p><p>Number of C&#43;&#43; Classes:8</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows,Mac,Linux</p><p>Supported Target Build Platforms:Windows, Mac, Linux, IOS, Android</p><p>Documentation: <a href=\"https://irajsb.github.io/GeneralDocs/WinchSystem/index\" rel=\"nofollow\">Link </a></p><p>Example Project: <a href=\"https://aurelion.net/Packages/WinchExample.zip\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "08e27e83-8812-46a1-97a4-d1cc0503ab1e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Begleit2compressed-1920x1080-237f35d2307556ed6e5286dd44efb010.jpg",
+      "md5": "237f35d2307556ed6e5286dd44efb010",
+      "size": 422687,
+      "uploadedDate": "2024-07-18T09:39:19.063Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Begleit4-1920x1080-7bcdbc0882153c1a459f77cdc303cf4c.png",
+      "md5": "7bcdbc0882153c1a459f77cdc303cf4c",
+      "size": 2432185,
+      "uploadedDate": "2024-07-18T09:39:19.596Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Begleit3-1920x1080-0717220dffac51bea929ba0711ea2fb4.png",
+      "md5": "0717220dffac51bea929ba0711ea2fb4",
+      "size": 2854752,
+      "uploadedDate": "2024-07-18T09:39:20.354Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Begleit1-1920x1080-37f7b49cfd9136861fbfb1eb4612f3d1.png",
+      "md5": "37f7b49cfd9136861fbfb1eb4612f3d1",
+      "size": 2381056,
+      "uploadedDate": "2024-07-18T09:39:21.143Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WinchCableSystem_thumb-284x284-82f9aabd63caba103c924a831b92d641.png",
+      "md5": "82f9aabd63caba103c924a831b92d641",
+      "size": 133680,
+      "uploadedDate": "2024-07-18T09:39:21.649Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WinchCableSystem_featured-894x488-a9d6c8418f749d26f8ce14138c18227b.png",
+      "md5": "a9d6c8418f749d26f8ce14138c18227b",
+      "size": 748003,
+      "uploadedDate": "2024-07-18T09:39:21.820Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Begleit2compressed-1920x1080-237f35d2307556ed6e5286dd44efb010_Snapshot.jpg",
+      "md5": "4c8f4f066035a6ff1e68b178dca5add7",
+      "size": 8020,
+      "uploadedDate": "2024-07-18T09:39:19.307Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Begleit4-1920x1080-7bcdbc0882153c1a459f77cdc303cf4c_Snapshot.png",
+      "md5": "66c874e42fd5a4d149bc8da35655de2f",
+      "size": 6161,
+      "uploadedDate": "2024-07-18T09:39:20.065Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Begleit3-1920x1080-0717220dffac51bea929ba0711ea2fb4_Snapshot.png",
+      "md5": "4919b411f351e98e7aa06b10a687549f",
+      "size": 7606,
+      "uploadedDate": "2024-07-18T09:39:20.875Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Begleit1-1920x1080-37f7b49cfd9136861fbfb1eb4612f3d1_Snapshot.png",
+      "md5": "fb670494bb6fd7fcfa6acc659c93f063",
+      "size": 6950,
+      "uploadedDate": "2024-07-18T09:39:21.594Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f4ae029b91944ab9bcb0459cce929d8c"
+    }
+  ],
+  "catalogNs": null
+}

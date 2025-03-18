@@ -1,0 +1,194 @@
+{
+  "id": "e5c76e29df5742a9a6623c1ab02b4f6f",
+  "namespace": "ue",
+  "title": "Modular Building Cabin",
+  "description": "Assets pack for designing full modular buildings with a cabin style.",
+  "longDescription": "Preview: <a href=\"https://www.youtube.com/watch?v&#61;eLkn_nK1HjM\" rel=\"nofollow\">youtube.com/watch?v&#61;eLkn_nK1HjM</a><br /><br />Modular Building: Cabin is a complete suit of assets for designing full modular buildings with a cabin style, including all the needed things, like walls, floors, roofs and a lot of props for interior decoration.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "modular-building-cabin",
+  "creationDate": "2016-10-24T17:28:37.631Z",
+  "lastModifiedDate": "2024-09-29T23:17:11.133Z",
+  "effectiveDate": "2016-11-09T00:00:00.000Z",
+  "viewableDate": "2016-11-09T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7d4e922d9548c6aa255e29bf98ebf0",
+    "name": "AlexTheDev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Number of Meshes: 102 <br />• Columns <br />• Doors <br />• DoorWalls <br />• Fences <br />• Floors <br />• Frames <br />• Props <br />• Roofs <br />• Stairs <br />• Walls <br />• WindowsWalls <br /><br />Physically-Based Rendering: Yes <br />Collision: Yes, Per-Poly Collisions <br />LODs: 0 <br />Vertex Count: From 36 to 1913 <br />Poly Count: From 12 to 804 <br />Number of Materials and Material Instances: 2 Master Materials and 47 Material Instances <br />Engine Versions: 4.12, 4.13 <br />Platforms Tested: PC",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "dcc23bb7-81e8-4f96-90c1-04868a59593a"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_01-1920x1080-cacd7b214924a4d87d58cdda97d8fbcd.png",
+      "md5": "cacd7b214924a4d87d58cdda97d8fbcd",
+      "size": 583680,
+      "uploadedDate": "2016-10-24T17:24:35.825Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_02-1920x1080-aa528367d09a4749b49d9786c3848fbb.png",
+      "md5": "aa528367d09a4749b49d9786c3848fbb",
+      "size": 275897,
+      "uploadedDate": "2016-10-24T17:24:37.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_03-1920x1080-d68419165e59fa3ab1927ec776544b2d.png",
+      "md5": "d68419165e59fa3ab1927ec776544b2d",
+      "size": 573968,
+      "uploadedDate": "2016-10-24T17:24:39.771Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_04-1920x1080-b3490227eae623eb90f4a0c69e310766.png",
+      "md5": "b3490227eae623eb90f4a0c69e310766",
+      "size": 584069,
+      "uploadedDate": "2016-10-24T17:24:43.085Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_05-1920x1080-d2e4e4a7cb2d691ae3d42e36d5709e94.png",
+      "md5": "d2e4e4a7cb2d691ae3d42e36d5709e94",
+      "size": 600175,
+      "uploadedDate": "2016-10-24T17:24:45.167Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_06-1920x1080-2a34c5320f5f1b1688818be6f848533c.png",
+      "md5": "2a34c5320f5f1b1688818be6f848533c",
+      "size": 404429,
+      "uploadedDate": "2016-10-24T17:24:47.611Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_07-1920x1080-95a5235e79036e0b7d5226f6aa454fc7.png",
+      "md5": "95a5235e79036e0b7d5226f6aa454fc7",
+      "size": 481981,
+      "uploadedDate": "2016-10-24T17:24:49.763Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_08-1920x1080-e8c39dd3bead4575ecd88f00f6120a17.png",
+      "md5": "e8c39dd3bead4575ecd88f00f6120a17",
+      "size": 444042,
+      "uploadedDate": "2016-10-24T17:24:52.157Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_09-1920x1080-f421c152d26405fdbe4df9674a1f212d.png",
+      "md5": "f421c152d26405fdbe4df9674a1f212d",
+      "size": 430156,
+      "uploadedDate": "2016-10-24T17:24:54.570Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_screenshot_10-1920x1080-41a04ef7675bdb2aca8af51657d89c4c.png",
+      "md5": "41a04ef7675bdb2aca8af51657d89c4c",
+      "size": 336773,
+      "uploadedDate": "2016-10-24T17:24:57.017Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_Thumb-284x284-b4a4ea0ee5c2e11e779835a52635043f.png",
+      "md5": "b4a4ea0ee5c2e11e779835a52635043f",
+      "size": 40284,
+      "uploadedDate": "2016-10-24T17:24:32.821Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/ModularBuildingCabain_FeaturedNew-894x488-d6273e15c68e965cbadb91c63da8b2e6.png",
+      "md5": "d6273e15c68e965cbadb91c63da8b2e6",
+      "size": 140251,
+      "uploadedDate": "2016-11-09T15:15:48.046Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "c42603bc2cf949668ccdf2df167b38ef"
+    }
+  ],
+  "catalogNs": null
+}

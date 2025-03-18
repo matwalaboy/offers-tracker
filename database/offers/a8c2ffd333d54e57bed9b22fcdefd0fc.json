@@ -1,0 +1,200 @@
+{
+  "id": "a8c2ffd333d54e57bed9b22fcdefd0fc",
+  "namespace": "ue",
+  "title": "Magical Music Pack Vol. 1",
+  "description": "Introducing the Magical Music Pack by Ovani Sound, an enchanting collection of royalty-free music designed to add a touch of magic to your games. Immerse your audience in mystical soundscapes that transport them to otherworldly realms.",
+  "longDescription": "<p><a href=\"https://soundcloud.com/ovanisound/sets/magical-vol-1?si&#61;4fe392571e9b4c9887b72a92cdbbf9ba&amp;utm_source&#61;clipboard&amp;utm_medium&#61;text&amp;utm_campaign&#61;social_sharing\" rel=\"nofollow\">Audio Preview</a></p><p><br /></p><p>A total of 50 music files!</p><p><br /></p><p>With each individual track, you’ll find three different intensity levels, each lasting approximately 90 seconds, along with a 30-second rough cut and a 60-second rough cut. Five different variants per track! With 10 distinct tracks, this diverse selection ensures seamless integration into your projects, providing the perfect musical backdrop.</p><p><br /></p><p>Furthermore, our tracks offer even more value by seamlessly looping when used with our Music Integration Plugins, providing you with enhanced flexibility for your game development process.</p><p><br /></p><p>48khz/24bit</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "magical-music-pack-vol-1",
+  "creationDate": "2024-07-11T18:14:51.536Z",
+  "lastModifiedDate": "2024-09-27T17:28:04.111Z",
+  "effectiveDate": "2024-07-11T18:14:51.488Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-svts9zawxreqp7b3eqgkq97ydwkzp4",
+    "name": "Ovani Sound"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Total minutes of audio: 60 minutes</p><p>Number of Audio Wavs: 50</p><p>Number of Audio Cues: 50</p><p>Sample rate / bit rate: 48khz/24bit</p><p>All Platforms Supported.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/music"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "81f6d834-4251-4d0b-8556-89b8bbc06b96"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/magicmusicpackvol1-1920x1080-b7e2f2a891cc1855a2c58e7d9b197a36.png",
+      "md5": "b7e2f2a891cc1855a2c58e7d9b197a36",
+      "size": 927429,
+      "uploadedDate": "2024-07-10T23:00:45.143Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MagicalMusicPackVol1_thumb-284x284-b8c141667c9a375c59e8f5581534e737.png",
+      "md5": "b8c141667c9a375c59e8f5581534e737",
+      "size": 170855,
+      "uploadedDate": "2024-07-03T16:26:27.357Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MagicalMusicPackVol1_featured-894x488-98f4be54c70c4262ca274766c56defef.png",
+      "md5": "98f4be54c70c4262ca274766c56defef",
+      "size": 811238,
+      "uploadedDate": "2024-07-03T16:26:27.504Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/magicmusicpackvol1-1920x1080-b7e2f2a891cc1855a2c58e7d9b197a36_Snapshot.png",
+      "md5": "457e8712a7db1fbf8823eb2105680a58",
+      "size": 5576,
+      "uploadedDate": "2024-07-10T23:00:46.699Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screen Shot 2024-05-06 at 1.39.35 PM-1920x1080-5672f49a64ab8bdb1bd67ac6d7b91bf5_Snapshot.png",
+      "md5": "a77ee846f1a5ba4c7e5d2bf8f0e483d5",
+      "size": 3640,
+      "uploadedDate": "2024-07-03T16:26:26.743Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/shot-1920x1080-acf4017827e5e2659636efbe9802bc1e_Snapshot.png",
+      "md5": "f33e6b11990564cd040be36fa13d420f",
+      "size": 5053,
+      "uploadedDate": "2024-07-03T16:26:27.223Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "780be2fb4a2e4acf88c641254ceb27fc"
+    }
+  ],
+  "catalogNs": null
+}

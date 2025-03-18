@@ -1,0 +1,236 @@
+{
+  "id": "6bee29ec8bf045289b8e998233a937e8",
+  "namespace": "ue",
+  "title": "Generic Guard System",
+  "description": "This plugin is to create powerful guard system for AI",
+  "longDescription": "<p>Generic Guard System is a generic system to implement powerful guard system for ANY styles/types games and it is customizable/extendable/easy to use.</p><p><a href=\"https://youtu.be/6hIFS7cKJvg\" rel=\"nofollow\">Intro Video</a> | <a href=\"https://mega.nz/file/POgzGDQR#VwD1UQi5T_SwfeHevkPf6e6vxSZqFF-fNLBjRGe3TME\" rel=\"nofollow\">Playable Demo</a></p><p>Any technical support or suggestion can send email to fredchantp&#64;gmail.com</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "generic-guard-system-beta",
+  "creationDate": "2020-09-10T04:44:24.129Z",
+  "lastModifiedDate": "2024-09-29T22:44:29.991Z",
+  "effectiveDate": "2020-09-10T04:44:22.287Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dmfx5hxtdl78fmbvx3vytntc9t447c",
+    "name": "TNoah"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Detection Meter</li><li>Range-based Alert Trigger</li><li>Customizable Alert Response</li><li>C&#43;&#43; based and Blueprint Exposed</li></ul><p>Code Modules:</p><ul><li>Generic Alert System (Runtime)</li><li>Generic Detection System (Runtime)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 3</p><p>Network Replicated: NO</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: Documented Blueprints in Sample Project</p><p>Example Project: <a href=\"https://mega.nz/folder/7KYHCYbY\" rel=\"nofollow\">Sample Project</a></p><p>Important/Additional Notes:</p><ul><li>Sample Project decryption key: <strong>FORWARD </strong>the receipt from EPIC to tagtocis.noah&#64;proton.me</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1243",
+      "name": "LEVEL EDITOR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:19.332Z",
+      "updated": "2019-06-20T12:00:19.332Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "76294810-3083-4973-88fd-a9e83c5204b7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery1-1920x1080-11630af0edd1d889dbd18813f4e1c6b5.png",
+      "md5": "11630af0edd1d889dbd18813f4e1c6b5",
+      "size": 704381,
+      "uploadedDate": "2020-09-03T03:05:32.293Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/gallery2-1920x1080-475d4f007cfce0a5e9d7c200b4d1051c.png",
+      "md5": "475d4f007cfce0a5e9d7c200b4d1051c",
+      "size": 1601463,
+      "uploadedDate": "2020-09-03T03:05:32.842Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GenericGuardSystem_thumb-284x284-7007dd188e6d4d8b3ff7a6427f7af068.png",
+      "md5": "7007dd188e6d4d8b3ff7a6427f7af068",
+      "size": 67759,
+      "uploadedDate": "2021-01-23T09:14:42.294Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GenericGuardSystemBETA_featured-894x488-734e7cfc8b98ea70846e0f07ded8de2b.png",
+      "md5": "734e7cfc8b98ea70846e0f07ded8de2b",
+      "size": 329362,
+      "uploadedDate": "2020-09-03T03:05:33.415Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-11630af0edd1d889dbd18813f4e1c6b5_Snapshot.png",
+      "md5": "c31f173104f84819c67b44720c9cabfe",
+      "size": 5464,
+      "uploadedDate": "2020-09-03T03:05:32.615Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-475d4f007cfce0a5e9d7c200b4d1051c_Snapshot.png",
+      "md5": "bf0e7d4e598abcc1e42a0297a361e2a7",
+      "size": 6965,
+      "uploadedDate": "2020-09-03T03:05:33.221Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "56b3a36d79884bca8a8a9f8ec1348401"
+    }
+  ],
+  "catalogNs": null
+}

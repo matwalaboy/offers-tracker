@@ -1,0 +1,371 @@
+{
+  "id": "0e4190d94f7a46e5946b4e6cf7522037",
+  "namespace": "ue",
+  "title": "Retro Mid Century Mod VOL.1",
+  "description": "A Collection of Mid Century inspired Furniture and Props!",
+  "longDescription": "<p>This project includes everything pictured with all assets, maps, materials, Blueprints, and effects created in the Unreal Engine. Each asset was created for realistic AAA quality visuals, style, and budget.</p><p><br /></p><p>Art created by Dekogon Kollab Artists.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "retro-mid-century-mod-vol",
+  "creationDate": "2018-05-18T14:33:45.723Z",
+  "lastModifiedDate": "2024-09-26T17:02:44.497Z",
+  "effectiveDate": "2018-05-18T14:33:45.680Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-efb24a1bbc44bea38a4f0b91a0ad66",
+    "name": "Dekogon Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>60 Meshes</li><li>High quality texture sets - most 2048 pixels &#43;</li><li>Master material set up that control the majority of all props and models</li><li>Additional controls for roughness, albedo, normals and more</li><li>Channel packed Roughness | Metalness | Ambient Occlusion | Emissive</li><li>Mid Century inspired design</li><li>Most meshes Includes closed version and open versions with shelves, doors, etc as seperate meshes</li><li>Realistic Post Process and Look Up Table</li><li>Free of all legal issues as all branding and labels are custom made by our studio</li><li>Fully detailed models from all sides</li><li>Some openable, detachable parts and drawers set into combined blueprints</li></ul><p><br /></p><p>Texture Sizes:</p><ul><li>2048 [47]</li><li>1024 [1]</li><li>512 [1]</li><li>256 [1]</li><li>128 [3]</li></ul><p><br /></p><p>Scaled to Epic skeleton: Yes</p><p>Collision: Yes, automatically generated and per-poly mix based on complexity of asset</p><p>Vertex Count: 25360 Tris for all assets combined (See documentation for individual polycounts)</p><p>LODs: Base LOD only</p><p>Number of Meshes: 60</p><p>Number of Materials and Material Instances: 21</p><p>Number of Textures: 54</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Window/Mac/PS4/Xbox</p><p>Documentation and Credits:</p><p>https://www.notion.so/Dekogon-Kollab-319209a9e0614afca7b7588960cd5ae3</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "0beeb0ae-f43f-445e-88d4-bf6713c4d1ab"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g18-1920x1080-4756d2cbf8bfd9cb2610ed880d18f7a0.jpg",
+      "md5": "4756d2cbf8bfd9cb2610ed880d18f7a0",
+      "size": 1318147,
+      "uploadedDate": "2018-05-09T04:03:55.417Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g4-1920x1080-15988ce11cdc37d43a46a2b177898ffb.jpg",
+      "md5": "15988ce11cdc37d43a46a2b177898ffb",
+      "size": 1557521,
+      "uploadedDate": "2018-05-09T04:03:55.651Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g5-1920x1080-c2aed340a1200e19e326b6a56579cd0e.jpg",
+      "md5": "c2aed340a1200e19e326b6a56579cd0e",
+      "size": 1397970,
+      "uploadedDate": "2018-05-09T04:03:55.925Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g6-1920x1080-abd29eb180b229946f50edc448cd422e.jpg",
+      "md5": "abd29eb180b229946f50edc448cd422e",
+      "size": 1588386,
+      "uploadedDate": "2018-05-09T04:03:56.153Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g7-1920x1080-d0239c9ca8549825d0df361f1f79c0a4.jpg",
+      "md5": "d0239c9ca8549825d0df361f1f79c0a4",
+      "size": 1558036,
+      "uploadedDate": "2018-05-09T04:03:56.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g8-1920x1080-79fb74571c1d52011f01fbae605cac11.jpg",
+      "md5": "79fb74571c1d52011f01fbae605cac11",
+      "size": 1292314,
+      "uploadedDate": "2018-05-09T04:03:56.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g9-1920x1080-4281b4cb6a0a90b679072f0eee8a9781.jpg",
+      "md5": "4281b4cb6a0a90b679072f0eee8a9781",
+      "size": 1559287,
+      "uploadedDate": "2018-05-09T04:03:56.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g10-1920x1080-e4ea95d8cbc3858847ac267069701dec.jpg",
+      "md5": "e4ea95d8cbc3858847ac267069701dec",
+      "size": 1268638,
+      "uploadedDate": "2018-05-09T04:03:57.083Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g11-1920x1080-e5d8c5b4f4b4462ebccf729d3edac075.jpg",
+      "md5": "e5d8c5b4f4b4462ebccf729d3edac075",
+      "size": 1626730,
+      "uploadedDate": "2018-05-09T04:03:57.456Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g12-1920x1080-ff31bfbfb7c2e841c4bafc022be5ab2e.jpg",
+      "md5": "ff31bfbfb7c2e841c4bafc022be5ab2e",
+      "size": 1395526,
+      "uploadedDate": "2018-05-09T04:03:57.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g14-1920x1080-fce731b3c1d43240a5ff3e7f73c1e1c3.jpg",
+      "md5": "fce731b3c1d43240a5ff3e7f73c1e1c3",
+      "size": 1450442,
+      "uploadedDate": "2018-05-09T04:03:57.835Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/b13-1920x1080-46a1ffef18d398dd40b9af4480e0e315.jpg",
+      "md5": "46a1ffef18d398dd40b9af4480e0e315",
+      "size": 1699217,
+      "uploadedDate": "2018-05-09T04:03:58.024Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g3-1920x1080-df0a3e83fe12910e417330f71e3d7bcf.jpg",
+      "md5": "df0a3e83fe12910e417330f71e3d7bcf",
+      "size": 591703,
+      "uploadedDate": "2018-05-09T04:03:58.170Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g2-1920x1080-997e68ea1323d0c60a8ff9511561a2d7.jpg",
+      "md5": "997e68ea1323d0c60a8ff9511561a2d7",
+      "size": 528077,
+      "uploadedDate": "2018-05-09T04:03:58.621Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/g1-1920x1080-ddddfaba2dd4f80647b701fcc9c41520.jpg",
+      "md5": "ddddfaba2dd4f80647b701fcc9c41520",
+      "size": 978756,
+      "uploadedDate": "2018-05-09T03:39:24.734Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RetroMidCenturyModVOL1_thumb-284x284-56bbef5cbfa2c0655841941563b92046.png",
+      "md5": "56bbef5cbfa2c0655841941563b92046",
+      "size": 156254,
+      "uploadedDate": "2018-05-09T03:39:24.847Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RetroMidCenturyModVOL1_featured-894x488-98b7d09cdbcfbd4badc54642d7a48a31.png",
+      "md5": "98b7d09cdbcfbd4badc54642d7a48a31",
+      "size": 676298,
+      "uploadedDate": "2018-05-09T03:39:24.945Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "fe152a0731af49918aeac21274c9e5f2"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,440 @@
+{
+  "id": "24c80d43e804486cb99b7c222add5ade",
+  "namespace": "ue",
+  "title": "Real Cinematic Studio Lights",
+  "description": "Design your own Cinematic Studio Lighting",
+  "longDescription": "<h2>Quickly and Easily Design your own Cinematic Studio Lighting</h2><ul><li>Select from a wide array of industry standard lights to generate your own custom configuration</li><li>Easily create cinematic lighting arrays in minutes</li><li>Perfect for visualization, product photography, techviz, virtual production virtual sets or IBL rendering</li><li>Mount your lights in 3 different ways also including an interactive tripod</li></ul><h2>Customize your lights</h2><ul><li>Add custom attachments like Barn Doors and control their parameters efforlessly</li><li>Choose from 10 different accessory attachments for the Hi-tech LED light</li></ul><h2>Manage your lights</h2><ul><li>Use the included widget to manage lights in groups</li></ul><p><br /></p><h2>Usability</h2><ul><li>Integration Ready - easy to integrate to your project</li><li>Easy to use with logical parameters</li><li>Drag and drop - get up and running immediately</li><li>Interactive and intuitive design</li></ul><h2><br /></h2><h2>Introduction Video and Quick Demo</h2><p><a href=\"https://youtu.be/WxXdcgbSTlk\" rel=\"nofollow\">https://youtu.be/WxXdcgbSTlk</a></p><p><strong>Discord Support: </strong><a href=\"https://discord.gg/6qVCQeU\" rel=\"nofollow\">https://discord.gg/6qVCQeU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "real-cinematic-studio-lights",
+  "creationDate": "2023-11-28T21:17:55.187Z",
+  "lastModifiedDate": "2024-09-30T11:13:39.618Z",
+  "effectiveDate": "2023-11-28T21:17:55.146Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fl5kbsundg3dywgf6yb8zzfnvy2sly",
+    "name": "3DVFX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><u>Features:</u></h2><p><strong>Lights: </strong></p><ul><li>4x HMI Studio Lights (with and without barn doors)</li><li>4x LED Panel Studio Lights (with and without barn doors)</li><li>1x Hi-tech LED Studio Light with 10 accessories</li></ul><p><strong>Mount Options:</strong></p><ul><li>3-way Mounting options</li><li>Interactive Tripod</li></ul><p><strong>Control:</strong></p><ul><li>Individual Lighting Controls</li><li>Master Lighting Control Widget</li></ul><p>Texture Sizes:</p><ul><li> 1024x1024 - 2048x2048</li></ul><p>UV Unwrapped:</p><ul><li>Yes</li></ul><p>Scaled to Epic skeleton: Yes</p><p>Collision: Auto generated</p><p>Vertex Count: 48-12137</p><p>LODs: No</p><p>Number of Meshes: 46</p><p>Number of Materials and Instances: 24 Mats, 1 Inst</p><p>Number of Textures: 5 (&#43;5 documentation)</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Steam VR / HTC Vive, Oculus, Gear VR, Linux, HTML5, Xbox, Android, iOS, Playstation, Windows, Mac</p><p>Plugins required: Editor Scripting (Documentation only)</p><p>Introduction Video and Quick Demo: <a href=\"https://youtu.be/WxXdcgbSTlk\" rel=\"nofollow\">https://youtu.be/WxXdcgbSTlk</a></p><p>Documentation: Also included in asset as utility widget</p><p>Please note: Some lights include Rect Light components which are not supported by Unreal in every rendering scenario</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1292",
+      "name": "SCIENCE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:43.611Z",
+      "updated": "2019-06-20T12:00:43.611Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b1fce4eb-2fbd-4913-a79d-1372fe8c86a5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/07-1920x1080-103f0f07d3e755d091254feb2cc4ade0.png",
+      "md5": "103f0f07d3e755d091254feb2cc4ade0",
+      "size": 1480780,
+      "uploadedDate": "2023-11-03T17:28:58.466Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/01-1920x1080-98d029fe7f2e35d95af91d60ea1e418c.png",
+      "md5": "98d029fe7f2e35d95af91d60ea1e418c",
+      "size": 1106029,
+      "uploadedDate": "2023-11-03T17:28:55.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/04-1920x1080-39966c3985f6095e2481e388a7ef7734.png",
+      "md5": "39966c3985f6095e2481e388a7ef7734",
+      "size": 1069530,
+      "uploadedDate": "2023-11-03T19:49:26.808Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/03-1920x1080-1d920a9096918de1f9831271b3da83e3.png",
+      "md5": "1d920a9096918de1f9831271b3da83e3",
+      "size": 1214565,
+      "uploadedDate": "2023-11-03T19:47:17.996Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/08-1920x1080-9fd9e81421076f474b474bbb2c4bf50e.png",
+      "md5": "9fd9e81421076f474b474bbb2c4bf50e",
+      "size": 1036723,
+      "uploadedDate": "2023-11-03T17:28:59.190Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/02-1920x1080-429a135e4622312e264d5f92fa68ac46.png",
+      "md5": "429a135e4622312e264d5f92fa68ac46",
+      "size": 1404729,
+      "uploadedDate": "2023-11-03T19:44:20.632Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/05-1920x1080-72106afba2a32c6cee20298c254b99e5.png",
+      "md5": "72106afba2a32c6cee20298c254b99e5",
+      "size": 718459,
+      "uploadedDate": "2023-11-03T17:28:57.292Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/06-1920x1080-4ea30d5c0fa4edfb7028a748819fdf6c.png",
+      "md5": "4ea30d5c0fa4edfb7028a748819fdf6c",
+      "size": 917522,
+      "uploadedDate": "2023-11-03T17:28:57.837Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealCinematicStudioLights_thumb-284x284-ff3647ffbf6947c1fbd33cdb8bb9dbc5.png",
+      "md5": "ff3647ffbf6947c1fbd33cdb8bb9dbc5",
+      "size": 87106,
+      "uploadedDate": "2023-11-22T21:08:09.283Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealCinematicStudioLights_featured-894x488-bbd74be6697370fbf84282cf9145b3fe.png",
+      "md5": "bbd74be6697370fbf84282cf9145b3fe",
+      "size": 387207,
+      "uploadedDate": "2023-11-03T20:53:46.991Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-39966c3985f6095e2481e388a7ef7734_Snapshot.png",
+      "md5": "26edb462c8f1a3a4603d8c731df7a795",
+      "size": 5183,
+      "uploadedDate": "2023-11-03T19:49:27.236Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-1d920a9096918de1f9831271b3da83e3_Snapshot.png",
+      "md5": "4d7da425ad3ab9c05fe4674926702f37",
+      "size": 6049,
+      "uploadedDate": "2023-11-03T19:47:18.382Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-429a135e4622312e264d5f92fa68ac46_Snapshot.png",
+      "md5": "d4e32222e9aabdaa8e8f8b41937a83f7",
+      "size": 7323,
+      "uploadedDate": "2023-11-03T19:44:21.021Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/02-1920x1080-b16aba6e5e2385a71dd1adc9c7cdc77c_Snapshot.png",
+      "md5": "1efafe734f35e1b5b76f88d8f156301b",
+      "size": 7151,
+      "uploadedDate": "2023-11-03T17:28:55.060Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-98d029fe7f2e35d95af91d60ea1e418c_Snapshot.png",
+      "md5": "031f330f7fde871aa422b9623738f044",
+      "size": 4973,
+      "uploadedDate": "2023-11-03T17:28:55.658Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/03-1920x1080-96325e81004dc14a1a23ed2c5029a652_Snapshot.png",
+      "md5": "1316e2924f8b7ca2e7c2d45a2aea52fc",
+      "size": 5906,
+      "uploadedDate": "2023-11-03T17:28:56.299Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/04-1920x1080-1cf2e2ada9a3fd7f59c1f73f4c0f8989_Snapshot.png",
+      "md5": "62f87e44a0a98bc70de4ef31f70ed529",
+      "size": 4882,
+      "uploadedDate": "2023-11-03T17:28:56.979Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/05-1920x1080-72106afba2a32c6cee20298c254b99e5_Snapshot.png",
+      "md5": "6b593807a8dd8035de89e6f0638a045f",
+      "size": 4301,
+      "uploadedDate": "2023-11-03T17:28:57.622Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/06-1920x1080-4ea30d5c0fa4edfb7028a748819fdf6c_Snapshot.png",
+      "md5": "e9fc31e51e0893e83ba7b31cba82bf51",
+      "size": 5003,
+      "uploadedDate": "2023-11-03T17:28:58.183Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/07-1920x1080-103f0f07d3e755d091254feb2cc4ade0_Snapshot.png",
+      "md5": "49a2adb449e7fa099651eb6e2aa629ab",
+      "size": 8485,
+      "uploadedDate": "2023-11-03T17:28:58.884Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/08-1920x1080-9fd9e81421076f474b474bbb2c4bf50e_Snapshot.png",
+      "md5": "a4184e3308cf8626de77e26b4f3c9731",
+      "size": 5270,
+      "uploadedDate": "2023-11-03T17:28:59.578Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/01-1920x1080-a65e6549859e6c8e45191cffba6864a9_Snapshot.png",
+      "md5": "2d1e35e5fdd490df867e76c391522c9b",
+      "size": 4743,
+      "uploadedDate": "2023-11-02T20:51:47.526Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2c9594c569c4467eb1dcfcd70cbf53c0"
+    }
+  ],
+  "catalogNs": null
+}

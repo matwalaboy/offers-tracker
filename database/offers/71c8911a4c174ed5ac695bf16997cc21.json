@@ -1,0 +1,182 @@
+{
+  "id": "71c8911a4c174ed5ac695bf16997cc21",
+  "namespace": "ue",
+  "title": "Asset Tab Manager",
+  "description": "Manage asset tabs, save and load tab sessions, recover previously open tabs - even after a crash!",
+  "longDescription": "<p>Asset Tab Manager or “<strong>ATM</strong>” is a plugin for Unreal Engine that allows you to track your recently opened assets and create “sessions” or collections of assets based on theme or workflow then open desired assets all at once in a specified order.</p><p><br /></p><p>Have you ever closed the editor and opened it again later on, <strong>only to find that you aren’t prompted to reopen your previously open tabs</strong>? Messed up, isn’t it? And there doesn’t always appear to be a reason why this prompt may or may not show up.</p><p><br /></p><p><strong>Asset Tab Manager not only allows you to create specific sessions</strong> by tracking recently opened asset tabs, but it also remembers your open tabs every time you open another asset and <strong>saves it as a backup session.</strong> That means that your previously open tabs will be able to be reopened any time you want. You are no longer at the mercy of whether or not the engine ‘remembers’ your previously open tabs!</p><p><br /></p><p>Why use Asset Tab Manager instead of Favorites or Collections in the Content Browser? For one thing, <strong>all recently opened assets are tracked so you don’t have to hunt them down in the Content Browser to save them to a collection</strong>. Furthermore, if you’re particular about your tab order, rejoice! <strong>Tabs opened by ATM will always open in a deterministic order that you define</strong>. </p><p><br /></p><p>Have one session for editing your pawn, one for editing a group of meshes in your level, one for editing all of the animations in a montage, one for working on a group of UI elements, one for absolutely <em>anything!</em></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "asset-tab-manager",
+  "creationDate": "2022-08-11T16:06:09.796Z",
+  "lastModifiedDate": "2024-09-28T20:22:49.609Z",
+  "effectiveDate": "2022-08-11T16:06:09.737Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a64f9d8fec453c9ea6363232d3856c",
+    "name": "Jared Therriault"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Track asset tabs and save them to sessions</li><li> Automatically backup tab sessions and restore them at any time, even after a crash</li><li> Recall recently opened assets quickly</li></ul><p>Code Modules:</p><ul><li> AssetTabManagerEditor(Editor)</li></ul><p>Number of Blueprints: 0</p><p>Number of C&#43;&#43; Classes: 10</p><p>Network Replicated: N/A</p><p>Supported Development Platforms: Windows x64, Mac, Linux</p><p><br /></p><p><a href=\"https://docs.google.com/document/d/1L1ViiOk1s0CzkTIT4nk2Ip8r4LxAVnMviwqKJJw4USY\" rel=\"nofollow\">English Language Manual</a></p><p><a href=\"https://forums.unrealengine.com/t/asset-tab-manager-manage-asset-tabs-save-and-load-tab-sessions-recover-previously-open-tabs/623632\" rel=\"nofollow\">Discussion</a> (changelog also found here)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "217515ab-6c77-4b7d-a2eb-2951c6c71805"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Image-1920x1080-81abb0a5351530b9071c3c24ea80aafe.png",
+      "md5": "81abb0a5351530b9071c3c24ea80aafe",
+      "size": 576303,
+      "uploadedDate": "2022-08-08T05:16:35.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AssetTabManager_thumb-284x284-f20cbe1bde7d191ec5854574d55a73bc.png",
+      "md5": "f20cbe1bde7d191ec5854574d55a73bc",
+      "size": 34422,
+      "uploadedDate": "2022-08-08T05:16:36.345Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AssetTabManager_featured-894x488-c0cbad2e7d5b2238e16739f41146692f.png",
+      "md5": "c0cbad2e7d5b2238e16739f41146692f",
+      "size": 162074,
+      "uploadedDate": "2022-08-08T05:16:36.470Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Image-1920x1080-81abb0a5351530b9071c3c24ea80aafe_Snapshot.png",
+      "md5": "953cfd5175dc7c3617c9b2b333c97597",
+      "size": 5252,
+      "uploadedDate": "2022-08-08T05:16:36.263Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ec0b129d05fb4878a7f3547ca2c11264"
+    }
+  ],
+  "catalogNs": null
+}

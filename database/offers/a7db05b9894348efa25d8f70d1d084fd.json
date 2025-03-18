@@ -1,0 +1,428 @@
+{
+  "id": "a7db05b9894348efa25d8f70d1d084fd",
+  "namespace": "ue",
+  "title": "Real Materials - Precious Metals",
+  "description": "Pack of 9 precious metals materials",
+  "longDescription": "<p>This volume of <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/Lex4art\" rel=\"nofollow\">Real Materials series</a> is dedicated to precious metals: gold (polished, foil, matte, freckles, common, fake),</p><p>silver (polished, aged) and platinum (polished). Note that this volume is also included in <a href=\"https://www.unrealengine.com/marketplace/en-US/product/real-materials-complete\" rel=\"nofollow\">Real Materials Complete</a> pack</p><p>with much lower price per item.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "real-materials-precious-metals",
+  "creationDate": "2022-02-28T18:58:03.881Z",
+  "lastModifiedDate": "2024-09-29T01:35:58.227Z",
+  "effectiveDate": "2022-02-28T19:02:21.529Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-bjmrcd7v7385leexjewvbzzc7647su",
+    "name": "Lex4art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li><a href=\"https://techkind.org/unreal/notiling.jpg\" rel=\"nofollow\">Reduced texture repetition</a> for surfaces up to 20x20m.</li><li>One click switch on <a href=\"https://www.techkind.org/unreal/faq.html#triplanarUVs\" rel=\"nofollow\">triplanar UVs</a>.</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances: one master and 9 instances.</p><p>Number of Textures: 29</p><p>Texture Resolutions: 80% are in 4K, rest in 1K / 2K.</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: <a href=\"https://www.techkind.org/unreal/faq.html\" rel=\"nofollow\">Real Materials FAQ</a> plus <a href=\"https://forums.unrealengine.com/t/real-materials-series/501743?u&#61;lex4art\" rel=\"nofollow\">official support thread</a>.</p><p>Additional Notes:</p><ul><li>Texture &#34;T_skydome_canary_wharf_D&#34; (skybox in demo map) taken from <a href=\"https://polyhaven.com/a/canary_wharf\" rel=\"nofollow\">Poly Haven</a> under CC0 license.</li><li>Mesh &#34;SM_Metal_mat_dummy_armor&#34; (knight armor in demo map) taken from <a href=\"https://www.blendswap.com/blends/view/76294\" rel=\"nofollow\">Blend Swap</a> under CC0 license.</li><li>When installing several packs of &#34;Real Materials&#34; series in to one project use option &#34;Replace&#34; if prompted about replacing existing files.</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "b783eebf-2ed6-4176-a52c-0f85666f1619"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious HEADER screenshot 1920x1080-1920x1080-7fc10d871717e6d7cc0436d159ca0918.jpg",
+      "md5": "7fc10d871717e6d7cc0436d159ca0918",
+      "size": 894093,
+      "uploadedDate": "2022-02-28T14:39:28.201Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00001-1920x1080-09f7a6848d7e06bdaefdef4c0f20f6b0.jpg",
+      "md5": "09f7a6848d7e06bdaefdef4c0f20f6b0",
+      "size": 449481,
+      "uploadedDate": "2022-02-28T14:39:29.150Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00015-1920x1080-1f484e996b72a08397a36a42e08998a0.jpg",
+      "md5": "1f484e996b72a08397a36a42e08998a0",
+      "size": 304055,
+      "uploadedDate": "2022-02-28T14:39:29.502Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00017-1920x1080-b53ee161cec5721d397386b974e8e858.jpg",
+      "md5": "b53ee161cec5721d397386b974e8e858",
+      "size": 719066,
+      "uploadedDate": "2022-02-28T14:39:29.924Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00016-1920x1080-357b545a0e4ca23ce8a68d19dfc8fabb.jpg",
+      "md5": "357b545a0e4ca23ce8a68d19dfc8fabb",
+      "size": 321384,
+      "uploadedDate": "2022-02-28T14:39:30.342Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00019-1920x1080-324b0d237222a6127676ccb37fc45ddf.jpg",
+      "md5": "324b0d237222a6127676ccb37fc45ddf",
+      "size": 327834,
+      "uploadedDate": "2022-02-28T14:39:30.709Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00018-1920x1080-8549616d26f6fea79bf02153118d7690.jpg",
+      "md5": "8549616d26f6fea79bf02153118d7690",
+      "size": 315440,
+      "uploadedDate": "2022-02-28T14:39:31.089Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00014-1920x1080-8f29340dca316045caabceb7db966292.jpg",
+      "md5": "8f29340dca316045caabceb7db966292",
+      "size": 284173,
+      "uploadedDate": "2022-02-28T14:39:31.507Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00013-1920x1080-945c02af719f76afe80399973c5a96b8.jpg",
+      "md5": "945c02af719f76afe80399973c5a96b8",
+      "size": 412595,
+      "uploadedDate": "2022-02-28T14:39:31.876Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Precious 00012-1920x1080-a93f4f8a3cf96989bb2b039c94f66aa8.jpg",
+      "md5": "a93f4f8a3cf96989bb2b039c94f66aa8",
+      "size": 285088,
+      "uploadedDate": "2022-02-28T14:39:32.223Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealMaterialsPreciousMetals_thumb-284x284-0b94d54fbb159603043b348f3ec93b62.png",
+      "md5": "0b94d54fbb159603043b348f3ec93b62",
+      "size": 191617,
+      "uploadedDate": "2022-02-28T14:39:32.568Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealMaterialsPreciousMetals_featured-894x488-927f7a1956b6cb0f4e70d59a9deb241b.png",
+      "md5": "927f7a1956b6cb0f4e70d59a9deb241b",
+      "size": 953275,
+      "uploadedDate": "2022-02-28T14:39:32.686Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious HEADER screenshot 1920x1080-1920x1080-7fc10d871717e6d7cc0436d159ca0918_Snapshot.jpg",
+      "md5": "ecb65eb73d3f72589ff1b118a6e3de36",
+      "size": 8525,
+      "uploadedDate": "2022-02-28T14:39:28.947Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00001-1920x1080-09f7a6848d7e06bdaefdef4c0f20f6b0_Snapshot.jpg",
+      "md5": "7e2932af63414162375838b17cd4fa64",
+      "size": 7252,
+      "uploadedDate": "2022-02-28T14:39:29.383Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00015-1920x1080-1f484e996b72a08397a36a42e08998a0_Snapshot.jpg",
+      "md5": "482d971707d8a59d32b0befd05c01ae8",
+      "size": 5644,
+      "uploadedDate": "2022-02-28T14:39:29.716Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00017-1920x1080-b53ee161cec5721d397386b974e8e858_Snapshot.jpg",
+      "md5": "ad711de7512f39fa39e8433f90f9731e",
+      "size": 6823,
+      "uploadedDate": "2022-02-28T14:39:30.200Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00016-1920x1080-357b545a0e4ca23ce8a68d19dfc8fabb_Snapshot.jpg",
+      "md5": "eb15fd4c0746ad615cda233c8b28a445",
+      "size": 5023,
+      "uploadedDate": "2022-02-28T14:39:30.555Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00019-1920x1080-324b0d237222a6127676ccb37fc45ddf_Snapshot.jpg",
+      "md5": "f28be73fa13daf8a9aaf24f4e7628d8c",
+      "size": 5955,
+      "uploadedDate": "2022-02-28T14:39:30.941Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00018-1920x1080-8549616d26f6fea79bf02153118d7690_Snapshot.jpg",
+      "md5": "fb85184fcd3b404e885e00b991456954",
+      "size": 6459,
+      "uploadedDate": "2022-02-28T14:39:31.356Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00014-1920x1080-8f29340dca316045caabceb7db966292_Snapshot.jpg",
+      "md5": "b63a9f90de6d075286e9209f7b057610",
+      "size": 5941,
+      "uploadedDate": "2022-02-28T14:39:31.747Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00013-1920x1080-945c02af719f76afe80399973c5a96b8_Snapshot.jpg",
+      "md5": "f57e9f8200ee6442658317836c47a113",
+      "size": 5842,
+      "uploadedDate": "2022-02-28T14:39:32.118Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Precious 00012-1920x1080-a93f4f8a3cf96989bb2b039c94f66aa8_Snapshot.jpg",
+      "md5": "7be51cda784d8a5810f31e33169f7c6e",
+      "size": 5864,
+      "uploadedDate": "2022-02-28T14:39:32.436Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "913dfa8a4bef49dbab0ca535f7799ac7"
+    }
+  ],
+  "catalogNs": null
+}

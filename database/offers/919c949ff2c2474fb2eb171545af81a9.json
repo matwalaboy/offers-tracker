@@ -1,0 +1,254 @@
+{
+  "id": "919c949ff2c2474fb2eb171545af81a9",
+  "namespace": "ue",
+  "title": "Master Metal Material",
+  "description": "You can use the master materials in your projects as you wish. You can also reproduce them in different ways",
+  "longDescription": "<p>Mackbear offers a good solution for your games, animated movies, commercials, VR projects and simulators. You can browse our store for the best materials in the process</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p>10 Materials</p><p>10 Material Instances</p><p><br /></p><p><br /></p><p>MASTER METAL MATERIAL</p><p><br /></p><p><br /></p><p><br /></p><p>All materials were carefully created</p><p>Superficially edited and overlay maps created.</p><p>Stage optimization is healthy.</p><p>Please contact us for contact and information.</p><p>All painting is done with Substance Painter and Designer.</p><p><br /></p><p><br /></p><p>Your feedback is important for us to improve ourselves, so feel free to comment and ask questions.</p><p><br /></p><p><br /></p><p><br /></p><p>Mesh unreal demo product used on stage!</p><p><br /></p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "master-metal-material",
+  "creationDate": "2023-10-27T05:12:39.628Z",
+  "lastModifiedDate": "2024-09-30T14:04:40.044Z",
+  "effectiveDate": "2023-10-27T05:12:39.599Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k2plfhdtb6uk2y38vljj7a7kkkwqnt",
+    "name": "StoneMocap"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li>Features: </li></ul><p>Number of Unique Materials and Material Instances: 10 Materials &amp; 10 Material Instances</p><p>Number of Textures: 40 </p><p>Texture Resolutions: 4096 x 4096</p><p>Supported Development Platforms:</p><p>\tWindows: (Yes)</p><p>\tMac: (Yes)</p><p>Documentation: Link (or a description of where users can find) the documentation</p><p>Important/Additional Notes:</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f158a271-5653-4f40-bce8-4225a455aa38"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-b4e2068ee6f1e36889e5e8cf7c5727f7.jpg",
+      "md5": "b4e2068ee6f1e36889e5e8cf7c5727f7",
+      "size": 294223,
+      "uploadedDate": "2023-10-25T08:10:10.282Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-d18221febf708f92c2f010a6075f72af.jpg",
+      "md5": "d18221febf708f92c2f010a6075f72af",
+      "size": 329730,
+      "uploadedDate": "2023-10-25T08:10:10.609Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-1e76f588be66496dafca12b0020e9cd3.jpg",
+      "md5": "1e76f588be66496dafca12b0020e9cd3",
+      "size": 466710,
+      "uploadedDate": "2023-10-25T08:10:11.050Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-badccad1f0ae03c7388d4994f262c716.jpg",
+      "md5": "badccad1f0ae03c7388d4994f262c716",
+      "size": 365622,
+      "uploadedDate": "2023-10-25T08:10:11.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-fad64f05e4ef96455fa4901efd40dd38.jpg",
+      "md5": "fad64f05e4ef96455fa4901efd40dd38",
+      "size": 338608,
+      "uploadedDate": "2023-10-25T08:10:12.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-9432993ca725b7bd5807154299c0cd33.jpg",
+      "md5": "9432993ca725b7bd5807154299c0cd33",
+      "size": 154256,
+      "uploadedDate": "2023-10-25T08:10:12.618Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-ac0f718eff0d4c54250b490674fab7ca.jpg",
+      "md5": "ac0f718eff0d4c54250b490674fab7ca",
+      "size": 191407,
+      "uploadedDate": "2023-10-25T08:10:13.026Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/MasterMetalMaterial_thumb-284x284-cf0eb35b26404e29d6c5281ed942746b.png",
+      "md5": "cf0eb35b26404e29d6c5281ed942746b",
+      "size": 173806,
+      "uploadedDate": "2023-10-25T08:10:13.505Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/MasterMetalMaterial_featured-894x488-2e62ee1ec932be2bdea7167b2bab74fb.png",
+      "md5": "2e62ee1ec932be2bdea7167b2bab74fb",
+      "size": 934419,
+      "uploadedDate": "2023-10-25T08:10:13.812Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-b4e2068ee6f1e36889e5e8cf7c5727f7_Snapshot.jpg",
+      "md5": "06ed00f5a7378972981955e327da9e44",
+      "size": 6619,
+      "uploadedDate": "2023-10-25T08:10:10.513Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-d18221febf708f92c2f010a6075f72af_Snapshot.jpg",
+      "md5": "359eff43402c6906ffdac0c371d37184",
+      "size": 9051,
+      "uploadedDate": "2023-10-25T08:10:10.838Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-1e76f588be66496dafca12b0020e9cd3_Snapshot.jpg",
+      "md5": "3ac3b16e4097eccd556c1328274e1459",
+      "size": 9081,
+      "uploadedDate": "2023-10-25T08:10:11.360Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-badccad1f0ae03c7388d4994f262c716_Snapshot.jpg",
+      "md5": "efd11248228ee3736def7d92f264401d",
+      "size": 9196,
+      "uploadedDate": "2023-10-25T08:10:11.924Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-fad64f05e4ef96455fa4901efd40dd38_Snapshot.jpg",
+      "md5": "67629a450869094f71dfe5e45cb4f53f",
+      "size": 7761,
+      "uploadedDate": "2023-10-25T08:10:12.393Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-9432993ca725b7bd5807154299c0cd33_Snapshot.jpg",
+      "md5": "7bb86c12b324629b2d0b0a16bfec4d8b",
+      "size": 5649,
+      "uploadedDate": "2023-10-25T08:10:12.850Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-ac0f718eff0d4c54250b490674fab7ca_Snapshot.jpg",
+      "md5": "c7edde99856a3e1d23af0a0b12e8e6c2",
+      "size": 5583,
+      "uploadedDate": "2023-10-25T08:10:13.354Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "9f7c7d646aa54b6f982d32d3556180fc"
+    }
+  ],
+  "catalogNs": null
+}

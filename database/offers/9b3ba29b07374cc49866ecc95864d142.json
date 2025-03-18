@@ -1,0 +1,374 @@
+{
+  "id": "9b3ba29b07374cc49866ecc95864d142",
+  "namespace": "ue",
+  "title": "Field Grass Vol 1",
+  "description": "Collection of 5 photo realistic blendable field grass materials in 4K, 2K, 1K resolutions.",
+  "longDescription": "<p>This is a collection of 5 blendable field grass variants that are project-ready. All variants are able to be blended together with material blending/mixing techniques on landscapes.</p><p><br /></p><p>All textures used are actual photos taken from real life and crafted to use in the engine.</p><p><br /></p><p><strong>For inquiries or support:</strong></p><p>Leave a question or send an email to my Marketplace email.</p><p>Email: <strong><u>cheif22projects&#64;outlook.com</u></strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "field-grass-vol-1",
+  "creationDate": "2021-07-11T17:02:35.611Z",
+  "lastModifiedDate": "2024-09-26T23:24:07.694Z",
+  "effectiveDate": "2021-07-11T17:02:35.520Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zpcetwpsvdg2krjyc8p4cgyace2suz",
+    "name": "Cheif22 Projects"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Tested with engine version 4.20 - 5.</li><li>5 field grass variants (each variant in 4K, 2K, 1K resolution).</li><li> Each Variant has a Normal, Roughness, Height, and Ambient Occlusion map in all listed resolutions.</li><li> Two heightmaps included per base texture. Detailed heightmaps work for tesselation best. Soft heightmaps work with both tesselation and parallax occlusion. (Overview level demonstrates both tesselation and parallax occlusion</li><li>16-Bit PNG format files for all 5 variants and listed resolutions are included in the asset download folder.</li></ul><p><br /></p><p>Number of Unique Materials and Material Instances:</p><ul><li>2 Master Materials</li><li>4K - 10 Material Instance (5 Displacement, 5 Parallax).</li><li>2K - 10 Material Instance (5 Displacement, 5 Parallax).</li><li>1K - 10 Material Instance (5 Displacement, 5 Parallax).</li></ul><p>Number of Textures:</p><ul><li>4K - 25 (Base color and texture maps) available in 16-Bit PNG</li><li>2K - 25 (Base color and texture maps) available in 16-Bit PNG</li><li>1K - 25 (Base color and texture maps) available in 16-Bit PNG</li></ul><p>Texture Resolutions:</p><ul><li>Each Grass Variant comes with 4K (4096x4096), 2K (2048x2048), and 1K (1024x1024)</li><li>4K, 2K, 1K, - Base color, Roughness map, Normal map, Heightmap, and Ambient Occlusion map.</li></ul><p>Supported Development Platforms:</p><p>Windows &amp; Mac: (Yes)</p><p>Documentation: Ask for documentation by email, I will add it when completed</p><p>Important/Additional Notes: For users who are using different engine versions not listed, 16bit PNG format source files will be included in the asset download folder.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/materials"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1312",
+      "name": "TURN-BASED TACTICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:53.664Z",
+      "updated": "2019-06-20T12:00:53.664Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1222",
+      "name": "TEXT-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:08.648Z",
+      "updated": "2019-06-20T12:00:08.648Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "85414bc9-aeeb-4baf-b743-ba6e2e855a59"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/showcase1-1920x1080-71346a8aeb53247b801d1a11b84bf5e8.jpg",
+      "md5": "71346a8aeb53247b801d1a11b84bf5e8",
+      "size": 1162755,
+      "uploadedDate": "2021-07-11T02:00:05.520Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Overview-1920x1080-779645a85a27d70e10b74b063e0c3c33.jpg",
+      "md5": "779645a85a27d70e10b74b063e0c3c33",
+      "size": 334275,
+      "uploadedDate": "2021-08-09T01:10:55.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/variant1-1920x1080-c4443a37c193c297aac09e1d848bfddd.jpg",
+      "md5": "c4443a37c193c297aac09e1d848bfddd",
+      "size": 1237215,
+      "uploadedDate": "2021-07-11T02:00:06.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/variant2-1920x1080-e4bb36c34032a5e6d9f5a1a5c0b6606f.jpg",
+      "md5": "e4bb36c34032a5e6d9f5a1a5c0b6606f",
+      "size": 1275558,
+      "uploadedDate": "2021-07-11T02:00:06.749Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/variant3-1920x1080-adcfe634e8d507e4e1321a4853b0785b.jpg",
+      "md5": "adcfe634e8d507e4e1321a4853b0785b",
+      "size": 1250886,
+      "uploadedDate": "2021-07-11T02:00:07.187Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/variant4-1920x1080-e1fd29b9fe5d0a5333130ddc3d6d7bb2.jpg",
+      "md5": "e1fd29b9fe5d0a5333130ddc3d6d7bb2",
+      "size": 1351586,
+      "uploadedDate": "2021-07-11T02:00:07.586Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/variant5-1920x1080-7bc2ee7e1475d806da1f2b94ec09b3c5.jpg",
+      "md5": "7bc2ee7e1475d806da1f2b94ec09b3c5",
+      "size": 1410963,
+      "uploadedDate": "2021-07-11T02:00:08.057Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Variant overview-1920x1080-b3b694f0f43924b7cab996785074547c.jpg",
+      "md5": "b3b694f0f43924b7cab996785074547c",
+      "size": 1700046,
+      "uploadedDate": "2021-10-16T14:07:25.216Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FieldGrassVol1_thumb-284x284-ec0ea1ef3c6f25d56ee13e7785c1ebb2.png",
+      "md5": "ec0ea1ef3c6f25d56ee13e7785c1ebb2",
+      "size": 58992,
+      "uploadedDate": "2021-07-11T02:00:08.377Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FieldGrassVol1_featured-894x488-d2e3cecf62ccc35e52c9dd2aa669a9ac.png",
+      "md5": "d2e3cecf62ccc35e52c9dd2aa669a9ac",
+      "size": 451126,
+      "uploadedDate": "2021-07-11T02:00:08.522Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Variant overview-1920x1080-b3b694f0f43924b7cab996785074547c_Snapshot.jpg",
+      "md5": "9996be408ec5853a5c593e9de98eb085",
+      "size": 5911,
+      "uploadedDate": "2021-10-16T14:07:25.822Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Overview-1920x1080-779645a85a27d70e10b74b063e0c3c33_Snapshot.jpg",
+      "md5": "5082330a0816d266d3a6c31055008b3c",
+      "size": 4362,
+      "uploadedDate": "2021-08-09T01:10:55.904Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Overview-1920x1080-f0f7afd0f5958e3753fa818366a2cdb4_Snapshot.jpg",
+      "md5": "836354687b40d2924ef37771e9f9e77e",
+      "size": 4993,
+      "uploadedDate": "2021-07-11T02:48:51.156Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/showcase1-1920x1080-71346a8aeb53247b801d1a11b84bf5e8_Snapshot.jpg",
+      "md5": "0f4b582915c386e4032dfa48d7c6e659",
+      "size": 6222,
+      "uploadedDate": "2021-07-11T02:00:05.784Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Overview-1920x1080-99ac4316b6dc0f2b71809552bf888911_Snapshot.jpg",
+      "md5": "95ae5987de2f7b4d8fde5d18c876074d",
+      "size": 4426,
+      "uploadedDate": "2021-07-11T02:00:06.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/variant1-1920x1080-c4443a37c193c297aac09e1d848bfddd_Snapshot.jpg",
+      "md5": "f3f317927e65ba6a075ed2d17a93520b",
+      "size": 6498,
+      "uploadedDate": "2021-07-11T02:00:06.596Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/variant2-1920x1080-e4bb36c34032a5e6d9f5a1a5c0b6606f_Snapshot.jpg",
+      "md5": "a08050bb07730d487fe383f695dcab68",
+      "size": 6628,
+      "uploadedDate": "2021-07-11T02:00:07.075Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/variant3-1920x1080-adcfe634e8d507e4e1321a4853b0785b_Snapshot.jpg",
+      "md5": "50129bd0a9cf51a7e787257c11b81db6",
+      "size": 6305,
+      "uploadedDate": "2021-07-11T02:00:07.461Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/variant4-1920x1080-e1fd29b9fe5d0a5333130ddc3d6d7bb2_Snapshot.jpg",
+      "md5": "08ac67902e70072daa4fffe2ab25fa20",
+      "size": 6484,
+      "uploadedDate": "2021-07-11T02:00:07.889Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/variant5-1920x1080-7bc2ee7e1475d806da1f2b94ec09b3c5_Snapshot.jpg",
+      "md5": "4aa90db5e21664aaae9b9a71e1c9bb24",
+      "size": 6084,
+      "uploadedDate": "2021-07-11T02:00:08.341Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e47452d05dbe42cc8cc431094d1fd798"
+    }
+  ],
+  "catalogNs": null
+}

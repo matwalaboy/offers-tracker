@@ -1,0 +1,285 @@
+{
+  "id": "2a3884770a654b05a0cbb4fd2ca1be5e",
+  "namespace": "ue",
+  "title": "TeX Engine",
+  "description": "Renders LaTeX formulas, enabling seamless integration of high-quality mathematical notation into your 3D environments and applications.",
+  "longDescription": "<p><strong>Official Documentation:</strong> <a href=\"https://www.hubberstudios.com/docs/texengine/index.html\" rel=\"nofollow\">TeX Engine</a></p><p><strong>Project Example:</strong> <a href=\"https://drive.google.com/file/d/1YivIGuKi3P8OZvK61a6n5Fk_LmIpTEMd/view?usp&#61;sharing\" rel=\"nofollow\">Download</a></p><p><strong>For support, please join our </strong><a href=\"https://discord.gg/P64Rj4v36B\" rel=\"nofollow\">Discord Server</a></p><p><br /></p><p>This Unreal Engine plugin allows you to render LaTeX formulas, providing a seamless integration of high-quality mathematical notation into your projects. It&#39;s fully compatible with the UMG framework, enabling you to easily incorporate complex equations and scientific expressions into your UI elements. Ideal for educational apps, simulations, and any project requiring precise mathematical representation.</p><p><br /></p><p><strong>HOW TO USE</strong></p><ol><li><strong>Insert a TexWidget:</strong> Inside the UMG editor add a TexWidget into your UI Tree.</li><li><strong>Set the TeX Formula:</strong> Write the TeX formula through default panel or with the exposed blueprint function.</li></ol>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "tex-engine",
+  "creationDate": "2024-06-13T22:24:10.037Z",
+  "lastModifiedDate": "2024-09-27T22:57:17.854Z",
+  "effectiveDate": "2024-06-13T22:24:09.999Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8dba3nbs3yt48g6d97qtwe5jat5drd",
+    "name": "Hubber Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Font License:</strong></p><p><a href=\"https://www.ctan.org/tex-archive/fonts/cm/\" rel=\"nofollow\">Bakoma</a>:</p><ul><li>cmex, cmmi, cmmib</li><li>eufb, eufm, cmbsy, cmsy, msam, msbm</li><li>cmr, cmbx, cmbxsl, cmbxti, cmcsc, cmitt, cmsl, cmsltt, cmss, cmssbx, cmssi, cmtcsc, cmtex, cmti, cmtt</li></ul><p><br /></p><p><a href=\"https://ctan.org/tex-archive/fonts/doublestroke?lang&#61;en\" rel=\"nofollow\">Knuth</a></p><ul><li>dsrom</li></ul><p><br /></p><p><a href=\"https://ctan.org/tex-archive/fonts/stmaryrd/?lang&#61;en\" rel=\"nofollow\">LATEX Project Public License</a></p><ul><li>stmary10</li></ul><p><br /></p><p>Other free:</p><ul><li><a href=\"https://ctan.org/tex-archive/fonts/rsfs\" rel=\"nofollow\">rsfs10</a></li><li>special</li><li>bi10, bx10, i10, r10, sb10, sbi10, si10, ss10, tt10</li></ul><p><br /></p><p><strong>Code Modules</strong></p><ul><li>TexEngine (Runtime)</li><li>TexEngineEditor (Editor)</li></ul><p><br /></p><p>Number of Blueprints: 1</p><p>Number of C&#43;&#43; Classes: 10</p><p>Supported Development Platforms: Win64</p><p>Supported Target Build Platforms: Win64</p><p>Documentation: <a href=\"https://www.hubberstudios.com/docs/texengine/index.html\" rel=\"nofollow\">TeX Engine</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1343",
+      "name": "MECHS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:08.830Z",
+      "updated": "2019-06-20T12:01:08.830Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "false"
+    },
+    {
+      "key": "FabListingId",
+      "value": "4a693501-25bb-428b-990f-272fdc984d98"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TexEngineHomepage-1920x1080-2150e1011f88a431db65545b58d9e484.png",
+      "md5": "2150e1011f88a431db65545b58d9e484",
+      "size": 569634,
+      "uploadedDate": "2024-06-12T20:42:07.873Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TexEngineScreenshot1-1920x1080-1bfdd14bb3da2750997df7a929024bdb.png",
+      "md5": "1bfdd14bb3da2750997df7a929024bdb",
+      "size": 847582,
+      "uploadedDate": "2024-06-12T20:42:08.576Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TexEngineScreenshot2-1920x1080-e75fe84dcaf0ae2fad2e9a0a8e245676.png",
+      "md5": "e75fe84dcaf0ae2fad2e9a0a8e245676",
+      "size": 924106,
+      "uploadedDate": "2024-06-12T20:42:09.112Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TexEngineScreenshot3-1920x1080-1e573afdaa22efae8ee36a6518a9a1d3.png",
+      "md5": "1e573afdaa22efae8ee36a6518a9a1d3",
+      "size": 518902,
+      "uploadedDate": "2024-06-12T20:42:09.679Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/TeXEngine_thumb-284x284-f9f2263de2f66a59c6102bf8db43ef7c.png",
+      "md5": "f9f2263de2f66a59c6102bf8db43ef7c",
+      "size": 79469,
+      "uploadedDate": "2024-06-12T20:42:10.032Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/TeXEngine_featured-894x488-e9bced647f2276dac26db4f217602a8c.png",
+      "md5": "e9bced647f2276dac26db4f217602a8c",
+      "size": 268567,
+      "uploadedDate": "2024-06-12T20:42:10.160Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TexEngineHomepage-1920x1080-2150e1011f88a431db65545b58d9e484_Snapshot.png",
+      "md5": "ea4c77704af8586cc5008cdfc8b10a5f",
+      "size": 5679,
+      "uploadedDate": "2024-06-12T20:42:08.315Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TexEngineScreenshot1-1920x1080-1bfdd14bb3da2750997df7a929024bdb_Snapshot.png",
+      "md5": "22919e1fbfa7db64b6421fba08d16777",
+      "size": 6133,
+      "uploadedDate": "2024-06-12T20:42:08.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TexEngineScreenshot2-1920x1080-e75fe84dcaf0ae2fad2e9a0a8e245676_Snapshot.png",
+      "md5": "ddfd52b7da32f9747c72d66ec0c912c6",
+      "size": 5472,
+      "uploadedDate": "2024-06-12T20:42:09.475Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TexEngineScreenshot3-1920x1080-1e573afdaa22efae8ee36a6518a9a1d3_Snapshot.png",
+      "md5": "26fe56a6222b4f5e40f94ae9bbcc6cdb",
+      "size": 4328,
+      "uploadedDate": "2024-06-12T20:42:09.951Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TexEngineScreenshot1-1920x1080-640663e29bbd74a3ca55ebd96ba54ffc_Snapshot.png",
+      "md5": "09e58ccee0c8d74b0b4fda8457f69827",
+      "size": 6676,
+      "uploadedDate": "2024-05-24T23:43:04.018Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c10c2ec931d84ccbab50204497ae5865"
+    }
+  ],
+  "catalogNs": null
+}

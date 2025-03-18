@@ -1,0 +1,368 @@
+{
+  "id": "a35283f7ef514ca4bcbfd4685c947075",
+  "namespace": "ue",
+  "title": "Advanced Multiplayer Leveling System",
+  "description": "Fully customizable complex Experience and Leveling System based on plug & play components, Restricted Areas and Experience Points Rewards divided to each player based on their damage. [100% BP]",
+  "longDescription": "<h2>&#x1f3ae; Watch &amp; Play</h2><ul><li><a href=\"https://bit.ly/2U4UpeH\" rel=\"nofollow\">Trailer Video</a> | <a href=\"https://bit.ly/3diRdno\" rel=\"nofollow\">Playable Demo</a></li></ul><p><br /></p><h2>&#x1f393; Documents</h2><ul><li><a href=\"https://bit.ly/2AwIG1A\" rel=\"nofollow\">Integration Video</a></li></ul><p><br /></p><h2>❓ Have a question?</h2><ul><li><a href=\"https://discord.com/invite/anpDN9F\" rel=\"nofollow\">Discord</a> with 1500&#43; Members</li></ul><p><br /></p><p><strong>Description:</strong></p><p>Is fully <strong>customizable complex Experience</strong> and <strong>Levelling </strong>System based on <strong>plug &amp; play</strong> components, <strong>Restricted Areas</strong> and Experience Points Rewards divided to each <strong>player</strong> based on their <strong>damage</strong>.</p><p>You can <strong>easily change</strong> level<strong> settings</strong> for <strong>your needs</strong> (Maximal Level, Level difference, Level Suffixes, Level Skipping, Experience Calculation Mode and many more).</p><p>Everything is done by <strong>mathematical calculations and equations</strong> (configurable &amp; commented) (No loops, using only 2 variables to determinate player level - <strong>Level </strong>and <strong>Total Experience Points</strong>).</p><p><strong>Experience Points Rewards</strong> are <strong>divided to players</strong> after <strong>enemy elimination</strong> or after <strong>defeating restricted zone</strong> <strong>percentually </strong>depending on their <strong>damage</strong>.</p><p>The System also contains <strong>customizable notifications</strong>, nice <strong>designed</strong> and <strong>animated</strong> widgets and <strong>Customizable AI component system</strong> - Health, name, experience amount given to players, spawning areas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "advanced-multiplayer-leveling-system",
+  "creationDate": "2020-06-02T17:23:43.009Z",
+  "lastModifiedDate": "2024-09-29T14:56:58.327Z",
+  "effectiveDate": "2020-06-02T17:23:41.218Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-paph9ju77zbmrxxt8rh95sksxrjurd",
+    "name": "Dreamrise Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Fully Multiplayer Replicated</li><li>Fully customizable with tons of settings</li><li>Restricted Areas</li><li>Rewards dividing to each player</li><li>Customizable AI component system</li><li>Different experience calculation methods based on custom mathematical equations</li><li>Custom Level Suffixes</li><li>Details like Level skipping prevention, Level decreasing prevention, customizable Level up range</li></ul><p><br /></p><p>Number of Blueprints: 6 (including 1 Player Character, 1 AI Character, 2 System Components and 2 System Actors)</p><p><br /></p><p>Network Replicated: Yes</p><p><br /></p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Other: Not tested yet</p><p>Documentation: Fully commented blueprints, for support feel free to contact us on Discord.</p><p>Important/Additional Notes: System is made of easy to use, plug &amp; play customizable components both for Player and AI.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1361",
+      "name": "QUICK-TIME EVENTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:17.649Z",
+      "updated": "2019-06-20T12:01:17.649Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a4c932df-4478-4894-a88b-07b8e62d0ec0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot04-1920x1080-5d9b8d1cfcf5b54e9c60c318e117a7d5.png",
+      "md5": "5d9b8d1cfcf5b54e9c60c318e117a7d5",
+      "size": 1539130,
+      "uploadedDate": "2020-05-30T16:04:17.311Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot03-1920x1080-a0c7a277636bf48b4cbad03238080059.png",
+      "md5": "a0c7a277636bf48b4cbad03238080059",
+      "size": 1527557,
+      "uploadedDate": "2020-05-30T16:04:17.802Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot02-1920x1080-118cb36a731957331ecc7d66e77042c0.png",
+      "md5": "118cb36a731957331ecc7d66e77042c0",
+      "size": 1566475,
+      "uploadedDate": "2020-05-30T16:04:18.322Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot06-1920x1080-9c0d4d9696bdb93893544da696c497ed.png",
+      "md5": "9c0d4d9696bdb93893544da696c497ed",
+      "size": 1602398,
+      "uploadedDate": "2020-05-30T16:04:18.901Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot05-1920x1080-e24f138be470072960290a7f55d01e40.png",
+      "md5": "e24f138be470072960290a7f55d01e40",
+      "size": 1550367,
+      "uploadedDate": "2020-05-30T16:04:19.449Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot01-1920x1080-dac1a6ff5b35f7e2fb9c33bdf9ffd399.png",
+      "md5": "dac1a6ff5b35f7e2fb9c33bdf9ffd399",
+      "size": 1820836,
+      "uploadedDate": "2020-05-30T16:04:20.016Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/AdvancedMultiplayerLevelingSystem_thumb-284x284-952604633fe7b3e9f4ce88477b1c5f28.png",
+      "md5": "952604633fe7b3e9f4ce88477b1c5f28",
+      "size": 53279,
+      "uploadedDate": "2020-06-02T23:14:01.759Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/AdvancedMultiplayerLevelingSystem_featured-894x488-7a9b594a817d321987e603ca915eaa0d.png",
+      "md5": "7a9b594a817d321987e603ca915eaa0d",
+      "size": 224958,
+      "uploadedDate": "2020-05-30T16:04:20.554Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot04-1920x1080-5d9b8d1cfcf5b54e9c60c318e117a7d5_Snapshot.png",
+      "md5": "c38098b2dc0ae1483e403640b3c99caf",
+      "size": 3623,
+      "uploadedDate": "2020-05-30T16:04:17.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot03-1920x1080-a0c7a277636bf48b4cbad03238080059_Snapshot.png",
+      "md5": "417cd7d065c2b89a7c5a6ce3d08464a4",
+      "size": 3642,
+      "uploadedDate": "2020-05-30T16:04:18.156Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot02-1920x1080-118cb36a731957331ecc7d66e77042c0_Snapshot.png",
+      "md5": "1bb3a4a8ae1eb729ec04e2f1b8e63304",
+      "size": 4072,
+      "uploadedDate": "2020-05-30T16:04:18.701Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot06-1920x1080-9c0d4d9696bdb93893544da696c497ed_Snapshot.png",
+      "md5": "278316ae7a1909ddb521bef5ea263089",
+      "size": 4246,
+      "uploadedDate": "2020-05-30T16:04:19.255Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot05-1920x1080-e24f138be470072960290a7f55d01e40_Snapshot.png",
+      "md5": "d0e4f9fb558fff7b0ebe485d0240dd5f",
+      "size": 3707,
+      "uploadedDate": "2020-05-30T16:04:19.799Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ScreenShot01-1920x1080-dac1a6ff5b35f7e2fb9c33bdf9ffd399_Snapshot.png",
+      "md5": "d10d9dd3ac09424f677cc74871433f24",
+      "size": 5137,
+      "uploadedDate": "2020-05-30T16:04:20.406Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e68f9b57b27a4197b591f0030207cbb0"
+    }
+  ],
+  "catalogNs": null
+}

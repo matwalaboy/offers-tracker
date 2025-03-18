@@ -1,0 +1,308 @@
+{
+  "id": "d4d958bb9682424fb73e08c4e4ed76c8",
+  "namespace": "ue",
+  "title": "NHC - Fluorescent Tents",
+  "description": "The pack includes 171 different fluorescent tent pictures with transparent backgrounds and 3 types of resolutions (513 textures in total).",
+  "longDescription": "<p>The pack consists of 171 different images (in 3 resolutions - 513 items), which include of different fluorescent tent pictures that can organically fit into any mobile project, game, website or product design.</p><p>These icons have three types of resolution and a transparent background for easier use.</p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-fluorescent-tents",
+  "creationDate": "2024-04-04T10:14:20.343Z",
+  "lastModifiedDate": "2024-09-27T13:30:25.538Z",
+  "effectiveDate": "2024-04-04T10:14:20.221Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features</p><p>Optional size of textures</p><p>Transparent </p><p><br /></p><p>Number of Textures: 513</p><p>1024 px - 171 textures</p><p>512 px - 171 textures</p><p>256 px - 171 textures</p><p><br /></p><p>Texture Resolutions: 256*256, 512*512, 1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "187f14b1-220f-4015-a63e-8906f1926f82"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production13-1920x1080-b723f62cd75ac4c15b08b7e2ed6f3a81.png",
+      "md5": "b723f62cd75ac4c15b08b7e2ed6f3a81",
+      "size": 1790379,
+      "uploadedDate": "2024-04-01T18:45:49.392Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production30-1920x1080-13ce83065106a47659d493b6a07211f5.png",
+      "md5": "13ce83065106a47659d493b6a07211f5",
+      "size": 1670886,
+      "uploadedDate": "2024-04-01T18:45:49.940Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production44-1920x1080-5accac24ad6a285f98a8aba6b4c0a597.png",
+      "md5": "5accac24ad6a285f98a8aba6b4c0a597",
+      "size": 1841527,
+      "uploadedDate": "2024-04-01T18:45:50.452Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production00-1920x1080-1bdb0e71118a3d4f1b71728b1ff1aa09.png",
+      "md5": "1bdb0e71118a3d4f1b71728b1ff1aa09",
+      "size": 1517486,
+      "uploadedDate": "2024-04-01T18:45:50.956Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production01-1920x1080-2ed8fb26dd26fb8fbbb334bd99837a15.png",
+      "md5": "2ed8fb26dd26fb8fbbb334bd99837a15",
+      "size": 1485597,
+      "uploadedDate": "2024-04-01T18:45:51.385Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Production03-1920x1080-36dd2595699d92bf7c85c31fa6337021.png",
+      "md5": "36dd2595699d92bf7c85c31fa6337021",
+      "size": 1557565,
+      "uploadedDate": "2024-04-01T18:45:51.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCFluorescentTents_thumb-284x284-ff0af42f36b551acdb1b0d12df437edc.png",
+      "md5": "ff0af42f36b551acdb1b0d12df437edc",
+      "size": 99669,
+      "uploadedDate": "2024-04-01T18:45:52.222Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCFluorescentTents_featured-894x488-56eb9b19bb87da8bf1cf1b34df0be228.png",
+      "md5": "56eb9b19bb87da8bf1cf1b34df0be228",
+      "size": 338009,
+      "uploadedDate": "2024-04-01T18:45:52.397Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production13-1920x1080-b723f62cd75ac4c15b08b7e2ed6f3a81_Snapshot.png",
+      "md5": "a63e5192b9e9a5bb686de08ecc567034",
+      "size": 5313,
+      "uploadedDate": "2024-04-01T18:45:49.745Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production30-1920x1080-13ce83065106a47659d493b6a07211f5_Snapshot.png",
+      "md5": "f3679a97c6ce67b37c1ce402685de404",
+      "size": 5429,
+      "uploadedDate": "2024-04-01T18:45:50.248Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production44-1920x1080-5accac24ad6a285f98a8aba6b4c0a597_Snapshot.png",
+      "md5": "baeb9133eec72cca3c925a37073d5d1e",
+      "size": 5663,
+      "uploadedDate": "2024-04-01T18:45:50.762Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production00-1920x1080-1bdb0e71118a3d4f1b71728b1ff1aa09_Snapshot.png",
+      "md5": "82dbb40025aff84a08fb5f1169a4bc28",
+      "size": 6441,
+      "uploadedDate": "2024-04-01T18:45:51.248Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production01-1920x1080-2ed8fb26dd26fb8fbbb334bd99837a15_Snapshot.png",
+      "md5": "36b83c39ddd5ce823f2974f98d160de8",
+      "size": 6119,
+      "uploadedDate": "2024-04-01T18:45:51.673Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Production03-1920x1080-36dd2595699d92bf7c85c31fa6337021_Snapshot.png",
+      "md5": "8f1c18d2f41be66cae5efd7b4ebc7d45",
+      "size": 6559,
+      "uploadedDate": "2024-04-01T18:45:52.174Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "34cfa269e9c54ac0baad88f4b2489df5"
+    }
+  ],
+  "catalogNs": null
+}

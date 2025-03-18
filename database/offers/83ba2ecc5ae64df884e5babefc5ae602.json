@@ -1,0 +1,380 @@
+{
+  "id": "83ba2ecc5ae64df884e5babefc5ae602",
+  "namespace": "ue",
+  "title": "Old Pier Set 1",
+  "description": "Set for rivers, seas and lakes.",
+  "longDescription": "<p>I present a collection of 22 high-quality 3d models of the Old Pier Set. Each model has 4K textures and PBR materials. The models are created with the correct topology and have a uniform style. </p><p><br /></p><p><strong>The demo scene shown in the images is not included with this product.</strong></p><p><br /></p><p><strong>This set is part of this large island pack</strong></p><p><a href=\"https://redirect.epicgames.com/?redirectTo&#61;https://www.unrealengine.com/marketplace/en-US/product/2114e73bc8c047b28239100465f32c9b\" rel=\"nofollow\"><strong>Island</strong></a></p><p><br /></p><p>Enjoy using it!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "old-pier-set-1",
+  "creationDate": "2023-10-18T04:08:54.623Z",
+  "lastModifiedDate": "2024-09-30T20:33:41.619Z",
+  "effectiveDate": "2023-10-18T04:08:54.534Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-a3rc6ukpmyt8w6xms8w6wnuxn9cv28",
+    "name": "Listudio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<ul><li><strong>22 unique PBR materials</strong></li><li><strong>8k_4k_2k textures for every single material</strong></li><li><strong>Unique Concept</strong></li><li><strong>Real-world based</strong></li></ul><p><strong>&#xfeff;</strong></p><p><strong><u>Texture maps</u></strong></p><ul><li><strong>Albedo</strong></li><li><strong>Normal</strong></li><li><strong>OcclusionRoughnessMetallic</strong></li></ul><h3><br /></h3><p>Number of Unique Meshes: 22</p><p>Collision: Yes ( automatically generated)</p><p>LODs: no</p><p>Number of Materials and Material Instances: 4 and 21</p><p>Number of Textures: 55</p><p>Texture Resolutions: 2k-8k</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1278",
+      "name": "EDUCATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:36.725Z",
+      "updated": "2019-06-20T12:00:36.725Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "02ace582-8d9a-4f10-a447-20874bc63675"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-21-28-1920x1080-b23bf86fa66f2bda887c1fde538f3d7b.jpg",
+      "md5": "b23bf86fa66f2bda887c1fde538f3d7b",
+      "size": 1389238,
+      "uploadedDate": "2023-10-12T18:18:01.354Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-20-07 copy-1920x1080-27ef2f5201d4f5c2f9878f0367675530.jpg",
+      "md5": "27ef2f5201d4f5c2f9878f0367675530",
+      "size": 1483548,
+      "uploadedDate": "2023-10-12T18:18:01.912Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-22-40 copy-1920x1080-7b8f285c300c3d5d13f169c8ce173d3b.jpg",
+      "md5": "7b8f285c300c3d5d13f169c8ce173d3b",
+      "size": 1468679,
+      "uploadedDate": "2023-10-12T18:18:02.518Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-20-25 copy-1920x1080-11431122d4f776db3ff3fcec74e8cfb3.jpg",
+      "md5": "11431122d4f776db3ff3fcec74e8cfb3",
+      "size": 1374268,
+      "uploadedDate": "2023-10-12T18:18:03.001Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-22-19 copy-1920x1080-2b1162e8bae994c4162f7519082c06c0.jpg",
+      "md5": "2b1162e8bae994c4162f7519082c06c0",
+      "size": 1409396,
+      "uploadedDate": "2023-10-12T18:18:03.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/T2023-10-1300-21-57 copy-1920x1080-4026e8094fd4f569b760182ab193ceb4.jpg",
+      "md5": "4026e8094fd4f569b760182ab193ceb4",
+      "size": 1229027,
+      "uploadedDate": "2023-10-12T18:18:04.129Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2023-10-1300-51-02-1920x1080-b7fc10cf266f247628ced21c3a26f10e.jpg",
+      "md5": "b7fc10cf266f247628ced21c3a26f10e",
+      "size": 845522,
+      "uploadedDate": "2023-10-12T18:18:04.668Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2023-10-1300-40-07-1920x1080-aa26086277e82c1f32971d1b872f3764.jpg",
+      "md5": "aa26086277e82c1f32971d1b872f3764",
+      "size": 670247,
+      "uploadedDate": "2023-10-12T18:18:05.072Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/OldPierset1_thumb-284x284-3a08bb13e93b1893e774abc14585eccd.png",
+      "md5": "3a08bb13e93b1893e774abc14585eccd",
+      "size": 170089,
+      "uploadedDate": "2023-10-12T18:18:05.474Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/OldPierset1_featured-894x488-d07a1841fa28ef93966a50280a40761b.png",
+      "md5": "d07a1841fa28ef93966a50280a40761b",
+      "size": 867332,
+      "uploadedDate": "2023-10-12T18:18:05.664Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-21-28-1920x1080-b23bf86fa66f2bda887c1fde538f3d7b_Snapshot.jpg",
+      "md5": "1117bb804bbecf9e1746cc7c3db05455",
+      "size": 7410,
+      "uploadedDate": "2023-10-12T18:18:01.646Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-20-07 copy-1920x1080-27ef2f5201d4f5c2f9878f0367675530_Snapshot.jpg",
+      "md5": "61a75134cc6d09fa23aa7d12ef0ad34d",
+      "size": 6868,
+      "uploadedDate": "2023-10-12T18:18:02.264Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-22-40 copy-1920x1080-7b8f285c300c3d5d13f169c8ce173d3b_Snapshot.jpg",
+      "md5": "f8c326fc737ff99eac20ce1bfa1a4992",
+      "size": 7794,
+      "uploadedDate": "2023-10-12T18:18:02.858Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-20-25 copy-1920x1080-11431122d4f776db3ff3fcec74e8cfb3_Snapshot.jpg",
+      "md5": "8a782ada8b061709d65a7d784d3a6668",
+      "size": 6588,
+      "uploadedDate": "2023-10-12T18:18:03.329Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-22-19 copy-1920x1080-2b1162e8bae994c4162f7519082c06c0_Snapshot.jpg",
+      "md5": "5325fe69d74d7bca5a2376b9b06aa313",
+      "size": 7601,
+      "uploadedDate": "2023-10-12T18:18:03.832Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/T2023-10-1300-21-57 copy-1920x1080-4026e8094fd4f569b760182ab193ceb4_Snapshot.jpg",
+      "md5": "1272aa0000a51c7788419b1de63fd487",
+      "size": 7050,
+      "uploadedDate": "2023-10-12T18:18:04.423Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-10-1300-51-02-1920x1080-b7fc10cf266f247628ced21c3a26f10e_Snapshot.jpg",
+      "md5": "240a86184b9dd5a7ebc57c3e19c9d3bd",
+      "size": 5472,
+      "uploadedDate": "2023-10-12T18:18:04.902Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2023-10-1300-40-07-1920x1080-aa26086277e82c1f32971d1b872f3764_Snapshot.jpg",
+      "md5": "c1425a6845a9eb8e980d16f70823b0db",
+      "size": 4856,
+      "uploadedDate": "2023-10-12T18:18:05.297Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fb330e6bbb1946f2b5ddf280e11294f8"
+    }
+  ],
+  "catalogNs": null
+}

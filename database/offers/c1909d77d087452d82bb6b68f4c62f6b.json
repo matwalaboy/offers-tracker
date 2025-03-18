@@ -1,0 +1,227 @@
+{
+  "id": "c1909d77d087452d82bb6b68f4c62f6b",
+  "namespace": "ue",
+  "title": "Blueprint Steam Achievements",
+  "description": "A collection of blueprint functions for Steam achievements for easy integration!",
+  "longDescription": "<p>This plugin provides the ability to implement Steam achievements into your project using only blueprint nodes</p><p><br /></p><p><a href=\"https://docs.google.com/document/d/1BXVmyy96YM0EY3xKqzy3gY0yrCZ4fHLn838q5UReqZA/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p><br /></p><p>My discord if you need any support: atomdaly</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "blueprint-steam-achievements",
+  "creationDate": "2023-09-24T15:50:28.442Z",
+  "lastModifiedDate": "2024-09-27T13:05:47.414Z",
+  "effectiveDate": "2023-09-24T15:50:28.393Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9rvmfzxtckfdfdswnh9r9lvrtct88t",
+    "name": "atomdev"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Unlock achievements</li><li>Clear achievements</li><li>Check achievement unlock status</li><li>Show achievement progress pop up</li><li>Open Steam overlay with a variety of options</li><li>Set stat values</li><li>Get the global achieved percentage for any achievement</li><li>Get achievement unlock date/time</li><li>Get achievement attribute (name, description, if the achievement is hidden)</li></ul><p><br /></p><p>Code Modules:</p><ul><li> SteamAchievements [Runtime]</li></ul><p><br /></p><p>Number of C&#43;&#43; Classes: 1</p><p>Network Replicated: No</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows, Mac, Linux</p><p>Documentation: <a href=\"https://docs.google.com/document/d/1BXVmyy96YM0EY3xKqzy3gY0yrCZ4fHLn838q5UReqZA/edit?usp&#61;sharing\" rel=\"nofollow\">Documentation</a></p><p>Important/Additional Notes: This product is not affiliated with Valve</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "817b2d0e-3ea4-4db1-9471-d62d3519a682"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-820ddce12746a806fceeedd199fd4662.png",
+      "md5": "820ddce12746a806fceeedd199fd4662",
+      "size": 120683,
+      "uploadedDate": "2023-09-20T22:33:25.849Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-1c391e5b2b8b35d4a219caa2b2f620f6.png",
+      "md5": "1c391e5b2b8b35d4a219caa2b2f620f6",
+      "size": 143671,
+      "uploadedDate": "2023-09-20T22:33:26.463Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-6fad76ffc91930a635d19b18b31035d2.png",
+      "md5": "6fad76ffc91930a635d19b18b31035d2",
+      "size": 100957,
+      "uploadedDate": "2023-09-20T22:33:26.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BPSteamAchievements_thumb-284x284-4d515c4585df8c04f035943b63b24482.png",
+      "md5": "4d515c4585df8c04f035943b63b24482",
+      "size": 62424,
+      "uploadedDate": "2023-09-20T21:57:09.620Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BlueprintSteamAchievements_featured-894x488-2f07bf438e4ffb3f4948fa9f44f1f619.png",
+      "md5": "2f07bf438e4ffb3f4948fa9f44f1f619",
+      "size": 124626,
+      "uploadedDate": "2023-09-20T23:05:07.118Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-820ddce12746a806fceeedd199fd4662_Snapshot.png",
+      "md5": "ac4227ebe95ac64107e725fd4a177869",
+      "size": 3565,
+      "uploadedDate": "2023-09-20T22:33:26.138Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-1c391e5b2b8b35d4a219caa2b2f620f6_Snapshot.png",
+      "md5": "f7df8aae8ce8458535ad25d8b9973df3",
+      "size": 3722,
+      "uploadedDate": "2023-09-20T22:33:26.744Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-6fad76ffc91930a635d19b18b31035d2_Snapshot.png",
+      "md5": "7dd4912a845b5e291437499718571a22",
+      "size": 3170,
+      "uploadedDate": "2023-09-20T22:33:27.108Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-c1eea6e5be9c8b5751d9ab980cb364c8_Snapshot.png",
+      "md5": "c67818229ebf1cdab9310a663b8648ef",
+      "size": 4958,
+      "uploadedDate": "2023-09-20T21:57:09.557Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "ca20ac8a777246f2befc03f7d2c3feb8"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,194 @@
+{
+  "id": "bbecde0f66914263b57fd2af5a0c7ffe",
+  "namespace": "ue",
+  "title": "EasyBallistics Plugin",
+  "description": "Simple and realistic ballistics simulation plugin.",
+  "longDescription": "<p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;LZwFdqcqY3A\" rel=\"nofollow\">youtube.com/watch?v&#61;LZwFdqcqY3A</a></p><p><br /></p><p>Works with both Blueprint and C&#43;&#43;</p><p><br /></p><p>Features:</p><p>Bullet actor:</p><p>-External ballistics - simulating, gravity, drag, wind</p><p>-Travel time</p><p>-Ricochets</p><p>-Wall penetration</p><p>-Affected by physics material</p><p>-Ballistic curves and variable air density</p><p>-Object Pooling</p><p><br /></p><p>Emitter component: </p><p>-Multile fire modes - automatic, semiauto, burst, manual charge </p><p>-Cone and velocity spread </p><p>-Unloading and reloading, optionally retaining chambered bullet </p><p>-Magazines can contain multiple bullet types </p><p>-Multiple submunitions per shot (shotgun)</p><p><br /></p><p>-Full multiplayer support with custom movement replication. </p><p>-Example project included</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easyballistics-plugin",
+  "creationDate": "2016-07-28T21:50:48.486Z",
+  "lastModifiedDate": "2024-09-30T08:10:21.702Z",
+  "effectiveDate": "2021-04-06T00:00:00.000Z",
+  "viewableDate": "2021-04-06T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-5d323d7e97444299516a3431d27685",
+    "name": "mookie"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Works by doing line traces along the path of the bullet. On impact it does additional forward or back trace to check the thickness of the obstacle and passes through if it isn&#39;t too thick. Plugin also includes a &#34;barrel&#34; component that handles spawning bullet actors. Bullet actors have custom replication code that only synchronizes their locations and velocities on impact, the rest is locally predicted.<br /><br />Example Project: <a href=\"https://drive.google.com/open?id&#61;0B20tIRBAcOlsLXB0WUxVaGhJd2s\" rel=\"nofollow\">drive.google.com/open?id&#61;0B20tIRBAcOlsLXB0WUxVaGhJd2s</a><br />Tutorial Playlist: <a href=\"https://www.youtube.com/playlist?list&#61;PLpdNKDbSpbwWSuayxEXsQc63Znn9WpQv4\" rel=\"nofollow\">youtube.com/playlist?list&#61;PLpdNKDbSpbwWSuayxEXsQc63Znn9WpQv4</a>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d95daf2f-eaaf-4bbf-9c50-6c4f02e017bf"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Screenshot1-1920x1080-671f0dfce16f96828ed692267b6a559a.png",
+      "md5": "671f0dfce16f96828ed692267b6a559a",
+      "size": 502397,
+      "uploadedDate": "2016-08-04T18:41:02.614Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Screenshot2-1920x1080-afc17cd89f379024ad2c7efb0b406c37.png",
+      "md5": "afc17cd89f379024ad2c7efb0b406c37",
+      "size": 622450,
+      "uploadedDate": "2016-08-04T18:41:00.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Screenshot3-1920x1080-1f7e3d8f436fa1299a304a55324f020a.png",
+      "md5": "1f7e3d8f436fa1299a304a55324f020a",
+      "size": 677679,
+      "uploadedDate": "2016-08-04T18:40:58.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Screenshot4-1920x1080-d7e375785f38e883c41fa87c2971bbe3.png",
+      "md5": "d7e375785f38e883c41fa87c2971bbe3",
+      "size": 516417,
+      "uploadedDate": "2016-08-04T18:40:54.130Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/Screenshot5-1920x1080-a7aa8cad7ee81bf35f4d6e125dde2d8e.png",
+      "md5": "a7aa8cad7ee81bf35f4d6e125dde2d8e",
+      "size": 584301,
+      "uploadedDate": "2016-08-04T18:40:56.363Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/item/thumb-284x284-0e65c275afd1949640beda0c0d425842.png",
+      "md5": "0e65c275afd1949640beda0c0d425842",
+      "size": 109417,
+      "uploadedDate": "2016-08-04T18:40:50.329Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/item/featured-476x246-3f6e50f47de9434477d0b6155bec4357.png",
+      "md5": "3f6e50f47de9434477d0b6155bec4357",
+      "size": 159960,
+      "uploadedDate": "2016-08-04T18:41:05.752Z",
+      "width": 476,
+      "height": 246
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ue/item/FeaturedNew-894x488-405e56047e5f240f5aca0e41a172008a.png",
+      "md5": "405e56047e5f240f5aca0e41a172008a",
+      "size": 368968,
+      "uploadedDate": "2016-08-04T18:41:04.188Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "8f0b746a2f8b4716aba46d1e76fc78f1"
+    }
+  ],
+  "catalogNs": null
+}

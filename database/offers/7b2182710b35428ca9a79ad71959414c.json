@@ -1,0 +1,476 @@
+{
+  "id": "7b2182710b35428ca9a79ad71959414c",
+  "namespace": "ue",
+  "title": "WM Input Manager",
+  "description": "Realtime Visual RAWINPUT/XINPUT unified INPUT & USB Device Manager with ability to remap, assign, configure gaming controllers during runtime. Each device has own config memory with 2 configurable modes for each device remembered",
+  "longDescription": "<p>Quick Preview : <a href=\"https://www.youtube.com/watch?v&#61;E0NqjRron9E\" rel=\"nofollow\">-&gt; HERE</a></p><p>Preview: <a href=\"https://www.youtube.com/watch?v&#61;E0NqjRron9E\" rel=\"nofollow\">-&gt; HERE</a></p><p>Website: <a href=\"https://www.instrictlogic.com\" rel=\"nofollow\">-&gt; HERE</a></p><p><strong>DEMO PROJECTS, STEP BY STEP INSTRUCTIONS AND TRANSITION TO ENHANCED INPUT EXPLANATIONS ARE ON WEBSITE </strong><a href=\"https://www.instrictlogic.com/\" rel=\"nofollow\">-&gt; HERE</a></p><p><br /></p><p>Realtime visual RAWINPUT/XINPUT USB Device Manager. You can use any HID-Compliant Gamepads/Joysticks as your input device with the ability to visually use, remap, configure, debug, assign device to specific a player (PlayerController) during gameplay with pre-built UMG menus included in package.</p><p>It detects controllers with visual events Plug&amp;Play functionality implemented inside the manager. All Devices have their own memory which memorizes 2 device modes that the developer or player can configure during gameplay.</p><p>If your device is plugged in it will automatically list your device in WM_InputManagerUMG &amp; will read all possible inputs and give you an options list for you to easily remap or configure.</p><p>Each WM_Controller Input key will list all ACTIONS in which they are used.</p><p>Each device will automatically autodetect axis type on first connected. Detects if axes are pedals 0-1 range or -1 1 or inverted. Configure , sensitivity, deadzone with magnitude, &#34;Auto/Reset&#34; button for axes.</p><p>You can make your own visual templates for SteeringWheel , FlightStick etc.</p><p>ManagerUMG will list for you all used WM_Controller input keys with corresponding bound actions &amp; combo options to pick target input path you wish.</p><p>WM_InputUMG must be added to Viewport inside GameMode because you have global control over devices while configuring so don&#39;t do that in PlayerController if you are creating more local players.</p><p>It is a perfect solution for Local Multiplayer Games to allow players to quickly assign device to specific a PlayerController.</p><p>User Profiles</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "wm-input-manager",
+  "creationDate": "2017-12-19T17:22:41.963Z",
+  "lastModifiedDate": "2024-09-27T14:33:11.714Z",
+  "effectiveDate": "2017-12-19T17:22:41.877Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-e9b8e21b88442ea976a64f5e051e30",
+    "name": "Instrictlogic"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li> players &amp; developers can remap Device Input paths visually during gameplay</li><li> All Devices has 2 configuration modes saved in memmory using savefiles and folder (Saved/WMDeviceConfigurations/)</li><li> Autodetect Axis type on 1stTime connected or via &#34;Auto/Reset&#34; (will detect if you have pedals 0-1 axis)</li><li>&#34;LISTEN&#34; for input</li><li> PlayerController device assigment (via widget for assigning controller with dpad controlls or arrow clicks)</li><li> Use multiple devices per player &amp; combine their input (virtually build multicontroller)</li><li> Perfect for game with more local players (Combat games, cooperative, fight)</li><li> Sensitivity, DeadZone, Invert, isPedal config</li><li>User Profiles</li><li>STEAM Controller Support</li></ul><p>Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))</p><ul><li> WM_InputManager_Plugin (Runtime)</li></ul><p>Number of Blueprints: 31</p><p>Number of C&#43;&#43; Classes: 18</p><p>Network Replicated: (No)</p><p>Supported Development Platforms: (WINDOWS 32bit , WINDOWS 64bit)</p><p>Supported Target Build Platforms: (WINDOWS 32bit , WINDOWS 64bit)</p><p>Documentation: <a href=\"https://www.youtube.com/watch?v&#61;mGRZJvWvJ4g\" rel=\"nofollow\">-&gt; HERE</a></p><p>Example Project: <a href=\"https://firebasestorage.googleapis.com/v0/b/instrictlogic-ue4.appspot.com/o/Plugins%2FWM_InputProjectExample_4.23%2B.zip?alt&#61;media&amp;token&#61;b709b9b8-61d3-4702-aed7-674862092b1d\" rel=\"nofollow\">-&gt; HERE</a></p><p>Important/Additional Notes: example project is 4.16, so don&#39;t forget to switch version</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1099",
+      "name": "EMOTIONAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:07.804Z",
+      "updated": "2019-06-20T11:59:07.804Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1104",
+      "name": "POLITICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:10.230Z",
+      "updated": "2023-01-20T09:26:02.835Z",
+      "status": "ACTIVE",
+      "referenceCount": 17,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1105",
+      "name": "TWIN STICK SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:10.719Z",
+      "updated": "2019-06-20T11:59:10.719Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1365",
+      "name": "PUZZLE-PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:19.733Z",
+      "updated": "2023-01-25T20:03:32.629Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "878669ae-a811-4fed-81ef-720aa35c18d1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Featured2-1920x1080-68fcb714419f83af43819d695f5d32e4.png",
+      "md5": "68fcb714419f83af43819d695f5d32e4",
+      "size": 459950,
+      "uploadedDate": "2017-11-14T15:58:47.191Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Featured3-1920x1080-6dea500a76ff6f4ad95aedfe538dbf52.png",
+      "md5": "6dea500a76ff6f4ad95aedfe538dbf52",
+      "size": 241772,
+      "uploadedDate": "2017-11-14T15:58:47.302Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Featured4-1920x1080-40056346d491df1a17d7c5ef82d0b05b.png",
+      "md5": "40056346d491df1a17d7c5ef82d0b05b",
+      "size": 215448,
+      "uploadedDate": "2017-11-14T15:58:47.376Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ListOfAvailableKeys-1920x1080-a5cb721912b04d72e5a0837e9edcbcca.png",
+      "md5": "a5cb721912b04d72e5a0837e9edcbcca",
+      "size": 796875,
+      "uploadedDate": "2017-12-20T20:54:50.886Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/feature10-1920x1080-3530bc17e8081714e128192b04d7971f.png",
+      "md5": "3530bc17e8081714e128192b04d7971f",
+      "size": 1291515,
+      "uploadedDate": "2018-01-18T20:57:31.565Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/feature11-1920x1080-4d2b2ae04c3ea5ea8ac9ea79bc41b8bf.png",
+      "md5": "4d2b2ae04c3ea5ea8ac9ea79bc41b8bf",
+      "size": 1328427,
+      "uploadedDate": "2018-01-18T20:57:31.742Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/doc01-1920x1080-6727d1445dd8405d541f4018a5d3db94.png",
+      "md5": "6727d1445dd8405d541f4018a5d3db94",
+      "size": 681177,
+      "uploadedDate": "2018-06-26T19:36:44.240Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/doc2-1920x1080-1938e68e36a71af58ace1271373354a2.png",
+      "md5": "1938e68e36a71af58ace1271373354a2",
+      "size": 785140,
+      "uploadedDate": "2018-06-26T20:20:12.448Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/doc3-1920x1080-fbda4377e7d314f39fe40c7574d2d599.png",
+      "md5": "fbda4377e7d314f39fe40c7574d2d599",
+      "size": 144799,
+      "uploadedDate": "2018-06-26T21:11:55.897Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/PlayerProfiles-1920x1080-ea389a076b5e84378a4c7f8de611e41c.jpg",
+      "md5": "ea389a076b5e84378a4c7f8de611e41c",
+      "size": 767160,
+      "uploadedDate": "2020-04-25T12:27:23.935Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/ProfilesExplanation-1920x1080-d020c6f589797e94382e1ff899142a4d.png",
+      "md5": "d020c6f589797e94382e1ff899142a4d",
+      "size": 416512,
+      "uploadedDate": "2020-04-25T20:05:05.658Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tutwmSettings-1920x1080-260af55da017e63b714aa68160dd01e5.png",
+      "md5": "260af55da017e63b714aa68160dd01e5",
+      "size": 636318,
+      "uploadedDate": "2021-10-24T22:50:13.857Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tutwmSettings2-1920x1080-82a7e88bb39dcf5eb823a034f56f887b.png",
+      "md5": "82a7e88bb39dcf5eb823a034f56f887b",
+      "size": 680806,
+      "uploadedDate": "2021-10-24T22:50:14.245Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/WMInputManager_thumb-284x284-8042242530159d2cf83b2a6fcb90f65c.png",
+      "md5": "8042242530159d2cf83b2a6fcb90f65c",
+      "size": 70393,
+      "uploadedDate": "2017-12-19T20:05:20.550Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/WMInputManager_featured-894x488-328bf0bbcdccb81384603c42af89a7bc.png",
+      "md5": "328bf0bbcdccb81384603c42af89a7bc",
+      "size": 511190,
+      "uploadedDate": "2017-11-14T15:58:47.570Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tutwmSettings-1920x1080-260af55da017e63b714aa68160dd01e5_Snapshot.png",
+      "md5": "e2db41dfdd66db303a1e3d5d1124af6f",
+      "size": 5550,
+      "uploadedDate": "2021-10-24T22:50:14.101Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/tutwmSettings2-1920x1080-82a7e88bb39dcf5eb823a034f56f887b_Snapshot.png",
+      "md5": "df23953e2053b1e7540c4561bf66a42f",
+      "size": 6004,
+      "uploadedDate": "2021-10-24T22:50:14.512Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProfilesExplanation-1920x1080-d020c6f589797e94382e1ff899142a4d_Snapshot.png",
+      "md5": "9aef527e6d6ed16770aff6a3be11245c",
+      "size": 6321,
+      "uploadedDate": "2020-04-25T20:05:05.905Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProfilesExplanation-1920x1080-db8e2c0c15665d8890ec2e2fd7c9140b_Snapshot.png",
+      "md5": "e8b1c4a9be571a62e2e56413825e2f7c",
+      "size": 6240,
+      "uploadedDate": "2020-04-25T16:59:47.966Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProfilesExplanation-1920x1080-7908504097829e4aa29fb38c8c37c4b1_Snapshot.png",
+      "md5": "96d3140d35afb392723ecacad45c80a9",
+      "size": 5896,
+      "uploadedDate": "2020-04-25T16:26:11.930Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProfilesExplanation-1920x1080-0f3a2dc8eeb2f74042a653d15213fe5b_Snapshot.png",
+      "md5": "9a75a91be976bfbfa0803fe65fd34193",
+      "size": 6884,
+      "uploadedDate": "2020-04-25T16:22:44.452Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/ProfilesExplanation-1920x1080-f6991d75cbd88fa2e2d37a48c9c551cc_Snapshot.png",
+      "md5": "11c3a03a69ecb4bdbca6d3eb1731954f",
+      "size": 6875,
+      "uploadedDate": "2020-04-25T16:14:15.821Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/PlayerProfiles-1920x1080-ea389a076b5e84378a4c7f8de611e41c_Snapshot.jpg",
+      "md5": "0b3e8075f66c92a2c7a1ccba5fe9712c",
+      "size": 5203,
+      "uploadedDate": "2020-04-25T12:27:24.183Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/doc3-1920x1080-2ad0d5c4b4d608977b732c31c7155b2e_Snapshot.png",
+      "md5": "f77e58de76099a5545cf6e9fce19fd40",
+      "size": 6526,
+      "uploadedDate": "2018-06-26T21:02:26.860Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/doc2-1920x1080-1938e68e36a71af58ace1271373354a2_Snapshot.png",
+      "md5": "ba279c5b67c31e694f23fb3f7ac05921",
+      "size": 15936,
+      "uploadedDate": "2018-06-26T20:20:12.842Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/doc01-1920x1080-6727d1445dd8405d541f4018a5d3db94_Snapshot.png",
+      "md5": "ebb98a863c701ae36c4d1dd25bf27e07",
+      "size": 10619,
+      "uploadedDate": "2018-06-26T19:36:44.508Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0e8b93c7e9a84fd3a4f41a1c635af3f5"
+    }
+  ],
+  "catalogNs": null
+}

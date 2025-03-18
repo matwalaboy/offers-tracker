@@ -1,0 +1,266 @@
+{
+  "id": "1fd4e56dd7524f7bbd81a046949e4e54",
+  "namespace": "ue",
+  "title": "Potions",
+  "description": "Would you like to taste a portion of a wonderful potion? 9th World Design Studio has just prepared for you a wide range of potions for every taste! To your health!",
+  "longDescription": "<p>The set includes 157 potion icons, made in various styles - colored and black and white pencil drawing, cyberpunk, steampunk, synthwave... And of course, there are also icons of real witch&#39;s potions! Images are great for you when developing inventory, for example, in a role-playing game or quest. In addition, you can implement your other gaming projects using these images. And may game design be with you!</p><p><br /></p><p>We are also pleased to invite you to familiarize yourself with our other <a href=\"https://www.unrealengine.com/marketplace/en-US/profile/9th&#43;World&#43;Design&#43;Studio?count&#61;20&amp;sortBy&#61;effectiveDate&amp;sortDir&#61;DESC&amp;start&#61;0\" rel=\"nofollow\">design products</a>. We hope that they will help you realize your most extraordinary gaming ideas!</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "potions",
+  "creationDate": "2024-01-22T01:21:16.431Z",
+  "lastModifiedDate": "2024-09-27T15:38:15.945Z",
+  "effectiveDate": "2024-01-22T01:21:16.379Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fqx8dy2mgxqfnv7lm7dmc5ttjkdrkw",
+    "name": "9th World Design Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Textures: 157</p><p>Texture Resolutions: 512 x 512 px</p><p>Supported Development Platforms:</p><p>\tWindows: Yes</p><p>\tMac: Yes</p><p>AI Software: Kandinsky</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "2a24b6f2-fbe9-4c73-82f5-6fac6bef34ca"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo5-1920x1080-d9a1c371a031d8c41428bb68136c59de.jpg",
+      "md5": "d9a1c371a031d8c41428bb68136c59de",
+      "size": 1143339,
+      "uploadedDate": "2024-01-20T18:23:47.683Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo4-1920x1080-a61dd0a59f32ded6359b8c7bf5b63305.jpg",
+      "md5": "a61dd0a59f32ded6359b8c7bf5b63305",
+      "size": 1586972,
+      "uploadedDate": "2024-01-20T18:23:48.741Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo3-1920x1080-3a8bdb52f2939ea5ffac88663599fcf3.jpg",
+      "md5": "3a8bdb52f2939ea5ffac88663599fcf3",
+      "size": 1307768,
+      "uploadedDate": "2024-01-20T18:23:49.718Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo2-1920x1080-86743e726c962ce490cfc9a93de6f951.jpg",
+      "md5": "86743e726c962ce490cfc9a93de6f951",
+      "size": 1270428,
+      "uploadedDate": "2024-01-20T18:23:50.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/totallogo-1920x1080-b4cc711963d41b78b38dbdda8a98be51.jpg",
+      "md5": "b4cc711963d41b78b38dbdda8a98be51",
+      "size": 1196022,
+      "uploadedDate": "2024-01-20T18:23:51.731Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Potions_thumb-284x284-1bb971fbe63122309eb9120d996d1ee0.png",
+      "md5": "1bb971fbe63122309eb9120d996d1ee0",
+      "size": 188738,
+      "uploadedDate": "2024-01-20T18:23:52.422Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Potions_featured-894x488-7a2a1f5ed5b82c900d0e7c245458d1dd.png",
+      "md5": "7a2a1f5ed5b82c900d0e7c245458d1dd",
+      "size": 750303,
+      "uploadedDate": "2024-01-20T18:23:52.561Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo5-1920x1080-d9a1c371a031d8c41428bb68136c59de_Snapshot.jpg",
+      "md5": "42ddee8df65188ab8573d6fa3bf2e115",
+      "size": 9367,
+      "uploadedDate": "2024-01-20T18:23:48.376Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo4-1920x1080-a61dd0a59f32ded6359b8c7bf5b63305_Snapshot.jpg",
+      "md5": "48a5f732f73f5d3f5efb1d9dd5d36330",
+      "size": 10750,
+      "uploadedDate": "2024-01-20T18:23:49.365Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo3-1920x1080-3a8bdb52f2939ea5ffac88663599fcf3_Snapshot.jpg",
+      "md5": "434f7da26f1af72a35d91eb33a756e4a",
+      "size": 9561,
+      "uploadedDate": "2024-01-20T18:23:50.397Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo2-1920x1080-86743e726c962ce490cfc9a93de6f951_Snapshot.jpg",
+      "md5": "9effda4f826c78f1b6f963ad8e496eee",
+      "size": 9093,
+      "uploadedDate": "2024-01-20T18:23:51.386Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/totallogo-1920x1080-b4cc711963d41b78b38dbdda8a98be51_Snapshot.jpg",
+      "md5": "5a7ea3db0426d46c91c0c37c47cc51c2",
+      "size": 9386,
+      "uploadedDate": "2024-01-20T18:23:52.332Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "2478b233d4de45db86b51d0123197636"
+    }
+  ],
+  "catalogNs": null
+}

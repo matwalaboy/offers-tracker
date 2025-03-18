@@ -1,0 +1,290 @@
+{
+  "id": "6789f761c4864f72bd4dcd16ebc8cd9c",
+  "namespace": "ue",
+  "title": "Japanese Style Dining Set",
+  "description": "Japanese Style Dining Set",
+  "longDescription": "<p>Japanese Style Dining Set with Interactive Cabinets and Lantern</p><p><br /></p><p>Preview: https://www.youtube.com/watch?v&#61;eTHylwgnEA4</p><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "japanese-style-dining-set",
+  "creationDate": "2022-12-19T22:42:39.067Z",
+  "lastModifiedDate": "2024-09-30T04:59:52.531Z",
+  "effectiveDate": "2022-12-19T22:42:39.021Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5vrbywtlfbzfpf3tc8ga6xzg9gjt4l",
+    "name": "Black Eye Creations"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Interactive Cabinets and Lantern</li><li>PBR Materials</li><li>Blueprints</li><li>Audio</li></ul><p>Number of Unique Meshes: 20</p><p>Collision: Yes automatically generated</p><p>LODs: No</p><p>Number of Materials and Material Instances: 16 Materials, 6 Material Instances</p><p>Number of Textures: 64 Textures</p><p>Number of Blueprints: 3 Blueprints</p><p>Number of Interfaces: 2 Interfaces</p><p>Number of Audio Clips: 2 Audio Clip</p><p>Number of Particle Systems: 1 Particle System</p><p>Texture Resolutions: 4,096 x 4,096 pixels</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p><p>Documentation: https://drive.google.com/file/d/1qziVhYI1mWqmKLX8M0VK_cTgJfuHZ9FZ/view?usp&#61;share_link</p><p>Important/Additional Notes: Interact Key &#34;E&#34;, Toggle Camera Key &#34;F&#34;</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "13391751-039e-46dd-9953-dd875ae484b9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set.JPG-1920x1080-960b510a18a1258bc85ef9e3d7fa6547.jpg",
+      "md5": "960b510a18a1258bc85ef9e3d7fa6547",
+      "size": 119430,
+      "uploadedDate": "2022-12-13T03:43:31.398Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 1.JPG-1920x1080-65530661b2b1f212a4fa6eb446631610.jpg",
+      "md5": "65530661b2b1f212a4fa6eb446631610",
+      "size": 160931,
+      "uploadedDate": "2022-12-13T03:43:31.733Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 2.JPG-1920x1080-e77139d99fd9c1724b78419106716ec8.jpg",
+      "md5": "e77139d99fd9c1724b78419106716ec8",
+      "size": 155115,
+      "uploadedDate": "2022-12-13T03:43:32.074Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 3.JPG-1920x1080-1074d0fcfd556436a52b092fe470e81c.jpg",
+      "md5": "1074d0fcfd556436a52b092fe470e81c",
+      "size": 137957,
+      "uploadedDate": "2022-12-13T03:43:32.480Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 4.JPG-1920x1080-ed06646ea61c33fc6f6a2a587b05aee6.jpg",
+      "md5": "ed06646ea61c33fc6f6a2a587b05aee6",
+      "size": 168355,
+      "uploadedDate": "2022-12-13T03:43:32.853Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 5.JPG-1920x1080-cab3eb1e022a9f6a1ad660d8d8fd824f.jpg",
+      "md5": "cab3eb1e022a9f6a1ad660d8d8fd824f",
+      "size": 105221,
+      "uploadedDate": "2022-12-13T03:43:33.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Dining Set 6.JPG-1920x1080-4ebf4c86198dedf98c51b05cfa1333b4.jpg",
+      "md5": "4ebf4c86198dedf98c51b05cfa1333b4",
+      "size": 146439,
+      "uploadedDate": "2022-12-13T03:43:33.472Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/JapaneseStyleDiningSet_thumb-284x284-fa27d904d1bcfefba66ea11a4d0411c1.png",
+      "md5": "fa27d904d1bcfefba66ea11a4d0411c1",
+      "size": 88047,
+      "uploadedDate": "2022-12-13T03:43:33.786Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/JapaneseStyleDiningSet_featured-894x488-63c76157a448e162f01e70ce6914eef3.png",
+      "md5": "63c76157a448e162f01e70ce6914eef3",
+      "size": 392696,
+      "uploadedDate": "2022-12-13T03:43:33.918Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set.JPG-1920x1080-960b510a18a1258bc85ef9e3d7fa6547_Snapshot.jpg",
+      "md5": "5720bf247c2c2c83f302feeccfe1845f",
+      "size": 5446,
+      "uploadedDate": "2022-12-13T03:43:31.612Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 1.JPG-1920x1080-65530661b2b1f212a4fa6eb446631610_Snapshot.jpg",
+      "md5": "3ab88984c68de722d2a52529ae1ae246",
+      "size": 6254,
+      "uploadedDate": "2022-12-13T03:43:31.942Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 2.JPG-1920x1080-e77139d99fd9c1724b78419106716ec8_Snapshot.jpg",
+      "md5": "688f8804a9af95b3b3bceec96845e023",
+      "size": 6161,
+      "uploadedDate": "2022-12-13T03:43:32.362Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 3.JPG-1920x1080-1074d0fcfd556436a52b092fe470e81c_Snapshot.jpg",
+      "md5": "0981d0da98ef11be9ceea2e691ce477b",
+      "size": 5315,
+      "uploadedDate": "2022-12-13T03:43:32.752Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 4.JPG-1920x1080-ed06646ea61c33fc6f6a2a587b05aee6_Snapshot.jpg",
+      "md5": "a6062c31861e09968b078d906339bf00",
+      "size": 6512,
+      "uploadedDate": "2022-12-13T03:43:33.057Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 5.JPG-1920x1080-cab3eb1e022a9f6a1ad660d8d8fd824f_Snapshot.jpg",
+      "md5": "7a299a2905c08eba9241bf2f25121e62",
+      "size": 4769,
+      "uploadedDate": "2022-12-13T03:43:33.335Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Dining Set 6.JPG-1920x1080-4ebf4c86198dedf98c51b05cfa1333b4_Snapshot.jpg",
+      "md5": "2a004b4c627700630dae6af119b6de65",
+      "size": 5588,
+      "uploadedDate": "2022-12-13T03:43:33.704Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "be80fbc225a64601abcd62d94ae10b6e"
+    }
+  ],
+  "catalogNs": null
+}

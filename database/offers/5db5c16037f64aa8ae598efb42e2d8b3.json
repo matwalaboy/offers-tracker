@@ -1,0 +1,120 @@
+{
+  "id": "5db5c16037f64aa8ae598efb42e2d8b3",
+  "namespace": "ue",
+  "title": "Easy Open Android Settings Screen",
+  "description": "Easy Open Android Settings Screen",
+  "longDescription": "<p>By using this plugin you can open the settings screen of the Android device</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-open-android-settings-screen",
+  "creationDate": "2024-09-21T04:43:30.624Z",
+  "lastModifiedDate": "2024-09-27T07:52:06.028Z",
+  "effectiveDate": "2024-09-21T04:43:30.602Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-rynqwbuds7nwfdmr2sznmhbkp86bw9",
+    "name": "Gdy Developer"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Open WIFI Settings Screen</li><li>Open BLUETOOTH Settings Screen</li><li>Open DISPLAY Settings Screen</li><li>Open DEVICE INFO Settings Screen</li><li>Open SECURITY Settings Screen</li><li>Custom Open Android Settings Screen</li></ul><p><br /></p><p>Code Modules:</p><ul><li> Easy Open Android Settings Screen [Runtime]</li></ul><p><br /></p><p>Number of Blueprints 6</p><p>Number of C&#43;&#43; Classes 6</p><p>Supported Development Platforms: [ Windows, Linux, MacOS ]</p><p>Supported Target Build Platforms: [ Android]</p><p>Documentation: <a href=\"https://gdydevelopment.blogspot.com/2024/09/easy-open-android-settings-screen.html\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "promotionalContent",
+      "value": "true"
+    },
+    {
+      "key": "FabListingId",
+      "value": "8017896f-368a-4150-913d-a7ada7928a7c"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920-1920x1080-255159b7ffce1380f9d913e73b3e6908.png",
+      "md5": "255159b7ffce1380f9d913e73b3e6908",
+      "size": 129725,
+      "uploadedDate": "2024-09-18T05:34:48.735Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Screenshot 2024-09-18 113932-1920x1080-54a47c24b208ef314dffd2c0efb0cca5.png",
+      "md5": "54a47c24b208ef314dffd2c0efb0cca5",
+      "size": 386238,
+      "uploadedDate": "2024-09-18T06:10:29.740Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyOpenAndroidSettingsScreen_thumb-284x284-df957f35e04b8214f22d5d7bc238e246.png",
+      "md5": "df957f35e04b8214f22d5d7bc238e246",
+      "size": 17843,
+      "uploadedDate": "2024-09-18T05:34:49.013Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyOpenAndroidSettingsScreen_featured-894x488-2ee04add4795204f42528a099ad14ca8.png",
+      "md5": "2ee04add4795204f42528a099ad14ca8",
+      "size": 67750,
+      "uploadedDate": "2024-09-18T05:34:49.110Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Screenshot 2024-09-18 113932-1920x1080-54a47c24b208ef314dffd2c0efb0cca5_Snapshot.png",
+      "md5": "126de776f1626fe969ffb6248822038a",
+      "size": 5335,
+      "uploadedDate": "2024-09-18T06:10:30.017Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920-1920x1080-255159b7ffce1380f9d913e73b3e6908_Snapshot.png",
+      "md5": "866fb33a943faf8e6eb6fe565860b1a4",
+      "size": 4284,
+      "uploadedDate": "2024-09-18T05:34:48.981Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e398d187fd1d4694bc12ffc9c4c349d2"
+    }
+  ],
+  "catalogNs": null
+}

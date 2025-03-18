@@ -1,0 +1,308 @@
+{
+  "id": "b7a0ca6a56f1454ca98efb42f2c6b795",
+  "namespace": "ue",
+  "title": "NHC - Scary Crowns",
+  "description": "The pack includes 130 different scary crown pictures with transparent backgrounds and 3 types of resolutions (390 textures in total).",
+  "longDescription": "<p>The pack consists of 130 different images (in 3 resolutions - 390 items), which include of different scary crown pictures that can organically fit into any mobile project, game, website or product design.</p><p>These icons have three types of resolution and a transparent background for easier use.</p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-scary-crowns",
+  "creationDate": "2024-07-28T09:07:41.917Z",
+  "lastModifiedDate": "2024-09-29T17:18:38.939Z",
+  "effectiveDate": "2024-07-28T09:07:41.857Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><p>Optional size of textures</p><p>Transparent </p><p><br /></p><p>Number of Textures: 390</p><p>1024 px - 130 textures</p><p>512 px - 130 textures</p><p>256 px - 130 textures</p><p><br /></p><p>Texture Resolutions: 256*256, 512*512, 1024*1024</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "7609e5cf-9e97-4873-b5ba-7ff7610c9b87"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview004-1920x1080-ad7b30bcdf031fdf77cca0455f329fc1.jpeg",
+      "md5": "ad7b30bcdf031fdf77cca0455f329fc1",
+      "size": 174660,
+      "uploadedDate": "2024-07-18T06:15:36.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview004-1920x1080-ad7b30bcdf031fdf77cca0455f329fc1_Snapshot.jpeg",
+      "md5": "a470d85636ab235b360fa6cbb686ccc4",
+      "size": 5751,
+      "uploadedDate": "2024-07-18T06:15:36.379Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-003f24505e095a886a0c261f91442dbb.jpeg",
+      "md5": "003f24505e095a886a0c261f91442dbb",
+      "size": 152670,
+      "uploadedDate": "2024-07-18T06:15:36.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-003f24505e095a886a0c261f91442dbb_Snapshot.jpeg",
+      "md5": "ef91e3e7583d1973fa7b6a8a70513e94",
+      "size": 4895,
+      "uploadedDate": "2024-07-18T06:15:36.678Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm006-1920x1080-0a0621af52317c236a3a13508473229c.jpeg",
+      "md5": "0a0621af52317c236a3a13508473229c",
+      "size": 154263,
+      "uploadedDate": "2024-07-18T06:15:36.822Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm006-1920x1080-0a0621af52317c236a3a13508473229c_Snapshot.jpeg",
+      "md5": "730fa963a8afd08e241680dc9f456f67",
+      "size": 4865,
+      "uploadedDate": "2024-07-18T06:15:37.033Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm008-1920x1080-ec63f0afbfcbc859654dc25d2e416643.jpeg",
+      "md5": "ec63f0afbfcbc859654dc25d2e416643",
+      "size": 143546,
+      "uploadedDate": "2024-07-18T06:15:37.179Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm008-1920x1080-ec63f0afbfcbc859654dc25d2e416643_Snapshot.jpeg",
+      "md5": "99d5d64518d8cf340a8dcc8a5465af4c",
+      "size": 4670,
+      "uploadedDate": "2024-07-18T06:15:37.407Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm0011-1920x1080-4c419e5b345110c06b7d734855ef187f.jpeg",
+      "md5": "4c419e5b345110c06b7d734855ef187f",
+      "size": 147299,
+      "uploadedDate": "2024-07-18T06:15:37.504Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm0011-1920x1080-4c419e5b345110c06b7d734855ef187f_Snapshot.jpeg",
+      "md5": "742f44f2d9f9a0ea6b5c6c7e1ce96adf",
+      "size": 4760,
+      "uploadedDate": "2024-07-18T06:15:37.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm0015-1920x1080-b687090c47c3a8ba293a4fb2eb7b789d.jpeg",
+      "md5": "b687090c47c3a8ba293a4fb2eb7b789d",
+      "size": 144809,
+      "uploadedDate": "2024-07-18T06:15:37.862Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm0015-1920x1080-b687090c47c3a8ba293a4fb2eb7b789d_Snapshot.jpeg",
+      "md5": "dce5cd328e2495b865bd30917e754a73",
+      "size": 4649,
+      "uploadedDate": "2024-07-18T06:15:38.072Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCScaryCrowns_thumb-284x284-0ca9fc07338be67b164eb15ffbfdad2a.png",
+      "md5": "0ca9fc07338be67b164eb15ffbfdad2a",
+      "size": 98787,
+      "uploadedDate": "2024-07-18T06:15:38.229Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCScaryCrowns_featured-894x488-8fec6feeb690631f01c7477292e9f00e.png",
+      "md5": "8fec6feeb690631f01c7477292e9f00e",
+      "size": 337591,
+      "uploadedDate": "2024-07-18T06:15:38.360Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "87e5f82100094763b8ceee99ff6465f3"
+    }
+  ],
+  "catalogNs": null
+}

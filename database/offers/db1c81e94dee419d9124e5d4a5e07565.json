@@ -1,0 +1,332 @@
+{
+  "id": "db1c81e94dee419d9124e5d4a5e07565",
+  "namespace": "ue",
+  "title": "DICE Slots Blueprint",
+  "description": "DICE Slots Creator Blueprint",
+  "longDescription": "<p>Create your Dice Slots arcade in a matter of minutes. Easy to re-skin and well structured blueprints.</p><p>Good idea for our next release? Drop it in our support forums. We thank our customers for there endless support and patience.</p><p>Some of Dice Slots Blueprint key features:</p><ul><li>Drag &amp; Drop your slot machines ingame</li><li>2D &amp; 3D lobby to choose from</li><li>Internal balance and save system</li><li>Probabilty settings and many more</li><li>Mystery Games Feature</li><li>Active development and support</li><li>1 Theme and 3D model included</li><li>Theme in the pictures is included</li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "dice-slots-blueprint",
+  "creationDate": "2023-10-08T15:58:29.449Z",
+  "lastModifiedDate": "2024-09-26T23:00:48.075Z",
+  "effectiveDate": "2023-10-08T15:58:29.384Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tqrz3nrlsa7q3742pfd84sxa38u7lq",
+    "name": "More Than Just A Game"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> 100% Adjustable Blueprints</li><li> Drag &amp; Drop your slotmachines ingame</li><li> 2D &amp; 3D lobby</li><li>Made easy to re-skin and integrate</li></ul><p>Number of Blueprints: 19</p><p>Input: Mouse, Touchscreen</p><p>Network Replicated: No</p><p><br /></p><p><a href=\"http://morethanjustagame.be/diceslotdoc.pdf\" rel=\"nofollow\">Documentation</a></p><p>Support:</p><p>Please leave a review to check ownership and create a <a href=\"https://morethanjustagame.be/submit-ticket/\" rel=\"nofollow\">ticket with your username here</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/blueprints"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e387b9aa-6742-4f03-a231-a35ab4d93e48"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Splash-1920x1080-bb83515be9c7fc8784c846cd68d2124d.png",
+      "md5": "bb83515be9c7fc8784c846cd68d2124d",
+      "size": 108938,
+      "uploadedDate": "2023-10-02T04:30:18.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Artboard 2-1920x1080-3b476eca8e82d775497c25d61b05004b.png",
+      "md5": "3b476eca8e82d775497c25d61b05004b",
+      "size": 1888673,
+      "uploadedDate": "2024-01-12T12:29:17.711Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Artboard 1-1920x1080-51368c2fd12b43ab02f33317c472e1f4.png",
+      "md5": "51368c2fd12b43ab02f33317c472e1f4",
+      "size": 2246525,
+      "uploadedDate": "2024-01-12T12:29:18.340Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Artboard 4-1920x1080-0bb61ade6350ffa76e38abf9f7cfe83f.png",
+      "md5": "0bb61ade6350ffa76e38abf9f7cfe83f",
+      "size": 2912855,
+      "uploadedDate": "2024-01-12T12:29:19.066Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Artboard 5-1920x1080-f309efe91abd0a7762ed73f9eb09af2e.png",
+      "md5": "f309efe91abd0a7762ed73f9eb09af2e",
+      "size": 1465291,
+      "uploadedDate": "2024-01-12T12:29:19.752Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/DICESlotsBlueprint_thumb-284x284-40ac579c8ed9787768089fc2dcdfeed1.png",
+      "md5": "40ac579c8ed9787768089fc2dcdfeed1",
+      "size": 107393,
+      "uploadedDate": "2024-01-12T12:29:20.261Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/DICESlotsBlueprint_featured-894x488-e6a4bbaab7ad538b6aa72a32f0e0c9bd.png",
+      "md5": "e6a4bbaab7ad538b6aa72a32f0e0c9bd",
+      "size": 672323,
+      "uploadedDate": "2024-01-12T12:29:20.435Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Artboard 2-1920x1080-3b476eca8e82d775497c25d61b05004b_Snapshot.png",
+      "md5": "3b3348a6ce17391bcb82f10bd1427595",
+      "size": 5570,
+      "uploadedDate": "2024-01-12T12:29:18.152Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Artboard 1-1920x1080-51368c2fd12b43ab02f33317c472e1f4_Snapshot.png",
+      "md5": "7da7ba94b04671e1be84a1835d5f8bc1",
+      "size": 10174,
+      "uploadedDate": "2024-01-12T12:29:18.787Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Artboard 4-1920x1080-0bb61ade6350ffa76e38abf9f7cfe83f_Snapshot.png",
+      "md5": "0658105697d5439348a95237dfc05f38",
+      "size": 8230,
+      "uploadedDate": "2024-01-12T12:29:19.519Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Artboard 5-1920x1080-f309efe91abd0a7762ed73f9eb09af2e_Snapshot.png",
+      "md5": "69600d1d7f53a47b5d421bcdf1609e94",
+      "size": 9508,
+      "uploadedDate": "2024-01-12T12:29:20.153Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tekengebied 6-1920x1080-f7fd71d8339c290401f72ae859fb1510_Snapshot.png",
+      "md5": "2edb91c916947d1cd542e747c1144f06",
+      "size": 7603,
+      "uploadedDate": "2023-10-03T03:57:22.711Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Splash-1920x1080-bb83515be9c7fc8784c846cd68d2124d_Snapshot.png",
+      "md5": "eb3d503748c832a2420f82a197fe69a1",
+      "size": 7584,
+      "uploadedDate": "2023-10-02T04:30:19.235Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Tekengebied 6-1920x1080-b12e23ec3746db36ba43f23e212f30d0_Snapshot.png",
+      "md5": "8824ef1dcf793635f9252045597afb6f",
+      "size": 7273,
+      "uploadedDate": "2023-10-02T04:30:19.704Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "e3d1d8db90ec4196845925f57f118d17"
+    }
+  ],
+  "catalogNs": null
+}

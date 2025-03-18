@@ -1,0 +1,332 @@
+{
+  "id": "2e640a6fb395416d93b7c0723503f21a",
+  "namespace": "ue",
+  "title": "Buzludzha - modular eastern European environment",
+  "description": "Modular brutalist environment, a realistic replica of a historical monument",
+  "longDescription": "<p>Buzludzha is an iconic building in eastern Europe, a memorable environment ready to be used for exploration, atmospheric scenes or as a battle arena. Game-ready environment, a realistic 3d recreation of an iconic eastern European monument (House of the Bulgarian Communist Party, also known as Buzludzha Monument). Buzludzha features mosaic artworks recreated based on reference material and strikes a perfect balance between a good first-person game experience and historical accuracy. The asset kit contains exterior and interior modules, props, textures, decals, materials, demo scenes, baked lightmaps, and prefabs. We paid close attention to the mosaics and made a special shader which holds up well when viewed from a close distance.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "buzludzha-modular-eastern-european-environment",
+  "creationDate": "2021-05-04T22:36:59.174Z",
+  "lastModifiedDate": "2024-09-30T02:39:44.016Z",
+  "effectiveDate": "2021-05-04T22:38:18.041Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4wnyqanxesvxcnepjzw8tsav4tyyjw",
+    "name": "Andrei Indrikson"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><p><br /></p><ul><li>A fully modular, game-ready environment in a brutalist setting.</li><li>Meshes combined into blueprints for ease of use.</li><li>Interior and exterior included.</li><li>Optimized and game-ready.</li><li>Demo scene included.</li><li> Features a custom mosaic tile shader based on UV distortion and use of detail maps.</li></ul><p> </p><p>Number of Unique Meshes: 119</p><p>Collision: Yes, custom</p><p>Vertex Count: &lt;1000 on average, 59065 max</p><p>LODs: No</p><p>Number of Materials and Material Instances: 46</p><p>Number of Textures: 104</p><p>Texture Resolutions: 1024x512 to 4096x2048</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "cea3260b-9d41-48e8-93c9-134804945f31"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-3a4e92df1687de05f38f703da173d10a.png",
+      "md5": "3a4e92df1687de05f38f703da173d10a",
+      "size": 2699879,
+      "uploadedDate": "2021-04-30T07:25:27.550Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-94d6a0d071d1e59e292f4b3eb15307e4.png",
+      "md5": "94d6a0d071d1e59e292f4b3eb15307e4",
+      "size": 2746085,
+      "uploadedDate": "2021-04-30T07:25:28.176Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-363b312bf835fe6b233b37a99a5f1fd3.png",
+      "md5": "363b312bf835fe6b233b37a99a5f1fd3",
+      "size": 2871476,
+      "uploadedDate": "2021-04-30T07:25:28.786Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-54469358f8a9add37eea1093cb95c933.png",
+      "md5": "54469358f8a9add37eea1093cb95c933",
+      "size": 2638055,
+      "uploadedDate": "2021-04-30T07:25:29.337Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/5-1920x1080-bf625ab8734c1cf0c836f1ed138d5ceb.jpg",
+      "md5": "bf625ab8734c1cf0c836f1ed138d5ceb",
+      "size": 1405483,
+      "uploadedDate": "2021-04-30T07:25:29.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/6-1920x1080-a70152ad6d49a05346edb1700b2a281c.png",
+      "md5": "a70152ad6d49a05346edb1700b2a281c",
+      "size": 3034616,
+      "uploadedDate": "2021-04-30T07:25:30.366Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/7-1920x1080-a49f170c4d055896499387c7cecc612a.png",
+      "md5": "a49f170c4d055896499387c7cecc612a",
+      "size": 2567708,
+      "uploadedDate": "2021-04-30T07:25:30.989Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/8-1920x1080-f61e779daf3239e3fd90f63e57bbced3.png",
+      "md5": "f61e779daf3239e3fd90f63e57bbced3",
+      "size": 2365461,
+      "uploadedDate": "2021-04-30T07:25:31.553Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BuzludzhamodulareasternEuropeanenvironment_thumb-284x284-c7d8a6c2830eb19aff94706ab753a51b.png",
+      "md5": "c7d8a6c2830eb19aff94706ab753a51b",
+      "size": 142116,
+      "uploadedDate": "2021-04-30T07:25:31.955Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BuzludzhamodulareasternEuropeanenvironment_featured-894x488-af2fd33f5550df18a4afca8a1b72c7c3.png",
+      "md5": "af2fd33f5550df18a4afca8a1b72c7c3",
+      "size": 751044,
+      "uploadedDate": "2021-04-30T07:25:32.102Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-3a4e92df1687de05f38f703da173d10a_Snapshot.png",
+      "md5": "e5a7564fae1971dbd3105c24e418e728",
+      "size": 6039,
+      "uploadedDate": "2021-04-30T07:25:27.954Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-94d6a0d071d1e59e292f4b3eb15307e4_Snapshot.png",
+      "md5": "eed24488c8602ad57311711d74046b5a",
+      "size": 5841,
+      "uploadedDate": "2021-04-30T07:25:28.555Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-363b312bf835fe6b233b37a99a5f1fd3_Snapshot.png",
+      "md5": "7cdc6649ce2c34475337935603a6ba70",
+      "size": 5965,
+      "uploadedDate": "2021-04-30T07:25:29.132Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-54469358f8a9add37eea1093cb95c933_Snapshot.png",
+      "md5": "c039014455678c711c6d3417b8ad97eb",
+      "size": 5919,
+      "uploadedDate": "2021-04-30T07:25:29.676Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/5-1920x1080-bf625ab8734c1cf0c836f1ed138d5ceb_Snapshot.jpg",
+      "md5": "bacd2e6493a314ae741030c1eab15611",
+      "size": 7167,
+      "uploadedDate": "2021-04-30T07:25:30.150Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/6-1920x1080-a70152ad6d49a05346edb1700b2a281c_Snapshot.png",
+      "md5": "422d741466917508a76bacca81198c8c",
+      "size": 5808,
+      "uploadedDate": "2021-04-30T07:25:30.727Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/7-1920x1080-a49f170c4d055896499387c7cecc612a_Snapshot.png",
+      "md5": "c5add756173167fe65516e2b5c77f2ba",
+      "size": 6204,
+      "uploadedDate": "2021-04-30T07:25:31.347Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/8-1920x1080-f61e779daf3239e3fd90f63e57bbced3_Snapshot.png",
+      "md5": "0f53397f0a4a1bc3361829f016c7fe44",
+      "size": 4349,
+      "uploadedDate": "2021-04-30T07:25:31.906Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f009e3a0f8654030be3ac2ed15a4f2ba"
+    }
+  ],
+  "catalogNs": null
+}

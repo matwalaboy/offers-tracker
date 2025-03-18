@@ -1,0 +1,309 @@
+{
+  "id": "e6cbf3fa6e5b4f37881d633716bb35df",
+  "namespace": "ue",
+  "title": "Low Poly Skeleton Crew",
+  "description": "Five low poly Skeletons, all fully animated and ready to drop into your next project.",
+  "longDescription": "<p>This pack contains the 5 family members of the Bone family. Tom, Rattle, Tail, Wish and King Jaw Bone.</p><p><br /></p><p>Check them out in 3D <a href=\"https://skfb.ly/6RoXu\" rel=\"nofollow\"><strong>here</strong></a>. </p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "low-poly-skeleton-crew",
+  "creationDate": "2014-08-17T15:02:56.172Z",
+  "lastModifiedDate": "2024-09-29T02:11:04.246Z",
+  "effectiveDate": "2014-08-28T00:00:00.000Z",
+  "viewableDate": "2014-08-28T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-c74f2955a24399b11ecd36621b4393",
+    "name": "Bitgem"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Designed for Desktop and Mobile</p><p><br /></p><p> King Jaw Bone</p><p> - 2602 Tris </p><p> - 1024 x 1024 texture </p><p> - 5 Color variations </p><p> - 1 Sword</p><p><br /></p><p> Wish (Mage)</p><p> - 2018 Tris </p><p> - 1024 x 1024 texture </p><p> - 6 Color variations </p><p> - 1 Staff</p><p><br /></p><p> Tail (Archer)</p><p> - 2162 Tris </p><p> - 1024 x 1024 texture </p><p> - 6 Color variations </p><p> - 1 Bow </p><p> - 1 Arrow</p><p><br /></p><p> Rattle (Warrior)</p><p> - 2518 Tris </p><p> - 1024 x 1024 texture </p><p> - 5 Color variations </p><p> - 1 Sword </p><p> - 1 Shield</p><p> </p><p> Tom (Grunt)</p><p> - 1026 Tris </p><p> - 1024 x 1024 texture </p><p> - 2 texture variations, angry and happy</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UE4preview1920x1080-1920x1080-f6c5adc7ceb1278137c98c503b25a430.jpg",
+      "md5": "f6c5adc7ceb1278137c98c503b25a430",
+      "size": 1225970,
+      "uploadedDate": "2022-11-25T15:51:31.809Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/miniskeletonkingjaw-1920x1080-26e57c7e14e35c8e8c206c5444880554.png",
+      "md5": "26e57c7e14e35c8e8c206c5444880554",
+      "size": 2038167,
+      "uploadedDate": "2022-11-25T15:51:32.690Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/miniskeletonarchertail-1920x1080-44125c17fc81dad25feab9fd6460fe18.png",
+      "md5": "44125c17fc81dad25feab9fd6460fe18",
+      "size": 1309250,
+      "uploadedDate": "2022-11-25T15:51:32.189Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/miniskeletonmagewish-1920x1080-5e83c656ad13e8f9c5b1235e1f3db9fb.png",
+      "md5": "5e83c656ad13e8f9c5b1235e1f3db9fb",
+      "size": 1683432,
+      "uploadedDate": "2022-11-25T15:51:33.168Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/miniskeletonwarriorrattle-1920x1080-1a566703f43d5e2613c9733d76883ebe.png",
+      "md5": "1a566703f43d5e2613c9733d76883ebe",
+      "size": 1754812,
+      "uploadedDate": "2022-11-25T15:51:34.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/miniskeletontom-1920x1080-b964425c00b9509bfdfbdc5bca97e89c.png",
+      "md5": "b964425c00b9509bfdfbdc5bca97e89c",
+      "size": 1269675,
+      "uploadedDate": "2022-11-25T15:51:33.614Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_5-1920x1080-6f50312c766c893324de93c7671d25e2.png",
+      "md5": "6f50312c766c893324de93c7671d25e2",
+      "size": 1262697,
+      "uploadedDate": "2014-08-28T02:38:32.388Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_1-1920x1080-d2b526b88889d4cfadd3e2081ea9b2df.png",
+      "md5": "d2b526b88889d4cfadd3e2081ea9b2df",
+      "size": 1819168,
+      "uploadedDate": "2014-08-28T02:36:58.390Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_6-1920x1080-f83b9c06af0964e11a0599c15f2d8c96.png",
+      "md5": "f83b9c06af0964e11a0599c15f2d8c96",
+      "size": 1335469,
+      "uploadedDate": "2014-08-28T02:38:56.213Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_4-1920x1080-5d75de1d22f9043e3c5e27eae1159e8e.png",
+      "md5": "5d75de1d22f9043e3c5e27eae1159e8e",
+      "size": 1273953,
+      "uploadedDate": "2014-08-28T02:38:11.501Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_2-1920x1080-ad8ccd450564a6bafca043f4a11ecad8.png",
+      "md5": "ad8ccd450564a6bafca043f4a11ecad8",
+      "size": 1302507,
+      "uploadedDate": "2014-08-28T02:37:19.409Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/item/store_BG3LowPolySkeleton_screenshot_3-1920x1080-921ba33c8203f04b075b185cfc412b8a.png",
+      "md5": "921ba33c8203f04b075b185cfc412b8a",
+      "size": 1179284,
+      "uploadedDate": "2014-08-28T02:37:38.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/LowPolySkeletonCrew_thumb-284x284-4f8bcdff69ad2717a116ff4c744eb18e.png",
+      "md5": "4f8bcdff69ad2717a116ff4c744eb18e",
+      "size": 185891,
+      "uploadedDate": "2022-11-25T15:51:34.495Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/LowPolySkeletonCrew_featured-894x488-caf732b60a502691f608897252148160.png",
+      "md5": "caf732b60a502691f608897252148160",
+      "size": 683725,
+      "uploadedDate": "2022-11-25T15:51:34.605Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UE4preview1920x1080-1920x1080-f6c5adc7ceb1278137c98c503b25a430_Snapshot.jpg",
+      "md5": "626dc083e02d0174e657e74c77991fe6",
+      "size": 5873,
+      "uploadedDate": "2022-11-25T15:51:32.080Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/miniskeletonarchertail-1920x1080-44125c17fc81dad25feab9fd6460fe18_Snapshot.png",
+      "md5": "46738ec460d73daa009ec69954e27dd9",
+      "size": 3075,
+      "uploadedDate": "2022-11-25T15:51:32.461Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/miniskeletonkingjaw-1920x1080-26e57c7e14e35c8e8c206c5444880554_Snapshot.png",
+      "md5": "9d056673abff98d733dc4ea7a31f28d4",
+      "size": 4596,
+      "uploadedDate": "2022-11-25T15:51:32.993Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/miniskeletonmagewish-1920x1080-5e83c656ad13e8f9c5b1235e1f3db9fb_Snapshot.png",
+      "md5": "f0c9c71a37d42270ae402469ea2882fa",
+      "size": 3554,
+      "uploadedDate": "2022-11-25T15:51:33.455Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/miniskeletontom-1920x1080-b964425c00b9509bfdfbdc5bca97e89c_Snapshot.png",
+      "md5": "52ef792f4769ebcd9a7193b84b18ee14",
+      "size": 3418,
+      "uploadedDate": "2022-11-25T15:51:33.894Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/miniskeletonwarriorrattle-1920x1080-1a566703f43d5e2613c9733d76883ebe_Snapshot.png",
+      "md5": "ab6a22076deaa390f87f66fd9e1db6c4",
+      "size": 3956,
+      "uploadedDate": "2022-11-25T15:51:34.411Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "006c1f073beb477aaa89b0fb1ff72fb4"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,329 @@
+{
+  "id": "093a6d7e2fbe4044b1380e6c78242942",
+  "namespace": "ue",
+  "title": "Real Ninja Weapons",
+  "description": "Real Ninja Weapons is a pack of high-quality, handcrafted, authentic Ninja Weapons perfect for VR and FPV",
+  "longDescription": "<p><strong>Real Ninja Weapons is a pack of high-quality, handcrafted authentic ninja weapons. Perfect for your VR or FPV game.</strong></p><p>Holds up to player scrutiny and faithfully reflects lighting conditions with <strong>custom PBR textures</strong>.</p><p>A complete set including <strong><u>Katana Sword, Tanto Blade, Kunai Knife, Shuriken (ninja star), Sai and Grappling Hook.</u></strong></p><p><strong><u>Also included are alternate materials</u></strong> based on whether you prefer bling or stealth, aged brass or concealment in the shadows.</p><p><br /></p><p>Don&#39;t settle for cartoon, poorly scaled, low res textured weapon packs, demand the best. This complete set will have you on your way to creating an authentic ninja experience with zero setup time.</p><p><br /></p><p><strong>Discord Support:</strong> <a href=\"https://discord.gg/6qVCQeU\" rel=\"nofollow\">https://discord.gg/6qVCQeU</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "real-ninja-weapons",
+  "creationDate": "2018-02-06T19:13:00.577Z",
+  "lastModifiedDate": "2024-09-30T11:20:09.994Z",
+  "effectiveDate": "2018-02-06T19:13:00.545Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fl5kbsundg3dywgf6yb8zzfnvy2sly",
+    "name": "3DVFX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<h2><strong><u>Features:</u></strong></h2><ul><li> Beautifully handcrafted authentic ninja weapons <strong>perfect for VR and FPV</strong></li><li> <strong>High quality PBR textures</strong> all created in Substance and exported to packed Unreal Engine texture format</li><li> <strong>Alternate materials</strong> including chrome and brass as well as the original stealth black</li><li>A wide range of different weapons and tools like <strong>Katana, Tanto, Kunai, Shuriken, Sai, and Grappling Hook</strong></li><li><strong><u>No setup required</u></strong>, drop into your game choose a material variant and you&#39;re good to go!</li></ul><p><br /></p><h2><strong><u>Texture Sizes: </u></strong></h2><ul><li>Grappling Hook (all 1024x1024)</li><li>Katana (all 1024x1024)</li><li>Kunai (all 512x512)</li><li>Sai (all 1024x1024)</li><li>Shuriken (all 512x512)</li><li>Tanto (all 1024x1024)</li></ul><p><br /></p><p>Scaled to Epic skeleton: (Yes)</p><p>Collision: (Yes, automatically generated)</p><p>Triangle Count: (Grappling Hook 1072), (Katana 2730), (Kunai 750), (Sai 1072), (Shuriken 578), (Tanto 2689)</p><p>Vertex Count: (Grappling Hook 677), (Katana 2343), (Kunai 490), (Sai 689), (Shuriken 667), (Tanto 2355)</p><p>LODs: 0</p><p>Number of Meshes: 5</p><p>Number of Materials and Material Instances: 10 Materials, 0 Material Instances</p><p>Number of Textures: 30</p><p>Supported Development Platforms: Windows, Mac, Linux</p><p>Supported Target Build Platforms: Steam VR / HTC Vive, Oculus, Gear VR, Linux, HTML5, Xbox One, Android, iOS, PS4, Windows, Mac</p><p>Documentation: No documentation required, just drop into your game and go!</p><p>Important/Additional Notes: All textures are optimized at a perfect quality to performance ratio, I can export higher resolution versions for special use cases on request.</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/weapons"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "Base-Building",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2023-04-24T21:09:04.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "Survival",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2023-08-22T19:55:04.175Z",
+      "status": "ACTIVE",
+      "referenceCount": 763,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e3e84b9b-100e-4812-a156-da0665501a22"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/inEngine01-1920x1080-776f3d670094b692563be6833cf50f9e.png",
+      "md5": "776f3d670094b692563be6833cf50f9e",
+      "size": 1733712,
+      "uploadedDate": "2018-01-31T21:35:35.375Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/inEngine02-1920x1080-d128bfc918245a2a6c7d3c29aa8ca875.png",
+      "md5": "d128bfc918245a2a6c7d3c29aa8ca875",
+      "size": 1764399,
+      "uploadedDate": "2018-01-31T21:35:35.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/katana-1920x1080-d68c1fc968bdf218c9f4559208f27c00.png",
+      "md5": "d68c1fc968bdf218c9f4559208f27c00",
+      "size": 158402,
+      "uploadedDate": "2018-01-31T21:14:02.756Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tanto-1920x1080-9b952ed5afdab06ba6f090c5de1d2990.png",
+      "md5": "9b952ed5afdab06ba6f090c5de1d2990",
+      "size": 180222,
+      "uploadedDate": "2018-01-31T21:14:02.914Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/tantoCU-1920x1080-b0ccb7cb3120f5e950f2c6e6c710b47b.png",
+      "md5": "b0ccb7cb3120f5e950f2c6e6c710b47b",
+      "size": 345526,
+      "uploadedDate": "2018-01-31T21:14:03.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/sai-1920x1080-4caf7e3ba3cdc4473bc658a307bde244.png",
+      "md5": "4caf7e3ba3cdc4473bc658a307bde244",
+      "size": 301166,
+      "uploadedDate": "2018-01-31T21:14:03.221Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/grapplingHook-1920x1080-0dc960f657d704578653c4b833e41bc0.png",
+      "md5": "0dc960f657d704578653c4b833e41bc0",
+      "size": 308229,
+      "uploadedDate": "2018-01-31T21:14:03.412Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/kunai-1920x1080-e64d1ac51243aec0df2c977e867eb5b6.png",
+      "md5": "e64d1ac51243aec0df2c977e867eb5b6",
+      "size": 324667,
+      "uploadedDate": "2018-01-31T21:14:03.531Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/shuriken-1920x1080-cc9bebb81f53da021ca1fae70d627025.png",
+      "md5": "cc9bebb81f53da021ca1fae70d627025",
+      "size": 259040,
+      "uploadedDate": "2018-01-31T21:14:03.676Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RealNinjaWeapons_thumb-284x284-3a465789d874104945beb060715ddb58.png",
+      "md5": "3a465789d874104945beb060715ddb58",
+      "size": 40463,
+      "uploadedDate": "2018-01-31T21:14:03.705Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RealNinjaWeapons_featured-894x488-d9ff518e609b823ead0f1bfc4700d583.png",
+      "md5": "d9ff518e609b823ead0f1bfc4700d583",
+      "size": 166968,
+      "uploadedDate": "2018-01-31T21:14:03.745Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "dfa567cf762b4c26941f5c77f1f911f3"
+    }
+  ],
+  "catalogNs": null
+}

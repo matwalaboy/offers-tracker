@@ -1,0 +1,344 @@
+{
+  "id": "ba60123623d047daa682230cc8dc9f8c",
+  "namespace": "ue",
+  "title": "City Vol 4 - Dynamic Poles",
+  "description": "City Vol4 - Dynamic Poles is a versatile pack that includes 10 variations of poles, each equipped with dynamic cables that can be connected to each other.",
+  "longDescription": "<p>The poles are stylized and performance-optimized, ensuring you can create complex environments without compromising performance. The dynamic cables provide flexibility and realism, allowing you to create a network of interconnected poles.</p><p><strong>Artwork created by the team at Six Sides Studios.</strong></p><p><strong>Featuring the unique stylized visual signature exclusive to Six Sides Studios.</strong></p><p><br /></p><p><a href=\"https://www.sixsides.com.br/en/docenvironmentspacks\" rel=\"nofollow\"><strong>Documentation</strong></a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "city-vol4-dynamic-poles",
+  "creationDate": "2024-07-20T12:54:56.542Z",
+  "lastModifiedDate": "2024-09-26T20:09:54.116Z",
+  "effectiveDate": "2024-07-20T12:54:56.487Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2xe7xcjyj784j3wa85bnl8m6mhkkrk",
+    "name": "Six Sides Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>10 Posts</li><li>Dinamic Cables Blueprints</li></ul><p><br /></p><p>Static Meshes: 11</p><p>Blueprints: 9</p><p>Collision: Yes, (Use Default Collision/Use Complex Collision As Simple)</p><p>LODs: Yes - 4 LOD levels</p><p>Materials: 2</p><p>Material Instances: 3</p><p>Textures: 13</p><p>Texture Resolutions: 4096X4096, 2048X2048, 1024X1024</p><p><br /></p><p><br /></p><p>This product supports Lumen for Unreal Engine 5.0&#43;</p><p><a href=\"https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-global-illumination-and-reflections-in-unreal-engine\" rel=\"nofollow\">Lumen Documentation</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "42516e03-a84e-4db4-aec4-c202ee9b2384"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA1-1920x1080-eb4deea6da92a7b9d62bb46f160a2f45.jpg",
+      "md5": "eb4deea6da92a7b9d62bb46f160a2f45",
+      "size": 431431,
+      "uploadedDate": "2024-07-18T13:44:35.169Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA2-1920x1080-3c1afc9d5c7dc0b68ade4e1cab28d1c4.jpg",
+      "md5": "3c1afc9d5c7dc0b68ade4e1cab28d1c4",
+      "size": 547739,
+      "uploadedDate": "2024-07-18T13:44:35.994Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA7-1920x1080-8a63c4ac08b7b288f332e505790aa4be.jpg",
+      "md5": "8a63c4ac08b7b288f332e505790aa4be",
+      "size": 521163,
+      "uploadedDate": "2024-07-20T12:46:34.745Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA3-1920x1080-5f1eda5e9fbaeb4f73d30c69790a33b0.jpg",
+      "md5": "5f1eda5e9fbaeb4f73d30c69790a33b0",
+      "size": 500366,
+      "uploadedDate": "2024-07-18T13:44:36.818Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA4-1920x1080-d43b1e853b9f6143131d63e9fc7514f1.jpg",
+      "md5": "d43b1e853b9f6143131d63e9fc7514f1",
+      "size": 400985,
+      "uploadedDate": "2024-07-18T13:44:37.759Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA5-1920x1080-f83218e3912515dd5d933e7feefdc7a2.jpg",
+      "md5": "f83218e3912515dd5d933e7feefdc7a2",
+      "size": 369595,
+      "uploadedDate": "2024-07-18T13:44:38.593Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesA6-1920x1080-1ade77384a77e5ce6e67ed625df73b7b.jpg",
+      "md5": "1ade77384a77e5ce6e67ed625df73b7b",
+      "size": 487742,
+      "uploadedDate": "2024-07-18T13:44:39.561Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IDynamicPolesOverview-1920x1080-b6af7d304f72837c00c7cc55a307113b.jpg",
+      "md5": "b6af7d304f72837c00c7cc55a307113b",
+      "size": 826639,
+      "uploadedDate": "2024-07-20T12:46:35.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CityVol4DynamicPoles_thumb-284x284-fb5df7e02f7787caa2e72df435cee1d5.png",
+      "md5": "fb5df7e02f7787caa2e72df435cee1d5",
+      "size": 144024,
+      "uploadedDate": "2024-07-18T13:44:40.203Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CityVol4DynamicPoles_featured-894x488-3d273d0a16002105f12dda403d4b7c1b.png",
+      "md5": "3d273d0a16002105f12dda403d4b7c1b",
+      "size": 463713,
+      "uploadedDate": "2024-07-18T13:44:40.342Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA7-1920x1080-8a63c4ac08b7b288f332e505790aa4be_Snapshot.jpg",
+      "md5": "0a83e4faae0695fd831e1b0656b70e25",
+      "size": 5347,
+      "uploadedDate": "2024-07-20T12:46:35.293Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesOverview-1920x1080-b6af7d304f72837c00c7cc55a307113b_Snapshot.jpg",
+      "md5": "085e890927488133cfd907673fa96526",
+      "size": 5873,
+      "uploadedDate": "2024-07-20T12:46:36.151Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA1-1920x1080-eb4deea6da92a7b9d62bb46f160a2f45_Snapshot.jpg",
+      "md5": "cbebb30acf93b3931dd10fac8d988e41",
+      "size": 4101,
+      "uploadedDate": "2024-07-18T13:44:35.715Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA2-1920x1080-3c1afc9d5c7dc0b68ade4e1cab28d1c4_Snapshot.jpg",
+      "md5": "216118099a5714bfb4af10d6287e107d",
+      "size": 4707,
+      "uploadedDate": "2024-07-18T13:44:36.530Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA3-1920x1080-5f1eda5e9fbaeb4f73d30c69790a33b0_Snapshot.jpg",
+      "md5": "54b771bfa4d2e995c1555cf514cba65a",
+      "size": 4726,
+      "uploadedDate": "2024-07-18T13:44:37.468Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA4-1920x1080-d43b1e853b9f6143131d63e9fc7514f1_Snapshot.jpg",
+      "md5": "f7215b4a39794ecc6ba6d2666aecb97a",
+      "size": 3783,
+      "uploadedDate": "2024-07-18T13:44:38.315Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA5-1920x1080-f83218e3912515dd5d933e7feefdc7a2_Snapshot.jpg",
+      "md5": "5cde61b4927e6b1cc2b48aa9290382c8",
+      "size": 3123,
+      "uploadedDate": "2024-07-18T13:44:39.127Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IDynamicPolesA6-1920x1080-1ade77384a77e5ce6e67ed625df73b7b_Snapshot.jpg",
+      "md5": "032528fa46a9400b1746cfefe301310b",
+      "size": 4222,
+      "uploadedDate": "2024-07-18T13:44:40.098Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "55e7673ed3e447ea99b9b37696e0654a"
+    }
+  ],
+  "catalogNs": null
+}

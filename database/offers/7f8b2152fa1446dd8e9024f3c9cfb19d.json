@@ -1,0 +1,329 @@
+{
+  "id": "7f8b2152fa1446dd8e9024f3c9cfb19d",
+  "namespace": "ue",
+  "title": "Sci-Fi Turret Constructor",
+  "description": "Part of Mech Constructor series. Over 70 different modules, that will allow you to assemble numerous combinations of turrets and towers.",
+  "longDescription": "<p>3d preview: <a href=\"https://skfb.ly/6wKOR\" rel=\"nofollow\">https://skfb.ly/6wKOR</a></p><p><br /></p><p>The pack is a part of <strong>Mech Constructor</strong> series, and can be expanded by the assets, that can be found on this <a href=\"https://www.unrealengine.com/marketplace/profile/Slava%20Z.\" rel=\"nofollow\">Unreal Marketplace</a> page.</p><p>All the parts are fully compatible. </p><p><br /></p><p>The buildings are extremely easy to assemble - just drop the parts into the corresponding containers and they&#39;ll snap right into place. </p><p>The poly count of units varies from <strong>500 </strong>to<strong> 3000 tris</strong>. The textures vary from hand painted 4k diffuse atlas, which looks good even unlit, to the set of PBR maps.</p><p><br /></p><p><strong>Parts: </strong></p><ul><li>Worker drone (animated)</li><li>Fighter drone (animated)</li><li>Turret bases (7 levels)</li><li>Tower bases (5 levels)</li><li>Tower walls (2 types)</li><li>Roofs (3 levels)</li><li>8 cockpits</li><li>5 shoulder parts</li><li>9 &#34;Halfshoulder&#34; parts</li><li>9 back parts</li><li>Big mortars (3 levels)</li><li>Big 2-barrel cannons (3 levels)</li><li>Big rayguns (3 levels)</li><li>Radars (3 levels)</li><li>Plasma guns (3 levels)</li><li>Rocket launchers (3 levels)</li><li>Rockets, cannon shells</li><li>Landmines (3 levels)</li></ul><p><br /></p><p><strong>Drone Animations: </strong></p><ul><li>Pack, Unpack</li><li>Idle, Move (no Root Motion)</li><li>Hit, Death</li><li>Repair, Punch (Worker)</li><li>Shoot (Fighter)</li></ul><p><br /></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sci-fi-turret-constructor",
+  "creationDate": "2018-03-30T14:37:04.931Z",
+  "lastModifiedDate": "2024-09-26T15:02:06.229Z",
+  "effectiveDate": "2018-03-30T14:37:04.896Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-47b074bbf4432daca9c7ceb3a255fb",
+    "name": "Slava Z."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: (Please include a full, comprehensive list of the features of the product)</p><ul><li>Modular sci-fi turrets, over 20 distinctive combinations</li><li>Two drones with animations</li><li>Large variety of textures, from hand-painted diffuse to PBR</li><li>Fully compatible with the other Mech Constructor packs</li></ul><p><br /></p><p>Texture Sizes: (please list resolutions for each texture)</p><ul><li>Hand painted diffuse atlas - 4k (7 color variations)</li><li>Normal - 4k</li><li>Realistic base color - 4k (6 colors)</li><li>Emissive - 4k</li><li>Metalness - 4k</li><li>Roughness - 4k</li></ul><p><br /></p><p>Scaled to Epic skeleton: No</p><p>Triangle Count: 500 to 3000 for the assembled turrets</p><p>LODs: No</p><p>Number of Meshes: 70</p><p>Number of Materials and Material Instances: 1</p><p>Supported Development Platforms: (Windows, Mac OS)</p><p>Supported Target Build Platforms: (PC, Mac, Android, iOS, PS4, Xbox)</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1345",
+      "name": "GRAND STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.809Z",
+      "updated": "2019-06-20T12:01:09.809Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "38c3322e-a8f8-40bf-a28c-62686ecd1a2b"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen2-1920x1080-38f3635d2da2fc113d0d12bd660c9745.png",
+      "md5": "38f3635d2da2fc113d0d12bd660c9745",
+      "size": 2291112,
+      "uploadedDate": "2018-03-20T00:23:07.595Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen6-1920x1080-5963b1840a17a8027a37730a4a803d4d.png",
+      "md5": "5963b1840a17a8027a37730a4a803d4d",
+      "size": 2266093,
+      "uploadedDate": "2018-03-20T00:23:07.971Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen9-1920x1080-667ddc0e67229f50f513a69b840871c3.png",
+      "md5": "667ddc0e67229f50f513a69b840871c3",
+      "size": 2486693,
+      "uploadedDate": "2018-03-20T00:23:08.263Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen1-1920x1080-84901c7dae9ccdfd141c54c5bb83b453.png",
+      "md5": "84901c7dae9ccdfd141c54c5bb83b453",
+      "size": 2361102,
+      "uploadedDate": "2018-03-20T00:23:08.500Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen3-1920x1080-029df27330874b1e6d8bf7a98e78e476.png",
+      "md5": "029df27330874b1e6d8bf7a98e78e476",
+      "size": 2217574,
+      "uploadedDate": "2018-03-20T00:23:08.727Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen5-1920x1080-2a426341bc62715c1c2d8bda81d95f7b.png",
+      "md5": "2a426341bc62715c1c2d8bda81d95f7b",
+      "size": 1967203,
+      "uploadedDate": "2018-03-20T00:23:09.052Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen4-1920x1080-e9b17a8f5b9ca0d250a1f8f2ed95cafe.png",
+      "md5": "e9b17a8f5b9ca0d250a1f8f2ed95cafe",
+      "size": 2075623,
+      "uploadedDate": "2018-03-20T00:23:09.339Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen8-1920x1080-19394bd4b1a7d38fdf65bb5ebbbad064.png",
+      "md5": "19394bd4b1a7d38fdf65bb5ebbbad064",
+      "size": 2204079,
+      "uploadedDate": "2018-03-20T00:23:09.554Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/MCTurretsScreen7-1920x1080-bc821c743b508c4655d5ddcad110a1f8.png",
+      "md5": "bc821c743b508c4655d5ddcad110a1f8",
+      "size": 2039147,
+      "uploadedDate": "2018-03-20T00:23:09.946Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/SciFiTurretConstructor_thumb-284x284-d4b9d68fd96d29f041151ecebf33ba57.png",
+      "md5": "d4b9d68fd96d29f041151ecebf33ba57",
+      "size": 148635,
+      "uploadedDate": "2018-03-20T00:23:10.011Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/SciFiTurretConstructor_featured-894x488-61158128c72128f866f996d0483eb530.png",
+      "md5": "61158128c72128f866f996d0483eb530",
+      "size": 643451,
+      "uploadedDate": "2018-03-20T00:23:10.130Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "a9d158dbb3164721b0e587cd26ae3b9f"
+    }
+  ],
+  "catalogNs": null
+}

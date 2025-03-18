@@ -1,0 +1,269 @@
+{
+  "id": "6a4f2a00f69143b89d77e8a58a4823e2",
+  "namespace": "ue",
+  "title": "Detailed Paintings by Nan Yar",
+  "description": "Collection of 5 detailed abstract paintings, each with 4 to 6 color variations.",
+  "longDescription": "<p>This asset pack contains several paintings created by Nan Yar, a self-made artist based in the town of Blankenberge, located near the Belgian coast. After more than ten years of experience making art, Nan Yar has mastered various styles, ranging from portraits all the way to abstract images.</p><p><br /></p><p>Included in this collection are 5 paintings of a similar abstract style, each with 4 to 6 color variations. Because the assets share a similar style, they can easily be integrated in the same area. The creator has attempted to capture the artwork as realistically as possible, using high texture resolutions, carefully crafted normal and roughness maps and tessellation.</p><p><br /></p><p>Materials use detailed maps for color, normals, roughness and tesselation and are comprehensively laid out in the node editor. Most materials make use of parameters, so the user can easily tweak the look of any painting to fit any scene.</p><p><br /></p><p><strong>Check out the </strong><a href=\"https://skfb.ly/6uLus\" rel=\"nofollow\"><strong>preview models</strong></a><strong> on Sketchfab!</strong></p><p><br /></p><p>Feel free to add any questions or suggestions in the comment section or the <a href=\"https://forums.unrealengine.com/unreal-engine/marketplace/1354785-detailed-paintings-by-nan-yar\" rel=\"nofollow\">support thread</a>.</p><p>To see more artwork by Nan Yar, visit <a href=\"https://nanyar.wordpress.com/\" rel=\"nofollow\">her website</a>.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "detailed-paintings-by-nan-yar",
+  "creationDate": "2017-09-15T18:08:56.889Z",
+  "lastModifiedDate": "2024-09-28T09:19:55.709Z",
+  "effectiveDate": "2017-09-15T18:08:57.333Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-007547042a4a5aa6b7d793bfe4660d",
+    "name": "Jon Van Dam"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>31 static mesh objects, all consisting of one of 5 base meshes with a different material applied</li><li>Static meshes contain seperate material slots for (1) the frame on the back, (2) parts of the canvas on the back that are not painted and (3) the painting itself</li><li>1 material for the cloth part of the canvas</li><li>1 material for the framing of the canvas on the back</li><li>5 materials to represent the paint on each canvas</li><li>Materials use texture based inputs for color, normals, roughness and displacement (painting 4 does not use displacement)</li><li>Materials are laid out in the node editor and use parameters where possible</li><li>21 material instances containing color variations of the base paintings</li><li>44 textures (6 normal maps, 28 diffuse maps, 6 roughness maps, 4 displacement maps)</li></ul><p><br /></p><p>Content included for demonstration purposes:</p><ul><li>Overview map</li><li>Demonstration map</li><li>Simple first person character to walk around in the demonstration map</li><li>2 materials from the starter content used to create a gallery-like look in the demonstration map</li></ul><p><br /></p><p>Texture Sizes:</p><ul><li>4096x4096 for all textures</li><li>For displacement textures, the maximum in-game resolution has been set to 1024x1024</li></ul><p><br /></p><p>Scaled to Epic skeleton: Yes</p><p>Collision: Yes, automatically generated</p><p>Vertex Count: 145</p><p>LODs: 1</p><p>Number of Meshes: 5</p><p>Number of Materials and Material Instances: 7 materials, 21 instances</p><p>Number of Textures: 44</p><p>Supported Development Platforms: Windows</p><p>Supported Target Build Platforms: Windows</p><p>Documentation: None</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1353",
+      "name": "CAPITALISM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:13.701Z",
+      "updated": "2019-06-20T12:01:13.701Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "f5d77fb6-7f68-4849-9b7a-8b1208508c33"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_01-1920x1080-ce2b74bb911b543e8263c2ea5cc8a613.png",
+      "md5": "ce2b74bb911b543e8263c2ea5cc8a613",
+      "size": 326672,
+      "uploadedDate": "2017-09-08T00:36:15.424Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_02-1920x1080-1a9bc60b4c95811473bf3dad19582ae4.png",
+      "md5": "1a9bc60b4c95811473bf3dad19582ae4",
+      "size": 715284,
+      "uploadedDate": "2017-09-08T00:36:15.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_03-1920x1080-8b9b06e6a76804517d61be405b5041f7.png",
+      "md5": "8b9b06e6a76804517d61be405b5041f7",
+      "size": 329614,
+      "uploadedDate": "2017-09-08T00:36:15.629Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_10-1920x1080-38e22d00bf1b8156f1d48104d175c5b1.png",
+      "md5": "38e22d00bf1b8156f1d48104d175c5b1",
+      "size": 434293,
+      "uploadedDate": "2017-09-08T00:36:16.762Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_09-1920x1080-99d41ed323d22e019e4bc5c20aef6b3d.png",
+      "md5": "99d41ed323d22e019e4bc5c20aef6b3d",
+      "size": 281015,
+      "uploadedDate": "2017-09-08T00:36:16.706Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_04-1920x1080-d0e047bab5bc92f2a45269e6809ce95e.png",
+      "md5": "d0e047bab5bc92f2a45269e6809ce95e",
+      "size": 564424,
+      "uploadedDate": "2017-09-08T00:36:15.743Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_05-1920x1080-0dd8eb38d78ae09b908efd144f3bc44e.png",
+      "md5": "0dd8eb38d78ae09b908efd144f3bc44e",
+      "size": 237251,
+      "uploadedDate": "2017-09-08T00:36:15.852Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_06-1920x1080-710fd3acb429d04347cbbf11741040b7.png",
+      "md5": "710fd3acb429d04347cbbf11741040b7",
+      "size": 343194,
+      "uploadedDate": "2017-09-08T00:36:16.009Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_07-1920x1080-2a7a0d37baa20723167e33d474a77d61.png",
+      "md5": "2a7a0d37baa20723167e33d474a77d61",
+      "size": 518776,
+      "uploadedDate": "2017-09-08T00:36:16.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_08-1920x1080-2fbed0431b8b24b3292a10c69822ae82.png",
+      "md5": "2fbed0431b8b24b3292a10c69822ae82",
+      "size": 665423,
+      "uploadedDate": "2017-09-08T00:36:16.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_11-1920x1080-84b62e8b48efc6fe131811fed9f97a9c.png",
+      "md5": "84b62e8b48efc6fe131811fed9f97a9c",
+      "size": 467736,
+      "uploadedDate": "2017-09-08T00:36:16.820Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_12-1920x1080-ad2f735adebaee77fcabd1342cddf2fe.png",
+      "md5": "ad2f735adebaee77fcabd1342cddf2fe",
+      "size": 190366,
+      "uploadedDate": "2017-09-08T00:36:16.913Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/NanYar_screenshot_13-1920x1080-16c02d8905da4dbd181ef853bd96aa65.png",
+      "md5": "16c02d8905da4dbd181ef853bd96aa65",
+      "size": 259721,
+      "uploadedDate": "2017-09-08T00:36:16.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ResubmissioninReviewDetailedPaintingsbyNanYar_thumb-284x284-46b6c877677c3fcd88758f872a87a891.png",
+      "md5": "46b6c877677c3fcd88758f872a87a891",
+      "size": 103093,
+      "uploadedDate": "2017-09-08T00:36:17.047Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ResubmissioninReviewDetailedPaintingsbyNanYar_featured-894x488-65d89fb62e546497a6c41aa9b1c314df.png",
+      "md5": "65d89fb62e546497a6c41aa9b1c314df",
+      "size": 216685,
+      "uploadedDate": "2017-09-08T00:36:17.149Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "4effe5a5430f40e7bd89fcd2b785167c"
+    }
+  ],
+  "catalogNs": null
+}

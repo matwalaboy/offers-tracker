@@ -1,0 +1,365 @@
+{
+  "id": "ee898e7cf50c4a519a582605153c3555",
+  "namespace": "ue",
+  "title": "Isle of Lore 2: Strategy Figures",
+  "description": "A collection of figures, including villagers, workers, animals, monsters and more!",
+  "longDescription": "<p><strong>Isle of Lore 2: Strategy Figures</strong> is a pack of 125 figures for your video game: the figures can be used as markers on a <a href=\"https://www.unrealengine.com/marketplace/slug/fbc3f04ab1ed4284a2492f9df6143fb7\" rel=\"nofollow\">fantasy map</a> or as units in a strategy game, dungeon crawl or whatever you can come up with! They cover villagers, workers, vehicles, monsters, animals and 20 figure groups composed of other figures.</p><p><br /></p><p><strong>Contents</strong></p><ul><li>125 figures and 20 figure groups</li><li>The figures come with a white outline, with a partial white outline and no outline at all</li></ul><p><br /></p><p>The figures work great in combination with my other Isle of Lore 2 asset packs:</p><ul><li><a href=\"https://www.unrealengine.com/marketplace/slug/fbc3f04ab1ed4284a2492f9df6143fb7\" rel=\"nofollow\">Isle of Lore 2: Hex Tiles</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/7c81e88ef9e641459952176f98161f1f\" rel=\"nofollow\">Isle of Lore 2: RPG Item Icons</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/60f710100e084ffe8446af0a16f1f82f\" rel=\"nofollow\">Isle of Lore 2: Status Icons</a></li><li><a href=\"https://www.unrealengine.com/marketplace/slug/1f39bced94804409b689f5800d6016db\" rel=\"nofollow\">Isle of Lore 2: Terrain Icons</a></li></ul>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "isle-of-lore-2-strategy-figures",
+  "creationDate": "2020-05-17T17:37:49.260Z",
+  "lastModifiedDate": "2024-09-26T17:26:55.393Z",
+  "effectiveDate": "2020-05-17T17:37:47.615Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2xmz2s9rsdw9qpkebk5ed5aepykhhd",
+    "name": "Steven Colling"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>750 Figure Textures in total, including:</strong></p><ul><li>125 Figure Textures with Outline at 800x500 px (with padding)</li><li>125 Figure Textures with Outline(Tile Overlay) at 840x840 px (with padding)</li><li>125 Figure Textures with Partial Outline at 800x500 px (with padding)</li><li>125 Figure Textures with Partial Outline (Tile Overlay) at 840x840 px (with padding)</li><li>125 Figure Textures with No Outline at 800x500 px (with padding)</li><li>125 Figure Textures with No Outline(Tile Overlay) at 840x840 px (with padding)</li></ul><p><br /></p><p><strong>Additional Information:</strong></p><ul><li>They are 800x500 px in size (with padding): as reference, the orc figure in the sample images is roughly 300x320 px</li><li>Krita (.kra) and Photoshop (.psd) source files with colors separated by layer</li><li>Compatible with my image batch editing tool Color Mapper (by Steven Colling)</li><li>Documentation included</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1145",
+      "name": "PARKOUR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:30.756Z",
+      "updated": "2019-06-20T11:59:30.756Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "d1d9b470-55e9-4732-b6ff-9ec7945e8efc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot0-1920x1080-06392bd7bfb8052ecb3af45a5254edcd.png",
+      "md5": "06392bd7bfb8052ecb3af45a5254edcd",
+      "size": 630297,
+      "uploadedDate": "2023-10-11T20:52:18.277Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot1-1920x1080-fd6eaccf936948b35745a67d3152e081.png",
+      "md5": "fd6eaccf936948b35745a67d3152e081",
+      "size": 791210,
+      "uploadedDate": "2023-10-11T20:52:18.759Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot2-1920x1080-26535f89bdb3a88e4001d6481c6f4430.png",
+      "md5": "26535f89bdb3a88e4001d6481c6f4430",
+      "size": 245454,
+      "uploadedDate": "2023-10-11T20:52:19.141Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot3-1920x1080-0ccc5b59c35b8167e436e99644442c1f.png",
+      "md5": "0ccc5b59c35b8167e436e99644442c1f",
+      "size": 171266,
+      "uploadedDate": "2023-10-11T20:52:19.511Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/screenshot4-1920x1080-e61aef4cd2370803721bdb1c80d0f925.png",
+      "md5": "e61aef4cd2370803721bdb1c80d0f925",
+      "size": 183416,
+      "uploadedDate": "2023-10-11T20:52:19.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/IsleofLore2StrategyFigures_thumb-284x284-13abbf80aea74169c2269da5e692f790.png",
+      "md5": "13abbf80aea74169c2269da5e692f790",
+      "size": 129596,
+      "uploadedDate": "2023-10-11T20:52:20.111Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/IsleofLore2StrategyFigures_featured-894x488-cdb8dac70a34faa126bcd94165100d90.png",
+      "md5": "cdb8dac70a34faa126bcd94165100d90",
+      "size": 575013,
+      "uploadedDate": "2023-10-11T20:52:20.298Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot0-1920x1080-06392bd7bfb8052ecb3af45a5254edcd_Snapshot.png",
+      "md5": "9d9162e39303c4c9c50248ae33abaccc",
+      "size": 6450,
+      "uploadedDate": "2023-10-11T20:52:18.517Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot1-1920x1080-fd6eaccf936948b35745a67d3152e081_Snapshot.png",
+      "md5": "8762333d1d4092d60120ab43ba88b2fb",
+      "size": 6835,
+      "uploadedDate": "2023-10-11T20:52:18.968Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot2-1920x1080-26535f89bdb3a88e4001d6481c6f4430_Snapshot.png",
+      "md5": "09505698f441a6ebb65ffe99346001a3",
+      "size": 2775,
+      "uploadedDate": "2023-10-11T20:52:19.327Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot3-1920x1080-0ccc5b59c35b8167e436e99644442c1f_Snapshot.png",
+      "md5": "b46bf03caff1592e9bed4ff4a9b66f09",
+      "size": 2250,
+      "uploadedDate": "2023-10-11T20:52:19.717Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/screenshot4-1920x1080-e61aef4cd2370803721bdb1c80d0f925_Snapshot.png",
+      "md5": "6eebb915f3163334770ca45d198ec65f",
+      "size": 2363,
+      "uploadedDate": "2023-10-11T20:52:20.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery0-1920x1080-ffa934498a9660af06cfb64bddcb05dd_Snapshot.png",
+      "md5": "b51031a4b6581c549f95995cbac8b621",
+      "size": 6423,
+      "uploadedDate": "2020-04-29T12:47:08.680Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery1-1920x1080-33b633945f6bffe8b174889213983efc_Snapshot.png",
+      "md5": "b95c6fa0af45b296eab2a8d2fad29ec3",
+      "size": 1853,
+      "uploadedDate": "2020-04-29T12:47:09.014Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/gallery2-1920x1080-d8d6db48ac2574c0d990d3b1d7be5bee_Snapshot.png",
+      "md5": "68a5721ed91769c2b5e2245942389440",
+      "size": 1734,
+      "uploadedDate": "2020-04-29T12:47:09.403Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "a415990321474340b40e79296a7a1fa4"
+    }
+  ],
+  "catalogNs": null
+}

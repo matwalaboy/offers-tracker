@@ -1,0 +1,266 @@
+{
+  "id": "9fe57de6bf434029a072f9bf717cbdaa",
+  "namespace": "ue",
+  "title": "Coins & Gems SFX Pack",
+  "description": "High-quality sound effects for coins, gems, and stars! From basic ones to more complex (designed). All are clean and matched in volume. Great for both realistic and non-realistic game projects.",
+  "longDescription": "<p>Recorded and edited in a span of two weeks, this pack reflects the effort that went into its creation! The sounds are divided into BASIC and DESIGNED categories. Basic sound effects have one layer, and designed ones offer more complex, multilayered sound, often with magical textures. The sample rate of 16 bit offers the best quality/size ratio, with volumes hovering around -7 dB on average to make your life easier when leveling with background music. All SFX are clean of any noise. Great for both realistic and non-realistic game projects.</p><p><br /></p><p>17.12.2021 UPDATE 1: 4 new SFX included!</p><p>18.10.2022 UPDATE 2: 48 new SFX included!</p><p><br /></p><p>SoundCloud Preview: <a href=\"https://soundcloud.com/cyberwave-orchestra/sets/coins-gems-sound-pack?si&#61;1650f06c5ce945d0b88ca4299ff85acc\" rel=\"nofollow\">Official SoundCloud Page</a></p><p>List of the included files: <a href=\"https://drive.google.com/file/d/1Flgb9J-IUJ7I_oqOsEPBAF65CxKQO1d4/view?usp&#61;sharing\" rel=\"nofollow\">Files Included</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "coins-gems-sfx-pack",
+  "creationDate": "2021-12-03T19:06:40.954Z",
+  "lastModifiedDate": "2024-09-29T10:40:59.191Z",
+  "effectiveDate": "2021-12-03T19:06:40.906Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lnx9gxrgtdlpf7kuvbxgpx23b9celz",
+    "name": "Cyberwave Orchestra"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Audio Wavs: 158</p><p>Number of Audio Cues: 158</p><p>Format: 44.1 kHz, 16 bit, Stereo, WAV</p><p>Does music loop: No</p><p>Supported Development Platforms: All</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1120",
+      "name": "RTS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:18.078Z",
+      "updated": "2023-08-23T05:08:24.551Z",
+      "status": "ACTIVE",
+      "referenceCount": 87,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "162d0255-26fe-40f4-8f67-83eba62a31a7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/CIG Main-1920x1080-a6c44fbc40b65ff34ec8578b6e1d0986.jpg",
+      "md5": "a6c44fbc40b65ff34ec8578b6e1d0986",
+      "size": 162877,
+      "uploadedDate": "2021-12-03T10:06:17.165Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/CoinsGemsSFXPack_thumb-284x284-12106c24cdbd6818c002a63128ab7497.png",
+      "md5": "12106c24cdbd6818c002a63128ab7497",
+      "size": 172453,
+      "uploadedDate": "2022-10-18T06:11:53.416Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/CoinsGemsSFXPack_featured-894x488-495b09176ef69039e46ba20e60016136.png",
+      "md5": "495b09176ef69039e46ba20e60016136",
+      "size": 629358,
+      "uploadedDate": "2022-10-18T06:11:53.570Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/CIG Main-1920x1080-a6c44fbc40b65ff34ec8578b6e1d0986_Snapshot.jpg",
+      "md5": "8c423482d2475db28b6ec3787d407bd8",
+      "size": 7520,
+      "uploadedDate": "2021-12-03T10:06:17.375Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "393f28ad135346cca1e350759c1848c3"
+    }
+  ],
+  "catalogNs": null
+}

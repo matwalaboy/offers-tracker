@@ -1,0 +1,284 @@
+{
+  "id": "903666dafc51479c844fcc0d998617b6",
+  "namespace": "ue",
+  "title": "Beast Warrior",
+  "description": "Fantasy RPG style Tiger and Wolf man beast warrior.",
+  "longDescription": "<p><strong>Video Preview</strong>: <a href=\"https://youtu.be/aMJIMFKPQ6g\" rel=\"nofollow\">https://youtu.be/aMJIMFKPQ6g</a></p><p><br /></p><p>Warrior with Tiger and Wolf Face.</p><p>Tiger heads are White and Yellow. Wolf is black.</p><p>Warrior has an axe, a sword and a mace.</p><p>Including for Stylized NPR shading Materials.</p><p>Facial animations included indeed.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "beast-warrior",
+  "creationDate": "2019-01-20T10:29:13.628Z",
+  "lastModifiedDate": "2024-09-30T07:36:05.935Z",
+  "effectiveDate": "2019-01-20T10:29:13.598Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-y944h54l7mx67dpjqydqnp2tqab2yr",
+    "name": "Indie-us Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features</strong>:</p><ul><li>2 Maps (Lighting, Animations)</li><li>3 Mesh variations (White Tiger, Basic Tiger, Wolf)</li><li>3 Weapon Meshes (BattleAxe, Mace, Sword)</li></ul><p><br /></p><p><strong>Scaled to Epic Skeleton</strong>: Yes</p><p><strong>Rigged</strong>: Yes</p><p><strong>Rigged to Epic Skeleton</strong>: Yes</p><p><strong>Animated</strong>: Yes</p><p><strong>Number of Characters</strong>: 1 (Includes 2 more skins)</p><p><strong>Vertex Counts of Characters</strong>: 10.1k total</p><p><strong>Texture Resolutions</strong>: 2048 each (Face, Body, Cloths)</p><p><strong>Number of Animations</strong>: 22 (Anim Montages 0, 1 Blend Space, 2 Blend Spaces 1D)</p><p><strong>Animation Types</strong>: In place 19, root motion 3</p><p><strong>Supported Development Platforms</strong>: All</p><p><strong>Supported Target Build Platforms</strong>: Windows</p><p><strong>Documentation</strong>: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "abc8594e-565a-47dc-9bb6-c3483398e2e3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BeastWrrior01-1920x1080-0b184eb4284c271e87879a7863944217.png",
+      "md5": "0b184eb4284c271e87879a7863944217",
+      "size": 2453127,
+      "uploadedDate": "2018-12-20T10:51:24.335Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BeastWrrior02-1920x1080-b79537bdb1a40dd59fd8146ed889815a.png",
+      "md5": "b79537bdb1a40dd59fd8146ed889815a",
+      "size": 2715360,
+      "uploadedDate": "2018-12-20T10:51:24.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/BeastWrrior03-1920x1080-742027ae6822779754acc043ec2d4210.png",
+      "md5": "742027ae6822779754acc043ec2d4210",
+      "size": 2255172,
+      "uploadedDate": "2018-12-20T10:51:25.612Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Skins-1920x1080-4f8737bfdbb5349c23d44641d6c96b19.png",
+      "md5": "4f8737bfdbb5349c23d44641d6c96b19",
+      "size": 2340480,
+      "uploadedDate": "2018-12-20T10:51:26.161Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Animations-1920x1080-81579e517d5f5bea4558dd58e69c0840.png",
+      "md5": "81579e517d5f5bea4558dd58e69c0840",
+      "size": 2050409,
+      "uploadedDate": "2018-12-20T10:51:26.639Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Weapons-1920x1080-912a389cb2bbe533347c801eb22fe996.png",
+      "md5": "912a389cb2bbe533347c801eb22fe996",
+      "size": 1845110,
+      "uploadedDate": "2018-12-20T10:51:27.142Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/BeastWarrior_thumb-284x284-7e09a700b3c7c2c74448051238646f1d.png",
+      "md5": "7e09a700b3c7c2c74448051238646f1d",
+      "size": 128375,
+      "uploadedDate": "2018-12-20T10:51:27.470Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/BeastWarrior_featured-894x488-cfc0aaaac5440ef811cdf9f5a6e7dcde.png",
+      "md5": "cfc0aaaac5440ef811cdf9f5a6e7dcde",
+      "size": 547640,
+      "uploadedDate": "2018-12-20T10:51:27.598Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BeastWrrior01-1920x1080-0b184eb4284c271e87879a7863944217_Snapshot.png",
+      "md5": "d1e2286199bd9aa862c639f8f8471cd7",
+      "size": 27437,
+      "uploadedDate": "2018-12-20T10:51:24.730Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BeastWrrior02-1920x1080-b79537bdb1a40dd59fd8146ed889815a_Snapshot.png",
+      "md5": "1a9312d01b74a581e899b8c96bd41e1f",
+      "size": 32148,
+      "uploadedDate": "2018-12-20T10:51:25.349Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/BeastWrrior03-1920x1080-742027ae6822779754acc043ec2d4210_Snapshot.png",
+      "md5": "23919a422a9d7a7b8033234ab824439b",
+      "size": 31046,
+      "uploadedDate": "2018-12-20T10:51:25.945Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Skins-1920x1080-4f8737bfdbb5349c23d44641d6c96b19_Snapshot.png",
+      "md5": "b9d1117ac9a6fdec74039f16294454fe",
+      "size": 24760,
+      "uploadedDate": "2018-12-20T10:51:26.458Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Animations-1920x1080-81579e517d5f5bea4558dd58e69c0840_Snapshot.png",
+      "md5": "2a5f1e302bb8cf17cdb141e81c07dec7",
+      "size": 19486,
+      "uploadedDate": "2018-12-20T10:51:26.921Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/Weapons-1920x1080-912a389cb2bbe533347c801eb22fe996_Snapshot.png",
+      "md5": "2082f574b2295a2ae64fc6934e6ed0b0",
+      "size": 20245,
+      "uploadedDate": "2018-12-20T10:51:27.416Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "f99ba03fb4a949d68de5d505c2a1e2a6"
+    }
+  ],
+  "catalogNs": null
+}

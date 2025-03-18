@@ -1,0 +1,290 @@
+{
+  "id": "b917bd1d386549e795562a239b7ddf34",
+  "namespace": "ue",
+  "title": "Shooter VFX Starter Pack",
+  "description": "Shooter Niagara VFX Starter Pack",
+  "longDescription": "<p><br /></p><p><a href=\"https://youtu.be/WMbk194tjrA\" rel=\"nofollow\"><strong><em>Preview </em></strong></a></p><p><br /></p><p>Other products:</p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/efe116af5aa74859ab43a5f387622a0c\" rel=\"nofollow\"><strong>25 Muzzle Flashes Bundle</strong></a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/ambient-effects-pack\" rel=\"nofollow\"><strong>Ambient Effects Pack</strong></a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/25-effects-for-survival-game\" rel=\"nofollow\"><strong>Effects Pack For Survival Game</strong></a></p><p><br /></p><p><br /></p><p>Pack of effect for Shooter project</p><p>Includes :</p><ul><li>2 Big Explosions</li><li>7 Grenade Explosions</li><li>1 Customizable Blood HitImpact</li><li>1 Customizable Fire</li><li>5 HitImpact Effects for different Surfaces</li><li>5 Hole Decal Materials for different Surfaces</li><li>5 Muzzle Flash Effects For different Weapons</li><li>Hitscan Bullet Tracer <a href=\"https://youtu.be/FU1sZFjVvXA?t&#61;14\" rel=\"nofollow\"><em>How to use</em></a></li><li>Projectile Bullet Tracer</li></ul><p><br /></p><p><a href=\"https://www.youtube.com/watch?v&#61;G7-cBjnyVRw\" rel=\"nofollow\">Shader complexity</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "shooter-vfx-starter-pack",
+  "creationDate": "2024-07-29T16:54:29.492Z",
+  "lastModifiedDate": "2024-09-27T20:11:46.132Z",
+  "effectiveDate": "2024-07-29T16:54:29.463Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-w7eycya4jug3gpxux6yabn5c8st7rl",
+    "name": "MajiqFX"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li> Easy Size control</li><li>User parameters for color,timings,etc</li><li> Perfect for start shooter project</li></ul><p>Type of Emitters: (CPU, GPU)</p><p>Number of Unique Effects: 23</p><p>LODs: (No)</p><p>Number of Materials: 28</p><p>Number of Textures: 44</p><p>Number of Blueprints: 6</p><p>Number of Unique Meshes: 5</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p><br /></p><p>Help <a href=\"https://discord.com/invite/hFuhAU6K\" rel=\"nofollow\"><strong>Discord</strong></a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/fx"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c7bb6377-2162-4c56-8950-907ba44c22e3"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pew2.1.1-1920x1080-b3776a6b575befcc775c9d2d7986367a.png",
+      "md5": "b3776a6b575befcc775c9d2d7986367a",
+      "size": 1230112,
+      "uploadedDate": "2024-07-25T17:53:44.244Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pew2.2-1920x1080-2eff48c928416afca35315c8b0e66f89.png",
+      "md5": "2eff48c928416afca35315c8b0e66f89",
+      "size": 1263748,
+      "uploadedDate": "2024-07-25T17:53:44.851Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pew2.3-1920x1080-e49904a15e6805c82568f0f9b8d9bc8a.png",
+      "md5": "e49904a15e6805c82568f0f9b8d9bc8a",
+      "size": 1314341,
+      "uploadedDate": "2024-07-25T17:53:45.459Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pew2.4-1920x1080-bd1f5a11627d3bb8f2a7fcd6ec555380.png",
+      "md5": "bd1f5a11627d3bb8f2a7fcd6ec555380",
+      "size": 1282257,
+      "uploadedDate": "2024-07-25T17:53:46.148Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/pew2.5-1920x1080-2505d03c324cf2e4e7672fe4bcd54048.png",
+      "md5": "2505d03c324cf2e4e7672fe4bcd54048",
+      "size": 824663,
+      "uploadedDate": "2024-07-25T17:53:46.807Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/ShooterVFXStarterPack_thumb-284x284-9e588f439bd44579578a3754055eb731.png",
+      "md5": "9e588f439bd44579578a3754055eb731",
+      "size": 112210,
+      "uploadedDate": "2024-07-25T17:53:47.184Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/ShooterVFXStarterPack_featured-894x488-7d8eff4e882e31b7b695571749340b36.png",
+      "md5": "7d8eff4e882e31b7b695571749340b36",
+      "size": 374802,
+      "uploadedDate": "2024-07-25T17:53:47.318Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pew2.1.1-1920x1080-b3776a6b575befcc775c9d2d7986367a_Snapshot.png",
+      "md5": "9a011c003aa2ecd16517ee6c77e2a3e5",
+      "size": 6064,
+      "uploadedDate": "2024-07-25T17:53:44.619Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pew2.2-1920x1080-2eff48c928416afca35315c8b0e66f89_Snapshot.png",
+      "md5": "9b238fbf8477e79bec4264eba530ddda",
+      "size": 7454,
+      "uploadedDate": "2024-07-25T17:53:45.232Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pew2.3-1920x1080-e49904a15e6805c82568f0f9b8d9bc8a_Snapshot.png",
+      "md5": "fd9d672f1aa9d4f3d131eec0aa0f1577",
+      "size": 6348,
+      "uploadedDate": "2024-07-25T17:53:45.844Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pew2.4-1920x1080-bd1f5a11627d3bb8f2a7fcd6ec555380_Snapshot.png",
+      "md5": "46862a338e5bde288d8cdb3e767da152",
+      "size": 6808,
+      "uploadedDate": "2024-07-25T17:53:46.546Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/pew2.5-1920x1080-2505d03c324cf2e4e7672fe4bcd54048_Snapshot.png",
+      "md5": "d7d51cd225f2080c409043776945e9c2",
+      "size": 6073,
+      "uploadedDate": "2024-07-25T17:53:47.149Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "1b3716f01c2e40dc8c0652957098a9b0"
+    }
+  ],
+  "catalogNs": null
+}

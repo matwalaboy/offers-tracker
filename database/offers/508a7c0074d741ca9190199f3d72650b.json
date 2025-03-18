@@ -1,0 +1,368 @@
+{
+  "id": "508a7c0074d741ca9190199f3d72650b",
+  "namespace": "ue",
+  "title": "Pterodactyl",
+  "description": "Low-poly realistic model of pterodactyl with 45 in-place animations",
+  "longDescription": "<p>Low-poly model of pterodactyl. Suitable for games of different genre: RPG, strategy, first-person etc.</p><p>Contains six different skins: forest, desert, mud, sea, mountain and volcanic.</p><p>I recommend to use a shader with a two-sided display of polygons.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pterodactyl",
+  "creationDate": "2021-03-19T19:43:02.342Z",
+  "lastModifiedDate": "2024-09-27T12:12:36.576Z",
+  "effectiveDate": "2021-03-19T19:43:02.244Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-8n4xd4s5hmqabwdyavtt6zndv5k5d5",
+    "name": "SAN 3D Art"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><a href=\"https://www.youtube.com/watch?v&#61;5_CdCjeT-4o\" rel=\"nofollow\">In-engine video on YouTube</a></p><p><a href=\"https://www.youtube.com/watch?v&#61;YvheETkH9-0\" rel=\"nofollow\">Technical trailer on YouTube</a></p><p><br /></p><p>Rigged: (Yes)</p><p>Rigged to Epic skeleton: (No)</p><p>Animated: (Yes)</p><p>Number of Animations: 45</p><p>Animation types (In-place):</p><p>Number of characters: 1</p><p>Vertex counts of characters: 8560</p><p><br /></p><p>Number of Materials and Material Instances: 6</p><p>Texture Resolutions: 4096x4096</p><p>Supported Development Platforms:</p><p>Windows: (Yes)</p><p>Mac: (Yes)</p><p>Linux: (Yes)</p><p>Documentation: No link</p><p>Important/Additional Notes: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/characters"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "c5729b2a-018a-441e-ba5f-e0202b08a58e"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1080 main-1920x1080-cb53c5897a1a7e4c4569c5846a69518b.png",
+      "md5": "cb53c5897a1a7e4c4569c5846a69518b",
+      "size": 1474563,
+      "uploadedDate": "2021-03-18T21:48:18.316Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-723af65ab1c207ee6eb7267976220df3.jpg",
+      "md5": "723af65ab1c207ee6eb7267976220df3",
+      "size": 484488,
+      "uploadedDate": "2021-03-18T21:48:18.780Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-a3973ef12adc098fbfb6a2bb1d5e08b0.jpg",
+      "md5": "a3973ef12adc098fbfb6a2bb1d5e08b0",
+      "size": 301773,
+      "uploadedDate": "2021-03-18T21:48:19.177Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/3-1920x1080-6cf9c81f19f5300e0753767dc614fbb4.jpg",
+      "md5": "6cf9c81f19f5300e0753767dc614fbb4",
+      "size": 390449,
+      "uploadedDate": "2021-03-18T21:48:19.564Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/4-1920x1080-96530c36858712c2c0faa4438a40992e.jpg",
+      "md5": "96530c36858712c2c0faa4438a40992e",
+      "size": 447374,
+      "uploadedDate": "2021-03-18T21:48:19.909Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10802-1920x1080-4df12920882aecfef2298ce9d0ac49df.png",
+      "md5": "4df12920882aecfef2298ce9d0ac49df",
+      "size": 1421880,
+      "uploadedDate": "2021-03-18T21:48:20.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10803-1920x1080-9c75fb520ab2a8d7ca6e880edb5f99bd.png",
+      "md5": "9c75fb520ab2a8d7ca6e880edb5f99bd",
+      "size": 782307,
+      "uploadedDate": "2021-03-18T21:48:20.767Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/10804-1920x1080-9f43bc4b7b086367b8606d89d4952685.png",
+      "md5": "9f43bc4b7b086367b8606d89d4952685",
+      "size": 1500055,
+      "uploadedDate": "2021-03-18T21:48:21.173Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/Pterodactyl_thumb-284x284-a11f6863144e4f6c2e78adbf14227956.png",
+      "md5": "a11f6863144e4f6c2e78adbf14227956",
+      "size": 65135,
+      "uploadedDate": "2021-03-18T21:48:21.516Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/Pterodactyl_featured-894x488-aad155ca435fa114b2b84a65bd02c9d0.png",
+      "md5": "aad155ca435fa114b2b84a65bd02c9d0",
+      "size": 430629,
+      "uploadedDate": "2021-03-18T21:48:21.643Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1080 main-1920x1080-cb53c5897a1a7e4c4569c5846a69518b_Snapshot.png",
+      "md5": "71bb5e0510b8cacbd80af790b2df4b1e",
+      "size": 4896,
+      "uploadedDate": "2021-03-18T21:48:18.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-723af65ab1c207ee6eb7267976220df3_Snapshot.jpg",
+      "md5": "45b175f61fc6cd04852981e1ea7bbb73",
+      "size": 6906,
+      "uploadedDate": "2021-03-18T21:48:19.049Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-a3973ef12adc098fbfb6a2bb1d5e08b0_Snapshot.jpg",
+      "md5": "da2ea2c97299b592dd8853499868ac84",
+      "size": 5803,
+      "uploadedDate": "2021-03-18T21:48:19.422Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/3-1920x1080-6cf9c81f19f5300e0753767dc614fbb4_Snapshot.jpg",
+      "md5": "819753cf8493d24bc30394734ac695fa",
+      "size": 6498,
+      "uploadedDate": "2021-03-18T21:48:19.786Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/4-1920x1080-96530c36858712c2c0faa4438a40992e_Snapshot.jpg",
+      "md5": "69b3336f8bbce80e5a0c3ab3351cee52",
+      "size": 7128,
+      "uploadedDate": "2021-03-18T21:48:20.166Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10802-1920x1080-4df12920882aecfef2298ce9d0ac49df_Snapshot.png",
+      "md5": "0ead5958308e45abfcb3f604e8ea0ac7",
+      "size": 5309,
+      "uploadedDate": "2021-03-18T21:48:20.600Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10803-1920x1080-9c75fb520ab2a8d7ca6e880edb5f99bd_Snapshot.png",
+      "md5": "3d25fed3e933bfd33fbce4c3927c83a5",
+      "size": 3186,
+      "uploadedDate": "2021-03-18T21:48:21.014Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/10804-1920x1080-9f43bc4b7b086367b8606d89d4952685_Snapshot.png",
+      "md5": "470442e6e79b7ee96ce005328b87b581",
+      "size": 4435,
+      "uploadedDate": "2021-03-18T21:48:21.440Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "15705fd77db24b03be2d339a221b695b"
+    }
+  ],
+  "catalogNs": null
+}

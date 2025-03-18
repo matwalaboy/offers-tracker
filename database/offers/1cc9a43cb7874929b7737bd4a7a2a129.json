@@ -1,0 +1,170 @@
+{
+  "id": "1cc9a43cb7874929b7737bd4a7a2a129",
+  "namespace": "ue",
+  "title": "Easy Game System",
+  "description": "Easy Game System",
+  "longDescription": "<p>Easy Game System</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "easy-game-system",
+  "creationDate": "2024-07-26T07:21:28.839Z",
+  "lastModifiedDate": "2024-09-27T07:54:23.601Z",
+  "effectiveDate": "2024-07-26T07:21:28.799Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-rynqwbuds7nwfdmr2sznmhbkp86bw9",
+    "name": "Gdy Developer"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>Weapon PickUp</li><li>Ammo PickUp</li><li>Two-Weapon Equip/Unequip</li><li>Weapon Fire</li><li>Weapon Reload</li><li>Weapon Damage System</li></ul><p><br /></p><p>Code Modules:</p><ul><li> Easy Game System [Runtime]</li></ul><p><br /></p><p>Number of Blueprints: 11</p><p>Number of C&#43;&#43; Classes: 11</p><p>Supported Development Platforms: [ Windows, MacOS ]</p><p>Supported Target Build Platforms: [ Windows, MacOS, Android, iOS]</p><p>Documentation: <a href=\"https://gdydevelopment.blogspot.com/2024/07/easy-game-system.html\" rel=\"nofollow\">Link</a></p><p>Tutorial Playlist: <a href=\"https://www.youtube.com/playlist?list&#61;PLMCnTPAjnxO-sswL6FsV0PKxySBMxchXB\" rel=\"nofollow\">Link</a></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/codeplugins"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "4fc1bd44-b372-45a1-aa48-883c7f8df599"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1920-1920x1080-8d4fea598673d66e057f43895cd0beed.png",
+      "md5": "8d4fea598673d66e057f43895cd0beed",
+      "size": 615906,
+      "uploadedDate": "2024-07-23T06:39:02.423Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-d97c901d714b698f5f3036353b0d30b5.png",
+      "md5": "d97c901d714b698f5f3036353b0d30b5",
+      "size": 479345,
+      "uploadedDate": "2024-07-23T03:00:16.762Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/1-1920x1080-aed90cc40ca4f535c008685e146bf4ab.png",
+      "md5": "aed90cc40ca4f535c008685e146bf4ab",
+      "size": 333782,
+      "uploadedDate": "2024-07-23T03:00:16.349Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/EasyGameSystem_thumb-284x284-082f65306e0f84e631d8f515a9e8ce9a.png",
+      "md5": "082f65306e0f84e631d8f515a9e8ce9a",
+      "size": 56860,
+      "uploadedDate": "2024-07-23T03:00:17.170Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/EasyGameSystem_featured-894x488-f11eaa909a32e1f0e4673b91bcc332fa.png",
+      "md5": "f11eaa909a32e1f0e4673b91bcc332fa",
+      "size": 174278,
+      "uploadedDate": "2024-07-23T06:14:15.750Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1920-1920x1080-8d4fea598673d66e057f43895cd0beed_Snapshot.png",
+      "md5": "48a656507ae595ee2774677171c1255c",
+      "size": 8445,
+      "uploadedDate": "2024-07-23T06:39:02.751Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/1-1920x1080-aed90cc40ca4f535c008685e146bf4ab_Snapshot.png",
+      "md5": "e51430c61a8d84707bc3bf3074ff06f0",
+      "size": 4272,
+      "uploadedDate": "2024-07-23T03:00:16.569Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/2-1920x1080-d97c901d714b698f5f3036353b0d30b5_Snapshot.png",
+      "md5": "ed1a31865e6d41a529da93a154af1ac8",
+      "size": 4923,
+      "uploadedDate": "2024-07-23T03:00:16.998Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "c6c33fceb3624a1c85ef928b1fd21695"
+    }
+  ],
+  "catalogNs": null
+}

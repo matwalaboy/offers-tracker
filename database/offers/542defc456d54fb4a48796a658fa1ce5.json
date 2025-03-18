@@ -1,0 +1,179 @@
+{
+  "id": "542defc456d54fb4a48796a658fa1ce5",
+  "namespace": "ue",
+  "title": "FVGM Menu Sounds Vol.1",
+  "description": "Over 150 soundFX for your menu",
+  "longDescription": "<p>Over 150 sounds for your game&#39;s menu</p><p>The different sounds are split into 4 categories:</p><p>-&#34;Click&#34; (For moving cursor etc)</p><p>-&#34;Confirm&#34; (For accepting, entering, or confirming a choice in the menu)</p><p>-&#34;Negative&#34; (Back, escape, cancel, or similar actions</p><p>-&#34;Jingle&#34; (Bonus sounds)</p><p><br /></p><p><a href=\"https://soundcloud.com/b-laze/fungi-menu-sounds-demo1/s-ZfkYU\" rel=\"nofollow\">Preview here</a></p><p><br /></p><p><br /></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/83e185f61d9d490ab5de27ce6875f4df\" rel=\"nofollow\">For Music, click here</a></p><p><a href=\"https://www.unrealengine.com/marketplace/en-US/product/83e185f61d9d490ab5de27ce6875f4df\" rel=\"nofollow\">(Check out Fungist Videogame Music)</a></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "fungi-s-menu-sounds",
+  "creationDate": "2018-01-12T18:14:55.723Z",
+  "lastModifiedDate": "2024-09-26T22:27:28.703Z",
+  "effectiveDate": "2018-01-12T18:14:55.640Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-daf41bc1c04f9d9c1417b337792077",
+    "name": "Kenneth Nordsveen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Number of Audio Waves: 158</p><p>Number of Audio Cues: 158</p><p>Sample rate / bit rate: 44.1 kHz, 16bit Stereo WAVs</p><p>Do Sound FX loop: No</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/soundfx"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "a1bbfa47-bdb8-4fd6-bc03-a86b94059dc0"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Fungismenusounds_screenshot_01-1920x1080-3d43041681240fc023b557237642ea59.png",
+      "md5": "3d43041681240fc023b557237642ea59",
+      "size": 218385,
+      "uploadedDate": "2018-01-02T23:53:44.497Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Fungismenusounds_screenshot_02-1920x1080-d3322f45bc961a5563933d222bfda72d.png",
+      "md5": "d3322f45bc961a5563933d222bfda72d",
+      "size": 124909,
+      "uploadedDate": "2018-01-02T23:53:44.592Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/Fungismenusounds_screenshot_03-1920x1080-70dbcdcfdb92955287ed2f6d52b85665.png",
+      "md5": "70dbcdcfdb92955287ed2f6d52b85665",
+      "size": 595091,
+      "uploadedDate": "2018-01-02T23:53:44.707Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/FVGMMenuSoundsVol1_thumb-284x284-b41ea3695fba729f112ca2d2980317e0.png",
+      "md5": "b41ea3695fba729f112ca2d2980317e0",
+      "size": 125445,
+      "uploadedDate": "2020-10-05T20:47:30.906Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/FVGMMenuSoundsVol1_featured-894x488-5f94a4927bf09dfb4523a26aadd54277.png",
+      "md5": "5f94a4927bf09dfb4523a26aadd54277",
+      "size": 524922,
+      "uploadedDate": "2020-10-05T20:47:31.015Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "24f25d875fe74cffad54cc4c81f40389"
+    }
+  ],
+  "catalogNs": null
+}

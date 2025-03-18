@@ -1,0 +1,278 @@
+{
+  "id": "3b549a221cc740c89e90ca72eca0fcab",
+  "namespace": "ue",
+  "title": "Game Zombie Portraits",
+  "description": "Game Zombie Portraits pack with 100 images to enhance your game’s character visuals with eerie, zombie-themed portraits.",
+  "longDescription": "<p>Create a haunting atmosphere with the Game Zombie Portraits pack, featuring 100 high-resolution images (1024x1024). These portraits showcase a variety of zombie characters, making them perfect for horror, survival, and post-apocalyptic games. Whether used for character profiles, avatars, or in-game dialogue, this collection provides the creepy and detailed visuals needed to bring your undead characters to life and immerse players in a chilling game world.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "game-zombie-portraits",
+  "creationDate": "2024-09-13T20:54:05.746Z",
+  "lastModifiedDate": "2024-09-30T20:26:51.906Z",
+  "effectiveDate": "2024-09-13T20:54:05.693Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p><strong>Features:</strong></p><ul><li><strong>Resolution:</strong> 1024 x 1024 pixels</li><li><strong>Total Images:</strong> 100</li><li><strong>File Format:</strong> PNG</li></ul>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ec18e3e1-be25-4680-9f91-e24e0ff3cbfe"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreview000-1920x1080-5324911bfe8669f81a7fe42857e5e669.jpeg",
+      "md5": "5324911bfe8669f81a7fe42857e5e669",
+      "size": 194133,
+      "uploadedDate": "2024-09-10T13:27:31.357Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreview000-1920x1080-5324911bfe8669f81a7fe42857e5e669_Snapshot.jpeg",
+      "md5": "02387be50469fb78aba6e527856c74aa",
+      "size": 4672,
+      "uploadedDate": "2024-09-10T13:27:31.578Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm001-1920x1080-c2f4ff32bca53450fc303881f107ea83.jpeg",
+      "md5": "c2f4ff32bca53450fc303881f107ea83",
+      "size": 397782,
+      "uploadedDate": "2024-09-10T13:27:31.723Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm001-1920x1080-c2f4ff32bca53450fc303881f107ea83_Snapshot.jpeg",
+      "md5": "abb9088c65e1da759dff71a792ba9b13",
+      "size": 9265,
+      "uploadedDate": "2024-09-10T13:27:31.980Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm002-1920x1080-e6f95eba163397edeffd41fa29f0054c.jpeg",
+      "md5": "e6f95eba163397edeffd41fa29f0054c",
+      "size": 390179,
+      "uploadedDate": "2024-09-10T13:27:32.137Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm002-1920x1080-e6f95eba163397edeffd41fa29f0054c_Snapshot.jpeg",
+      "md5": "3d35aa5d69f670ead02855e5eb7d7dad",
+      "size": 9206,
+      "uploadedDate": "2024-09-10T13:27:32.371Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm003-1920x1080-38f7c4385ff84888495fc67f0023abba.jpeg",
+      "md5": "38f7c4385ff84888495fc67f0023abba",
+      "size": 392115,
+      "uploadedDate": "2024-09-10T13:27:32.467Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm003-1920x1080-38f7c4385ff84888495fc67f0023abba_Snapshot.jpeg",
+      "md5": "9538f9493a31a2f4f89d6ce454e80881",
+      "size": 8948,
+      "uploadedDate": "2024-09-10T13:27:32.730Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/UEPreviewSm004-1920x1080-9f2c3ef6dd8a8c96a20a70d9bc9abe62.jpeg",
+      "md5": "9f2c3ef6dd8a8c96a20a70d9bc9abe62",
+      "size": 388660,
+      "uploadedDate": "2024-09-10T13:27:32.808Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/UEPreviewSm004-1920x1080-9f2c3ef6dd8a8c96a20a70d9bc9abe62_Snapshot.jpeg",
+      "md5": "76e9039b355d64dc409bd488d506cc80",
+      "size": 9219,
+      "uploadedDate": "2024-09-10T13:27:33.043Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/GameZombiePortraits_thumb-284x284-6b3b948d0c902560496c66fabaf060b2.png",
+      "md5": "6b3b948d0c902560496c66fabaf060b2",
+      "size": 132770,
+      "uploadedDate": "2024-09-10T13:27:33.111Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/GameZombiePortraits_featured-894x488-5fa7029ebc3cdb6d7ddf2e12bf7a86e0.png",
+      "md5": "5fa7029ebc3cdb6d7ddf2e12bf7a86e0",
+      "size": 381073,
+      "uploadedDate": "2024-09-10T13:27:33.174Z",
+      "width": 894,
+      "height": 488
+    }
+  ],
+  "items": [
+    {
+      "id": "7755c4309441431b8982e53ead9adbef"
+    }
+  ],
+  "catalogNs": null
+}

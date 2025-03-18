@@ -1,0 +1,260 @@
+{
+  "id": "a84b2f86fc0f4e0e96f401eee89f622e",
+  "namespace": "ue",
+  "title": "NHC - Shooter Backgrounds",
+  "description": "The pack includes 80 different shooter background pictures",
+  "longDescription": "<p>The pack consists of 80 different images which include of different shooter background pictures that can organically fit into any mobile project, game, website or product design.</p><p><br /></p><p><br /></p><p>They will work great for:</p><p><br /></p><p>- items in your inventory;</p><p>- notes or books, etc;</p><p>- show pictures on devices;</p><p>- site design;</p><p>- etc.</p><p><br /></p><p><br /></p><p>If you are interested in new assets for a special theme - feel free to write in comments or email : new.horizon.creators&#64;gmail.com</p><p>We are open to new ideas.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "nhc-shooter-backgrounds",
+  "creationDate": "2024-04-11T09:16:20.446Z",
+  "lastModifiedDate": "2024-09-30T11:13:53.040Z",
+  "effectiveDate": "2024-04-11T09:16:20.407Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-zjt59l7nbmh7gg3kjzlega2np7l8m5",
+    "name": "New Horizon Creators"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features: </p><p><br /></p><p><br /></p><p>Number of Textures: 80</p><p>2912*1632 px - 80 textures</p><p><br /></p><p><br /></p><p>Texture Resolutions: 2912*1632</p><p>Supported Development Platforms:</p><p>Windows: Yes</p><p>Mac: Yes</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1237",
+      "name": "STORY RICH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:16.304Z",
+      "updated": "2023-08-01T18:12:20.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 157,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "ae933302-1329-4d18-a7f4-303f01a0129f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide 2-1920x1080-b0f19425f746d56067828c2f66f5e820.jpg",
+      "md5": "b0f19425f746d56067828c2f66f5e820",
+      "size": 315794,
+      "uploadedDate": "2024-04-09T18:47:40.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide 1-1920x1080-60995bcdd011e2ee37edde61ace0aca1.jpg",
+      "md5": "60995bcdd011e2ee37edde61ace0aca1",
+      "size": 165345,
+      "uploadedDate": "2024-04-09T18:47:40.932Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWfide-1920x1080-0aa2c732d56fc097a79dba65014d2755.jpg",
+      "md5": "0aa2c732d56fc097a79dba65014d2755",
+      "size": 150917,
+      "uploadedDate": "2024-04-09T18:47:41.513Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/TemplateWide-1920x1080-366066746c457f90185ef6a2e9d156e4.jpg",
+      "md5": "366066746c457f90185ef6a2e9d156e4",
+      "size": 300569,
+      "uploadedDate": "2024-04-09T18:47:42.038Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/NHCShooterBackgrounds_thumb-284x284-86081e8303e90f2c5b67f8f2b9cd3cb7.png",
+      "md5": "86081e8303e90f2c5b67f8f2b9cd3cb7",
+      "size": 162586,
+      "uploadedDate": "2024-04-11T14:06:33.185Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/NHCShooterBackgrounds_featured-894x488-c061d3496d2e793e7675ef5b47700acd.png",
+      "md5": "c061d3496d2e793e7675ef5b47700acd",
+      "size": 897070,
+      "uploadedDate": "2024-04-09T18:47:42.637Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide 2-1920x1080-b0f19425f746d56067828c2f66f5e820_Snapshot.jpg",
+      "md5": "67813d37589599b785b5a39bae20c206",
+      "size": 8687,
+      "uploadedDate": "2024-04-09T18:47:40.785Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide 1-1920x1080-60995bcdd011e2ee37edde61ace0aca1_Snapshot.jpg",
+      "md5": "a7a012748088aca24c8458a5d6921b6f",
+      "size": 7832,
+      "uploadedDate": "2024-04-09T18:47:41.278Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWfide-1920x1080-0aa2c732d56fc097a79dba65014d2755_Snapshot.jpg",
+      "md5": "35e0b25e0965c93bf89205a35c15ea04",
+      "size": 8802,
+      "uploadedDate": "2024-04-09T18:47:41.804Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/TemplateWide-1920x1080-366066746c457f90185ef6a2e9d156e4_Snapshot.jpg",
+      "md5": "dafbb38fe53bf11809a54dd308f6ee6a",
+      "size": 9937,
+      "uploadedDate": "2024-04-09T18:47:42.364Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "0694c347e7294019a7504e8e2b4a4446"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": "adf1978eda9d44f0b39affcef381fec6",
+  "namespace": "ue",
+  "title": "Vegetation Vol 2 - Pine Trees",
+  "description": "Whether you’re creating a dense forest, a charming park, or any other natural environment, this pack brings your projects to life with a unique and captivating style.",
+  "longDescription": "<p>Vegetation Vol2 - Tree Set offers a unique selection of 24 stylized tree meshes, ideal for adding depth and artistic beauty to your natural scenes. The trees are optimized with impostors, allowing you to create scenes with denser vegetation.</p><p><strong>Artwork created by the team at Six Sides Studios.</strong></p><p><strong>Featuring the unique stylized visual signature exclusive to Six Sides Studios.</strong></p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vegetation-vol-2-pine-trees",
+  "creationDate": "2024-07-20T13:14:20.535Z",
+  "lastModifiedDate": "2024-09-26T19:07:54.144Z",
+  "effectiveDate": "2024-07-20T13:14:20.477Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2xe7xcjyj784j3wa85bnl8m6mhkkrk",
+    "name": "Six Sides Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>Features:</p><ul><li>15 Trees</li><li>Impostor (Optimization Method)</li><li>RVT</li></ul><p><br /></p><p>Static Meshes: 22</p><p>Tris: 498 - 44k </p><p>Collision: Yes, (Use Default Collision)</p><p>LODs: Yes - 4 LOD levels</p><p>Materials: 6</p><p>Material Instances: 27</p><p>Textures: 49</p><p>Texture Resolutions: 4K</p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "3cddf94c-46aa-4f15-9ddf-ab4c063060ba"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA2-1920x1080-20b229b22e0fac35f84b9dceab81712d.jpg",
+      "md5": "20b229b22e0fac35f84b9dceab81712d",
+      "size": 2370958,
+      "uploadedDate": "2024-07-18T14:40:29.630Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA8-1920x1080-3e496b71ea512edef9c3aed3fbd5eaae.jpg",
+      "md5": "3e496b71ea512edef9c3aed3fbd5eaae",
+      "size": 1376487,
+      "uploadedDate": "2024-07-20T13:13:37.035Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA9-1920x1080-3a032503f38f66eef406d7775bd5044e.jpg",
+      "md5": "3a032503f38f66eef406d7775bd5044e",
+      "size": 1874160,
+      "uploadedDate": "2024-07-20T13:13:37.968Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA7-1920x1080-98c13d124dbc52f25550d45d4c413897.jpg",
+      "md5": "98c13d124dbc52f25550d45d4c413897",
+      "size": 1454867,
+      "uploadedDate": "2024-07-20T13:13:36.093Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA5-1920x1080-ca63d977dc2114e4392fc9beee30976a.jpg",
+      "md5": "ca63d977dc2114e4392fc9beee30976a",
+      "size": 833011,
+      "uploadedDate": "2024-07-20T13:13:34.106Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA6-1920x1080-06a6bc48caf87dfc58617752081a51c4.jpg",
+      "md5": "06a6bc48caf87dfc58617752081a51c4",
+      "size": 1065181,
+      "uploadedDate": "2024-07-20T13:13:35.075Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA4-1920x1080-7577f88e535e0ad1f418681e6b1b0c50.jpg",
+      "md5": "7577f88e535e0ad1f418681e6b1b0c50",
+      "size": 639731,
+      "uploadedDate": "2024-07-20T13:13:33.231Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA3-1920x1080-8de5bb2d85d08a06c33a7f46942793e9.jpg",
+      "md5": "8de5bb2d85d08a06c33a7f46942793e9",
+      "size": 415367,
+      "uploadedDate": "2024-07-20T13:13:32.385Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/IVegetationVol2PineTreesA1-1920x1080-23968d8be4a12a8f2f7a52a447be06b0.jpg",
+      "md5": "23968d8be4a12a8f2f7a52a447be06b0",
+      "size": 1273196,
+      "uploadedDate": "2024-07-20T13:13:31.458Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/VegetationVol2PineTrees_thumb-284x284-441dc7309b8d3df04aaccd5c4c9779fa.png",
+      "md5": "441dc7309b8d3df04aaccd5c4c9779fa",
+      "size": 218093,
+      "uploadedDate": "2024-07-18T14:40:30.398Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/VegetationVol2PineTrees_featured-894x488-d450de762b02652b4f880e00bf3dbb19.png",
+      "md5": "d450de762b02652b4f880e00bf3dbb19",
+      "size": 1015883,
+      "uploadedDate": "2024-07-18T14:40:30.604Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA1-1920x1080-23968d8be4a12a8f2f7a52a447be06b0_Snapshot.jpg",
+      "md5": "ea964c8ce5cc3b155e993acaa2dbf736",
+      "size": 9128,
+      "uploadedDate": "2024-07-20T13:13:32.096Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA3-1920x1080-8de5bb2d85d08a06c33a7f46942793e9_Snapshot.jpg",
+      "md5": "b08a2d8db7a2e08ba8df335fc6dadd5b",
+      "size": 2773,
+      "uploadedDate": "2024-07-20T13:13:32.924Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA4-1920x1080-7577f88e535e0ad1f418681e6b1b0c50_Snapshot.jpg",
+      "md5": "d45d578f2a7d8c149fded467c511835f",
+      "size": 5075,
+      "uploadedDate": "2024-07-20T13:13:33.797Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA5-1920x1080-ca63d977dc2114e4392fc9beee30976a_Snapshot.jpg",
+      "md5": "dfd377f4057f3f59271818b35a77c6a1",
+      "size": 4853,
+      "uploadedDate": "2024-07-20T13:13:34.690Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA6-1920x1080-06a6bc48caf87dfc58617752081a51c4_Snapshot.jpg",
+      "md5": "c7449f7921b24758dc5cbff4649b339b",
+      "size": 5138,
+      "uploadedDate": "2024-07-20T13:13:35.651Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA7-1920x1080-98c13d124dbc52f25550d45d4c413897_Snapshot.jpg",
+      "md5": "0e41b9b6940669ecfa5a6fde47ff94e5",
+      "size": 6665,
+      "uploadedDate": "2024-07-20T13:13:36.725Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA8-1920x1080-3e496b71ea512edef9c3aed3fbd5eaae_Snapshot.jpg",
+      "md5": "5c40b7ce952928369adc207d4e4c404d",
+      "size": 6305,
+      "uploadedDate": "2024-07-20T13:13:37.636Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA9-1920x1080-3a032503f38f66eef406d7775bd5044e_Snapshot.jpg",
+      "md5": "03ab7c57fa4723d6f71eda511f6e6f6f",
+      "size": 8067,
+      "uploadedDate": "2024-07-20T13:13:38.615Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/IVegetationVol2PineTreesA2-1920x1080-20b229b22e0fac35f84b9dceab81712d_Snapshot.jpg",
+      "md5": "5929b5f829a7d5c8a4ef6f7788809269",
+      "size": 9578,
+      "uploadedDate": "2024-07-18T14:40:30.286Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "fc9f73d7554440a68402de0f2364ab07"
+    }
+  ],
+  "catalogNs": null
+}

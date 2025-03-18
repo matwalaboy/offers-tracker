@@ -1,0 +1,236 @@
+{
+  "id": "c8ab366e9f6248d0b3840aebcb59641c",
+  "namespace": "ue",
+  "title": "Runic Plates",
+  "description": "This set includes 140 high-quality rock plates in a variety of styles and sizes without backgrounds",
+  "longDescription": "<p>Discover an extensive collection of 140 different rock plates.</p><p>Suitable for use in RPGs, adventure games, strategy games and other genres.</p>",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "runic-plates",
+  "creationDate": "2024-07-15T18:11:27.791Z",
+  "lastModifiedDate": "2024-09-30T20:45:34.912Z",
+  "effectiveDate": "2024-07-15T18:11:27.759Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hh7smvqkud5ylu7eessp4l8r6vudsh",
+    "name": "Ana Craft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "<p>140 high-quality, rune plate images without backgrounds</p><p>Variety of designs, colors, and themes</p><p><br /></p><p>Number of all textures: 420</p><p>256x256 - 140 PNG images</p><p>512x512 - 140 PNG images</p><p>1024x1024 - 140 PNG images</p><p><br /></p>",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "assets/2d"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "tags": [
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "namespace": null,
+      "aliases": null,
+      "operator": null,
+      "created": null,
+      "updated": null,
+      "status": null,
+      "referenceCount": null,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "FabListingId",
+      "value": "e57b97b3-15c3-4bdb-91f0-5ede5bdb929f"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/dfdfdfd-1920x1080-2ce2cc84d6f030fa45b92a94d9836f82.jpg",
+      "md5": "2ce2cc84d6f030fa45b92a94d9836f82",
+      "size": 159309,
+      "uploadedDate": "2024-07-15T16:36:14.819Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Screenshot/fss-1920x1080-2d63aecc488a1bec5cfb63a9a4f2dabe.jpg",
+      "md5": "2d63aecc488a1bec5cfb63a9a4f2dabe",
+      "size": 159928,
+      "uploadedDate": "2024-07-15T16:36:15.333Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ue/product/Thumbnail/RunicPlates_thumb-284x284-ae80baae7db44d8fff9f12cde5538608.png",
+      "md5": "ae80baae7db44d8fff9f12cde5538608",
+      "size": 122976,
+      "uploadedDate": "2024-07-15T16:36:15.702Z",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ue/product/Featured/RunicPlates_featured-894x488-8bce41ab5388e52ab39bb365850526ce.png",
+      "md5": "8bce41ab5388e52ab39bb365850526ce",
+      "size": 507428,
+      "uploadedDate": "2024-07-15T16:36:15.843Z",
+      "width": 894,
+      "height": 488
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/dfdfdfd-1920x1080-2ce2cc84d6f030fa45b92a94d9836f82_Snapshot.jpg",
+      "md5": "798eae19003961d8d6ad395807aeb145",
+      "size": 6140,
+      "uploadedDate": "2024-07-15T16:36:15.121Z",
+      "width": 150,
+      "height": 74
+    },
+    {
+      "type": "Snapshot",
+      "url": "https://cdn1.epicgames.com/ue/product/Snapshot/fss-1920x1080-2d63aecc488a1bec5cfb63a9a4f2dabe_Snapshot.jpg",
+      "md5": "6122b13e5e99e089c1a9d037ade15135",
+      "size": 6962,
+      "uploadedDate": "2024-07-15T16:36:15.623Z",
+      "width": 150,
+      "height": 74
+    }
+  ],
+  "items": [
+    {
+      "id": "94cedfa610eb44289bc480cd2d6079a3"
+    }
+  ],
+  "catalogNs": null
+}
