@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "advanced-ragdoll-effect-get-up-and-movement-on-slope",
   "creationDate": "2018-11-08T20:23:46.960Z",
-  "lastModifiedDate": "2024-09-29T22:41:54.112Z",
+  "lastModifiedDate": "2025-03-19T09:09:40.218Z",
   "effectiveDate": "2018-11-08T20:23:46.921Z",
   "viewableDate": null,
   "developer": null,
@@ -661,5 +661,7 @@
       "id": "786fc7e101f04274bebd45b26c1b449f"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "ue"
+  }
 }
