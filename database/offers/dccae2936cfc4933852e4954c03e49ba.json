@@ -92,7 +92,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18439,
+      "referenceCount": 18440,
       "comment": null
     },
     {
@@ -368,7 +368,5 @@
       "id": "85da22102f39442097f204e19137263c"
     }
   ],
-  "catalogNs": {
-    "name": "af34c848367c4071b8083b22c90e15fb"
-  }
+  "catalogNs": null
 }
