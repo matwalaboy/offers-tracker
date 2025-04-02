@@ -44,7 +44,7 @@
       "created": "2021-03-10T09:37:21.403Z",
       "updated": "2025-03-26T16:00:30.109Z",
       "status": "ACTIVE",
-      "referenceCount": 3420,
+      "referenceCount": 3418,
       "comment": ""
     }
   ],
@@ -164,5 +164,7 @@
       "id": "de1982b52da0440c857e6a786d21ed4c"
     }
   ],
-  "catalogNs": null
+  "catalogNs": {
+    "name": "wombat"
+  }
 }
