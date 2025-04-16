@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "a4d79f30c6f04a779441531b4b5add1b",
   "creationDate": "2023-12-13T04:36:07.466Z",
-  "lastModifiedDate": "2025-04-08T15:00:31.766Z",
+  "lastModifiedDate": "2025-04-15T15:00:30.697Z",
   "effectiveDate": "2024-02-13T21:00:00.000Z",
   "viewableDate": "2023-12-13T04:36:06.272Z",
   "developer": null,
@@ -80,20 +80,8 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18672,
+      "referenceCount": 18722,
       "comment": null
-    },
-    {
-      "id": "29899",
-      "name": "Deals of the Week",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-07-26T14:41:48.253Z",
-      "updated": "2025-04-08T15:00:28.708Z",
-      "status": "ACTIVE",
-      "referenceCount": 80,
-      "comment": ""
     },
     {
       "id": "1181",
@@ -160,7 +148,5 @@
       "id": "0b51ab74316f449599392e2a09f1ca1c"
     }
   ],
-  "catalogNs": {
-    "name": "d5507cf7f5784a24ac44bff891ffa8e3"
-  }
+  "catalogNs": null
 }
