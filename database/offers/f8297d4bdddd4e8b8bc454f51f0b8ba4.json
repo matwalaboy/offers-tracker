@@ -8,7 +8,7 @@
   "productSlug": "crysis-3-remastered",
   "urlSlug": "crysis-3-remastered",
   "creationDate": "2019-08-27T22:05:04.575Z",
-  "lastModifiedDate": "2025-04-22T15:00:29.752Z",
+  "lastModifiedDate": "2025-04-27T01:18:36.106Z",
   "effectiveDate": "2021-10-15T07:00:00.000Z",
   "viewableDate": "2021-10-12T01:25:00.000Z",
   "developer": null,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "21140",
+      "name": "Amazing Storytelling",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2022-05-17T21:30:46.453Z",
+      "updated": "2023-08-22T14:02:04.254Z",
+      "status": "ACTIVE",
+      "referenceCount": 605,
+      "comment": ""
+    },
+    {
       "id": "21109",
       "name": "Great Boss Battles",
       "namespace": null,
@@ -59,7 +71,7 @@
       "created": "2022-05-17T18:56:51.047Z",
       "updated": "2023-08-03T18:31:17.357Z",
       "status": "ACTIVE",
-      "referenceCount": 273,
+      "referenceCount": 274,
       "comment": "From Ratings & Polls results."
     },
     {
@@ -107,7 +119,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18842,
+      "referenceCount": 18849,
       "comment": null
     },
     {
@@ -198,7 +210,5 @@
       "id": "95c62376d40a4778bd125a209d5907e4"
     }
   ],
-  "catalogNs": {
-    "name": "f541519f3d21457ba7dcf5b57f1014b2"
-  }
+  "catalogNs": null
 }

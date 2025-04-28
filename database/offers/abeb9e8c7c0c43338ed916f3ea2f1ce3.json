@@ -80,7 +80,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2023-08-23T01:02:46.275Z",
       "status": "ACTIVE",
-      "referenceCount": 5138,
+      "referenceCount": 5148,
       "comment": ""
     },
     {
@@ -104,7 +104,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2023-08-23T05:17:12.978Z",
       "status": "ACTIVE",
-      "referenceCount": 18842,
+      "referenceCount": 18849,
       "comment": null
     },
     {
@@ -203,7 +203,5 @@
       "id": "d084294b24ab4ee3ac41ed260a36c9af"
     }
   ],
-  "catalogNs": {
-    "name": "9de65f6db18c4757a84e639d9a3e5a97"
-  }
+  "catalogNs": null
 }
