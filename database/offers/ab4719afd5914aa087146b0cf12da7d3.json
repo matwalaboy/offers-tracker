@@ -83,7 +83,7 @@
       "created": "2022-05-17T21:16:58.023Z",
       "updated": "2023-08-22T10:58:47.680Z",
       "status": "ACTIVE",
-      "referenceCount": 323,
+      "referenceCount": 322,
       "comment": ""
     },
     {
@@ -155,7 +155,7 @@
       "created": "2022-05-17T21:27:42.043Z",
       "updated": "2023-08-17T19:40:36.201Z",
       "status": "ACTIVE",
-      "referenceCount": 148,
+      "referenceCount": 149,
       "comment": ""
     },
     {
@@ -167,21 +167,10 @@
       "created": "2022-05-17T21:29:17.831Z",
       "updated": "2023-08-22T10:58:47.687Z",
       "status": "ACTIVE",
-      "referenceCount": 709,
+      "referenceCount": 712,
       "comment": ""
     },
-    {
-      "id": "1203",
-      "name": "Multiplayer",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2024-03-28T21:49:29.573Z",
-      "status": "ACTIVE",
-      "referenceCount": 1846,
-      "comment": null
-    },
+    null,
     {
       "id": "21139",
       "name": "Amazing Characters",
@@ -191,7 +180,7 @@
       "created": "2022-05-17T21:30:04.563Z",
       "updated": "2023-08-22T10:58:47.673Z",
       "status": "ACTIVE",
-      "referenceCount": 659,
+      "referenceCount": 661,
       "comment": ""
     },
     {
@@ -215,21 +204,10 @@
       "created": "2022-05-17T21:31:30.352Z",
       "updated": "2023-08-22T20:28:22.857Z",
       "status": "ACTIVE",
-      "referenceCount": 684,
+      "referenceCount": 685,
       "comment": ""
     },
-    {
-      "id": "1080",
-      "name": "Survival",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2023-08-22T19:55:04.175Z",
-      "status": "ACTIVE",
-      "referenceCount": 763,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -275,7 +253,7 @@
       "created": "2022-05-17T21:03:45.609Z",
       "updated": "2023-08-22T21:49:10.904Z",
       "status": "ACTIVE",
-      "referenceCount": 516,
+      "referenceCount": 518,
       "comment": "From Ratings & Polls results."
     }
   ],
