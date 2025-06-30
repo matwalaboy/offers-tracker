@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "Horror",
+      "namespace": null,
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2025-06-25T02:49:32.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 832,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "Single Player",
@@ -57,7 +68,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19929,
+      "referenceCount": 19930,
       "comment": null
     },
     {

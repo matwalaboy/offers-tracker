@@ -95,21 +95,10 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5446,
+      "referenceCount": 5451,
       "comment": ""
     },
-    {
-      "id": "34567",
-      "name": "EA Play Included",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-03-08T21:32:07.244Z",
-      "updated": "2024-10-16T22:08:14.194Z",
-      "status": "ACTIVE",
-      "referenceCount": 70,
-      "comment": ""
-    },
+    null,
     {
       "id": "34568",
       "name": "EA Play Discount",
@@ -155,7 +144,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19929,
+      "referenceCount": 19930,
       "comment": null
     }
   ],

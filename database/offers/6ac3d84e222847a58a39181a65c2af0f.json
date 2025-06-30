@@ -32,30 +32,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "29088",
-      "name": "Online Multiplayer",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2023-06-19T16:23:12.748Z",
-      "updated": "2025-06-25T08:25:50.995Z",
-      "status": "ACTIVE",
-      "referenceCount": 2630,
-      "comment": ""
-    },
-    {
-      "id": "19847",
-      "name": "Achievements",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-02-23T20:19:16.824Z",
-      "updated": "2025-06-25T08:10:53.756Z",
-      "status": "ACTIVE",
-      "referenceCount": 5446,
-      "comment": ""
-    },
+    null,
+    null,
     {
       "id": "1080",
       "name": "Survival",
@@ -68,30 +46,8 @@
       "referenceCount": 1160,
       "comment": null
     },
-    {
-      "id": "22776",
-      "name": "Cross Platform",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2022-09-13T17:14:22.713Z",
-      "updated": "2025-06-25T08:25:50.103Z",
-      "status": "ACTIVE",
-      "referenceCount": 1250,
-      "comment": ""
-    },
-    {
-      "id": "1370",
-      "name": "Single Player",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2025-06-25T08:25:48.234Z",
-      "status": "ACTIVE",
-      "referenceCount": 11180,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -101,7 +57,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19929,
+      "referenceCount": 19930,
       "comment": null
     },
     {
@@ -125,7 +81,7 @@
       "created": "2019-10-11T02:43:42.533Z",
       "updated": "2025-06-25T08:25:49.469Z",
       "status": "ACTIVE",
-      "referenceCount": 4401,
+      "referenceCount": 4402,
       "comment": null
     }
   ],
