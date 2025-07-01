@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1088",
-      "name": "Turn-Based Strategy",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:02.267Z",
-      "updated": "2025-06-25T02:49:27.536Z",
-      "status": "ACTIVE",
-      "referenceCount": 269,
-      "comment": null
-    },
+    null,
     {
       "id": "29088",
       "name": "Online Multiplayer",
@@ -56,21 +45,10 @@
       "created": "2023-06-19T16:23:12.748Z",
       "updated": "2025-06-25T08:25:50.995Z",
       "status": "ACTIVE",
-      "referenceCount": 2630,
+      "referenceCount": 2631,
       "comment": ""
     },
-    {
-      "id": "1170",
-      "name": "Tower Defense",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T11:59:43.018Z",
-      "updated": "2025-06-25T02:49:29.776Z",
-      "status": "ACTIVE",
-      "referenceCount": 104,
-      "comment": null
-    },
+    null,
     {
       "id": "1299",
       "name": "Competitive",
@@ -92,7 +70,7 @@
       "created": "2022-09-13T17:14:22.713Z",
       "updated": "2025-06-25T08:25:50.103Z",
       "status": "ACTIVE",
-      "referenceCount": 1250,
+      "referenceCount": 1252,
       "comment": ""
     },
     {
@@ -116,7 +94,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 19930,
+      "referenceCount": 19952,
       "comment": null
     }
   ],
