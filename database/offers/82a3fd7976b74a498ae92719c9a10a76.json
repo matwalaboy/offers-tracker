@@ -53,10 +53,21 @@
       "created": "2022-07-07T16:11:08.589Z",
       "updated": "2025-06-25T08:10:54.765Z",
       "status": "ACTIVE",
-      "referenceCount": 2389,
+      "referenceCount": 2390,
       "comment": ""
     },
-    null,
+    {
+      "id": "1127",
+      "name": "Investigation",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2023-05-03T14:53:37.759Z",
+      "status": "ACTIVE",
+      "referenceCount": 69,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -78,7 +89,7 @@
       "created": "2022-02-23T20:19:16.824Z",
       "updated": "2025-06-25T08:10:53.756Z",
       "status": "ACTIVE",
-      "referenceCount": 5501,
+      "referenceCount": 5503,
       "comment": ""
     },
     {
@@ -102,7 +113,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20004,
+      "referenceCount": 20009,
       "comment": null
     },
     {
@@ -311,6 +322,6 @@
     }
   ],
   "catalogNs": {
-    "name": null
+    "name": "ff52981b1d9947978153c7a7f8bc6d90"
   }
 }

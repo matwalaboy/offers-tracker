@@ -50,18 +50,7 @@
       "referenceCount": 11180,
       "comment": null
     },
-    {
-      "id": "1259",
-      "name": "Storybook",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:00:27.083Z",
-      "updated": "2021-02-05T16:08:56.588Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "Windows",
@@ -71,7 +60,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20004,
+      "referenceCount": 20009,
       "comment": null
     },
     {
