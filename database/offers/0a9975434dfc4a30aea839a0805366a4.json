@@ -80,21 +80,10 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20040,
+      "referenceCount": 20046,
       "comment": null
     },
-    {
-      "id": "39070",
-      "name": "iOS",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-08-29T16:11:35.528Z",
-      "updated": "2025-06-25T08:35:20.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 759,
-      "comment": ""
-    },
+    null,
     {
       "id": "39071",
       "name": "Android",
