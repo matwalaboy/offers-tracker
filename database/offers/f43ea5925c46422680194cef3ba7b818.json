@@ -44,18 +44,7 @@
       "referenceCount": 224,
       "comment": null
     },
-    {
-      "id": "36825",
-      "name": "Future Games Show",
-      "namespace": null,
-      "aliases": [],
-      "operator": null,
-      "created": "2024-06-04T17:14:51.489Z",
-      "updated": "2024-07-15T19:02:13.912Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": ""
-    },
+    null,
     {
       "id": "1370",
       "name": "Single Player",
@@ -77,7 +66,7 @@
       "created": "2019-10-11T02:43:18.435Z",
       "updated": "2025-06-25T08:35:20.218Z",
       "status": "ACTIVE",
-      "referenceCount": 20067,
+      "referenceCount": 20083,
       "comment": null
     },
     {
